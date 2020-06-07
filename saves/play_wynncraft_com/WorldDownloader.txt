@@ -1,0 +1,12 @@
+#These settings are shared across an entire server.  If multiworld is enabled, they act as the default values for the individual world properties; otherwise, they are used directly.
+#Sun Mar 18 13:45:35 CET 2018
+Messages.enableAll=true
+Messages.REMOVE_ENTITY=false
+Messages.PLUGIN_CHANNEL_MESSAGE=false
+Messages.INFO=true
+LinkedWorlds=
+Messages.LOAD_TILE_ENTITY=false
+ServerName=play.wynncraft.com
+Messages.ON_WORLD_LOAD=false
+LastSaved=1521377135375
+Messages.SAVING=true
