@@ -1,0 +1,29 @@
+{
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2018-09-24 05:44:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2018-09-24 05:44:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-08-29 09:43:25 +0200",
+      "minecraft:mountains": "2018-08-29 09:43:40 +0200",
+      "minecraft:taiga": "2018-08-29 09:42:14 +0200",
+      "minecraft:taiga_hills": "2018-08-29 09:48:50 +0200",
+      "minecraft:birch_forest": "2018-09-24 05:47:44 +0200",
+      "minecraft:river": "2018-08-29 09:42:04 +0200",
+      "minecraft:wooded_mountains": "2018-08-29 09:48:44 +0200",
+      "minecraft:wooded_hills": "2018-08-29 09:42:06 +0200",
+      "minecraft:swamp": "2018-09-24 05:47:32 +0200",
+      "minecraft:plains": "2018-08-29 09:42:05 +0200"
+    },
+    "done": false
+  }
+}

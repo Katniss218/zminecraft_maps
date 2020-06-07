@@ -1,0 +1,29 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-06-07 10:24:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-06-07 10:24:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-06-07 10:24:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-06-07 10:24:33 +0200",
+      "minecraft:river": "2020-06-07 10:24:16 +0200",
+      "minecraft:plains": "2020-06-07 10:24:14 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}
