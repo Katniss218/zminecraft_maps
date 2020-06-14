@@ -1,0 +1,22 @@
+The King of Shadows Installation Instructions
+
+Please follow the instructions listed below to ensure you have OptiFine installed and are using the custom resource pack. If you do not do this then your game experience will be reduced!
+
+OptiFine
+
+    1) Install OptiFine - http://optifine.net/downloads
+    2) Click on the installer you just downloaded. This will then install the OptiFine for Minecraft and it will also create a profile in your Minecraft launcher called "OptiFine".
+    3) When ready to play our adventure map open up your Minecraft launcher and select the OptiFine profile. Once selected your should see something similar to "PLAY Minecraft 1.11.2-OptiFine_HD_U_C3" in the centre at the bottom of the launcher.
+
+IMPORTANT - Make sure that connected textures is enabled in Option ---> Video Settings ---> Quality
+
+Resource Pack
+The resource pack is included in the game save so if you are playing the adventure map in single player mode it will load for you automatically however if you are playing on a server then you will need to ensure that each person has the resource pack installed. You can download the resource pack from our downloads page:
+
+http://www.drobnovia.com/forum/forums/topic/1145-the-king-of-shadows-downloads/
+
+PLEASE NOTE - We would like to express our gratitude to the author of Conquest for allowing us to modify the resource pack for our adventure map and to the author of OptiFine:
+
+http://www.planetminecraft.com/texture_pack/conquest-32x32/
+
+http://optifine.net/home
