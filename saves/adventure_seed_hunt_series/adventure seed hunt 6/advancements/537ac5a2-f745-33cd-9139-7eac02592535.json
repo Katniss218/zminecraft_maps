@@ -1,0 +1,15 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle_edge": "2020-07-01 19:47:51 +0200",
+      "minecraft:forest": "2020-07-01 18:59:46 +0200",
+      "minecraft:desert": "2020-07-01 19:01:33 +0200",
+      "minecraft:birch_forest": "2020-07-01 19:42:05 +0200",
+      "minecraft:river": "2020-07-01 19:42:14 +0200",
+      "minecraft:wooded_hills": "2020-07-01 19:42:18 +0200",
+      "minecraft:plains": "2020-07-01 19:42:06 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2567
+}

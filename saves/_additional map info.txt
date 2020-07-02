@@ -1,0 +1,17 @@
+
+"Naszyjnik Lisy Umbert, Assasyn na cmentarzu w lesie" (2016?) was inspired by Kung Fu Panda 2.
+"płonące przeznaczenie - original" (2016) was heavily inspired by Kung Fu Panda 2.
+"Zmierzch Bogów" (2016) was inspired by Kung Fu Panda 2.
+
+
+"Mapa z Grian's housem, wieżą i mega tutorial roomem" was the first map that used terrain manipulation. It also had my "new" tutorial setup, only used once, on this map.
+"Mapa z Grian's housem, katedrą i cmentarzem" was the first map that used EXTENSIVE terrain manipulation.
+
+"Płonące Przeznaczenie v1.5" (2017/2018) was the direct predecessor to "Mroczna Klątwa". It was the map that turned my maps from CustomNPCs-oriented to vanilla-oriented.
+
+
+Aircraft map:
+
+Boeing 747 (large, ~200m scaled)
+Boeing 7107 (large, supersonic aircraft with a "hump" - first class cabin, 4 engines, IRL slightly smaller than B747)
+Boeing 71001 (very large, transsonic aircraft with a forward 50% of the fuselage being hinged and behaving like a droop nose. 6 engines, IRL bigger than A380)
