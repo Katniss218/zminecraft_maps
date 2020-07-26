@@ -1,0 +1,19 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:UNWANTED VILLAGE,x:-320,z:-427,y:130,enabled:true,red:0.0,green:0.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:>> SPAWN <<,x:-221,z:-212,y:63,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
+name:Starting village (wraps around),x:-227,z:-363,y:95,enabled:true,red:0.07058824,green:0.89411765,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Uncharted territory,x:-276,z:-480,y:79,enabled:true,red:0.9411765,green:0.43137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Mage house,x:-336,z:-394,y:125,enabled:true,red:0.039215688,green:0.93333334,blue:0.0,suffix:,world:,dimensions:overworld#
+name:passage to the mountains / mage,x:-332,z:-317,y:78,enabled:true,red:0.18431373,green:0.18431373,blue:0.18431373,suffix:,world:,dimensions:overworld#
+name:2 houses,x:-339,z:-463,y:70,enabled:true,red:0.90588236,green:0.9098039,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:wrecked ship (rebuild),x:-268,z:-194,y:75,enabled:true,red:0.8784314,green:0.85882354,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Tree,x:-235,z:-721,y:84,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:Second village (rebuild),x:-332,z:-819,y:89,enabled:true,red:0.101960786,green:0.9647059,blue:0.0,suffix:,world:,dimensions:overworld#
+name:passage,x:-283,z:-837,y:67,enabled:true,red:0.19215687,green:0.19215687,blue:0.19215687,suffix:,world:,dimensions:overworld#
+name:hideout,x:-275,z:-843,y:64,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Uncharted forest,x:-144,z:-675,y:100,enabled:true,red:0.9372549,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Bandit(?) Camp,x:-79,z:-432,y:79,enabled:true,red:0.92156863,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Awesome lake,x:-112,z:-535,y:76,enabled:true,red:0.18431373,green:0.18431373,blue:0.18431373,suffix:,world:,dimensions:overworld#
+name:passage to bandits,x:-24,z:-449,y:86,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#

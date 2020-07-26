@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> BAZA <<,x:166,z:719,y:89,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
+name:>> SPAWN <<,x:162,z:-38,y:73,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:>> TWIERDZA <<,x:504,z:2216,y:62,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#

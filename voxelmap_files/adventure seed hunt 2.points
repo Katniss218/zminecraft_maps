@@ -1,0 +1,21 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Interesting cave,x:754,z:-153,y:61,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:diamond,world:,dimensions:overworld#
+name:Clearing,x:68,z:-244,y:83,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:diamond,world:,dimensions:overworld#
+name:Cliff,x:-146,z:-28,y:74,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:diamond,world:,dimensions:overworld#
+name:Defensible place,x:245,z:-278,y:100,enabled:true,red:0.19607843,green:0.19607843,blue:0.19607843,suffix:diamond,world:,dimensions:overworld#
+name:Flowery Cove,x:362,z:-13,y:73,enabled:true,red:0.20392157,green:0.20392157,blue:0.20392157,suffix:,world:,dimensions:overworld#
+name:Interesting coastline,x:389,z:257,y:92,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Wall segment,x:-190,z:-253,y:79,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:,world:,dimensions:overworld#
+name:Castle Cove,x:-5,z:164,y:83,enabled:true,red:0.18431373,green:0.18431373,blue:0.18431373,suffix:,world:,dimensions:overworld#
+name:passage,x:257,z:-376,y:86,enabled:true,red:0.1882353,green:0.1882353,blue:0.1882353,suffix:,world:,dimensions:overworld#
+name:159m peak,x:312,z:-660,y:159,enabled:true,red:0.20784314,green:0.20784314,blue:0.20784314,suffix:,world:,dimensions:overworld#
+name:Plateau,x:290,z:-468,y:91,enabled:true,red:0.1764706,green:0.1764706,blue:0.1764706,suffix:,world:,dimensions:overworld#
+name:River Loop,x:384,z:-216,y:70,enabled:true,red:0.18431373,green:0.18431373,blue:0.18431373,suffix:,world:,dimensions:overworld#
+name:Flanking tower(?),x:229,z:-373,y:121,enabled:true,red:0.1882353,green:0.1882353,blue:0.1882353,suffix:,world:,dimensions:overworld#
+name:Flanking tower (?),x:289,z:-353,y:121,enabled:true,red:0.1764706,green:0.1764706,blue:0.1764706,suffix:,world:,dimensions:overworld#
+name:Hidden something in the castle,x:253,z:-204,y:76,enabled:true,red:0.1764706,green:0.1764706,blue:0.1764706,suffix:,world:,dimensions:overworld#
+name:passage,x:-202,z:-50,y:86,enabled:true,red:0.1882353,green:0.1882353,blue:0.1882353,suffix:,world:,dimensions:overworld#
+name:Latest Death,x:6,z:7,y:142,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:overworld#
+name:>> SPAWN <<,x:93,z:-79,y:65,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#

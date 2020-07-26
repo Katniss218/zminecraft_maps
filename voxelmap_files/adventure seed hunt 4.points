@@ -1,0 +1,15 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:142,z:92,y:71,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:Shrouded valley,x:177,z:292,y:81,enabled:true,red:0.19215687,green:0.19215687,blue:0.19215687,suffix:,world:,dimensions:overworld#
+name:Mysterious village,x:296,z:261,y:94,enabled:true,red:0.21176471,green:0.21568628,blue:0.21176471,suffix:house,world:,dimensions:overworld#
+name:UNWANTED ICEBERGS,x:-70,z:-420,y:82,enabled:true,red:0.0,green:0.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Shrouded passages,x:85,z:-59,y:76,enabled:true,red:0.19215687,green:0.19215687,blue:0.19215687,suffix:,world:,dimensions:overworld#
+name:Shrouded passages,x:414,z:533,y:76,enabled:true,red:0.19607843,green:0.19607843,blue:0.19607843,suffix:,world:,dimensions:overworld#
+name:UNWANTED JUNGLE,x:638,z:236,y:115,enabled:true,red:0.003921569,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Interesting lake,x:577,z:633,y:88,enabled:true,red:0.19215687,green:0.19215687,blue:0.19215687,suffix:,world:,dimensions:overworld#
+name:Interesting clearings,x:628,z:732,y:87,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Interesting slopes,x:402,z:-9,y:87,enabled:true,red:0.19607843,green:0.19607843,blue:0.19607843,suffix:,world:,dimensions:overworld#
+name:Shrouded passages,x:0,z:-85,y:79,enabled:true,red:0.20392157,green:0.20392157,blue:0.20392157,suffix:,world:,dimensions:overworld#
+name:Hidded-away area,x:29,z:-47,y:79,enabled:true,red:0.19215687,green:0.19215687,blue:0.19215687,suffix:,world:,dimensions:overworld#

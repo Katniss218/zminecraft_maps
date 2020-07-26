@@ -1,0 +1,18 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:The Three Pillars,x:-279,z:409,y:90,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:The Cove,x:-6,z:550,y:67,enabled:true,red:0.0,green:0.96862745,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Villagespot #1,x:54,z:331,y:70,enabled:true,red:0.003921569,green:0.4745098,blue:0.93333334,suffix:,world:,dimensions:overworld#
+name:Vine Cave,x:221,z:80,y:65,enabled:true,red:0.9137255,green:0.92156863,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Hilly terrain,x:448,z:-522,y:84,enabled:true,red:0.0,green:0.53333336,blue:0.9372549,suffix:,world:,dimensions:overworld#
+name:Cool!!!!! Cave,x:840,z:-548,y:65,enabled:true,red:0.007843138,green:0.43529412,blue:0.9372549,suffix:,world:,dimensions:overworld#
+name:Cliffs,x:494,z:-1561,y:101,enabled:true,red:0.0,green:0.4627451,blue:0.91764706,suffix:,world:,dimensions:overworld#
+name:Mountain Pass,x:199,z:-1194,y:89,enabled:true,red:0.007843138,green:0.41960785,blue:0.90588236,suffix:,world:,dimensions:overworld#
+name:The Three Brothers,x:-1023,z:108,y:81,enabled:true,red:0.003921569,green:0.9490196,blue:0.03137255,suffix:,world:,dimensions:overworld#
+name:Temple-Boat combo,x:-1155,z:1332,y:74,enabled:true,red:0.9607843,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Villagespot #2 (v),x:-165,z:1769,y:80,enabled:true,red:0.003921569,green:0.5058824,blue:0.8901961,suffix:,world:,dimensions:overworld#
+name:Cove 2,x:225,z:1362,y:63,enabled:true,red:0.007843138,green:0.48235294,blue:0.9411765,suffix:,world:,dimensions:overworld#
+name:interesting landscape,x:73,z:1431,y:78,enabled:true,red:0.007843138,green:0.33333334,blue:0.9137255,suffix:,world:,dimensions:overworld#
+name:Lone village,x:305,z:643,y:77,enabled:true,red:0.007843138,green:0.9843137,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Cliffs,x:1043,z:-174,y:101,enabled:true,red:0.011764706,green:0.44705883,blue:0.9529412,suffix:,world:,dimensions:overworld#

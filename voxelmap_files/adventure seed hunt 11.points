@@ -1,0 +1,5 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Uncharted forest,x:1035,z:450,y:88,enabled:true,red:0.9490196,green:0.52156866,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Plateau,x:846,z:518,y:85,enabled:true,red:0.1882353,green:0.1882353,blue:0.1882353,suffix:,world:,dimensions:overworld#

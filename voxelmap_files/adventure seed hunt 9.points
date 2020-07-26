@@ -1,0 +1,17 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:99,z:167,y:71,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:Cliffs / interesting terrain,x:-38,z:711,y:82,enabled:true,red:0.1764706,green:0.1764706,blue:0.1764706,suffix:,world:,dimensions:overworld#
+name:Village(?),x:-166,z:328,y:90,enabled:true,red:0.19215687,green:0.19215687,blue:0.19215687,suffix:,world:,dimensions:overworld#
+name:Cliffs,x:-104,z:565,y:85,enabled:true,red:0.18431373,green:0.18431373,blue:0.18431373,suffix:,world:,dimensions:overworld#
+name:Cave entrance,x:209,z:567,y:75,enabled:true,red:0.9372549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Forest plateau,x:177,z:556,y:91,enabled:true,red:0.20784314,green:0.20784314,blue:0.20784314,suffix:,world:,dimensions:overworld#
+name:House,x:-253,z:606,y:86,enabled:true,red:0.007843138,green:0.9529412,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:passage,x:-242,z:639,y:86,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
+name:house,x:-240,z:594,y:89,enabled:true,red:0.007843138,green:0.9529412,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Shed,x:-254,z:635,y:97,enabled:true,red:0.9137255,green:0.92156863,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Hard to get house,x:-215,z:653,y:97,enabled:true,red:0.050980393,green:0.99607843,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Farms,x:-256,z:574,y:77,enabled:true,red:0.84313726,green:0.85490197,blue:0.0,suffix:,world:,dimensions:overworld#
+name:house in mountain,x:-234,z:632,y:96,enabled:true,red:0.16862746,green:0.9372549,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:House in mountain,x:-249,z:651,y:75,enabled:true,red:0.03529412,green:0.99607843,blue:0.03529412,suffix:,world:,dimensions:overworld#

@@ -1,0 +1,13 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Willa,x:-260,z:334,y:68,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Magazyn,x:-261,z:303,y:71,enabled:true,red:0.86503786,green:0.5474796,blue:0.9254632,suffix:,world:,dimensions:overworld#
+name:Szklarnia,x:-237,z:304,y:73,enabled:true,red:0.5005754,green:0.21519864,blue:0.06083256,suffix:,world:,dimensions:overworld#
+name:SPAWN,x:-165,z:256,y:70,enabled:true,red:0.67488,green:0.26389813,blue:0.37010896,suffix:,world:,dimensions:overworld#
+name:Œwi¹tynia,x:-266,z:441,y:86,enabled:true,red:0.89138895,green:0.4124416,blue:0.36660028,suffix:,world:,dimensions:overworld#
+name:Stacja,x:-282,z:408,y:85,enabled:true,red:0.30070555,green:0.19409132,blue:0.22203684,suffix:,world:,dimensions:overworld#
+name:Stacja,x:-369,z:409,y:78,enabled:true,red:0.82625204,green:0.35362196,blue:0.30992544,suffix:,world:,dimensions:overworld#
+name:Dom-Spawn,x:-472,z:323,y:72,enabled:true,red:0.040482044,green:0.76751965,blue:0.11813694,suffix:,world:,dimensions:overworld#
+name:Kopalnia,x:-321,z:234,y:68,enabled:true,red:0.8501907,green:0.92560107,blue:0.61000484,suffix:,world:,dimensions:overworld#
+name:Port,x:-297,z:341,y:67,enabled:true,red:0.06809306,green:0.06754255,blue:0.7120196,suffix:,world:,dimensions:overworld#

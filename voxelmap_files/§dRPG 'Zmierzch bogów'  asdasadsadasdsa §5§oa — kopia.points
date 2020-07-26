@@ -1,0 +1,20 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Latest Death,x:-933,z:516,y:107,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:overworld#
+name:Most,x:-752,z:776,y:77,enabled:true,red:0.074744165,green:0.7270475,blue:0.67562795,suffix:,world:,dimensions:overworld#
+name:M³yn,x:-776,z:677,y:81,enabled:true,red:0.46564823,green:0.93314445,blue:0.6858157,suffix:,world:,dimensions:overworld#
+name:kryjówka bandytów,x:-844,z:673,y:70,enabled:true,red:0.36296088,green:0.27764142,blue:0.39597583,suffix:,world:,dimensions:overworld#
+name:Sklep,x:-877,z:531,y:66,enabled:true,red:0.30006194,green:0.46702927,blue:0.5586742,suffix:,world:,dimensions:overworld#
+name:Chata Kevin'a (g³ówna),x:-883,z:510,y:73,enabled:true,red:0.97409254,green:0.6886654,blue:0.47688723,suffix:,world:,dimensions:overworld#
+name:Zbrojownia,x:-899,z:513,y:67,enabled:true,red:0.48541015,green:0.94516873,blue:0.27223969,suffix:,world:,dimensions:overworld#
+name:"Twoja" chata,x:-923,z:472,y:76,enabled:true,red:0.9843072,green:0.43935072,blue:0.67881864,suffix:,world:,dimensions:overworld#
+name:Statek~comma~ którym przyp³yn¹³eœ,x:-1025,z:457,y:75,enabled:true,red:0.25477308,green:0.47919035,blue:0.68599105,suffix:,world:,dimensions:overworld#
+name:Portowe targowisko,x:-1005,z:450,y:66,enabled:true,red:0.113392055,green:0.85329515,blue:0.45196813,suffix:,world:,dimensions:overworld#
+name:Dom,x:-900,z:500,y:67,enabled:true,red:0.76224995,green:0.20942986,blue:0.04703778,suffix:,world:,dimensions:overworld#
+name:Jaskinia Kevin,x:-846,z:509,y:76,enabled:true,red:0.88999975,green:0.035463035,blue:0.7452968,suffix:,world:,dimensions:overworld#
+name:Dziennik Kevina,x:-836,z:491,y:69,enabled:true,red:0.010064542,green:0.7705067,blue:0.9247724,suffix:,world:,dimensions:overworld#
+name:Szopa / magazynek,x:-907,z:457,y:75,enabled:true,red:0.7273124,green:0.80124354,blue:0.78292906,suffix:,world:,dimensions:overworld#
+name:Morgen(?),x:-922,z:475,y:79,enabled:true,red:0.6610214,green:0.5545004,blue:0.6379295,suffix:,world:,dimensions:overworld#
+name:Mini-drzewka,x:-830,z:638,y:67,enabled:true,red:0.2050314,green:0.84976953,blue:0.7672308,suffix:,world:,dimensions:overworld#
+name:Spawn,x:450,z:-207,y:96,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_end#

@@ -1,0 +1,27 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Main Village,x:-326,z:-418,y:95,enabled:true,red:0.011764706,green:0.99607843,blue:0.015686275,suffix:house,world:,dimensions:overworld#
+name:>> SPAWN <<,x:-72,z:-69,y:66,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:Latest Death,x:-267,z:149,y:87,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:overworld#
+name:The Labirynth,x:-435,z:-261,y:83,enabled:true,red:0.1882353,green:0.1882353,blue:0.1882353,suffix:,world:,dimensions:overworld#
+name:Fishing Hut(?),x:-132,z:-316,y:77,enabled:true,red:0.19215687,green:0.19215687,blue:0.19215687,suffix:,world:,dimensions:overworld#
+name:passage,x:-205,z:-337,y:74,enabled:true,red:0.19607843,green:0.19607843,blue:0.19607843,suffix:,world:,dimensions:overworld#
+name:Interesting place,x:100,z:-399,y:99,enabled:true,red:0.19215687,green:0.19215687,blue:0.19215687,suffix:,world:,dimensions:overworld#
+name:The Pillars,x:154,z:-722,y:95,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:Hideout,x:-573,z:-413,y:75,enabled:true,red:0.03137255,green:0.9098039,blue:0.0,suffix:,world:,dimensions:overworld#
+name:passage,x:-583,z:-437,y:74,enabled:true,red:0.20392157,green:0.20392157,blue:0.20392157,suffix:,world:,dimensions:overworld#
+name:Forces of Evil,x:-573,z:-114,y:129,enabled:true,red:0.9607843,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:portal/shrine/etc,x:-572,z:-268,y:89,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Flanking towers(?),x:-497,z:4,y:102,enabled:true,red:0.21176471,green:0.21568628,blue:0.21176471,suffix:,world:,dimensions:overworld#
+name:Farms,x:-157,z:-502,y:85,enabled:true,red:0.003921569,green:0.9764706,blue:0.0627451,suffix:,world:,dimensions:overworld#
+name:UNWANTED,x:115,z:-537,y:74,enabled:true,red:0.0,green:0.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Uncharted Forest,x:-451,z:-511,y:83,enabled:true,red:0.9529412,green:0.4509804,blue:0.0,suffix:,world:,dimensions:overworld#
+name:UNWANTED,x:-745,z:-665,y:78,enabled:true,red:0.0,green:0.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Natural defences,x:-523,z:-154,y:105,enabled:true,red:0.18431373,green:0.18431373,blue:0.18431373,suffix:,world:,dimensions:overworld#
+name:dead body,x:-418,z:-425,y:71,enabled:true,red:0.93333334,green:0.49803922,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:passage,x:-399,z:-399,y:80,enabled:true,red:0.18431373,green:0.18431373,blue:0.18431373,suffix:,world:,dimensions:overworld#
+name:uncharted passage 1,x:-554,z:-391,y:87,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
+name:uncharted passage 2,x:-599,z:-382,y:86,enabled:true,red:0.1764706,green:0.1764706,blue:0.1764706,suffix:,world:,dimensions:overworld#
+name:natural defences,x:-475,z:-360,y:86,enabled:true,red:0.21176471,green:0.21568628,blue:0.21176471,suffix:,world:,dimensions:overworld#
+name:Entrance 3(?),x:-490,z:-36,y:76,enabled:true,red:0.18431373,green:0.18431373,blue:0.18431373,suffix:,world:,dimensions:overworld#

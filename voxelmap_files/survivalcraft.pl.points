@@ -1,0 +1,7 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:adsa,x:-56,z:858,y:68,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:59 iron~comma~ 23 gold~comma~ 1 eme~comma~ misc,x:1051,z:519,y:64,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:64 chest,x:4661,z:3119,y:46,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:SPAWN,x:0,z:-14,y:67,enabled:true,red:0.24083859,green:0.1986571,blue:0.21467578,suffix:,world:,dimensions:overworld#

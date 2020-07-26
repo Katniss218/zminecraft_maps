@@ -1,0 +1,8 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:wynncraft halloween adventure,x:236,z:-485,y:81,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Decrepit sewers,x:-921,z:-1887,y:63,enabled:true,red:0.879647,green:0.8594035,blue:0.86790997,suffix:,world:,dimensions:overworld#
+name:Katoa Ranch,x:-810,z:-1907,y:83,enabled:true,red:0.7828968,green:0.99507374,blue:0.8382703,suffix:,world:,dimensions:overworld#
+name:mines,x:771,z:-1295,y:26,enabled:true,red:0.18141365,green:0.6983825,blue:0.70992297,suffix:,world:,dimensions:overworld#
+name:Ragni,x:-877,z:-1576,y:81,enabled:true,red:0.007843138,green:0.9843137,blue:0.011764706,suffix:house,world:,dimensions:overworld#

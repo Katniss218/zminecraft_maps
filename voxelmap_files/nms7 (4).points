@@ -1,0 +1,5 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:157,z:-41,y:74,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:BAZA,x:173,z:717,y:104,enabled:true,red:0.007843138,green:0.92941177,blue:0.007843138,suffix:,world:,dimensions:overworld#

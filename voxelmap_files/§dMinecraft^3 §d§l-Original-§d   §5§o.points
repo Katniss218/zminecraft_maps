@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:dom~comma~ spawn,x:6,z:-57,y:81,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:sad,x:-254,z:-117,y:106,enabled:true,red:0.7419872,green:0.40960342,blue:0.43362123,suffix:,world:,dimensions:overworld#
+name:baza,x:-1011,z:-385,y:84,enabled:true,red:0.009200096,green:0.8950177,blue:0.88957185,suffix:,world:,dimensions:overworld#

@@ -1,0 +1,25 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Excavation site,x:1036,z:-158,y:69,enabled:true,red:0.0,green:0.92156863,blue:0.05882353,suffix:,world:,dimensions:overworld#
+name:Excavation sites,x:1076,z:-177,y:72,enabled:true,red:0.003921569,green:0.9490196,blue:0.043137256,suffix:,world:,dimensions:overworld#
+name:huge chasm,x:1280,z:-263,y:85,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Little coastal town (rebuild),x:1195,z:-813,y:111,enabled:true,red:0.18431373,green:0.18431373,blue:0.18431373,suffix:,world:,dimensions:overworld#
+name:Forest,x:1188,z:-1042,y:91,enabled:true,red:0.8392157,green:0.8509804,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Cliffs,x:1174,z:-946,y:87,enabled:true,red:0.44503093,green:0.7253071,blue:0.26964337,suffix:,world:,dimensions:overworld#
+name:passage,x:854,z:-486,y:76,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Evil hideout,x:575,z:-1159,y:112,enabled:true,red:0.9647059,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cool coastal area,x:519,z:-751,y:124,enabled:true,red:0.1882353,green:0.1882353,blue:0.1882353,suffix:,world:,dimensions:overworld#
+name:>> SPAWN <<,x:44,z:61,y:66,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
+name:chasm,x:-71,z:-1176,y:80,enabled:true,red:0.18431373,green:0.18431373,blue:0.18431373,suffix:,world:,dimensions:overworld#
+name:Long Island,x:81,z:-1058,y:82,enabled:true,red:0.22745098,green:0.22745098,blue:0.22745098,suffix:,world:,dimensions:overworld#
+name:Town,x:460,z:-612,y:87,enabled:true,red:0.007843138,green:0.95686275,blue:0.007843138,suffix:house,world:,dimensions:overworld#
+name:UNWANTED CITY,x:1140,z:-364,y:89,enabled:true,red:0.0,green:0.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:UNWANTED CITY,x:705,z:-366,y:98,enabled:true,red:0.0,green:0.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Interesting place,x:786,z:-524,y:78,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:REPLACE WITH OCEAN,x:1121,z:-1316,y:69,enabled:true,red:0.0,green:0.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:bridge,x:589,z:-526,y:74,enabled:true,red:0.1882353,green:0.1882353,blue:0.1882353,suffix:,world:,dimensions:overworld#
+name:Little excavation town(?),x:711,z:-425,y:100,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:house,world:,dimensions:overworld#
+name:Tower,x:524,z:-584,y:85,enabled:true,red:0.0,green:0.91764706,blue:0.05882353,suffix:,world:,dimensions:overworld#
+name:Farms,x:378,z:-563,y:107,enabled:true,red:0.8901961,green:0.87058824,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:HUGE mountains,x:786,z:231,y:157,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#

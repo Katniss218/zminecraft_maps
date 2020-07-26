@@ -1,0 +1,10 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:kryjówka z awatara z ³ukiem,x:-315,z:186,y:78,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:setty,x:-264,z:231,y:74,enabled:true,red:0.07931805,green:0.6515234,blue:0.5907175,suffix:,world:,dimensions:overworld#
+name:Czarne setty,x:-202,z:274,y:67,enabled:true,red:0.007843138,green:0.9490196,blue:0.06666667,suffix:,world:,dimensions:overworld#
+name:wiêcej settów,x:-221,z:253,y:75,enabled:true,red:0.07172656,green:0.90574646,blue:0.90876865,suffix:,world:,dimensions:overworld#
+name:Latest Death,x:-265,z:237,y:83,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:overworld#
+name:>> SPAWN <<,x:-199,z:283,y:64,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:formation on the icon,x:-163,z:216,y:75,enabled:true,red:0.033683956,green:0.23330587,blue:0.5601651,suffix:,world:,dimensions:overworld#

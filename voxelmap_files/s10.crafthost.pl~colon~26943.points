@@ -1,0 +1,57 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:8 diax~comma~ 6 gold~comma~ 16 gp~comma~ lapis,x:-371,z:526,y:65,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:asda,x:1539,z:-1215,y:77,enabled:true,red:0.11826557,green:0.8861539,blue:0.6691878,suffix:,world:,dimensions:overworld#
+name:2 tnt~comma~ 4 eme~comma~ misc,x:1525,z:-1201,y:62,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:dungeon treasure,x:-517,z:1025,y:75,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Ocean Monument,x:-1452,z:81,y:62,enabled:true,red:0.007843138,green:0.8980392,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Ocean Monument,x:-1841,z:97,y:62,enabled:true,red:0.06666667,green:0.91764706,blue:0.0,suffix:,world:,dimensions:overworld#
+name:sqrwiel,x:-3476,z:-153,y:67,enabled:true,red:0.28581893,green:0.54101735,blue:0.6561231,suffix:,world:,dimensions:overworld#
+name:misc,x:-3173,z:-109,y:63,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:sQrwiel,x:-3469,z:-158,y:42,enabled:true,red:0.8980392,green:0.9019608,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Main,x:1236,z:-817,y:73,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:record,world:,dimensions:overworld#
+name:mushroom island,x:1381,z:-3,y:70,enabled:true,red:0.23206842,green:0.009816349,blue:0.03202045,suffix:,world:,dimensions:overworld#
+name:26 iron~comma~ 7 eme~comma~ small food,x:709,z:1697,y:79,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Samsung130,x:-102,z:2900,y:26,enabled:true,red:0.92156863,green:0.87058824,blue:0.0,suffix:,world:,dimensions:overworld#
+name:74 iron~comma~ 30 gold~comma~ 17 diax,x:160,z:-1164,y:76,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:szalp,x:2868,z:1177,y:70,enabled:true,red:0.2832284,green:0.026053846,blue:0.14923471,suffix:,world:,dimensions:overworld#
+name:TeenageFall2,x:3057,z:141,y:72,enabled:true,red:0.08600128,green:0.7920682,blue:0.13567287,suffix:,world:,dimensions:overworld#
+name:LooneyBugs,x:-1519,z:-2888,y:7,enabled:true,red:0.8784314,green:0.85882354,blue:0.0,suffix:,world:,dimensions:overworld#
+name:iron set~comma~ pow4~comma~ 60 arrow,x:-479,z:-3624,y:63,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:100 wood~comma~ ench mats,x:-1967,z:-2808,y:70,enabled:true,red:0.9882353,green:0.9882353,blue:0.9882353,suffix:diamond,world:,dimensions:overworld#
+name:G~colon~ RET,x:4955,z:-4937,y:62,enabled:true,red:0.99215686,green:0.015686275,blue:0.011764706,suffix:skull,world:,dimensions:overworld#
+name:elytra~comma~ very good set,x:2243,z:-3540,y:61,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:EDC,x:-2193,z:-1576,y:123,enabled:true,red:0.6939017,green:0.53079563,blue:0.966725,suffix:,world:,dimensions:the_end#
+name:asda,x:636,z:-2246,y:64,enabled:true,red:0.95686275,green:0.90588236,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:39 iron~comma~ 11 gold~comma~ misc~comma~ iron pic,x:1293,z:-996,y:63,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:iron set~comma~ 16 diax~comma~ food~comma~ misc,x:-345,z:-1380,y:67,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:14 gp~comma~ sweedgeI~comma~ dung items,x:-370,z:-1382,y:72,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:64 cobblestone,x:-1150,z:-1093,y:71,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:jip4,x:-3675,z:-4624,y:66,enabled:true,red:0.92156863,green:0.87058824,blue:0.0,suffix:,world:,dimensions:overworld#
+name:4/3/M buty~comma~ elytra~comma~ set,x:-4081,z:-4088,y:75,enabled:true,red:0.9882353,green:0.9882353,blue:0.9882353,suffix:diamond,world:,dimensions:overworld#
+name:G~colon~ OZE,x:-1658,z:-4408,y:64,enabled:true,red:0.99215686,green:0.011764706,blue:0.007843138,suffix:skull,world:,dimensions:overworld#
+name:ice spikes,x:983,z:888,y:67,enabled:true,red:0.19902945,green:0.7792562,blue:0.82873476,suffix:,world:,dimensions:overworld#
+name:Wodospad,x:697,z:1705,y:93,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:ads,x:-1257,z:-1522,y:65,enabled:true,red:0.99341,green:0.4646843,blue:0.48494017,suffix:,world:,dimensions:overworld#
+name:128 arrow~comma~ 32 pork,x:-2336,z:2490,y:64,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:FOOD~comma~ 60 diax~comma~ 14 books~comma~ ebooks,x:-3466,z:3593,y:58,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Ocean Monument,x:-2920,z:3312,y:63,enabled:true,red:0.59755605,green:0.36219144,blue:0.17684758,suffix:,world:,dimensions:overworld#
+name:asda,x:-2531,z:1039,y:70,enabled:true,red:0.84218776,green:0.969854,blue:0.6463482,suffix:,world:,dimensions:overworld#
+name:Avalon3232(?),x:-3051,z:1239,y:63,enabled:true,red:0.30090827,green:0.4034717,blue:0.41668278,suffix:,world:,dimensions:overworld#
+name:Szyszka_Samson~comma~ Detbehum,x:-3792,z:1024,y:69,enabled:true,red:0.95686275,green:0.90588236,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:mending klata iron~comma~ 20 obsa~comma~ ep,x:-4033,z:-159,y:65,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:bottle ench~comma~ diax pick~comma~ misc,x:-4927,z:654,y:56,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:19 diax~comma~ sharp III sw~comma~ set,x:1394,z:2590,y:54,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:sQrwiel,x:3160,z:-462,y:6,enabled:true,red:0.85882354,green:0.84313726,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:G~colon~ Elo,x:-2771,z:-3945,y:76,enabled:true,red:0.9882353,green:0.015686275,blue:0.0,suffix:skull,world:,dimensions:overworld#
+name:G~colon~ RMTB,x:3156,z:-467,y:77,enabled:true,red:0.95686275,green:0.03137255,blue:0.003921569,suffix:skull,world:,dimensions:overworld#
+name:ads,x:-650,z:0,y:71,enabled:true,red:0.98064274,green:0.65505826,blue:0.61581594,suffix:,world:,dimensions:overworld#
+name:128 iron~comma~ diax pick~comma~ 10 meat,x:-2277,z:-859,y:61,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Ocean Monument,x:-3423,z:-966,y:63,enabled:true,red:0.1254902,green:0.9098039,blue:0.0,suffix:,world:,dimensions:overworld#
+name:52 diax~comma~ 64 irton~comma~ 64 slmb,x:-4917,z:28,y:62,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:LooneyBugs,x:-3735,z:-721,y:6,enabled:true,red:0.8862745,green:0.8862745,blue:0.0,suffix:,world:,dimensions:overworld#
+name:iron set~comma~ 25 obs~comma~ ENCHANT28,x:136,z:1909,y:69,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:record,world:,dimensions:overworld#
+name:AFK FARMER,x:-2646,z:1614,y:46,enabled:true,red:0.7247147,green:0.5659883,blue:0.7541009,suffix:,world:,dimensions:overworld#
+name:G~colon~ PWR,x:33,z:747,y:64,enabled:true,red:0.94509804,green:0.003921569,blue:0.0,suffix:skull,world:,dimensions:overworld#
+name:sharp I~comma~ iron set ench~comma~ 7 eme,x:1805,z:2158,y:66,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#

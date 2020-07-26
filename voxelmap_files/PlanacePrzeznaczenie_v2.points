@@ -1,0 +1,40 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Obóz Bandytów,x:220,z:39,y:67,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Setariff,x:660,z:-57,y:79,enabled:true,red:0.007843138,green:1.0,blue:0.07450981,suffix:house,world:,dimensions:the_nether#overworld#
+name:Port Setariff,x:668,z:-148,y:57,enabled:true,red:0.015686275,green:1.0,blue:0.08235294,suffix:,world:,dimensions:overworld#
+name:Thaaris,x:71,z:26,y:75,enabled:true,red:0.02745098,green:1.0,blue:0.07058824,suffix:house,world:,dimensions:the_nether#overworld#
+name:Cemetery,x:57,z:112,y:63,enabled:true,red:0.93333334,green:0.96862745,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Nekromanta Skoll,x:27,z:141,y:67,enabled:true,red:0.9607843,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Market #1,x:123,z:3,y:57,enabled:true,red:0.09019608,green:0.99607843,blue:0.015686275,suffix:,world:,dimensions:overworld#
+name:Market #2,x:110,z:3,y:57,enabled:true,red:0.02745098,green:1.0,blue:0.07058824,suffix:,world:,dimensions:overworld#
+name:Market #3 (Big),x:103,z:16,y:60,enabled:true,red:0.023529412,green:0.99607843,blue:0.02745098,suffix:,world:,dimensions:overworld#
+name:Church thing,x:15,z:38,y:68,enabled:true,red:0.015686275,green:1.0,blue:0.043137256,suffix:,world:,dimensions:overworld#
+name:Your House,x:122,z:23,y:72,enabled:true,red:0.007843138,green:0.9843137,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Your Forge Shed,x:131,z:41,y:74,enabled:true,red:0.007843138,green:0.95686275,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Ruined Houses,x:-65,z:-72,y:69,enabled:true,red:0.98039216,green:0.9490196,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Warehouse / Barn / Stables,x:134,z:-32,y:59,enabled:true,red:0.03529412,green:0.99607843,blue:0.03529412,suffix:,world:,dimensions:overworld#
+name:Dom burmistrza,x:7,z:69,y:75,enabled:true,red:0.003921569,green:1.0,blue:0.03137255,suffix:,world:,dimensions:overworld#
+name:Dom,x:111,z:-54,y:62,enabled:true,red:0.011764706,green:0.99607843,blue:0.015686275,suffix:,world:,dimensions:overworld#
+name:Dom,x:114,z:-36,y:62,enabled:true,red:0.023529412,green:1.0,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:Dom Astrid,x:107,z:-13,y:60,enabled:true,red:0.007843138,green:0.99607843,blue:0.03529412,suffix:,world:,dimensions:overworld#
+name:Pelem,x:1276,z:-409,y:73,enabled:true,red:0.043137256,green:0.98039216,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Cytadela,x:620,z:-77,y:75,enabled:true,red:0.003921569,green:0.96862745,blue:0.0627451,suffix:house,world:,dimensions:the_nether#overworld#
+name:Don¿on,x:601,z:-102,y:75,enabled:true,red:0.007843138,green:0.95686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Farmer #1 / House + Barn,x:493,z:-75,y:58,enabled:true,red:0.003921569,green:0.95686275,blue:0.05882353,suffix:,world:,dimensions:overworld#
+name:Farmer #2 / Windmill,x:440,z:-166,y:66,enabled:true,red:0.003921569,green:0.9647059,blue:0.039215688,suffix:,world:,dimensions:overworld#
+name:Spichlerz,x:613,z:-24,y:70,enabled:true,red:0.0,green:0.972549,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Barracks,x:635,z:-62,y:72,enabled:true,red:0.003921569,green:0.99215686,blue:0.047058824,suffix:,world:,dimensions:overworld#
+name:Archery Range,x:635,z:-102,y:73,enabled:true,red:0.0,green:0.9764706,blue:0.043137256,suffix:,world:,dimensions:overworld#
+name:Barracks,x:588,z:-45,y:73,enabled:true,red:0.02745098,green:1.0,blue:0.07058824,suffix:,world:,dimensions:overworld#
+name:Military Stables,x:609,z:-42,y:73,enabled:true,red:0.007843138,green:1.0,blue:0.05490196,suffix:,world:,dimensions:overworld#
+name:Cathedral,x:719,z:-109,y:73,enabled:true,red:0.003921569,green:0.9843137,blue:0.043137256,suffix:,world:,dimensions:overworld#
+name:Market thing,x:599,z:-79,y:71,enabled:true,red:0.02745098,green:1.0,blue:0.07058824,suffix:,world:,dimensions:overworld#
+name:Thoriana,x:250,z:-1206,y:110,enabled:true,red:0.003921569,green:1.0,blue:0.07058824,suffix:house,world:,dimensions:the_nether#overworld#
+name:The Great Library,x:252,z:-1330,y:116,enabled:true,red:0.0,green:0.96862745,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Berg,x:-399,z:-1670,y:110,enabled:true,red:0.94509804,green:0.89411765,blue:0.0,suffix:house,world:,dimensions:the_nether#overworld#
+name:Œwi¹tynia Œni¹cej,x:-639,z:-1497,y:224,enabled:true,red:0.101960786,green:0.9529412,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Tower,x:462,z:120,y:73,enabled:true,red:0.8784314,green:0.85882354,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Rockslide,x:260,z:-1322,y:112,enabled:true,red:0.003921569,green:0.43137255,blue:0.8862745,suffix:,world:,dimensions:overworld#
+name:Spider-Infested areas,x:455,z:-1185,y:93,enabled:true,red:0.92941177,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#

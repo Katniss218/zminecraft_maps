@@ -1,0 +1,25 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:"Dungeon crawl" area (N>S),x:-429,z:-105,y:104,enabled:true,red:0.92941177,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Hideout,x:-329,z:35,y:65,enabled:true,red:0.0,green:0.99607843,blue:0.02745098,suffix:,world:,dimensions:overworld#
+name:Approach from here,x:-413,z:-185,y:88,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Defencible area,x:-232,z:-392,y:97,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:Passage (N-S),x:-285,z:513,y:80,enabled:true,red:0.1764706,green:0.1764706,blue:0.1764706,suffix:,world:,dimensions:overworld#
+name:Prison Tower,x:-79,z:-76,y:93,enabled:true,red:0.94509804,green:0.91764706,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:House,x:-55,z:-179,y:88,enabled:true,red:0.9490196,green:0.52156866,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Mayor,x:-176,z:580,y:66,enabled:true,red:0.02745098,green:1.0,blue:0.07058824,suffix:,world:,dimensions:overworld#
+name:Less-useful area,x:-128,z:617,y:60,enabled:true,red:0.007843138,green:0.9843137,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Craftsmen,x:-166,z:595,y:60,enabled:true,red:0.03137255,green:1.0,blue:0.03137255,suffix:,world:,dimensions:overworld#
+name:Ravine Town,x:-144,z:629,y:68,enabled:true,red:0.09803922,green:0.99607843,blue:0.019607844,suffix:house,world:,dimensions:overworld#
+name:Evil hideout / camp,x:-513,z:182,y:105,enabled:true,red:0.9882353,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Semi-ruined Tower,x:-209,z:47,y:100,enabled:true,red:0.9372549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Hideout,x:-239,z:37,y:65,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Overgrown haus w/ hidden tower,x:-296,z:-2,y:88,enabled:true,red:0.93333334,green:0.8862745,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Castle,x:-60,z:-34,y:109,enabled:true,red:0.101960786,green:0.9647059,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Walled off city,x:-127,z:-5,y:96,enabled:true,red:0.0,green:0.96862745,blue:0.023529412,suffix:house,world:,dimensions:overworld#
+name:Dwarves(?),x:-46,z:-42,y:77,enabled:true,red:0.105882354,green:0.99607843,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Farms,x:17,z:-112,y:72,enabled:true,red:0.92941177,green:0.90588236,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Mill,x:20,z:-67,y:81,enabled:true,red:0.011764706,green:0.94509804,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:>> SPAWN <<,x:-1,z:-198,y:68,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Maybe something here(?),x:-136,z:157,y:85,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#

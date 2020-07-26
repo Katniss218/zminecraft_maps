@@ -1,0 +1,5 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:interesting_spot,x:-1027,z:97,y:106,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:main,x:-243,z:382,y:106,enabled:true,red:0.26023716,green:0.3615427,blue:0.441662,suffix:,world:,dimensions:overworld#

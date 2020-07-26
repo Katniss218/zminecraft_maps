@@ -1,0 +1,21 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Skrytka,x:1016,z:435,y:67,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:Obóz bandytów,x:1141,z:434,y:74,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:zamek starego króla,x:1345,z:488,y:93,enabled:true,red:0.98039216,green:0.9490196,blue:0.011764706,suffix:house,world:,dimensions:the_nether#overworld#
+name:Swi¹tynia villagerów,x:1118,z:127,y:82,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:the_nether#overworld#
+name:skrytka na klucz,x:1193,z:136,y:76,enabled:true,red:0.92941177,green:0.003921569,blue:0.0,suffix:diamond,world:,dimensions:overworld#
+name:wie¿a,x:1195,z:28,y:79,enabled:true,red:0.8666667,green:0.9490196,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:miasto,x:1369,z:-183,y:89,enabled:true,red:0.003921569,green:0.95686275,blue:0.0627451,suffix:house,world:,dimensions:the_nether#overworld#
+name:Wyrocznia Pelem,x:404,z:257,y:86,enabled:true,red:0.047058824,green:0.99607843,blue:0.043137256,suffix:,world:,dimensions:overworld#
+name:Most,x:390,z:131,y:88,enabled:false,red:0.039215688,green:1.0,blue:0.101960786,suffix:,world:,dimensions:overworld#
+name:Most,x:442,z:81,y:86,enabled:false,red:0.007843138,green:1.0,blue:0.07450981,suffix:,world:,dimensions:overworld#
+name:most,x:507,z:-199,y:73,enabled:false,red:0.011764706,green:0.99607843,blue:0.12156863,suffix:,world:,dimensions:overworld#
+name:startowa wioska (Gheyn?),x:1017,z:385,y:106,enabled:true,red:0.0,green:0.972549,blue:0.023529412,suffix:house,world:,dimensions:the_nether#overworld#
+name:kryjówka mutantów,x:1027,z:422,y:44,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Spalone ruiny miasta z dzieciñst,x:265,z:135,y:73,enabled:true,red:0.9372549,green:0.972549,blue:0.09411765,suffix:house,world:,dimensions:the_nether#overworld#
+name:Wiêzienie w jaskini,x:1234,z:503,y:62,enabled:true,red:0.99607843,green:0.043137256,blue:0.039215688,suffix:,world:,dimensions:overworld#
+name:Chata Zeka,x:1146,z:420,y:60,enabled:true,red:0.03137255,green:1.0,blue:0.11372549,suffix:,world:,dimensions:overworld#
+name:Jaskinia mutantów,x:1124,z:392,y:66,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Chest,x:1122,z:396,y:63,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#

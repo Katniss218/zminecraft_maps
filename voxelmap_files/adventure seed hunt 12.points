@@ -1,0 +1,8 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:8,z:8,y:65,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Starting village,x:-1265,z:879,y:91,enabled:true,red:0.0,green:0.93333334,blue:0.023529412,suffix:house,world:,dimensions:overworld#
+name:Port,x:-1229,z:803,y:67,enabled:true,red:0.0,green:0.92156863,blue:0.039215688,suffix:,world:,dimensions:overworld#
+name:Bandits/Goblins/etc (First Evil),x:-1435,z:837,y:76,enabled:true,red:0.9254902,green:0.007843138,blue:0.0,suffix:,world:,dimensions:overworld#
+name:passage,x:-1281,z:914,y:76,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#

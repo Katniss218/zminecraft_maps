@@ -1,0 +1,125 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Ograbione,x:-228,z:18,y:56,enabled:true,red:0.8862745,green:0.8862745,blue:0.0,suffix:,world:,dimensions:overworld#
+name:SPAWN,x:-2,z:0,y:69,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:64 iron~comma~ 2 diax~comma~ food~comma~ 3s wood,x:-874,z:-522,y:72,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Ograbione,x:-190,z:-916,y:59,enabled:true,red:0.8862745,green:0.92941177,blue:0.0,suffix:,world:,dimensions:overworld#
+name:60 iron~comma~ 19 gold~comma~ 20 meat,x:-464,z:-882,y:72,enabled:true,red:0.9882353,green:0.9882353,blue:0.9882353,suffix:diamond,world:,dimensions:overworld#
+name:1 notchapple~comma~ 1 gapple~comma~ 26 gp,x:-1696,z:-1026,y:54,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:1 dia~comma~ 6 gold~comma~ 6 cfish,x:-4287,z:2456,y:68,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:bambusszajbus,x:-4303,z:5182,y:64,enabled:true,red:0.43529412,green:0.0627451,blue:0.5294118,suffix:,world:,dimensions:overworld#
+name:G~colon~ ARC,x:-4380,z:5858,y:160,enabled:true,red:0.9843137,green:0.015686275,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:diax sw~comma~diax pi~comma~5 iron pi~comma~ p1bow,x:-3247,z:4072,y:42,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:22 iron~comma~ 7 eme~comma~ 6 gold~comma~ 19 gp,x:-1391,z:2,y:62,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Ograbione,x:-420,z:200,y:40,enabled:true,red:0.8666667,green:0.8509804,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-924,z:-1208,y:116,enabled:true,red:0.9490196,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:16 diax~comma~ 2s iron~comma~ 32 eme~comma~ food,x:-175,z:-1008,y:64,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:6s iron~comma~ 16 dia~comma~ 32 eme~comma~ 35 obs,x:812,z:-1660,y:86,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Ograbione,x:-41,z:207,y:56,enabled:true,red:0.9372549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:24 eme~comma~ 10 iron~comma~ blocks,x:-1395,z:1715,y:61,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Ograbione,x:523,z:-1740,y:65,enabled:true,red:0.9647059,green:0.9647059,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:1203,z:-1774,y:58,enabled:true,red:0.99607843,green:0.9411765,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:388,z:-2162,y:7,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:infinity bow~comma~ tons books~comma~ sugarc,x:-1049,z:-4146,y:57,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:THE BEST~comma~ sur~comma~ sety~comma~ glowy,x:-6290,z:-2500,y:61,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:record,world:,dimensions:overworld#
+name:Ograbione,x:-7586,z:-1518,y:59,enabled:true,red:0.99607843,green:0.9411765,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-6781,z:-2126,y:9,enabled:true,red:0.92941177,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:G~colon~ SUB,x:-7422,z:-1941,y:91,enabled:true,red:0.99215686,green:0.03137255,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Spawner Podwójny,x:-10304,z:-1188,y:79,enabled:true,red:0.9372549,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Nora Katniss~colon~ 9 TNT~comma~ iron set,x:-13296,z:-1244,y:68,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:record,world:,dimensions:overworld#
+name:Mushroom Island,x:-11042,z:699,y:87,enabled:true,red:0.62352943,green:0.047058824,blue:0.35686275,suffix:,world:,dimensions:overworld#
+name:G~colon~ MAL,x:-3335,z:3037,y:136,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:2s iron~comma~ 24 eme~comma~ enchtbl~comma~ food,x:-3044,z:3268,y:72,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Ograbione,x:-2500,z:-6785,y:47,enabled:true,red:0.94509804,green:0.89411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-2586,z:-6909,y:47,enabled:true,red:0.91764706,green:0.92156863,blue:0.0,suffix:,world:,dimensions:overworld#
+name:2tot-ud~comma~ 60gp~comma~ 37rcoin~comma~ arr~comma~misc,x:-3686,z:-4707,y:67,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Ograbione,x:-4925,z:-5268,y:70,enabled:true,red:0.95686275,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-2837,z:-2355,y:11,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-2904,z:-168,y:64,enabled:true,red:0.9647059,green:0.9607843,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:4s iron~comma~ 64 rcoin~comma~ misc,x:3386,z:2569,y:68,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Ograbione,x:-243,z:-722,y:96,enabled:true,red:0.9490196,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:4374,z:6754,y:71,enabled:true,red:0.90588236,green:0.9098039,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:64 arrow~comma~ paper~comma~ misc,x:2392,z:4895,y:64,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Spawner Szkieletów,x:947,z:4615,y:59,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-288,z:2329,y:13,enabled:true,red:0.98039216,green:0.91764706,blue:0.0,suffix:,world:,dimensions:overworld#
+name:80 iron~comma~ iron legs~comma~ p1bow,x:-336,z:2247,y:29,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:G~colon~ TMWC,x:-853,z:1454,y:68,enabled:true,red:0.94509804,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:G~colon~ LPLL,x:2523,z:2764,y:76,enabled:true,red:0.9372549,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:najcenniejsze z bazy,x:-13273,z:-1298,y:63,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Ograbione,x:-246,z:-191,y:63,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ograbiona gildia,x:-5024,z:4290,y:72,enabled:true,red:0.9607843,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Skrytka na œrednie,x:-13184,z:-1138,y:71,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Skrytka na semi-dobre,x:-13129,z:-1114,y:78,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Ograbiona gildia,x:-3385,z:1741,y:7,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:23 iron~comma~ 1 coalblock,x:-232,z:976,y:92,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:cekja213,x:-1202,z:7025,y:73,enabled:true,red:0.43137255,green:0.05882353,blue:0.54901963,suffix:,world:,dimensions:overworld#
+name:p2bow~comma~ 350 arrow~comma~ misc,x:-13135,z:-1119,y:76,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Kwarcowa kapliczka,x:768,z:34,y:44,enabled:true,red:0.007843138,green:0.92941177,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-395,z:602,y:64,enabled:true,red:0.9764706,green:0.92941177,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:478,z:6145,y:91,enabled:true,red:0.96862745,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:G~colon~ PKSM,x:-1257,z:8442,y:73,enabled:true,red:0.99215686,green:0.015686275,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:G~colon~ LECH,x:-475,z:8632,y:85,enabled:true,red:0.972549,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:G~colon~ JTD,x:-633,z:8902,y:78,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Okradione many,x:-677,z:9128,y:15,enabled:true,red:0.46732706,green:0.9540464,blue:0.39660937,suffix:,world:,dimensions:overworld#
+name:256emebl~comma~3shbx~comma~1inf bk~comma~32 diaxbl,x:-10953,z:-3172,y:59,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:diax0 set~comma~ 15 booksf~comma~ 64 arr,x:1657,z:-1456,y:62,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:G~colon~ BAKA,x:1678,z:-1292,y:63,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Heads,x:1231,z:5149,y:44,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Ograbione,x:1304,z:318,y:24,enabled:true,red:0.90588236,green:0.8784314,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:3852,z:1514,y:69,enabled:true,red:0.92941177,green:0.90588236,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:4498,z:5496,y:67,enabled:true,red:0.99215686,green:0.9372549,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:5113,z:-28,y:93,enabled:true,red:0.98503935,green:0.92855304,blue:0.21142817,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:3029,z:-4557,y:66,enabled:true,red:0.92941177,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:str2 pot~comma~ sur,x:-14891,z:-1488,y:68,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:kubapopten2,x:857,z:-6969,y:62,enabled:true,red:0.3882353,green:0.05882353,blue:0.53333336,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-3,z:-6976,y:11,enabled:true,red:0.93333334,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:1 notcha~comma~ diax ity~comma~ set,x:1872,z:-5733,y:62,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:128 redstonebl,x:-13470,z:-1248,y:71,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:S³abe,x:-13283,z:-1151,y:63,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Kuba478758,x:-220,z:-7120,y:43,enabled:true,red:0.39215687,green:0.0627451,blue:0.6039216,suffix:,world:,dimensions:overworld#
+name:G~colon~ FURA,x:-234,z:-5847,y:63,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:2711,z:1128,y:63,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:8561,z:2609,y:68,enabled:true,red:0.95686275,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:9539,z:-56,y:76,enabled:true,red:0.98039216,green:0.92941177,blue:0.0,suffix:,world:,dimensions:overworld#
+name:G~colon~ WMW,x:-9953,z:-2264,y:73,enabled:true,red:0.92941177,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-8609,z:-1374,y:86,enabled:true,red:0.95686275,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-5983,z:-5568,y:98,enabled:true,red:0.94509804,green:0.91764706,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-5782,z:-5596,y:108,enabled:true,red:0.92941177,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-4470,z:-8276,y:63,enabled:true,red:0.9490196,green:0.8862745,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-4446,z:-8788,y:127,enabled:true,red:0.92941177,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-3589,z:-9210,y:91,enabled:true,red:0.8862745,green:0.8862745,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Miejsce do wypoczynku,x:-3601,z:-9210,y:90,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:house,world:,dimensions:the_nether#overworld#
+name:The Vault,x:3384,z:-13642,y:69,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:record,world:,dimensions:overworld#
+name:Ograbione,x:2173,z:3162,y:86,enabled:true,red:0.91764706,green:0.92156863,blue:0.0,suffix:,world:,dimensions:overworld#
+name:nether bricks~comma~ 256 meat,x:1437,z:3327,y:63,enabled:true,red:0.9843137,green:0.9843137,blue:0.9843137,suffix:diamond,world:,dimensions:overworld#
+name:Ograbione,x:1957,z:5509,y:64,enabled:true,red:0.92941177,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:G~colon~ NOG,x:-830,z:-2560,y:81,enabled:true,red:0.9372549,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-1281,z:-2859,y:70,enabled:true,red:0.8745098,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:G~colon~ EPIC,x:-508,z:-5867,y:91,enabled:true,red:0.9529412,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:2524,z:-2419,y:82,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:1432,z:-571,y:6,enabled:true,red:0.9647059,green:0.9019608,blue:0.0,suffix:,world:,dimensions:overworld#
+name:G~colon~ ADH,x:-1506,z:2815,y:80,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Szczyt. food~comma~ 8x zielkul,x:-2619,z:4849,y:148,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:record,world:,dimensions:overworld#
+name:G~colon~ BENC,x:-4439,z:-2829,y:74,enabled:true,red:0.9607843,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:G; PTT,x:5814,z:2456,y:67,enabled:true,red:0.92156863,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Fajna chata do okradania,x:-2807,z:-7893,y:61,enabled:true,red:0.4392157,green:0.0627451,blue:0.54901963,suffix:record,world:,dimensions:overworld#
+name:Ograbione,x:-311,z:408,y:125,enabled:true,red:0.9019608,green:0.85490197,blue:0.0,suffix:,world:,dimensions:overworld#
+name:G~colon~ BMW,x:-1001,z:1677,y:63,enabled:true,red:0.9372549,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:1368,z:-2087,y:68,enabled:true,red:0.99215686,green:0.9372549,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:G; HLNG,x:4115,z:-4568,y:70,enabled:true,red:0.94509804,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:G~colon~ FCL,x:-167,z:2298,y:94,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:840,z:147,y:11,enabled:true,red:0.90588236,green:0.9098039,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:void,x:1431,z:438,y:1,enabled:true,red:0.43563926,green:0.7802328,blue:0.46164262,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:2624,z:1440,y:10,enabled:true,red:0.95686275,green:0.90588236,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:3279,z:728,y:72,enabled:true,red:0.89411765,green:0.8392157,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:G~colon~ WWSS,x:507,z:2246,y:85,enabled:true,red:0.972549,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:522,z:-437,y:104,enabled:true,red:0.98039216,green:0.9490196,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Cliff Face,x:-2975,z:2134,y:137,enabled:true,red:0.03529412,green:0.9254902,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-1594,z:-3555,y:73,enabled:true,red:0.93333334,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:diax set~comma~ sur~comma~ food,x:-1207,z:-4002,y:53,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Ograbione,x:-2016,z:-4568,y:69,enabled:true,red:0.972549,green:0.9019608,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-4720,z:-5090,y:6,enabled:true,red:0.99215686,green:0.9607843,blue:0.015686275,suffix:,world:,dimensions:overworld#
+name:G~colon~ DIM,x:-6135,z:-6400,y:68,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ograbione,x:-2508,z:-7779,y:65,enabled:true,red:0.9372549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:do ograbienia,x:612,z:4719,y:72,enabled:true,red:0.9381759,green:0.33975524,blue:0.09039003,suffix:,world:,dimensions:overworld#
