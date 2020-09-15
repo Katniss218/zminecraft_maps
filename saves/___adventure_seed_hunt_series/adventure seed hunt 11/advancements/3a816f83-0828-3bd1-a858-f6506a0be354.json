@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2020-09-15 11:04:02 +0200",
+      "minecraft:lukewarm_ocean": "2020-09-15 11:04:00 +0200",
+      "minecraft:birch_forest_hills": "2020-09-15 11:04:23 +0200",
+      "minecraft:swamp": "2020-09-15 11:03:52 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2567
+}
