@@ -1,0 +1,29 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Castle 'Thaaris',x:-628,z:-423,y:92,enabled:true,red:0.0,green:0.9882353,blue:0.09019608,suffix:,world:,dimensions:overworld#
+name:Wall,x:-566,z:-382,y:94,enabled:true,red:0.12156863,green:0.12156863,blue:0.12156863,suffix:,world:,dimensions:overworld#
+name:Farms,x:-559,z:-472,y:74,enabled:true,red:0.92156863,green:0.49019608,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ruined house,x:-541,z:-516,y:69,enabled:true,red:0.93333334,green:0.41960785,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Ruined house,x:-528,z:-517,y:69,enabled:true,red:0.9019608,green:0.44705883,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Big house,x:-550,z:-567,y:68,enabled:true,red:0.91764706,green:0.41960785,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Fisherman's Hut,x:-437,z:-578,y:71,enabled:true,red:0.8862745,green:0.8862745,blue:0.0,suffix:,world:,dimensions:overworld#
+name:bridge,x:-470,z:-605,y:67,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:bridge,x:-589,z:-579,y:66,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:bridge,x:-668,z:-584,y:68,enabled:true,red:0.12941177,green:0.12941177,blue:0.12941177,suffix:,world:,dimensions:overworld#
+name:Windmill,x:-720,z:-580,y:78,enabled:true,red:0.007843138,green:0.8980392,blue:0.105882354,suffix:,world:,dimensions:overworld#
+name:Farms,x:-726,z:-572,y:75,enabled:true,red:0.0,green:0.90588236,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Bandit camp,x:-848,z:-519,y:82,enabled:true,red:0.92941177,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:bridge,x:-895,z:-590,y:73,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Iron Mine,x:-785,z:-715,y:68,enabled:true,red:0.89411765,green:0.8392157,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Iron Mine Hall,x:-807,z:-711,y:68,enabled:true,red:0.94509804,green:0.91764706,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ruined house-tower,x:-592,z:-513,y:87,enabled:true,red:0.9137255,green:0.49803922,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Dungeon in Thaaris,x:-632,z:-378,y:98,enabled:true,red:0.9254902,green:0.8980392,blue:0.0,suffix:,world:,dimensions:overworld#
+name:House,x:-670,z:-427,y:81,enabled:true,red:0.03529412,green:0.9019608,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Marketplace,x:-663,z:-455,y:74,enabled:true,red:0.07058824,green:0.972549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Guild Hall,x:-663,z:-508,y:78,enabled:true,red:0.043137256,green:0.9843137,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Barracks,x:-694,z:-506,y:75,enabled:true,red:0.003921569,green:0.95686275,blue:0.05882353,suffix:,world:,dimensions:overworld#
+name:Weapon Storage,x:-706,z:-493,y:75,enabled:true,red:0.007843138,green:0.8980392,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:bridge,x:-619,z:-490,y:72,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Town Hall,x:-648,z:-439,y:89,enabled:true,red:0.0,green:0.91764706,blue:0.05882353,suffix:,world:,dimensions:overworld#
+name:Hall,x:-593,z:-401,y:86,enabled:true,red:0.03529412,green:0.9607843,blue:0.0,suffix:,world:,dimensions:overworld#

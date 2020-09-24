@@ -1,0 +1,28 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Wioska / farmy,x:531,z:58,y:83,enabled:true,red:0.9254902,green:0.8980392,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Zadaszona jaskinia,x:628,z:69,y:87,enabled:true,red:0.9019608,green:0.3764706,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Obóz / osada,x:686,z:112,y:84,enabled:true,red:0.0,green:0.9254902,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:P³aska wyspa,x:46,z:-628,y:74,enabled:true,red:0.46666667,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Powierzchowne jaskinie,x:500,z:-368,y:72,enabled:true,red:0.96862745,green:0.5019608,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Port,x:205,z:-165,y:85,enabled:true,red:0.8784314,green:0.88235295,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Dom maga,x:595,z:-64,y:111,enabled:true,red:0.043137256,green:0.9411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Wyspa,x:-507,z:772,y:85,enabled:true,red:0.011764706,green:0.89411765,blue:0.20392157,suffix:,world:,dimensions:overworld#
+name:most,x:581,z:-95,y:88,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Przejscie,x:598,z:-105,y:74,enabled:true,red:0.98039216,green:0.9490196,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Tu nas zaprowadzi mag,x:645,z:16,y:119,enabled:true,red:0.003921569,green:0.94509804,blue:0.827451,suffix:,world:,dimensions:overworld#
+name:Elita mieszka na górze,x:585,z:-27,y:116,enabled:true,red:0.003921569,green:0.95686275,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Wioska,x:581,z:-133,y:96,enabled:true,red:0.003921569,green:0.90588236,blue:0.0627451,suffix:house,world:,dimensions:overworld#
+name:Wie¿a,x:545,z:-16,y:109,enabled:true,red:0.8627451,green:0.8235294,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Wie¿a,x:568,z:-16,y:117,enabled:true,red:0.9019608,green:0.85490197,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Zniszczone miasto,x:502,z:-59,y:81,enabled:true,red:0.9372549,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Wyrocznia???? (z ty³u góry),x:643,z:-81,y:141,enabled:true,red:0.0,green:0.9137255,blue:0.7921569,suffix:,world:,dimensions:overworld#
+name:Miasto,x:635,z:-102,y:98,enabled:true,red:0.003921569,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:most,x:610,z:-91,y:91,enabled:true,red:0.1254902,green:0.1254902,blue:0.1254902,suffix:,world:,dimensions:overworld#
+name:Rybak,x:339,z:-57,y:69,enabled:true,red:0.0,green:0.9254902,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:most,x:376,z:-96,y:66,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Farmy,x:367,z:-173,y:77,enabled:true,red:0.90588236,green:0.9098039,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Farmy,x:398,z:-131,y:75,enabled:true,red:0.87058824,green:0.81960785,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Obóz bandytów,x:347,z:-253,y:90,enabled:true,red:0.92156863,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Jaskinia - przejœcie,x:564,z:-18,y:89,enabled:true,red:0.011764706,green:0.9372549,blue:0.007843138,suffix:,world:,dimensions:overworld#
