@@ -1,0 +1,52 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Evelance Enslaved City,x:442,z:1353,y:105,enabled:true,red:0.9764706,green:0.42745098,blue:0.007843138,suffix:house,world:,dimensions:overworld#
+name:Northgrasp,x:616,z:1510,y:111,enabled:true,red:0.007843138,green:0.98039216,blue:0.011764706,suffix:house,world:,dimensions:overworld#
+name:Castle Kovenberg,x:798,z:1280,y:125,enabled:true,red:0.98039216,green:0.91764706,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Kovenberg,x:798,z:1217,y:102,enabled:true,red:0.9254902,green:0.8980392,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Mordred,x:612,z:1199,y:105,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:lumberjacks,x:556,z:1159,y:83,enabled:true,red:0.99607843,green:0.5764706,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:lumberjacks,x:373,z:1439,y:83,enabled:true,red:0.972549,green:0.5411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Mordred's Scouting Towers,x:758,z:977,y:135,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Willage (ruins),x:859,z:942,y:93,enabled:true,red:0.03137255,green:0.91764706,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Tourte,x:845,z:498,y:92,enabled:true,red:0.93333334,green:0.8862745,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Teleportation Temple,x:1030,z:390,y:63,enabled:true,red:0.0,green:0.98039216,blue:0.87058824,suffix:star,world:,dimensions:overworld#
+name:Port Tourte,x:788,z:375,y:89,enabled:true,red:0.96862745,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Fort Tourte,x:951,z:534,y:98,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Bandits here,x:270,z:332,y:69,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Mosswich,x:155,z:155,y:98,enabled:true,red:0.003921569,green:0.95686275,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Bark,x:153,z:490,y:106,enabled:true,red:0.16078432,green:0.8901961,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Cleyfield,x:243,z:675,y:83,enabled:true,red:0.91764706,green:0.92156863,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Bandit Camp,x:369,z:-42,y:71,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Bandit Cavern,x:340,z:-52,y:67,enabled:true,red:0.99215686,green:0.03137255,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Maltorn,x:379,z:-173,y:94,enabled:true,red:0.10980392,green:0.99215686,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Tavern,x:318,z:-167,y:86,enabled:true,red:0.08627451,green:0.99215686,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Thaaris,x:211,z:-245,y:97,enabled:true,red:0.007843138,green:0.98039216,blue:0.011764706,suffix:house,world:,dimensions:overworld#
+name:Lumberjacks,x:227,z:-320,y:91,enabled:true,red:0.03529412,green:0.9490196,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Farm,x:149,z:-184,y:83,enabled:true,red:0.101960786,green:0.95686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Old King's Castle (ruins),x:1312,z:933,y:127,enabled:true,red:0.9490196,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Old King's City (ruins),x:1405,z:895,y:113,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Lumberjacks and Refugees,x:1482,z:965,y:83,enabled:true,red:0.07058824,green:0.94509804,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Water Mill,x:1556,z:808,y:78,enabled:true,red:0.9490196,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Temple,x:1225,z:894,y:84,enabled:true,red:0.003921569,green:0.9529412,blue:0.8901961,suffix:,world:,dimensions:overworld#
+name:Dwarven Ruins,x:1097,z:851,y:96,enabled:true,red:0.99607843,green:0.5803922,blue:0.015686275,suffix:,world:,dimensions:overworld#
+name:bridge,x:911,z:832,y:87,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Iron Mine,x:387,z:1202,y:90,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Iron Mine,x:433,z:1160,y:84,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Obsidian Mine,x:419,z:1413,y:78,enabled:true,red:0.9529412,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Obsidian Mine,x:441,z:1419,y:78,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Fortress,x:578,z:1496,y:116,enabled:true,red:0.03529412,green:0.9490196,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ruined houses,x:679,z:1335,y:89,enabled:true,red:0.9490196,green:0.8862745,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Hermit's Hut (ruins),x:601,z:1302,y:87,enabled:true,red:0.09803922,green:0.96862745,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cloudy Mountains gate,x:911,z:645,y:95,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Teleportation temple,x:173,z:642,y:85,enabled:true,red:0.003921569,green:0.9372549,blue:0.84313726,suffix:star,world:,dimensions:overworld#
+name:Mages,x:183,z:691,y:88,enabled:true,red:0.16862746,green:0.9372549,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Cerberus' Castle,x:327,z:1314,y:129,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Black Horde garrison,x:435,z:1287,y:89,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:housing,x:476,z:1312,y:86,enabled:true,red:0.9529412,green:0.4745098,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Mordred's Scouting Towers,x:654,z:1136,y:131,enabled:true,red:0.9529412,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Siege Engines,x:984,z:1002,y:75,enabled:true,red:0.101960786,green:0.9490196,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Black Market,x:89,z:91,y:66,enabled:true,red:0.91764706,green:0.8862745,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Items,x:225,z:-267,y:53,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
+name:Items 2,x:139,z:-188,y:57,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
