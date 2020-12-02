@@ -1,0 +1,84 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Bandyci,x:-331,z:948,y:83,enabled:true,red:0.99215686,green:0.03529412,blue:0.03137255,suffix:,world:,dimensions:overworld#
+name:Szlachcic,x:-436,z:953,y:69,enabled:true,red:0.99607843,green:0.9411765,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Obóz Drake'a,x:-533,z:1020,y:84,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Devyn,x:-524,z:925,y:66,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Brama,x:-668,z:1064,y:88,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Sanktuarium Śniącej (ruiny),x:-149,z:1079,y:80,enabled:true,red:0.9529412,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Yberia,x:-143,z:922,y:90,enabled:true,red:0.0,green:0.99607843,blue:0.02745098,suffix:house,world:,dimensions:overworld#
+name:Kupiec,x:-185,z:930,y:73,enabled:true,red:0.94509804,green:0.89411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Pirotechnik Thorin,x:249,z:876,y:77,enabled:true,red:0.16078432,green:0.99215686,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Alchemik,x:327,z:922,y:95,enabled:true,red:0.003921569,green:0.95686275,blue:0.05882353,suffix:,world:,dimensions:overworld#
+name:Farma,x:299,z:1054,y:76,enabled:true,red:0.08627451,green:0.99215686,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Jaskinia królowej pająków,x:218,z:950,y:62,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Zarażona część miasta,x:489,z:1064,y:88,enabled:true,red:0.9882353,green:0.54509807,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Thoriana,x:458,z:975,y:107,enabled:true,red:0.003921569,green:0.9843137,blue:0.02745098,suffix:house,world:,dimensions:overworld#
+name:Jaskinia Bhaal'a,x:551,z:883,y:77,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Farma,x:642,z:969,y:77,enabled:true,red:0.007843138,green:0.972549,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Bandyci,x:693,z:984,y:65,enabled:true,red:0.94509804,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Port Thoriany,x:704,z:878,y:76,enabled:true,red:0.043137256,green:0.98039216,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Salim,x:700,z:932,y:76,enabled:true,red:0.043137256,green:0.9843137,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Domy,x:771,z:1075,y:73,enabled:true,red:0.9372549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ogr,x:701,z:1019,y:67,enabled:true,red:0.9529412,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ogr,x:799,z:1002,y:67,enabled:true,red:0.9882353,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ogr,x:801,z:1057,y:70,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:nieużyty statek,x:964,z:600,y:76,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:Przystań Janiela,x:630,z:529,y:78,enabled:true,red:0.101960786,green:0.9647059,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Janiel,x:659,z:474,y:49,enabled:true,red:0.9882353,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Więzienie Janiela,x:589,z:507,y:60,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Cmentarz,x:540,z:476,y:82,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Dom 3,x:371,z:437,y:72,enabled:true,red:0.9607843,green:0.5137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Dom 2,x:315,z:458,y:79,enabled:true,red:0.9764706,green:0.52156866,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Dom 1,x:281,z:466,y:73,enabled:true,red:0.9843137,green:0.48235294,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Chata Olafa,x:261,z:522,y:67,enabled:true,red:0.9764706,green:0.92941177,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Jaskinia Drzewoludów,x:278,z:402,y:60,enabled:true,red:0.99215686,green:0.019607844,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:Maltorn,x:114,z:443,y:94,enabled:true,red:0.08627451,green:0.99215686,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Hagel,x:115,z:461,y:91,enabled:true,red:0.03529412,green:0.9490196,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Kwiat Latose,x:351,z:507,y:64,enabled:true,red:0.9607843,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Zniszczone chaty,x:413,z:567,y:87,enabled:true,red:0.94509804,green:0.49411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Rybak,x:314,z:320,y:69,enabled:true,red:0.101960786,green:0.9647059,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Balisty,x:209,z:301,y:84,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:Thaaris,x:194,z:200,y:96,enabled:true,red:0.003921569,green:0.9647059,blue:0.007843138,suffix:house,world:,dimensions:overworld#the_end#
+name:Młyn,x:190,z:130,y:79,enabled:true,red:0.96862745,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Dom,x:135,z:54,y:73,enabled:true,red:0.94509804,green:0.89411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Kopalnia żelaza,x:440,z:131,y:82,enabled:true,red:0.07058824,green:0.94509804,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Bandyci,x:503,z:158,y:85,enabled:true,red:0.972549,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Sekret,x:221,z:74,y:64,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Nieużyty dom,x:60,z:93,y:73,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Nieużyty namiot,x:140,z:-108,y:81,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Ruiny domu,x:143,z:211,y:75,enabled:true,red:0.99607843,green:0.9411765,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ruiny domu,x:96,z:246,y:87,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Sekret,x:61,z:221,y:72,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Jaskinia zombie,x:108,z:256,y:63,enabled:true,red:0.92941177,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Jaskinia Boba,x:137,z:204,y:58,enabled:true,red:0.98039216,green:0.42745098,blue:0.0,suffix:,world:,dimensions:overworld#
+name:>> START <<,x:60,z:189,y:67,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:most,x:-17,z:223,y:69,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Oversted (ruiny),x:-1015,z:405,y:85,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:house,world:,dimensions:overworld#
+name:Cytadela,x:-973,z:452,y:103,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Wyrocznia Pelem,x:-1011,z:490,y:75,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Przedmieścia (ruiny),x:-1083,z:442,y:72,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Dom,x:-1221,z:775,y:73,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Wioska zaatakowana przez potwory,x:-1143,z:1080,y:81,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:Jaskinia - wyjście,x:-1066,z:1133,y:99,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Jaskinia - wejście,x:-1001,z:1133,y:93,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Kamienne golemy,x:-892,z:1105,y:82,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Sekret gdzieś tutaj,x:-802,z:986,y:104,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Zamek Cerbera,x:-119,z:2169,y:102,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Pustelnik,x:42,z:2136,y:76,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Czarna Brama,x:12,z:2253,y:79,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
+name:Garnizon Cerbera,x:206,z:2246,y:79,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Rozdroża,x:279,z:2303,y:78,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Armia #1,x:565,z:2326,y:73,enabled:true,red:0.18431373,green:0.18431373,blue:0.18431373,suffix:,world:,dimensions:overworld#
+name:Armia #2,x:559,z:2279,y:75,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Berg,x:605,z:2308,y:81,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:house,world:,dimensions:overworld#
+name:Teleporter,x:613,z:2336,y:64,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Mag Zirun,x:527,z:1064,y:89,enabled:true,red:0.003921569,green:0.9843137,blue:0.02745098,suffix:,world:,dimensions:overworld#
+name:Stara tawerna,x:480,z:1262,y:74,enabled:true,red:0.9411765,green:0.47058824,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Trebusz,x:427,z:1389,y:69,enabled:true,red:0.8392157,green:0.8784314,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Posterunek,x:440,z:1466,y:88,enabled:true,red:0.9843137,green:0.015686275,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Wieża czasu,x:399,z:1488,y:103,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Kryształy,x:492,z:1128,y:68,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Teleporter,x:-1010,z:508,y:93,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Przystań,x:245,z:213,y:71,enabled:true,red:0.011764706,green:0.94509804,blue:0.007843138,suffix:,world:,dimensions:overworld#
