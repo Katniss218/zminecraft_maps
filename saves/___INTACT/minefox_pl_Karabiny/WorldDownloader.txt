@@ -1,0 +1,4 @@
+#
+#Tue Jan 09 14:11:31 CET 2018
+LinkedWorlds=
+ServerName=minefox.pl
