@@ -4411,22 +4411,6 @@
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:azure_bluet\",Count:127b,tag:{display:{Lore:['{\"text\":\"§7Bukiet powitalny dla graczy GC2!\"}'],Name:'{\"text\":\"§6§lBukiet od §f§lAdministracji\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:cake\",Count:127b,tag:{display:{Lore:['{\"text\":\"§7Najsmaczniejsze na serwerze!\"}'],Name:'{\"text\":\"§6§lCiasto od §f§lTBone\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:cookie\",Count:127b,tag:{display:{Lore:['{\"text\":\"§7Legendarne ciastko od samej właścicielki GC2!\"}'],Name:'{\"text\":\"§6§lCiasteczko od §f§lEsqL\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:totem_of_undying\",Count:127b,tag:{display:{Lore:['{\"text\":\"§7Legendarny totem samego właściciela GC2!\"}'],Name:'{\"text\":\"§6§lTotem §f§lMorkaZoida\"}'}}}"
-			},
-			{ 
-				"type": "stack",
 				"nbt": "{id:\"minecraft:stone_sword\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§aSłabszy miecz gracza\"}'},Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"}]}}"
 			},
 			{ 
@@ -4544,622 +4528,11 @@
 				"nbt": "{id:\"minecraft:diamond_boots\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§eButy VIPa\"}'},Enchantments:[{lvl:5s,id:\"minecraft:protection\"}]}}"
 			},
 			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:trident\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Trójząb §as§6VIPa\"}'},Enchantments:[{lvl:1s,id:\"minecraft:riptide\"}]}}"
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:diamond_pickaxe",
-					"Count": 127,
-					"tag": { 
-						"Damage": 0,
-						"display": { 
-							"Name": "{\"text\":\"§6Kilof §as§6VIPa\"}"
-						},
-						"Enchantments": [ 
-							{ 
-								"lvl": 3,
-								"id": "minecraft:efficiency"
-							},
-							{ 
-								"lvl": 2,
-								"id": "minecraft:unbreaking"
-							}
-						]
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:diamond_shovel\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Szpadel §as§6VIPa\"}'},Enchantments:[{lvl:4s,id:\"minecraft:efficiency\"},{lvl:100s,id:\"minecraft:unbreaking\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:bow\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Łuk §as§6VIPa\"}'},Enchantments:[{lvl:1s,id:\"minecraft:flame\"},{lvl:1s,id:\"minecraft:infinity\"},{lvl:8s,id:\"minecraft:power\"},{lvl:7s,id:\"minecraft:punch\"}]}}"
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:shears",
-					"Count": 127,
-					"tag": { 
-						"Damage": 0,
-						"display": { 
-							"Name": "{\"text\":\"§6Nożyce §as§6VIPa\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:diamond_helmet\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Hełm §as§6VIPa\"}'},Enchantments:[{lvl:5s,id:\"minecraft:protection\"},{lvl:100s,id:\"minecraft:unbreaking\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:diamond_leggings\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Nogawice §as§6VIPa\"}'},Enchantments:[{lvl:5s,id:\"minecraft:fire_protection\"},{lvl:100s,id:\"minecraft:unbreaking\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:diamond_chestplate\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Napierśnik §as§6VIPa\"}'},Enchantments:[{lvl:5s,id:\"minecraft:projectile_protection\"},{lvl:100s,id:\"minecraft:unbreaking\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:diamond_boots\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Buty §as§6VIPa\"}'},Enchantments:[{lvl:5s,id:\"minecraft:feather_falling\"},{lvl:100s,id:\"minecraft:unbreaking\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:diamond_sword\",Count:127b,tag:{Damage:61,AuctionHouse:1b,display:{Lore:['{\"text\":\"§6§oMiecz prawdziwego króla.\"}','{\"text\":\"§8------------------------------\"}','{\"text\":\"§c§lNie stać cię na ten przedmiot.\"}','{\"text\":\" \"}','{\"text\":\"§3Cena: §e$8,000.00\"}','{\"text\":\"§3Sprzedawca: §eReKzZ\"}','{\"text\":\"§3Wygasa: §e2h 16m 18s\"}','{\"text\":\" \"}','{\"text\":\"§8------------------------------\"}'],Name:'{\"text\":\"§6§lExcalibur\"}'},Enchantments:[{lvl:2s,id:\"minecraft:fire_aspect\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:6s,id:\"minecraft:sharpness\"},{lvl:5s,id:\"minecraft:unbreaking\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:bow\",Count:127b,tag:{RepairCost:1,Damage:14,AuctionHouse:1b,display:{Lore:['{\"text\":\"§8§m§l-------------------\"}','{\"text\":\"§6§oŁuk ten generuje..\"}','{\"text\":\"§6§oSmocze świsty..\"}','{\"text\":\"§8§m§l-------------------\"}','{\"text\":\"§8§oNagroda z transmutacji\"}','{\"text\":\"§8------------------------------\"}','{\"text\":\"§c§lNie stać cię na ten przedmiot.\"}','{\"text\":\" \"}','{\"text\":\"§3Cena: §e$70,000.00\"}','{\"text\":\"§3Sprzedawca: §eReKzZ\"}','{\"text\":\"§3Wygasa: §e2h 14m 43s\"}','{\"text\":\" \"}','{\"text\":\"§8------------------------------\"}'],Name:'{\"text\":\"ezzzzzzzzzzzzzzz\"}'},Enchantments:[{lvl:3s,id:\"minecraft:fire_aspect\"},{lvl:5s,id:\"minecraft:flame\"},{lvl:1s,id:\"minecraft:infinity\"},{lvl:3s,id:\"minecraft:knockback\"},{lvl:5s,id:\"minecraft:looting\"},{lvl:7s,id:\"minecraft:power\"},{lvl:4s,id:\"minecraft:punch\"},{lvl:10s,id:\"minecraft:sharpness\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:diamond_axe\",Count:127b,tag:{Damage:112,AuctionHouse:1b,display:{Lore:['{\"text\":\"§8§o§m--------------------\"}','{\"text\":\"§7§oZ Unikalnego Szlamu!\"}','{\"text\":\"§7§oZdobyte przez: §7§o§lReKzZ\"}','{\"text\":\"§8------------------------------\"}','{\"text\":\"§c§lNie stać cię na ten przedmiot.\"}','{\"text\":\" \"}','{\"text\":\"§3Cena: §e$100,000.00\"}','{\"text\":\"§3Sprzedawca: §eReKzZ\"}','{\"text\":\"§3Wygasa: §e2h 13m 15s\"}','{\"text\":\" \"}','{\"text\":\"§8------------------------------\"}'],Name:'{\"text\":\"Kopie jak Szalona\"}'},Enchantments:[{lvl:7s,id:\"minecraft:efficiency\"},{lvl:5s,id:\"minecraft:fortune\"},{lvl:7s,id:\"minecraft:sharpness\"},{lvl:7s,id:\"minecraft:unbreaking\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:diamond_boots\",Count:127b,tag:{RepairCost:1,Damage:45,AuctionHouse:1b,display:{Lore:['{\"text\":\"§8§o§m--------------------\"}','{\"text\":\"§7§oZ Unikalnego Szlamu!\"}','{\"text\":\"§7§oZdobyte przez: §7§o§lReKzZ\"}','{\"text\":\"§8------------------------------\"}','{\"text\":\"§c§lNie stać cię na ten przedmiot.\"}','{\"text\":\" \"}','{\"text\":\"§3Cena: §e$60,000.00\"}','{\"text\":\"§3Sprzedawca: §eReKzZ\"}','{\"text\":\"§3Wygasa: §e2h 13m 58s\"}','{\"text\":\" \"}','{\"text\":\"§8------------------------------\"}'],Name:'{\"text\":\"Jednorazowe Buty\"}'},Enchantments:[{lvl:6s,id:\"minecraft:blast_protection\"},{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:7s,id:\"minecraft:fire_protection\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:6s,id:\"minecraft:projectile_protection\"},{lvl:7s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:thorns\"},{lvl:8s,id:\"minecraft:unbreaking\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:diamond_sword\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6✾Kwantowy✾ Miecz\"}'},Enchantments:[{lvl:1s,id:\"minecraft:knockback\"},{lvl:8s,id:\"minecraft:sharpness\"},{lvl:8s,id:\"minecraft:sweeping\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:shears\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6✾Kwantowe✾ Nożyce\"}'},Enchantments:[{lvl:10s,id:\"minecraft:efficiency\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:1s,id:\"minecraft:silk_touch\"},{lvl:10s,id:\"minecraft:unbreaking\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:diamond_sword\",Count:127b,tag:{Damage:0,AuctionHouse:1b,display:{Lore:['{\"text\":\"§b§oZ Arcadowego pojemnika!\"}','{\"text\":\"§b§oZdobyte przez: §3§oProjektantGruby\"}','{\"text\":\"§8------------------------------\"}','{\"text\":\"§c§lNie stać cię na ten przedmiot.\"}','{\"text\":\" \"}','{\"text\":\"§3Cena: §e$50,000.00\"}','{\"text\":\"§3Sprzedawca: §eDzieroo\"}','{\"text\":\"§3Wygasa: §e10h 33m 23s\"}','{\"text\":\" \"}','{\"text\":\"§8------------------------------\"}'],Name:'{\"text\":\"§6✾Kwantowy✾ Miecz\"}'},Enchantments:[{lvl:1s,id:\"minecraft:knockback\"},{lvl:8s,id:\"minecraft:sharpness\"},{lvl:8s,id:\"minecraft:sweeping\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:diamond_shovel\",Count:127b,tag:{Damage:0,AuctionHouse:1b,display:{Lore:['{\"text\":\"§b§oZ Arcadowego pojemnika!\"}','{\"text\":\"§b§oZdobyte przez: §3§omckotka\"}','{\"text\":\"§8------------------------------\"}','{\"text\":\"§c§lNie stać cię na ten przedmiot.\"}','{\"text\":\" \"}','{\"text\":\"§3Cena: §e$65,000.00\"}','{\"text\":\"§3Sprzedawca: §emckotka\"}','{\"text\":\"§3Wygasa: §e6h 36m 28s\"}','{\"text\":\" \"}','{\"text\":\"§8------------------------------\"}'],Name:'{\"text\":\"§6✾Kwantowa✾ Łopata\"}'},Enchantments:[{lvl:10s,id:\"minecraft:efficiency\"},{lvl:10s,id:\"minecraft:unbreaking\"}]}}"
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:sponge",
-					"Count": 127,
-					"tag": { 
-						"display": { 
-							"Name": "{\"text\":\"§6§lBonusowa gąbka\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:sponge\",Count:127b,tag:{display:{Lore:['{\"text\":\"§eMusisz ją zamoczyć i wykopać\"}','{\"text\":\"§eaby wydobyć skarby!\"}'],Name:'{\"text\":\"§6§lBonusowa gąbka\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:trident\",Count:127b,tag:{Damage:0,AuctionHouse:1b,display:{Lore:['{\"text\":\"§3§oNikt nie prześcignie cię pod wodą!\"}','{\"text\":\"§8------------------------------\"}','{\"text\":\"§c§lNie stać cię na ten przedmiot.\"}','{\"text\":\" \"}','{\"text\":\"§3Cena: §e$12,000.00\"}','{\"text\":\"§3Sprzedawca: §eOzeress\"}','{\"text\":\"§3Wygasa: §e10h 47m 24s\"}','{\"text\":\" \"}','{\"text\":\"§8------------------------------\"}'],Name:'{\"text\":\"§3§lTrójząb posłańca\"}'},Enchantments:[{lvl:5s,id:\"minecraft:riptide\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:leather_boots\",Count:127b,tag:{Damage:60,Enchantments:[{lvl:5s,id:\"minecraft:protection\"}],display:{color:8991416}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:cake\",Count:127b,tag:{display:{Lore:['{\"text\":\"§6Smaczne!\"}','{\"text\":\"\"}','{\"text\":\"§fZjedz mnie!\"}'],Name:'{\"text\":\"§f§lCiasto\"}'},Enchantments:[{lvl:1s,id:\"minecraft:binding_curse\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:golden_carrot\",Count:127b,tag:{display:{Name:'{\"text\":\"§8§lM§7§larhefka §8§lJ§7§lur §f(NIE PODPIS)\"}'}}}"
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:emerald",
-					"Count": 127,
-					"tag": { 
-						"AuctionHouse": 1,
-						"display": { 
-							"Name": "{\"text\":\"§b§lZAPRASZAM NA§6§l/is warp danioleqpl\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:sponge\",Count:127b,tag:{display:{Lore:['{\"text\":\"§eMusisz ją zamoczyć i wykopać\"}','{\"text\":\"§eaby wydobyć skarby!\"}'],Name:'{\"text\":\"✂Podpis od KubsonGamer251✂\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:diamond_leggings\",Count:127b,tag:{RepairCost:31,Damage:0,AuctionHouse:1b,display:{Lore:['{\"text\":\"§b§oZ Arcadowego pojemnika!\"}','{\"text\":\"§b§oZdobyte przez: §3§oAdrianGruby\"}','{\"text\":\"§8------------------------------\"}','{\"text\":\"§c§lNie stać cię na ten przedmiot.\"}','{\"text\":\" \"}','{\"text\":\"§3Cena: §e$30,000.00\"}','{\"text\":\"§3Sprzedawca: §eAdrianGruby\"}','{\"text\":\"§3Wygasa: §e11h 51m 31s\"}','{\"text\":\" \"}','{\"text\":\"§8------------------------------\"}'],Name:'{\"text\":\"6⭐Złomo-Nogawice⭐ z 48 Różnyc\"}'},Enchantments:[{lvl:7s,id:\"minecraft:blast_protection\"},{lvl:7s,id:\"minecraft:fire_protection\"},{lvl:6s,id:\"minecraft:projectile_protection\"},{lvl:7s,id:\"minecraft:protection\"},{lvl:8s,id:\"minecraft:unbreaking\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:magma_cream\",Count:127b,tag:{AuctionHouse:1b,display:{Lore:['{\"text\":\"§7Użyj, aby §aaktywować §eTurboDrop\"}','{\"text\":\"§7na §315 minut§7. Buff ten zwiększa\"}','{\"text\":\"§apodstawową szansę §7na dropy\"}','{\"text\":\"§7z kamienia (stone) o §a4.0x§7.\"}','{\"text\":\"§8Np. zamiast 1.25% na kwarc, będzie 5%.\"}','{\"text\":\"§8------------------------------\"}','{\"text\":\"§c§lNie stać cię na ten przedmiot.\"}','{\"text\":\" \"}','{\"text\":\"§3Cena: §e$25,000.00\"}','{\"text\":\"§3Sprzedawca: §eLukipro123xx\"}','{\"text\":\"§3Wygasa: §e9h 55m 46s\"}','{\"text\":\" \"}','{\"text\":\"§8------------------------------\"}'],Name:'{\"text\":\"§3§lKULA §c§lTU§6§lRB§e§lO DR§f§lOPU\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:paper\",Count:127b,tag:{display:{Name:'{\"text\":\"§3§lKasyno §c§l\\'Error\\'§6§l - graj §e§lgąbkami§6§l wygraj §b§lbloki diax§6§l! §f§l/is warp §nkiszone_\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:diamond_leggings\",Count:127b,tag:{Damage:0,AuctionHouse:1b,display:{Lore:['{\"text\":\"§3§oKompleksowa ochrona\"}','{\"text\":\"§3§oi wysoka mobilność!\"}','{\"text\":\"§8------------------------------\"}','{\"text\":\"§a§lKliknij tutaj aby zakupić przedmiot.\"}','{\"text\":\" \"}','{\"text\":\"§3Cena: §e$10,000.00\"}','{\"text\":\"§3Sprzedawca: §eProjektantGruby\"}','{\"text\":\"§3Wygasa: §e9h 42m 41s\"}','{\"text\":\" \"}','{\"text\":\"§8------------------------------\"}'],Name:'{\"text\":\"§3§lNogawice Rycerza\"}'},Enchantments:[{lvl:2s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:protection\"},{lvl:10s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:vanishing_curse\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:trident\",Count:127b,tag:{Damage:6,AuctionHouse:1b,display:{Lore:['{\"text\":\"§1§oZabrany władcy mórz i oceanów.\"}','{\"text\":\"§8------------------------------\"}','{\"text\":\"§a§lKliknij tutaj aby zakupić przedmiot.\"}','{\"text\":\" \"}','{\"text\":\"§3Cena: §e$10,000.00\"}','{\"text\":\"§3Sprzedawca: §eiMajlo\"}','{\"text\":\"§3Wygasa: §e6h 51m 27s\"}','{\"text\":\" \"}','{\"text\":\"§8------------------------------\"}'],Name:'{\"text\":\"§b§lTrójząb Posejdona\"}'},Enchantments:[{lvl:2s,id:\"minecraft:fire_aspect\"},{lvl:3s,id:\"minecraft:looting\"},{lvl:5s,id:\"minecraft:loyalty\"},{lvl:7s,id:\"minecraft:sharpness\"}]}}"
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:turtle_helmet",
-					"Count": 127,
-					"tag": { 
-						"Damage": 0,
-						"display": { 
-							"Lore": [ 
-								"{\"text\":\"§3§oPomaga przetrwać\"}",
-								"{\"text\":\"§3§opod wodą.\"}"
-							],
-							"Name": "{\"text\":\"§2§lHełm Atlanty\"}"
-						},
-						"Enchantments": [ 
-							{ 
-								"lvl": 2,
-								"id": "minecraft:aqua_affinity"
-							},
-							{ 
-								"lvl": 5,
-								"id": "minecraft:respiration"
-							}
-						]
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:diamond_axe",
-					"Count": 127,
-					"tag": { 
-						"Damage": 0,
-						"display": { 
-							"Lore": [ 
-								"{\"text\":\"§8§m§l-------------------\"}",
-								"{\"text\":\"§6§oBardzo twarda i ostra..\"}",
-								"{\"text\":\"§6§oNiszczy drewno puknięciem..\"}",
-								"{\"text\":\"§8§m§l-------------------\"}",
-								"{\"text\":\"§8§oNagroda z transmutacji\"}"
-							],
-							"Name": "{\"text\":\"§6Smocza Siekiera\"}"
-						},
-						"Enchantments": [ 
-							{ 
-								"lvl": 6,
-								"id": "minecraft:efficiency"
-							},
-							{ 
-								"lvl": 3,
-								"id": "minecraft:fire_aspect"
-							},
-							{ 
-								"lvl": 5,
-								"id": "minecraft:fortune"
-							},
-							{ 
-								"lvl": 6,
-								"id": "minecraft:sharpness"
-							},
-							{ 
-								"lvl": 8,
-								"id": "minecraft:unbreaking"
-							}
-						]
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:iron_pickaxe",
-					"Count": 127,
-					"tag": { 
-						"Damage": 3,
-						"display": { 
-							"Lore": [ 
-								"{\"text\":\"§8§o§m--------------------\"}",
-								"{\"text\":\"§7§oZ Gwiazdkowego Prezentu (2020)!\"}",
-								"{\"text\":\"§7§oZdobyte przez: §7§o§lKatniss\"}"
-							],
-							"Name": "{\"text\":\"§6Gwiazdorowe §b❄ §6Szczęście z 4 Gwiazdek\"}"
-						},
-						"Enchantments": [ 
-							{ 
-								"lvl": 7,
-								"id": "minecraft:efficiency"
-							},
-							{ 
-								"lvl": 9,
-								"id": "minecraft:fortune"
-							},
-							{ 
-								"lvl": 4,
-								"id": "minecraft:unbreaking"
-							}
-						]
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:iron_pickaxe",
-					"Count": 127,
-					"tag": { 
-						"Damage": 0,
-						"display": { 
-							"Lore": [ 
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Katniss\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}",
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"------------------------------\",\"color\":\"dark_gray\"}]}"
-							],
-							"Name": "{\"text\":\"§6Gwiazdorowe §b❄ §6Szczęście z 5 Gwiazdek\"}"
-						},
-						"Enchantments": [ 
-							{ 
-								"lvl": 7,
-								"id": "minecraft:efficiency"
-							},
-							{ 
-								"lvl": 9,
-								"id": "minecraft:fortune"
-							},
-							{ 
-								"lvl": 4,
-								"id": "minecraft:unbreaking"
-							}
-						]
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:orange_shulker_box",
-					"Count": 127,
-					"tag": { 
-						"HideFlags": 32,
-						"BlockEntityTag": { 
-							"CustomName": "{\"text\":\"MysteryBox\"}",
-							"Items": [ 
-								{ 
-									"Slot": 0,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 1,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 2,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 3,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 4,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 5,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 6,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 7,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 8,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 9,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 10,
-									"id": "minecraft:emerald_block",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 11,
-									"id": "minecraft:beacon",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 12,
-									"id": "minecraft:enchanted_golden_apple",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 13,
-									"id": "minecraft:diamond_pickaxe",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"§eSpecjalny Kilof\"}"
-										},
-										"Enchantments": [ 
-											{ 
-												"lvl": 5,
-												"id": "minecraft:efficiency"
-											},
-											{ 
-												"lvl": 3,
-												"id": "minecraft:fortune"
-											},
-											{ 
-												"lvl": 3,
-												"id": "minecraft:unbreaking"
-											}
-										]
-									}
-								},
-								{ 
-									"Slot": 14,
-									"id": "minecraft:enchanted_golden_apple",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 15,
-									"id": "minecraft:beacon",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 16,
-									"id": "minecraft:emerald_block",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 17,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 18,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 19,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 20,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 21,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 22,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 23,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 24,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 25,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								},
-								{ 
-									"Slot": 26,
-									"id": "minecraft:dark_oak_planks",
-									"Count": 1,
-									"tag": { 
-										"display": { 
-											"Name": "{\"text\":\"?\"}"
-										}
-									}
-								}
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"MysteryBox\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
 					"id": "minecraft:green_shulker_box",
 					"Count": 127,
 					"tag": { 
-						"HideFlags": 32,
 						"BlockEntityTag": { 
 							"Items": [ 
 								{ 
@@ -5446,30 +4819,368 @@
 				}
 			},
 			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:trident\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Trójząb §as§6VIPa\"}'},Enchantments:[{lvl:1s,id:\"minecraft:riptide\"}]}}"
+			},
+			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
-					"id": "minecraft:chest",
+					"id": "minecraft:diamond_pickaxe",
 					"Count": 127,
 					"tag": { 
-						"HideFlags": 32,
+						"Damage": 0,
 						"display": { 
-							"Lore": [ 
-								"{\"text\":\"§7Prezent mikołajkowy!\"}",
-								"{\"text\":\"§7Otwórz go klikając prawym!\"}",
-								"{\"text\":\"§8§o§m--------------------\"}",
-								"{\"text\":\"§7Możliwe nagrody:\"}",
-								"{\"text\":\"§b0.10% §f- §6Tokeny\"}",
-								"{\"text\":\"§b0.40% §f- §6Eventowy Przedmiot\"}",
-								"{\"text\":\"§b1.00% §f- §3Talony\"}",
-								"{\"text\":\"§b3.50% §f- §5Zagubiona Gwiazdka\"}",
-								"{\"text\":\"§b5.00% §f- §dMikołajkowe Słodycze\"}",
-								"{\"text\":\"§b10.0% §f- §bDiament§f+§aEmerald\"}",
-								"{\"text\":\"§b20.0% §f- §7Żelazo§f+§eZłoto\"}",
-								"{\"text\":\"§b25.0% §f- §cRedstone§f+§1Lapis\"}",
-								"{\"text\":\"§b35.0% §f- §2Dollary\"}",
-								"{\"text\":\"§8§o§m--------------------\"}"
-							],
-							"Name": "{\"text\":\"§5§lZagubiony Prezent\"}"
+							"Name": "{\"text\":\"§6Kilof §as§6VIPa\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 3,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 2,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:diamond_shovel\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Szpadel §as§6VIPa\"}'},Enchantments:[{lvl:4s,id:\"minecraft:efficiency\"},{lvl:100s,id:\"minecraft:unbreaking\"}]}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:bow\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Łuk §as§6VIPa\"}'},Enchantments:[{lvl:1s,id:\"minecraft:flame\"},{lvl:1s,id:\"minecraft:infinity\"},{lvl:8s,id:\"minecraft:power\"},{lvl:7s,id:\"minecraft:punch\"}]}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:shears",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Name": "{\"text\":\"§6Nożyce §as§6VIPa\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:diamond_helmet\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Hełm §as§6VIPa\"}'},Enchantments:[{lvl:5s,id:\"minecraft:protection\"},{lvl:100s,id:\"minecraft:unbreaking\"}]}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:diamond_leggings\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Nogawice §as§6VIPa\"}'},Enchantments:[{lvl:5s,id:\"minecraft:fire_protection\"},{lvl:100s,id:\"minecraft:unbreaking\"}]}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:diamond_chestplate\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Napierśnik §as§6VIPa\"}'},Enchantments:[{lvl:5s,id:\"minecraft:projectile_protection\"},{lvl:100s,id:\"minecraft:unbreaking\"}]}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:diamond_boots\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Buty §as§6VIPa\"}'},Enchantments:[{lvl:5s,id:\"minecraft:feather_falling\"},{lvl:100s,id:\"minecraft:unbreaking\"}]}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:orange_shulker_box",
+					"Count": 127,
+					"tag": { 
+						"BlockEntityTag": { 
+							"Items": [ 
+								{ 
+									"Slot": 0,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 1,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 2,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 3,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 4,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 5,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 6,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 7,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 8,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 9,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 10,
+									"id": "minecraft:emerald_block",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 11,
+									"id": "minecraft:beacon",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 12,
+									"id": "minecraft:enchanted_golden_apple",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 13,
+									"id": "minecraft:diamond_pickaxe",
+									"Count": 1,
+									"tag": { 
+										"Damage": 0,
+										"display": { 
+											"Name": "{\"text\":\"§eSpecjalny Kilof\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 5,
+												"id": "minecraft:efficiency"
+											},
+											{ 
+												"lvl": 3,
+												"id": "minecraft:fortune"
+											},
+											{ 
+												"lvl": 3,
+												"id": "minecraft:unbreaking"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 14,
+									"id": "minecraft:enchanted_golden_apple",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 15,
+									"id": "minecraft:beacon",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 16,
+									"id": "minecraft:emerald_block",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 17,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 18,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 19,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 20,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 21,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 22,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 23,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 24,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 25,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 26,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								}
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"MysteryBox\"}"
 						}
 					},
 					"type": "item"
@@ -5478,28 +5189,161 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
-					"id": "minecraft:chest",
+					"id": "minecraft:blaze_rod",
 					"Count": 127,
 					"tag": { 
-						"HideFlags": 32,
 						"display": { 
 							"Lore": [ 
-								"{\"text\":\"§7Prezent gwiazdkowy!\"}",
-								"{\"text\":\"§7Otwórz go klikając prawym!\"}",
-								"{\"text\":\"§8§o§m--------------------\"}",
-								"{\"text\":\"§7Możliwe nagrody:\"}",
-								"{\"text\":\"§b0.10% §f- §6Tokeny\"}",
-								"{\"text\":\"§b0.40% §f- §6Eventowy Przedmiot\"}",
-								"{\"text\":\"§b1.50% §f- §3Talony\"}",
-								"{\"text\":\"§b2.00% §f- §5Zagubiona Gwiazdka\"}",
-								"{\"text\":\"§b15.0% §f- §bDiament§f+§aEmerald\"}",
-								"{\"text\":\"§b22.5% §f- §7Żelazo§f+§eZłoto\"}",
-								"{\"text\":\"§b25.0% §f- §cRedstone§f+§1Lapis\"}",
-								"{\"text\":\"§b35.0% §f- §2Dollary\"}",
-								"{\"text\":\"§8§o§m--------------------\"}"
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"-------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"W jej materiale..\",\"color\":\"gold\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Płonie smoczy ogień..\",\"color\":\"gold\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"-------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Kupione przez: \",\"color\":\"dark_gray\",\"italic\":true},{\"text\":\"N3kiZ33\",\"color\":\"gray\",\"italic\":true}]}"
 							],
-							"Name": "{\"text\":\"§5§lGwiazdkowy Prezent\"}"
-						}
+							"Name": "{\"text\":\"§6Smocza Włócznia\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 6,
+								"id": "minecraft:bane_of_arthropods"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:fire_aspect"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:knockback"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:looting"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:smite"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 186,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Kilof wykorzystywany..\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Przy wydobywaniu lodu!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z adwentu 2020!\",\"color\":\"gray\",\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§r§6Oslabiony Smoczy Kilof\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_axe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§m§l-------------------\"}",
+								"{\"text\":\"§6§oBardzo twarda i ostra..\"}",
+								"{\"text\":\"§6§oNiszczy drewno puknięciem..\"}",
+								"{\"text\":\"§8§m§l-------------------\"}",
+								"{\"text\":\"§8§oNagroda z transmutacji\"}"
+							],
+							"Name": "{\"text\":\"§6Smocza Siekiera\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 6,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:fire_aspect"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_leggings",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Podarunku (2020)!\",\"color\":\"gray\",\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§6Gwiazdkowe Smocze Nogawice\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 6,
+								"id": "minecraft:blast_protection"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:fire_protection"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:thorns"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:unbreaking"
+							}
+						]
 					},
 					"type": "item"
 				}
@@ -6437,6 +6281,131 @@
 				}
 			},
 			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:diamond_sword\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6✾Kwantowy✾ Miecz\"}'},Enchantments:[{lvl:1s,id:\"minecraft:knockback\"},{lvl:8s,id:\"minecraft:sharpness\"},{lvl:8s,id:\"minecraft:sweeping\"}]}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_sword",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§b§oZ Arcadowego pojemnika!\"}",
+								"{\"text\":\"§b§oZdobyte przez: §3§oProjektantGruby\"}"
+							],
+							"Name": "{\"text\":\"§6✾Kwantowy✾ Miecz\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:knockback"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:sweeping"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_axe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§b§oZ Arcadowego pojemnika!\"}",
+								"{\"text\":\"§b§oZdobyte przez: §3§oExplorer2000\"}"
+							],
+							"Name": "{\"text\":\"§6✾Kwantowa✾ Siekiera\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_shovel",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§b§oZ Arcadowego pojemnika!\"}",
+								"{\"text\":\"§b§oZdobyte przez: §3§omckotka\"}"
+							],
+							"Name": "{\"text\":\"§6✾Kwantowa✾ Łopata\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 10,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:shears\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6✾Kwantowe✾ Nożyce\"}'},Enchantments:[{lvl:10s,id:\"minecraft:efficiency\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:1s,id:\"minecraft:silk_touch\"},{lvl:10s,id:\"minecraft:unbreaking\"}]}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:sponge",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Name": "{\"text\":\"§6§lBonusowa gąbka\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:sponge\",Count:127b,tag:{display:{Lore:['{\"text\":\"§eMusisz ją zamoczyć i wykopać\"}','{\"text\":\"§eaby wydobyć skarby!\"}'],Name:'{\"text\":\"§6§lBonusowa gąbka\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:leather_boots\",Count:127b,tag:{Damage:60,Enchantments:[{lvl:5s,id:\"minecraft:protection\"}],display:{color:8991416}}}"
+			},
+			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
 					"id": "minecraft:diamond_chestplate",
@@ -6513,39 +6482,6 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
-					"id": "minecraft:diamond_pickaxe",
-					"Count": 127,
-					"tag": { 
-						"Damage": 0,
-						"display": { 
-							"Lore": [ 
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Katniss\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
-							],
-							"Name": "{\"text\":\"§6Gwiazdkowy §b❄ §6Załamywacz z 27 Gwiazdek\"}"
-						},
-						"Enchantments": [ 
-							{ 
-								"lvl": 8,
-								"id": "minecraft:efficiency"
-							},
-							{ 
-								"lvl": 5,
-								"id": "minecraft:fortune"
-							},
-							{ 
-								"lvl": 10,
-								"id": "minecraft:unbreaking"
-							}
-						]
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
 					"id": "minecraft:diamond_shovel",
 					"Count": 127,
 					"tag": { 
@@ -6577,6 +6513,165 @@
 							{ 
 								"lvl": 10,
 								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:chest",
+					"Count": 127,
+					"tag": { 
+						"HideFlags": 32,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7Prezent mikołajkowy!\"}",
+								"{\"text\":\"§7Otwórz go klikając prawym!\"}",
+								"{\"text\":\"§8§o§m--------------------\"}",
+								"{\"text\":\"§7Możliwe nagrody:\"}",
+								"{\"text\":\"§b0.10% §f- §6Tokeny\"}",
+								"{\"text\":\"§b0.40% §f- §6Eventowy Przedmiot\"}",
+								"{\"text\":\"§b1.00% §f- §3Talony\"}",
+								"{\"text\":\"§b3.50% §f- §5Zagubiona Gwiazdka\"}",
+								"{\"text\":\"§b5.00% §f- §dMikołajkowe Słodycze\"}",
+								"{\"text\":\"§b10.0% §f- §bDiament§f+§aEmerald\"}",
+								"{\"text\":\"§b20.0% §f- §7Żelazo§f+§eZłoto\"}",
+								"{\"text\":\"§b25.0% §f- §cRedstone§f+§1Lapis\"}",
+								"{\"text\":\"§b35.0% §f- §2Dollary\"}",
+								"{\"text\":\"§8§o§m--------------------\"}"
+							],
+							"Name": "{\"text\":\"§5§lZagubiony Prezent\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:chest",
+					"Count": 127,
+					"tag": { 
+						"HideFlags": 32,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7Prezent gwiazdkowy!\"}",
+								"{\"text\":\"§7Otwórz go klikając prawym!\"}",
+								"{\"text\":\"§8§o§m--------------------\"}",
+								"{\"text\":\"§7Możliwe nagrody:\"}",
+								"{\"text\":\"§b0.10% §f- §6Tokeny\"}",
+								"{\"text\":\"§b0.40% §f- §6Eventowy Przedmiot\"}",
+								"{\"text\":\"§b1.50% §f- §3Talony\"}",
+								"{\"text\":\"§b2.00% §f- §5Zagubiona Gwiazdka\"}",
+								"{\"text\":\"§b15.0% §f- §bDiament§f+§aEmerald\"}",
+								"{\"text\":\"§b22.5% §f- §7Żelazo§f+§eZłoto\"}",
+								"{\"text\":\"§b25.0% §f- §cRedstone§f+§1Lapis\"}",
+								"{\"text\":\"§b35.0% §f- §2Dollary\"}",
+								"{\"text\":\"§8§o§m--------------------\"}"
+							],
+							"Name": "{\"text\":\"§5§lGwiazdkowy Prezent\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:iron_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 3,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§o§m--------------------\"}",
+								"{\"text\":\"§7§oZ Gwiazdkowego Prezentu (2020)!\"}",
+								"{\"text\":\"§7§oZdobyte przez: §7§o§lKatniss\"}"
+							],
+							"Name": "{\"text\":\"§6Gwiazdorowe §b❄ §6Szczęście z 4 Gwiazdek\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 9,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:iron_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Katniss\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"------------------------------\",\"color\":\"dark_gray\"}]}"
+							],
+							"Name": "{\"text\":\"§6Gwiazdorowe §b❄ §6Szczęście z 5 Gwiazdek\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 9,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Katniss\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§6Gwiazdkowy §b❄ §6Załamywacz z 27 Gwiazdek\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 8,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:fortune"
 							},
 							{ 
 								"lvl": 10,
@@ -6674,37 +6769,6 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
-					"id": "minecraft:blaze_rod",
-					"Count": 127,
-					"tag": { 
-						"display": { 
-							"Lore": [ 
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Dla niegrzecznych.. Potworów!\",\"color\":\"gray\",\"italic\":true}]}",
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z adwentu 2020!\",\"color\":\"gray\",\"italic\":true}]}"
-							],
-							"Name": "{\"text\":\"§cRózga Mikołaja\"}"
-						},
-						"Enchantments": [ 
-							{ 
-								"lvl": 6,
-								"id": "minecraft:knockback"
-							},
-							{ 
-								"lvl": 5,
-								"id": "minecraft:looting"
-							},
-							{ 
-								"lvl": 8,
-								"id": "minecraft:sharpness"
-							}
-						]
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
 					"id": "minecraft:diamond_axe",
 					"Count": 127,
 					"tag": { 
@@ -6739,36 +6803,69 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
-					"id": "minecraft:diamond_leggings",
+					"id": "minecraft:diamond_chestplate",
 					"Count": 127,
 					"tag": { 
 						"Damage": 0,
 						"display": { 
 							"Lore": [ 
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Podarunku (2020)!\",\"color\":\"gray\",\"italic\":true}]}"
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Kornik23\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
 							],
-							"Name": "{\"text\":\"§6Gwiazdkowe Smocze Nogawice\"}"
+							"Name": "{\"text\":\"§6Płaszcz Gwiazdora §b❄ §6z 3 Gwiazdek\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 10,
+								"id": "minecraft:blast_protection"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:projectile_protection"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 2,
+								"id": "minecraft:thorns"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:blaze_rod",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Dla niegrzecznych.. Potworów!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z adwentu 2020!\",\"color\":\"gray\",\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§cRózga Mikołaja\"}"
 						},
 						"Enchantments": [ 
 							{ 
 								"lvl": 6,
-								"id": "minecraft:blast_protection"
+								"id": "minecraft:knockback"
 							},
 							{ 
-								"lvl": 6,
-								"id": "minecraft:fire_protection"
+								"lvl": 5,
+								"id": "minecraft:looting"
 							},
 							{ 
-								"lvl": 6,
-								"id": "minecraft:protection"
-							},
-							{ 
-								"lvl": 3,
-								"id": "minecraft:thorns"
-							},
-							{ 
-								"lvl": 6,
-								"id": "minecraft:unbreaking"
+								"lvl": 8,
+								"id": "minecraft:sharpness"
 							}
 						]
 					},
@@ -6866,6 +6963,43 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
+					"id": "minecraft:spawner",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§r§9Pig\"}"
+							]
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:spawner",
+					"Count": 127,
+					"tag": { 
+						"Damage": 61,
+						"BlockEntityTag": { 
+							"SpawnData": { 
+								"id": "blaze"
+							}
+						},
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Blaze\",\"color\":\"blue\"}]}"
+							],
+							"Name": "{\"text\":\"§aBlaze spawner\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
 					"id": "minecraft:cookie",
 					"Count": 127,
 					"tag": { 
@@ -6879,10 +7013,831 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
+					"id": "minecraft:wither_rose",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§2§oKolekcja kwiatowa\"}",
+								"{\"text\":\"§7§o(13/13)\"}",
+								"{\"text\":\"§olegendarny\"}"
+							],
+							"Name": "{\"text\":\"§5§lWitherowa róża\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\" \"}",
+								"{\"text\":\"§7§oKilof wykorzystywany..\"}",
+								"{\"text\":\"§7§oPrzy wydobywaniu lodu!\"}",
+								"{\"text\":\"§7§oZ adwentu 2020!\"}"
+							],
+							"Name": "{\"text\":\"§bŚwiąteczny Lodołamacz\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"RepairCost": 1,
+						"Damage": 32,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§o§m--------------------\"}",
+								"{\"text\":\"§7§oZ Syntezy Fragmentów!\"}",
+								"{\"text\":\"§7§oUzyskane przez: §7§o§lNUMEREK81450\"}"
+							],
+							"Name": "{\"text\":\"6Oszlamowany Kilof\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_leggings",
+					"Count": 127,
+					"tag": { 
+						"RepairCost": 3,
+						"Damage": 0,
+						"display": { 
+							"Name": "{\"text\":\"§r§6Legendarny Set\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 4,
+								"id": "minecraft:blast_protection"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:fire_protection"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:projectile_protection"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:thorns"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:nether_star",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Oddaj zagubione gwiazdki\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"gwiazdorom i otrzymaj specjalne\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"nagrody! Wpisz: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"/gwiazdki\",\"color\":\"blue\",\"italic\":true},{\"text\":\"!\",\"color\":\"gray\",\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§5Zagubiona Gwiazdka\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"Damage": 3,
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzU5NGNhNWRjNWM4NWRiM2I0YTkwZDQ4NTkzMmJlZGU1ZmJkZjQwMjNmYzRmYmZmNmZlMTRiZTQwOWMxZjk3In19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								1732067234,
+								1405893817,
+								-1075722042,
+								636196607
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"§2Christmas Ball Ornament (gold)\"}"
+						},
+						"SkullOwnerOrig": "04049c90-d3e9-4621-9caf-00000aaa1493"
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_sword",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§3§oSłuży głównie do walki,\"}",
+								"{\"text\":\"§3§oale można się nim także\"}",
+								"{\"text\":\"§3§opodrapać po plecach.\"}"
+							],
+							"Name": "{\"text\":\"§3§lMiecz Rycerza\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 3,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_helmet",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§3§oNakrycie głowy wojownika.\"}"
+							],
+							"Name": "{\"text\":\"§3§lHełm Rycerza\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 2,
+								"id": "minecraft:mending"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							},
+							{ 
+								"lvl": 1,
+								"id": "minecraft:vanishing_curse"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_leggings",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§3§oKompleksowa ochrona\"}",
+								"{\"text\":\"§3§oi wysoka mobilność!\"}"
+							],
+							"Name": "{\"text\":\"§3§lNogawice Rycerza\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 2,
+								"id": "minecraft:mending"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							},
+							{ 
+								"lvl": 1,
+								"id": "minecraft:vanishing_curse"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_boots",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§3§oMożesz w nich biegać,\"}",
+								"{\"text\":\"§3§omożesz w nich skakać,\"}",
+								"{\"text\":\"§3§omożesz w nich walczyć!\"}"
+							],
+							"Name": "{\"text\":\"§3§lButy Rycerza\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 2,
+								"id": "minecraft:mending"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							},
+							{ 
+								"lvl": 1,
+								"id": "minecraft:vanishing_curse"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_sword",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Ten przebiegły goblin\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"tym razem nie zniszczy\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"naszych wyjątkowych świąt!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z adwentu 2020!\",\"color\":\"gray\",\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§cPogromca Grinch\\u0027a\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 8,
+								"id": "minecraft:bane_of_arthropods"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:fire_aspect"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:looting"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:smite"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_block",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Name": "{\"text\":\"§r§f§lSkup cennych bloków w dobrej cenie /is warp SkateZiomekPL\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_sword",
+					"Count": 127,
+					"tag": { 
+						"Damage": 61,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§6§oMiecz prawdziwego króla.\"}"
+							],
+							"Name": "{\"text\":\"§6§lExcalibur\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 2,
+								"id": "minecraft:fire_aspect"
+							},
+							{ 
+								"lvl": 1,
+								"id": "minecraft:mending"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:bow",
+					"Count": 127,
+					"tag": { 
+						"RepairCost": 1,
+						"Damage": 14,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§m§l-------------------\"}",
+								"{\"text\":\"§6§oŁuk ten generuje..\"}",
+								"{\"text\":\"§6§oSmocze świsty..\"}",
+								"{\"text\":\"§8§m§l-------------------\"}",
+								"{\"text\":\"§8§oNagroda z transmutacji\"}"
+							],
+							"Name": "{\"text\":\"ezzzzzzzzzzzzzzz\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 3,
+								"id": "minecraft:fire_aspect"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:flame"
+							},
+							{ 
+								"lvl": 1,
+								"id": "minecraft:infinity"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:knockback"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:looting"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:power"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:punch"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_axe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 112,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§o§m--------------------\"}",
+								"{\"text\":\"§7§oZ Unikalnego Szlamu!\"}",
+								"{\"text\":\"§7§oZdobyte przez: §7§o§lReKzZ\"}"
+							],
+							"Name": "{\"text\":\"Kopie jak Szalona\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_boots",
+					"Count": 127,
+					"tag": { 
+						"RepairCost": 1,
+						"Damage": 45,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§o§m--------------------\"}",
+								"{\"text\":\"§7§oZ Unikalnego Szlamu!\"}",
+								"{\"text\":\"§7§oZdobyte przez: §7§o§lReKzZ\"}"
+							],
+							"Name": "{\"text\":\"Jednorazowe Buty\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 6,
+								"id": "minecraft:blast_protection"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:feather_falling"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:fire_protection"
+							},
+							{ 
+								"lvl": 1,
+								"id": "minecraft:mending"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:projectile_protection"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:thorns"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:turtle_helmet",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§3§oPomaga przetrwać\"}",
+								"{\"text\":\"§3§opod wodą.\"}"
+							],
+							"Name": "{\"text\":\"§2§lHełm Atlanty\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 2,
+								"id": "minecraft:aqua_affinity"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:respiration"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:trident",
+					"Count": 127,
+					"tag": { 
+						"Damage": 6,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§1§oZabrany władcy mórz i oceanów.\"}"
+							],
+							"Name": "{\"text\":\"§b§lTrójząb Posejdona\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 2,
+								"id": "minecraft:fire_aspect"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:looting"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:loyalty"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:sharpness"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:trident",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§3§oNikt nie prześcignie cię pod wodą!\"}"
+							],
+							"Name": "{\"text\":\"§3§lTrójząb posłańca\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 5,
+								"id": "minecraft:riptide"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_leggings",
+					"Count": 127,
+					"tag": { 
+						"RepairCost": 31,
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§b§oZ Arcadowego pojemnika!\"}",
+								"{\"text\":\"§b§oZdobyte przez: §3§oAdrianGruby\"}"
+							],
+							"Name": "{\"text\":\"6⭐Złomo-Nogawice⭐ z 48 Różnyc\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:blast_protection"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:fire_protection"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:projectile_protection"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:magma_cream",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7Użyj, aby §aaktywować §eTurboDrop\"}",
+								"{\"text\":\"§7na §315 minut§7. Buff ten zwiększa\"}",
+								"{\"text\":\"§apodstawową szansę §7na dropy\"}",
+								"{\"text\":\"§7z kamienia (stone) o §a4.0x§7.\"}",
+								"{\"text\":\"§8Np. zamiast 1.25% na kwarc, będzie 5%.\"}"
+							],
+							"Name": "{\"text\":\"§3§lKULA §c§lTU§6§lRB§e§lO DR§f§lOPU\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
 					"id": "minecraft:red_stained_glass_pane",
 					"Count": 127,
 					"type": "item"
 				}
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:cake\",Count:127b,tag:{display:{Lore:['{\"text\":\"§6Smaczne!\"}','{\"text\":\"\"}','{\"text\":\"§fZjedz mnie!\"}'],Name:'{\"text\":\"§f§lCiasto\"}'},Enchantments:[{lvl:1s,id:\"minecraft:binding_curse\"}]}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:azure_bluet\",Count:127b,tag:{display:{Lore:['{\"text\":\"§7Bukiet powitalny dla graczy GC2!\"}'],Name:'{\"text\":\"§6§lBukiet od §f§lAdministracji\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:cake\",Count:127b,tag:{display:{Lore:['{\"text\":\"§7Najsmaczniejsze na serwerze!\"}'],Name:'{\"text\":\"§6§lCiasto od §f§lTBone\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:totem_of_undying\",Count:127b,tag:{display:{Lore:['{\"text\":\"§7Legendarny totem samego właściciela GC2!\"}'],Name:'{\"text\":\"§6§lTotem §f§lMorkaZoida\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:cookie\",Count:127b,tag:{display:{Lore:['{\"text\":\"§7Legendarne ciastko od samej właścicielki GC2!\"}'],Name:'{\"text\":\"§6§lCiasteczko od §f§lEsqL\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:sponge\",Count:127b,tag:{display:{Lore:['{\"text\":\"§eMusisz ją zamoczyć i wykopać\"}','{\"text\":\"§eaby wydobyć skarby!\"}'],Name:'{\"text\":\"✂Podpis od KubsonGamer251✂\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:paper\",Count:127b,tag:{display:{Name:'{\"text\":\"§3§lKasyno §c§l\\'Error\\'§6§l - graj §e§lgąbkami§6§l wygraj §b§lbloki diax§6§l! §f§l/is warp §nkiszone_\"}'}}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:emerald",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Name": "{\"text\":\"§b§lZAPRASZAM NA§6§l/is warp danioleqpl\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:golden_carrot\",Count:127b,tag:{display:{Name:'{\"text\":\"§8§lM§7§larhefka §8§lJ§7§lur §f(NIE PODPIS)\"}'}}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:filled_map",
+					"Count": 127,
+					"tag": { 
+						"map": 2764,
+						"display": { 
+							"Name": "{\"text\":\"§r§f§k;§9§lStraznik§f§k; §0§l§mX_§8§l§nMr§4§l§mJo§7§l§nhn§0§l§m_X §e§l§nedycja §2§l§oŚwi§a§l§oąte§f§l§oczna\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Name": "{\"text\":\"§6 Przestani oglądac §4ANIME§8 od BBo\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{display:{Name:'{\"text\":\"----dk1\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"1-- Dakanrog --\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"2-- Dakanrog --\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"3-- Dakanrog --\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"4-- Dakanrog --\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"5-- Dakanrog --\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"6-- Dakanrog --\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"7-- Dakanrog --\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"8-- Dakanrog --\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{display:{Name:'{\"text\":\"----dk2\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{display:{Name:'{\"text\":\"----dk3\"}'}}}"
 			},
 			{ 
 				"type": "stack",
@@ -7603,6 +8558,96 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:purple_stained_glass_pane\",Count:127b}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:pumpkin",
+					"Count": 127,
+					"tag": { 
+						"AuctionHouse": 1,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Dynia eventowa!\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Otwórz ją klikając prawym!\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Możliwe nagrody:\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"0.10% \",\"color\":\"aqua\"},{\"text\":\"- \",\"color\":\"white\"},{\"text\":\"Tokeny\",\"color\":\"gold\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"0.50% \",\"color\":\"aqua\"},{\"text\":\"- \",\"color\":\"white\"},{\"text\":\"Eventowy Przedmiot\",\"color\":\"gold\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"1.00% \",\"color\":\"aqua\"},{\"text\":\"- \",\"color\":\"white\"},{\"text\":\"Talony\",\"color\":\"dark_aqua\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"20.0% \",\"color\":\"aqua\"},{\"text\":\"- \",\"color\":\"white\"},{\"text\":\"Diament\",\"color\":\"aqua\"},{\"text\":\"+\",\"color\":\"white\"},{\"text\":\"Emerald\",\"color\":\"green\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"38.4% \",\"color\":\"aqua\"},{\"text\":\"- \",\"color\":\"white\"},{\"text\":\"Dollary\",\"color\":\"dark_green\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"40.0% \",\"color\":\"aqua\"},{\"text\":\"- \",\"color\":\"white\"},{\"text\":\"Żelazo\",\"color\":\"gray\"},{\"text\":\"+\",\"color\":\"white\"},{\"text\":\"Złoto\",\"color\":\"yellow\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"------------------------------\",\"color\":\"dark_gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Nie stać cię na ten przedmiot.\",\"color\":\"red\",\"bold\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Cena: \",\"color\":\"dark_aqua\"},{\"text\":\"$10,000.00\",\"color\":\"yellow\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Sprzedawca: \",\"color\":\"dark_aqua\"},{\"text\":\"Ognisty_Kacper\",\"color\":\"yellow\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Wygasa: \",\"color\":\"dark_aqua\"},{\"text\":\"11h 59m 56s\",\"color\":\"yellow\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"------------------------------\",\"color\":\"dark_gray\"}]}"
+							],
+							"ViaVersion|Protocol1_14To1_13_2|Lore": [ 
+								"§7Dynia eventowa!",
+								"§7Otwórz ją klikając prawym!",
+								"§8§o§m--------------------",
+								"§7Możliwe nagrody:",
+								"§b0.10% §f- §6Tokeny",
+								"§b0.50% §f- §6Eventowy Przedmiot",
+								"§b1.00% §f- §3Talony",
+								"§b20.0% §f- §bDiament§f+§aEmerald",
+								"§b38.4% §f- §2Dollary",
+								"§b40.0% §f- §7Żelazo§f+§eZłoto",
+								"§8§o§m--------------------",
+								"§8------------------------------",
+								"§c§lNie stać cię na ten przedmiot.",
+								" ",
+								"§3Cena: §e$10,000.00",
+								"§3Sprzedawca: §eOgnisty_Kacper",
+								"§3Wygasa: §e11h 59m 56s",
+								" ",
+								"§8------------------------------"
+							],
+							"Name": "{\"text\":\"§5§lMagiczna Dynia\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:netherrack",
+					"Count": 127,
+					"tag": { 
+						"AuctionHouse": 1,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"------------------------------\",\"color\":\"dark_gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Nie stać cię na ten przedmiot.\",\"color\":\"red\",\"bold\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Cena: \",\"color\":\"dark_aqua\"},{\"text\":\"$1,000.00\",\"color\":\"yellow\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Sprzedawca: \",\"color\":\"dark_aqua\"},{\"text\":\"Mr_cziterek\",\"color\":\"yellow\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Wygasa: \",\"color\":\"dark_aqua\"},{\"text\":\"11h 43m 43s\",\"color\":\"yellow\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"------------------------------\",\"color\":\"dark_gray\"}]}"
+							],
+							"ViaVersion|Protocol1_14To1_13_2|Lore": [ 
+								"§8------------------------------",
+								"§c§lNie stać cię na ten przedmiot.",
+								" ",
+								"§3Cena: §e$1,000.00",
+								"§3Sprzedawca: §eMr_cziterek",
+								"§3Wygasa: §e11h 43m 43s",
+								" ",
+								"§8------------------------------"
+							],
+							"Name": "{\"text\":\"§r§3breves to penis\"}"
+						}
+					},
+					"type": "item"
+				}
 			}
 		],
 		// Declares whether cheating mode is on.
