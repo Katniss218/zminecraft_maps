@@ -1,0 +1,11 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Złowieszczy Las,x:4,z:-232,y:87,enabled:true,red:0.9764706,green:0.50980395,blue:0.0,suffix:,world:,dimensions:overworld#
+name:>> SPAWN <<,x:81,z:-191,y:69,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
+name:Tawerna,x:-32,z:-147,y:69,enabled:true,red:0.96862745,green:0.9137255,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Magazyn,x:-126,z:-155,y:75,enabled:true,red:0.9137255,green:0.92156863,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Startowa wioska,x:14,z:-38,y:77,enabled:true,red:0.03529412,green:0.9490196,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Domy,x:72,z:-7,y:72,enabled:true,red:0.011764706,green:0.9372549,blue:0.007843138,suffix:house,world:,dimensions:overworld#
+name:Potwory idą stąd,x:128,z:-311,y:79,enabled:true,red:0.92941177,green:0.019607844,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Wioska oblegana przez potwory,x:101,z:-400,y:89,enabled:true,red:0.8745098,green:0.9137255,blue:0.0,suffix:house,world:,dimensions:overworld#

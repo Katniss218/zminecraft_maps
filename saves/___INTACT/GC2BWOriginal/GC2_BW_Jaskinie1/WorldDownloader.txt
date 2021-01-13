@@ -1,4 +1,0 @@
-#
-#Thu Jun 15 10:41:48 CEST 2017
-LinkedWorlds=
-ServerName=GC2 \:\: MaslO123

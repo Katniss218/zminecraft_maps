@@ -1,4 +1,0 @@
-#
-#Mon Aug 21 10:05:50 CEST 2017
-LinkedWorlds=
-ServerName=GC2 \:\: Masl0321

@@ -619,10 +619,6 @@
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:chainmail_chestplate\",Count:127b,tag:{Unbreakable:1,Damage:0,HideFlags:63,AttributeModifiers:[{UUIDMost:29779,UUIDLeast:788339,Amount:5,Slot:\"chest\",AttributeName:\"generic.armor\",Operation:0,Name:\"generic.armor\"}],display:{Lore:['{\"text\":\"§8Tunika wykonana z tysiecy malych,\"}','{\"text\":\"§8zelaznych kólek, laczonych\"}','{\"text\":\"§8metoda \\'na styk\\'.\"}','{\"text\":\"\"}','{\"text\":\"§7> §6Ochrona: §e§l5\"}'],Name:'{\"text\":\"§7§lTunika kolcza\"}'}}}"
-			},
-			{ 
-				"type": "stack",
 				"nbt": "{id:\"minecraft:wooden_sword\",Count:127b,tag:{Unbreakable:1,Damage:0,HideFlags:63,AttributeModifiers:[{UUIDMost:285733,UUIDLeast:216639,Amount:3,Slot:\"mainhand\",AttributeName:\"generic.attackDamage\",Operation:0,Name:\"generic.attackDamage\"},{UUIDMost:83733,UUIDLeast:254660,Amount:-2,Slot:\"mainhand\",AttributeName:\"generic.attackSpeed\",Operation:0,Name:\"generic.attackSpeed\"}],display:{Lore:['{\"text\":\"§8Uzywany podczas treningów.\"}','{\"text\":\"§8Jest wykonany z drewna aby\"}','{\"text\":\"§8zapewnic bezpieczenstwo.\"}','{\"text\":\"\"}','{\"text\":\"§7> §6Obrazenia: §e§l3-4\"}','{\"text\":\"§7> §6Szybkosc: §e§l||§8§l|\"}'],Name:'{\"text\":\"§7§lMiecz treningowy\"}'}}}"
 			},
 			{ 
@@ -640,6 +636,10 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:leather_boots\",Count:127b,tag:{Unbreakable:1,Damage:0,HideFlags:63,AttributeModifiers:[{UUIDMost:29779,UUIDLeast:588339,Amount:1,Slot:\"feet\",AttributeName:\"generic.armor\",Operation:0,Name:\"generic.armor\"}],display:{Lore:['{\"text\":\"§8Lekko pogniecione, ale mimo\"}','{\"text\":\"§8wszystko dosc wygodne.\"}','{\"text\":\"\"}','{\"text\":\"§7> §6Ochrona: §e§l1\"}'],Name:'{\"text\":\"§7§lSkorzane buty\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:chainmail_chestplate\",Count:127b,tag:{Unbreakable:1,Damage:0,HideFlags:63,AttributeModifiers:[{UUIDMost:29779,UUIDLeast:788339,Amount:5,Slot:\"chest\",AttributeName:\"generic.armor\",Operation:0,Name:\"generic.armor\"}],display:{Lore:['{\"text\":\"§8Tunika wykonana z tysiecy malych,\"}','{\"text\":\"§8zelaznych kólek, laczonych\"}','{\"text\":\"§8metoda \\'na styk\\'.\"}','{\"text\":\"\"}','{\"text\":\"§7> §6Ochrona: §e§l5\"}'],Name:'{\"text\":\"§7§lTunika kolcza\"}'}}}"
 			},
 			{ 
 				"type": "stack",
@@ -763,7 +763,27 @@
 			},
 			{ 
 				"type": "stack",
+				"nbt": "{id:\"minecraft:stone_sword\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§eKamienny miecz podwładnych II\"}'},Enchantments:[{lvl:4s,id:\"minecraft:sharpness\"}]}}"
+			},
+			{ 
+				"type": "stack",
 				"nbt": "{id:\"minecraft:wooden_hoe\",Count:127b,tag:{Damage:0,display:{Lore:['{\"text\":\"\"}','{\"text\":\"§3Kosa, dająca właścicielowi wielką moc.\"}'],Name:'{\"text\":\"§eDrewniana kosa mocy\"}'},Enchantments:[{lvl:5s,id:\"minecraft:sharpness\"},{lvl:1s,id:\"minecraft:knockback\"}]}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:leather_helmet\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§eHełm zabójcy\"}'},Enchantments:[{lvl:1s,id:\"minecraft:protection\"},{lvl:10s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:fire_protection\"}]}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:leather_chestplate\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§eNapierśnik zabójcy\"}'},Enchantments:[{lvl:1s,id:\"minecraft:protection\"},{lvl:10s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:fire_protection\"}]}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:leather_leggings\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§eSpodnie zabójcy\"}'},Enchantments:[{lvl:1s,id:\"minecraft:protection\"},{lvl:10s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:fire_protection\"}]}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:leather_boots\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§eButy zabójcy\"}'},Enchantments:[{lvl:1s,id:\"minecraft:protection\"},{lvl:10s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:fire_protection\"}]}}"
 			},
 			{ 
 				"type": "stack",
@@ -824,22 +844,6 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:golden_sword\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§eZłoty miecz podwładnych\"}'},Enchantments:[{lvl:2s,id:\"minecraft:sharpness\"},{lvl:20s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:fire_aspect\"},{lvl:1s,id:\"minecraft:knockback\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:leather_helmet\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§eHełm zabójcy\"}'},Enchantments:[{lvl:1s,id:\"minecraft:protection\"},{lvl:10s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:fire_protection\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:leather_chestplate\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§eNapierśnik zabójcy\"}'},Enchantments:[{lvl:1s,id:\"minecraft:protection\"},{lvl:10s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:fire_protection\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:leather_leggings\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§eSpodnie zabójcy\"}'},Enchantments:[{lvl:1s,id:\"minecraft:protection\"},{lvl:10s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:fire_protection\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:leather_boots\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§eButy zabójcy\"}'},Enchantments:[{lvl:1s,id:\"minecraft:protection\"},{lvl:10s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:fire_protection\"}]}}"
 			},
 			{ 
 				"type": "stack",
@@ -988,10 +992,6 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:splash_potion\",Count:127b,tag:{CustomPotionEffects:[{Duration:600,Id:20b,Amplifier:1b}],Potion:\"minecraft:regeneration\",display:{Name:'{\"text\":\"§eRzucana mikstura obumarcia II\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:stone_sword\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§eKamienny miecz podwładnych II\"}'},Enchantments:[{lvl:4s,id:\"minecraft:sharpness\"}]}}"
 			},
 			{ 
 				"type": "stack",
@@ -1635,10 +1635,6 @@
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Id:[I;-1603909985,514476567,-1545101897,-736314301],Properties:{textures:[{Value:\"eyJ0aW1lc3RhbXAiOjE0MTg2NzU1NTAyMzMsInByb2ZpbGVJZCI6ImEwNjY0NjlmMWVhYTRhMTdhM2U3OWRiN2Q0MWNiYzQzIiwicHJvZmlsZU5hbWUiOiJFZG5hX0kiLCJpc1B1YmxpYyI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg3MmQzNDFkNzdkYmRlNmQ1M2RhZDYxYmYxOTI1MjRkYmRiOTZhZjEzNThlMDc0OGZlZWExNDgxYjFmOCJ9fX0=\",Signature:\"D2OyJUT0ZUm3gsLIeJmtlSte/Jwg8rTKDG04gnnOlu3OrPYy9d0nzD8DZr5GMLXidkRcl9SuHV2Q3T0upZfLMaw6fBHWzEjVCgVipu0ZV8jL/L9ForV494VtrBnQkx3VKALtd/7IsyXIn3O9k1HlGHCzhjJcP0Bb1ieI/bx2K0JMsOH+EB01ohNnBXuueT/bL4sjEk3ABGGZlNk02qAp76VQZAiO5WbdCQ+6C3lnGN0QDBAJYzcIqVdWrZ5Ez+qyHHL6KoJnoPNpFFt47LHZhX8oKUEwLT4SlvNREEJLqeCK7fCBHQapj+uQWgSNB2j/0cJZDtWc7Od6DBkRES8xMLNXZgk1tdwsfW3OC7FAbRQgaAxn+Cx2rFUl+Ht4bAeC3WSLKPb9sZr5F0G9V2wI0hcv9bBNkRpBlucUE61oA/vX4D/bYifvH7ZGK/GZdGUaXm5Dt+AMioyheGk0hS1vlse37aPwHBounvUWyCPB6+K04RFSR9ZcW4/xRF283lZrv3EMLoheVAr80+72wYMhLRzI0FjC6wFXSMJDq3cnGU40P5R1kn6BBmBdda6Tzay/rVWt+Lay+CNpJZnlWA/gEjHIpV3VLCSvzGHD76gm/C09StWWXNiZJ3DpZGXhnIOUt8fNyN37lMtbmjt2HffiwgLjKWRuk+/RQ2Ow9oUggVU=\"}]},Name:\"Edna_I\"},display:{Name:'{\"text\":\"Edna_I\"}'}}}"
-			},
-			{ 
-				"type": "stack",
 				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZhYjRhOWE2YTMyOGY2YWQ4MmFjOTMyNjhiZTFhMzA1ZjJjMjYzNWZkNzMyMmYxM2M5NDJmMmFlNDE5NCJ9fX0=\"}]},Id:[I;-142273686,538527908,-2054579395,693546358]},display:{Name:'{\"text\":\"Herobrine\"}'}}}"
 			},
 			{ 
@@ -1840,6 +1836,10 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{display:{Name:'{\"text\":\"----g3\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:iron_sword\",Count:127b,tag:{Unbreakable:1b,Damage:0,AttributeModifiers:[{Amount:2147483647,Slot:\"mainhand\",AttributeName:\"generic.attack_damage\",Operation:0,UUID:[I;0,2872,0,894654],Name:\"generic.attackDamage\"},{Amount:80,Slot:\"mainhand\",AttributeName:\"generic.max_health\",Operation:0,UUID:[I;0,2872,0,894654],Name:\"generic.max_health\"},{Amount:0.8d,Slot:\"mainhand\",AttributeName:\"generic.movement_speed\",Operation:0,UUID:[I;0,2872,0,894654],Name:\"generic.movementSpeed\"}],display:{Lore:['{\"text\":\"Only wielded by whom art thou can muster its strength.\"}'],Name:'{\"text\":\"§c§l✺ Miecz Rodu Amenosow ✺\"}'},Enchantments:[{lvl:3000s,id:\"minecraft:sharpness\"},{lvl:3000s,id:\"minecraft:smite\"},{lvl:3000s,id:\"minecraft:bane_of_arthropods\"},{lvl:3000s,id:\"minecraft:unbreaking\"},{lvl:3000s,id:\"minecraft:knockback\"},{lvl:3000s,id:\"minecraft:fire_aspect\"},{lvl:30s,id:\"minecraft:looting\"}]}}"
 			},
 			{ 
 				"type": "stack",
@@ -2139,10 +2139,6 @@
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:iron_sword\",Count:127b,tag:{Unbreakable:1b,Damage:0,AttributeModifiers:[{Amount:2147483647,Slot:\"mainhand\",AttributeName:\"generic.attack_damage\",Operation:0,UUID:[I;0,2872,0,894654],Name:\"generic.attackDamage\"},{Amount:80,Slot:\"mainhand\",AttributeName:\"generic.max_health\",Operation:0,UUID:[I;0,2872,0,894654],Name:\"generic.max_health\"},{Amount:0.8d,Slot:\"mainhand\",AttributeName:\"generic.movement_speed\",Operation:0,UUID:[I;0,2872,0,894654],Name:\"generic.movementSpeed\"}],display:{Lore:['{\"text\":\"Only wielded by whom art thou can muster its strength.\"}'],Name:'{\"text\":\"§c§l✺ Miecz Rodu Amenosow ✺\"}'},Enchantments:[{lvl:3000s,id:\"minecraft:sharpness\"},{lvl:3000s,id:\"minecraft:smite\"},{lvl:3000s,id:\"minecraft:bane_of_arthropods\"},{lvl:3000s,id:\"minecraft:unbreaking\"},{lvl:3000s,id:\"minecraft:knockback\"},{lvl:3000s,id:\"minecraft:fire_aspect\"},{lvl:30s,id:\"minecraft:looting\"}]}}"
-			},
-			{ 
-				"type": "stack",
 				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjM5OGEzMzJjOTRkY2NjZTY2YWEwNjUxZWEzMzllZDRhYzY4Y2JlMjlmYzc3ZDJlYjY5OWZhZGQ2NzIifX19\"}]},Id:[I;-780227004,-69252162,-1537016869,-2062869969]},display:{Name:'{\"text\":\"§e§lPieniądz\"}'},Enchantments:[{lvl:1s,id:\"minecraft:unbreaking\"}]}}"
 			},
 			{ 
@@ -2223,11 +2219,11 @@
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTBiOGViMzMzNjIyYWU3ZGU5YjUzYjM2MDJmNDFmNjNkYjljMjUyOGI1YmUyMzFhYzk2NTE2NjExZmIxYSJ9fX0=\"}]},Id:[I;-543778858,-1513206920,-1393056584,-1330167706]},display:{Name:'{\"text\":\"§b§lDiamentowe Trofeum\"}'},Enchantments:[{lvl:10s,id:\"minecraft:mending\"}]}}"
+				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjkzN2UxYzQ1YmI4ZGEyOWIyYzU2NGRkOWE3ZGE3ODBkZDJmZTU0NDY4YTVkZmI0MTEzYjRmZjY1OGYwNDNlMSJ9fX0=\"}]},Id:[I;-2076154627,1911573154,-1556737861,-1381656623]},display:{Name:'{\"text\":\"§6§lZłote Trofeum\"}'},Enchantments:[{lvl:10s,id:\"minecraft:mending\"}]}}"
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjkzN2UxYzQ1YmI4ZGEyOWIyYzU2NGRkOWE3ZGE3ODBkZDJmZTU0NDY4YTVkZmI0MTEzYjRmZjY1OGYwNDNlMSJ9fX0=\"}]},Id:[I;-2076154627,1911573154,-1556737861,-1381656623]},display:{Name:'{\"text\":\"§6§lZłote Trofeum\"}'},Enchantments:[{lvl:10s,id:\"minecraft:mending\"}]}}"
+				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTBiOGViMzMzNjIyYWU3ZGU5YjUzYjM2MDJmNDFmNjNkYjljMjUyOGI1YmUyMzFhYzk2NTE2NjExZmIxYSJ9fX0=\"}]},Id:[I;-543778858,-1513206920,-1393056584,-1330167706]},display:{Name:'{\"text\":\"§b§lDiamentowe Trofeum\"}'},Enchantments:[{lvl:10s,id:\"minecraft:mending\"}]}}"
 			},
 			{ 
 				"type": "stack",
@@ -2476,10 +2472,6 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:magenta_banner\",Count:127b,tag:{BlockEntityTag:{Patterns:[{Pattern:\"tt\",Color:15},{Pattern:\"bt\",Color:15}]}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:creeper_spawn_egg\",Count:127b}"
 			},
 			{ 
 				"type": "stack",
@@ -3991,10 +3983,6 @@
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:oak_log\",Count:127b}"
-			},
-			{ 
-				"type": "stack",
 				"nbt": "{id:\"minecraft:leather_helmet\",Count:127b,tag:{Damage:30}}"
 			},
 			{ 
@@ -4004,10 +3992,6 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:leather_boots\",Count:127b,tag:{Damage:40}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:stone\",Count:127b}"
 			},
 			{ 
 				"type": "stack",
@@ -4446,8 +4430,28 @@
 				"nbt": "{id:\"minecraft:stone_sword\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§aSłabszy miecz gracza\"}'},Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"}]}}"
 			},
 			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:stone_pickaxe\",Count:127b,tag:{Damage:6,display:{Name:'{\"text\":\"§aKilof gracza\"}'},Enchantments:[{lvl:2s,id:\"minecraft:efficiency\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}}"
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:stone_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Name": "{\"text\":\"§aKilof gracza\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 2,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
 			},
 			{ 
 				"type": "stack",
@@ -4456,6 +4460,20 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:stone_shovel\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§aŁopata gracza\"}'},Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"}]}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:fishing_rod",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Name": "{\"text\":\"§aWędka gracza\"}"
+						}
+					},
+					"type": "item"
+				}
 			},
 			{ 
 				"type": "stack",
@@ -4530,12 +4548,50 @@
 				"nbt": "{id:\"minecraft:trident\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Trójząb §as§6VIPa\"}'},Enchantments:[{lvl:1s,id:\"minecraft:riptide\"}]}}"
 			},
 			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Name": "{\"text\":\"§6Kilof §as§6VIPa\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 3,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 2,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:diamond_shovel\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Szpadel §as§6VIPa\"}'},Enchantments:[{lvl:4s,id:\"minecraft:efficiency\"},{lvl:100s,id:\"minecraft:unbreaking\"}]}}"
 			},
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:bow\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Łuk §as§6VIPa\"}'},Enchantments:[{lvl:1s,id:\"minecraft:flame\"},{lvl:1s,id:\"minecraft:infinity\"},{lvl:8s,id:\"minecraft:power\"},{lvl:7s,id:\"minecraft:punch\"}]}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:shears",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Name": "{\"text\":\"§6Nożyce §as§6VIPa\"}"
+						}
+					},
+					"type": "item"
+				}
 			},
 			{ 
 				"type": "stack",
@@ -4586,6 +4642,19 @@
 				"nbt": "{id:\"minecraft:diamond_shovel\",Count:127b,tag:{Damage:0,AuctionHouse:1b,display:{Lore:['{\"text\":\"§b§oZ Arcadowego pojemnika!\"}','{\"text\":\"§b§oZdobyte przez: §3§omckotka\"}','{\"text\":\"§8------------------------------\"}','{\"text\":\"§c§lNie stać cię na ten przedmiot.\"}','{\"text\":\" \"}','{\"text\":\"§3Cena: §e$65,000.00\"}','{\"text\":\"§3Sprzedawca: §emckotka\"}','{\"text\":\"§3Wygasa: §e6h 36m 28s\"}','{\"text\":\" \"}','{\"text\":\"§8------------------------------\"}'],Name:'{\"text\":\"§6✾Kwantowa✾ Łopata\"}'},Enchantments:[{lvl:10s,id:\"minecraft:efficiency\"},{lvl:10s,id:\"minecraft:unbreaking\"}]}}"
 			},
 			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:sponge",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Name": "{\"text\":\"§6§lBonusowa gąbka\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:sponge\",Count:127b,tag:{display:{Lore:['{\"text\":\"§eMusisz ją zamoczyć i wykopać\"}','{\"text\":\"§eaby wydobyć skarby!\"}'],Name:'{\"text\":\"§6§lBonusowa gąbka\"}'}}}"
 			},
@@ -4604,6 +4673,20 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:golden_carrot\",Count:127b,tag:{display:{Name:'{\"text\":\"§8§lM§7§larhefka §8§lJ§7§lur §f(NIE PODPIS)\"}'}}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:emerald",
+					"Count": 127,
+					"tag": { 
+						"AuctionHouse": 1,
+						"display": { 
+							"Name": "{\"text\":\"§b§lZAPRASZAM NA§6§l/is warp danioleqpl\"}"
+						}
+					},
+					"type": "item"
+				}
 			},
 			{ 
 				"type": "stack",
@@ -4628,6 +4711,2170 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:trident\",Count:127b,tag:{Damage:6,AuctionHouse:1b,display:{Lore:['{\"text\":\"§1§oZabrany władcy mórz i oceanów.\"}','{\"text\":\"§8------------------------------\"}','{\"text\":\"§a§lKliknij tutaj aby zakupić przedmiot.\"}','{\"text\":\" \"}','{\"text\":\"§3Cena: §e$10,000.00\"}','{\"text\":\"§3Sprzedawca: §eiMajlo\"}','{\"text\":\"§3Wygasa: §e6h 51m 27s\"}','{\"text\":\" \"}','{\"text\":\"§8------------------------------\"}'],Name:'{\"text\":\"§b§lTrójząb Posejdona\"}'},Enchantments:[{lvl:2s,id:\"minecraft:fire_aspect\"},{lvl:3s,id:\"minecraft:looting\"},{lvl:5s,id:\"minecraft:loyalty\"},{lvl:7s,id:\"minecraft:sharpness\"}]}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:turtle_helmet",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§3§oPomaga przetrwać\"}",
+								"{\"text\":\"§3§opod wodą.\"}"
+							],
+							"Name": "{\"text\":\"§2§lHełm Atlanty\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 2,
+								"id": "minecraft:aqua_affinity"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:respiration"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_axe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§m§l-------------------\"}",
+								"{\"text\":\"§6§oBardzo twarda i ostra..\"}",
+								"{\"text\":\"§6§oNiszczy drewno puknięciem..\"}",
+								"{\"text\":\"§8§m§l-------------------\"}",
+								"{\"text\":\"§8§oNagroda z transmutacji\"}"
+							],
+							"Name": "{\"text\":\"§6Smocza Siekiera\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 6,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:fire_aspect"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:iron_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 3,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§o§m--------------------\"}",
+								"{\"text\":\"§7§oZ Gwiazdkowego Prezentu (2020)!\"}",
+								"{\"text\":\"§7§oZdobyte przez: §7§o§lKatniss\"}"
+							],
+							"Name": "{\"text\":\"§6Gwiazdorowe §b❄ §6Szczęście z 4 Gwiazdek\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 9,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:iron_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Katniss\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"------------------------------\",\"color\":\"dark_gray\"}]}"
+							],
+							"Name": "{\"text\":\"§6Gwiazdorowe §b❄ §6Szczęście z 5 Gwiazdek\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 9,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:orange_shulker_box",
+					"Count": 127,
+					"tag": { 
+						"HideFlags": 32,
+						"BlockEntityTag": { 
+							"CustomName": "{\"text\":\"MysteryBox\"}",
+							"Items": [ 
+								{ 
+									"Slot": 0,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 1,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 2,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 3,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 4,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 5,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 6,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 7,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 8,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 9,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 10,
+									"id": "minecraft:emerald_block",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 11,
+									"id": "minecraft:beacon",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 12,
+									"id": "minecraft:enchanted_golden_apple",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 13,
+									"id": "minecraft:diamond_pickaxe",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"§eSpecjalny Kilof\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 5,
+												"id": "minecraft:efficiency"
+											},
+											{ 
+												"lvl": 3,
+												"id": "minecraft:fortune"
+											},
+											{ 
+												"lvl": 3,
+												"id": "minecraft:unbreaking"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 14,
+									"id": "minecraft:enchanted_golden_apple",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 15,
+									"id": "minecraft:beacon",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 16,
+									"id": "minecraft:emerald_block",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 17,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 18,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 19,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 20,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 21,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 22,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 23,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 24,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 25,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 26,
+									"id": "minecraft:dark_oak_planks",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"?\"}"
+										}
+									}
+								}
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"MysteryBox\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:green_shulker_box",
+					"Count": 127,
+					"tag": { 
+						"HideFlags": 32,
+						"BlockEntityTag": { 
+							"Items": [ 
+								{ 
+									"Slot": 0,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 1,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 2,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 3,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 4,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 5,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 6,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 7,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 8,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 9,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 10,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 11,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 12,
+									"id": "minecraft:cookie",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"§bŚwiąteczne Ciasteczka\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 13,
+									"id": "minecraft:sponge",
+									"Count": 64,
+									"tag": { 
+										"display": { 
+											"Lore": [ 
+												"§eMusisz ją zamoczyć i wykopać",
+												"§eaby wydobyć skarby!"
+											],
+											"Name": "{\"text\":\"§6§lBonusowa gąbka\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 14,
+									"id": "minecraft:cookie",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"§bŚwiąteczne Ciasteczka\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 15,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 16,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 17,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 18,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 19,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 20,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 21,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 22,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 23,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 24,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 25,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								},
+								{ 
+									"Slot": 26,
+									"id": "minecraft:netherrack",
+									"Count": 1,
+									"tag": { 
+										"display": { 
+											"Name": "{\"text\":\"???\"}"
+										}
+									}
+								}
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"MYSTERY BOX\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:chest",
+					"Count": 127,
+					"tag": { 
+						"HideFlags": 32,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7Prezent mikołajkowy!\"}",
+								"{\"text\":\"§7Otwórz go klikając prawym!\"}",
+								"{\"text\":\"§8§o§m--------------------\"}",
+								"{\"text\":\"§7Możliwe nagrody:\"}",
+								"{\"text\":\"§b0.10% §f- §6Tokeny\"}",
+								"{\"text\":\"§b0.40% §f- §6Eventowy Przedmiot\"}",
+								"{\"text\":\"§b1.00% §f- §3Talony\"}",
+								"{\"text\":\"§b3.50% §f- §5Zagubiona Gwiazdka\"}",
+								"{\"text\":\"§b5.00% §f- §dMikołajkowe Słodycze\"}",
+								"{\"text\":\"§b10.0% §f- §bDiament§f+§aEmerald\"}",
+								"{\"text\":\"§b20.0% §f- §7Żelazo§f+§eZłoto\"}",
+								"{\"text\":\"§b25.0% §f- §cRedstone§f+§1Lapis\"}",
+								"{\"text\":\"§b35.0% §f- §2Dollary\"}",
+								"{\"text\":\"§8§o§m--------------------\"}"
+							],
+							"Name": "{\"text\":\"§5§lZagubiony Prezent\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:chest",
+					"Count": 127,
+					"tag": { 
+						"HideFlags": 32,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7Prezent gwiazdkowy!\"}",
+								"{\"text\":\"§7Otwórz go klikając prawym!\"}",
+								"{\"text\":\"§8§o§m--------------------\"}",
+								"{\"text\":\"§7Możliwe nagrody:\"}",
+								"{\"text\":\"§b0.10% §f- §6Tokeny\"}",
+								"{\"text\":\"§b0.40% §f- §6Eventowy Przedmiot\"}",
+								"{\"text\":\"§b1.50% §f- §3Talony\"}",
+								"{\"text\":\"§b2.00% §f- §5Zagubiona Gwiazdka\"}",
+								"{\"text\":\"§b15.0% §f- §bDiament§f+§aEmerald\"}",
+								"{\"text\":\"§b22.5% §f- §7Żelazo§f+§eZłoto\"}",
+								"{\"text\":\"§b25.0% §f- §cRedstone§f+§1Lapis\"}",
+								"{\"text\":\"§b35.0% §f- §2Dollary\"}",
+								"{\"text\":\"§8§o§m--------------------\"}"
+							],
+							"Name": "{\"text\":\"§5§lGwiazdkowy Prezent\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:shulker_box",
+					"Count": 127,
+					"tag": { 
+						"BlockEntityTag": { 
+							"Items": [ 
+								{ 
+									"Slot": 0,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "4",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "32",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a32x coal\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Toksycznej Bazylii\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 1,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "7",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "15",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a15x iron ingot\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Cieknących Pokrzyw\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 2,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "9",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "15",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a15x bottle o' enchanting\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Cieknących Pokrzyw\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 3,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "9",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "16",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a16x bottle o' enchanting\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Żrącej Pietruszki\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 4,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "9",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "10",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a10x bottle o' enchanting\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Mrocznej Pszenicy\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 5,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "7",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "16",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a16x iron ingot\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Mrocznej Pszenicy\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 6,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "1",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "40",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a40x charcoal\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Cieknących Pokrzyw\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 7,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "6",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "3",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a3x lapis lazuli block\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Cieknących Pokrzyw\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 8,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "6",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "7",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a7x lapis lazuli block\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Mrocznej Pszenicy\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 9,
+									"id": "minecraft:wheat_seeds",
+									"Count": 2,
+									"tag": { 
+										"harvest.drop_id.1": "5",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "6",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a6x redstone block\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Cieknących Pokrzyw\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 10,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "5",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "3",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a3x redstone block\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Ziemnego Ryżu\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 11,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "9",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "28",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a28x bottle o' enchanting\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Ziemnego Ryżu\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 12,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "6",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "3",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a3x lapis lazuli block\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Suchego Mchu\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 13,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "5",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "3",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a3x redstone block\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Smrodzącej Włośnicy\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 14,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "9",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "12",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a12x bottle o' enchanting\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Toksycznej Bazylii\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 15,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "7",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "12",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a12x iron ingot\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Łamanego Pieprzu\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 16,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "7",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "13",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a13x iron ingot\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Smrodzącej Włośnicy\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 17,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "4",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "32",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a32x coal\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Piekielnego Prosa\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 18,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "5",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "3",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a3x redstone block\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Kresowego Ziela\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 19,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "8",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "16",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a16x gold ingot\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Lustrzanej Paproci\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 20,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "7",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "12",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a12x iron ingot\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Trującego Kopru\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 21,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "7",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "16",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a16x iron ingot\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Żrącej Pietruszki\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 22,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "4",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "35",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a35x coal\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Smrodzącej Włośnicy\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 23,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "5",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "8",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a8x redstone block\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Łamanego Pieprzu\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 24,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "5",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "3",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a3x redstone block\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Mrocznej Pszenicy\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 25,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "8",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "18",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a18x gold ingot\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Toksycznej Bazylii\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								},
+								{ 
+									"Slot": 26,
+									"id": "minecraft:wheat_seeds",
+									"Count": 1,
+									"tag": { 
+										"harvest.drop_id.1": "8",
+										"harvest.rewards_amount": "1",
+										"harvest.drop_amount.1": "18",
+										"harvest.tier": "1",
+										"harvest.seed": "true",
+										"HideFlags": 1,
+										"display": { 
+											"Lore": [ 
+												"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+												"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+												"{\"text\":\"§7potworów, aby urosły i dały\"}",
+												"{\"text\":\"§7nagrody opisane niżej!\"}",
+												"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}",
+												"{\"text\":\" §3§oDropy:\"}",
+												"{\"text\":\" §7- §a18x gold ingot\"}",
+												"{\"text\":\"§8§l§m-------------------------\"}"
+											],
+											"Name": "{\"text\":\"§aNasiona Toksycznej Bazylii\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										],
+										"harvest.drop_type.1": "surowce"
+									}
+								}
+							]
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_chestplate",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Unikalnej Pisanki!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Katniss\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§6Antyśmingusowa Zbroja z 33 Skorupek\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:blast_protection"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:fire_protection"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:projectile_protection"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 2,
+								"id": "minecraft:thorns"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_sword",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Zagubionego Prezentu!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Katniss\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§6Rdzeń Pogromcy Bałwanów v10\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 6,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:sweeping"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Katniss\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§6Gwiazdkowy §b❄ §6Załamywacz z 27 Gwiazdek\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 8,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_shovel",
+					"Count": 127,
+					"tag": { 
+						"Damage": 3,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"----------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z magicznej rośliny!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Katniss\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"----------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}"
+							],
+							"ViaVersion|Protocol1_14To1_13_2|Lore": [ 
+								"§8§l§m----------------------",
+								"§7§oZ magicznej rośliny!",
+								"§7§oZdobyte przez: §7§l§osmietanka2009",
+								"§8§l§m----------------------"
+							],
+							"Name": "{\"text\":\"§6❀Porośnięta❀ Łopata Natury\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 10,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:trident",
+					"Count": 127,
+					"tag": { 
+						"Unbreakable": 1,
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§o§m--------------------\"}",
+								"{\"text\":\"§7§oZ Gwiazdkowego Prezentu (2020)!\"}",
+								"{\"text\":\"§7§oZdobyte przez: §7§o§lKatniss\"}"
+							],
+							"Name": "{\"text\":\"§6Gwiazdorowy §b❄ Trójząb I §6z 5 Gwiazdek\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:channeling"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:impaling"
+							},
+							{ 
+								"lvl": 2,
+								"id": "minecraft:loyalty"
+							},
+							{ 
+								"lvl": 1,
+								"id": "minecraft:mending"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:sharpness"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:trident",
+					"Count": 127,
+					"tag": { 
+						"Unbreakable": 1,
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Katniss\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§6Gwiazdorowy §b❄ §6Trójząb II z 6 Gwiazdek\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:channeling"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:impaling"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:loyalty"
+							},
+							{ 
+								"lvl": 1,
+								"id": "minecraft:mending"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:sharpness"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:blaze_rod",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Dla niegrzecznych.. Potworów!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z adwentu 2020!\",\"color\":\"gray\",\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§cRózga Mikołaja\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 6,
+								"id": "minecraft:knockback"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:looting"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:sharpness"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_axe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§o§m--------------------\"}",
+								"{\"text\":\"§7§oZ Gwiazdkowego Prezentu (2020)!\"}",
+								"{\"text\":\"§7§oZdobyte przez: §7§o§lKatniss\"}",
+								"{\"text\":\"§8------------------------------\"}"
+							],
+							"Name": "{\"text\":\"§6Gwiazdorowa §b❄ §6Siekiera z 17 Gwiazdek\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 5,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:sharpness"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_leggings",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Podarunku (2020)!\",\"color\":\"gray\",\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§6Gwiazdkowe Smocze Nogawice\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 6,
+								"id": "minecraft:blast_protection"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:fire_protection"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:thorns"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:spawner",
+					"Count": 127,
+					"tag": { 
+						"Damage": 54,
+						"BlockEntityTag": { 
+							"SpawnData": { 
+								"id": "zombie"
+							}
+						},
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zombie\",\"color\":\"blue\"}]}"
+							],
+							"Name": "{\"text\":\"§aZombie spawner\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:spawner",
+					"Count": 127,
+					"tag": { 
+						"Damage": 50,
+						"BlockEntityTag": { 
+							"SpawnData": { 
+								"id": "creeper"
+							}
+						},
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Creeper\",\"color\":\"blue\"}]}"
+							],
+							"Name": "{\"text\":\"§aCreeper spawner\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:spawner",
+					"Count": 127,
+					"tag": { 
+						"Damage": 51,
+						"BlockEntityTag": { 
+							"SpawnData": { 
+								"id": "skeleton"
+							}
+						},
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Skeleton\",\"color\":\"blue\"}]}"
+							],
+							"Name": "{\"text\":\"§aSkeleton spawner\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:spawner",
+					"Count": 127,
+					"tag": { 
+						"Damage": 52,
+						"BlockEntityTag": { 
+							"SpawnData": { 
+								"id": "spider"
+							}
+						},
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Spider\",\"color\":\"blue\"}]}"
+							],
+							"Name": "{\"text\":\"§aSpider spawner\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:cookie",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Name": "{\"text\":\"§bŚwiąteczne Ciasteczka\"}"
+						}
+					},
+					"type": "item"
+				}
 			},
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
@@ -4835,66 +7082,6 @@
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{display:{Name:'{\"text\":\"----bw11\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"1-- Jakieś bedwarsy --\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"2-- Jakieś bedwarsy --\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"3-- Jakieś bedwarsy --\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"4-- Jakieś bedwarsy --\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"5-- Jakieś bedwarsy --\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"6-- Jakieś bedwarsy --\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"7-- Jakieś bedwarsy --\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"8-- Jakieś bedwarsy --\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{display:{Name:'{\"text\":\"----bw12\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{display:{Name:'{\"text\":\"----bw13\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:cut_sandstone\",Count:127b}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:brick\",Count:127b,tag:{display:{Name:'{\"text\":\"§4Braz\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:iron_ingot\",Count:127b,tag:{display:{Name:'{\"text\":\"§7Zelazo\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:gold_ingot\",Count:127b,tag:{display:{Name:'{\"text\":\"§6Zloto\"}'}}}"
-			},
-			{ 
-				"type": "stack",
 				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{display:{Name:'{\"text\":\"----gc2bw1\"}'}}}"
 			},
 			{ 
@@ -4938,6 +7125,19 @@
 				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{display:{Name:'{\"text\":\"----gc2bw3\"}'}}}"
 			},
 			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:spawner",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Name": "{\"text\":\"§rChicken Spawner\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:iron_door\",Count:127b,tag:{display:{Name:'{\"text\":\"§6§lPOWRÓT NA SPAWN\"}'},Enchantments:[{lvl:1s,id:\"minecraft:luck_of_the_sea\"}]}}"
 			},
@@ -4951,11 +7151,11 @@
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:golden_sword\",Count:127b,tag:{Damage:0,Enchantments:[{lvl:1s,id:\"minecraft:sharpness\"}]}}"
+				"nbt": "{id:\"minecraft:brick\",Count:127b,tag:{display:{Name:'{\"text\":\"§4Bronze\"}'}}}"
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:cut_sandstone\",Count:127b,tag:{display:{Lore:['{\"text\":\"§f1 §4Bronze\"}']}}}"
+				"nbt": "{id:\"minecraft:brick\",Count:127b,tag:{display:{Name:'{\"text\":\"§4Braz\"}'}}}"
 			},
 			{ 
 				"type": "stack",
@@ -4963,11 +7163,323 @@
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:brick\",Count:127b,tag:{display:{Name:'{\"text\":\"§4Bronze\"}'}}}"
+				"nbt": "{id:\"minecraft:iron_ingot\",Count:127b,tag:{display:{Name:'{\"text\":\"§7Zelazo\"}'}}}"
 			},
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:gold_ingot\",Count:127b,tag:{display:{Name:'{\"text\":\"§6Gold\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:gold_ingot\",Count:127b,tag:{display:{Name:'{\"text\":\"§6Zloto\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:cut_sandstone\",Count:127b,tag:{display:{Lore:['{\"text\":\"§f1 §4Bronze\"}']}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:golden_sword\",Count:127b,tag:{Damage:0,Enchantments:[{lvl:1s,id:\"minecraft:sharpness\"}]}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:golden_sword",
+					"Count": 127,
+					"tag": { 
+						"RepairCost": 1,
+						"Damage": 0,
+						"Enchantments": [ 
+							{ 
+								"lvl": 2,
+								"id": "minecraft:sharpness"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:golden_sword",
+					"Count": 127,
+					"tag": { 
+						"RepairCost": 1,
+						"Damage": 0,
+						"Enchantments": [ 
+							{ 
+								"lvl": 3,
+								"id": "minecraft:sharpness"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:iron_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:fortune"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:iron_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"RepairCost": 1,
+						"Damage": 0,
+						"Enchantments": [ 
+							{ 
+								"lvl": 2,
+								"id": "minecraft:fortune"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:iron_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"RepairCost": 1,
+						"Damage": 0,
+						"Enchantments": [ 
+							{ 
+								"lvl": 3,
+								"id": "minecraft:fortune"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:bow",
+					"Count": 127,
+					"tag": { 
+						"Damage": 12,
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:infinity"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:leather_helmet",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"color": 5592575
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:protection"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:chainmail_chestplate",
+					"Count": 127,
+					"tag": { 
+						"RepairCost": 1,
+						"Damage": 0,
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:protection"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:chainmail_chestplate",
+					"Count": 127,
+					"tag": { 
+						"RepairCost": 1,
+						"Damage": 0,
+						"Enchantments": [ 
+							{ 
+								"lvl": 2,
+								"id": "minecraft:protection"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:chainmail_chestplate",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"Enchantments": [ 
+							{ 
+								"lvl": 3,
+								"id": "minecraft:protection"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:leather_leggings",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"color": 5592575
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:protection"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:leather_boots",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"color": 5592575
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:protection"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Id": [ 
+								-525512436,
+								1698189306,
+								-1427047495,
+								1269133839
+							],
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0aW1lc3RhbXAiOjE0MzkwNTAzMzQ4NTQsInByb2ZpbGVJZCI6ImUwYWQ1MTBjNjUzODRmZmFhYWYwZmJiOTRiYTU3MjBmIiwicHJvZmlsZU5hbWUiOiJTcGUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I2OTY1ZTZhNTg2ODRjMjc3ZDE4NzE3Y2VjOTU5ZjI4MzNhNzJkZmE5NTY2MTAxOWRiY2RmM2RiZjY2YjA0OCJ9fX0=",
+										"Signature": "aMsucQj/GJcuKXtshnqsi7ZLwYL/BYswa7TIvFz9oB+WA6PHX5w6eKmuyJqjhbub/4KWi2OvOpOqlRRmVOQse1XVdNZRs9U5e4yjHOGnzNgY3eJpm/QgDEoRgpdx0vJsTkgLv4lzjPK/Ygl2k8g7LLJrDPkur94wZBmfcmCvkoM0He4zITqixgpD/YV9rnWje18sKB+lAN4no9Y5R1DILXElLc1dMTJmGYZJvQDm63g0quBhP5dwD2Ga51E3ziGIuVsDsGCvGPiFHre+DLB3sjgT5PfG/EgRvOhA7BdAoHu6Qs1X96jBlwKzAxrBdcIzu/In3e1Rzn+SvGTgoU//448Fqfc1qp4ybDSZnDJ5mU/e6WDyq00F/uAPHKLFsusmCJGSl1Dv7JbCEf6xRaQtZgL3nXbxWHIsn2qLqVI9TXFmXiOOoN9EbIIbEtuyth3GekQAGQREu9CWiH+SIfXqYOgmPvulbl91ojqDru91SQ511e11ZrRZ+R+0f22CwVG4Z5j5FQ1M8vLcwzXFmO+aHsZDeovNgNf3FgEQl2h0wJJnSnPdl2JiHzTGE2IMoyTyM/ICbcTfIKz/Ej8vQ65H+JSEKq932nll+Mc+tAFZFAdGB783KojvQ5UjDspefAPvXK8f9O0rokzdixQI5NnegvGMeyyBMitkuB9o/vud9a4="
+									}
+								]
+							},
+							"Name": "Spe"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Id": [ 
+								-1913111155,
+								-853851083,
+								-1785159052,
+								-572378211
+							],
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0aW1lc3RhbXAiOjE0MzkwNTAzMzQ0MjIsInByb2ZpbGVJZCI6IjhkZjgzZDhkY2QxYjQ0MzU5NTk4YTI3NGRkZTIzMzlkIiwicHJvZmlsZU5hbWUiOiJlbWFjazA3MTQiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVjN2VjYmZkNmQzM2U4NzNhMWNmOWE5MmY1N2YxNDYxNTJiNTJkOWQ3MzExNjk0NjAyNjcxMTExYTMwMmYifX19",
+										"Signature": "e73aUFsSXBVenAQ5FPyqVWlcyjFRAvLESzMrCiKPiodVk8sLlSLC4x9nh1E5FR5eMQmOtxez7ycPUzg+S2tsjqTMVZFzb8/M6BQXoJs/sG4DXacDK8/ZNCdqzW6I0ctL0yP49vsxJGr2hXqgzuatZUGSxUdAn8pXfL6BD1jGewN/z4svR4RG6eCnNnv7o6iA0HD+ytQHvdU85cuG9VfjuFeEB8ns1iAcf8E4y9iavfK8464RFTifD+uFOtFg3PTlIt7SN6B4LxQlq4tvz9PVcO+LE7WNS+gEikoJbg76IX15hyg//My4ZVoMT2P11v1TxxhRwKzPpPjkKG0GCRCIHWEulopb3VL2MoRew6cSF2nsiTFIbDlK82gTkTHMZTTJgJr/3b9SBnsKLGp/UwyZBwCkrtg3pTw2702ocFQ/WkF2u9nH/3e90nUUfSzisw1rY6LzZnw6Q9ch6l1P7k1AEIDb3s9d5HsolE2yBBs4ziHPcMe+h4hdqxaR1bdjqk0ERrvqJH1+K2sIiwD7JMkkrV4D9ME4/qJ+9RoDrZjRheDF3zMzkUAmMC24XUom7017eYVohrdc15QQjCkTkoyJA4zHjSuEa7PGPCDJ5tfTXachBsWievln0AB4NQ92GO/orh6HqqzIw/qU8nNfDMmvblewQ6q2cOVWz1l124gqyoE="
+									}
+								]
+							},
+							"Name": "emack0714"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Id": [ 
+								48846630,
+								-1497414804,
+								-2070502732,
+								-1537279013
+							],
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0aW1lc3RhbXAiOjE0MjY2OTI0MTc4MTcsInByb2ZpbGVJZCI6IjAyZTk1NzI2YTZiZjQzNmM4NDk2YTJiNGE0NWVmYmRiIiwicHJvZmlsZU5hbWUiOiJLeWxleERhdmlzIiwiaXNQdWJsaWMiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ODM3YTQ4ZWU1MzBjZmUzNWFjYTM3OTY5ZTRlYTcxZDg3NTIzN2QyY2I3YTgxYjFhZTgwYTc1ZGM3NmU1YSJ9fX0=",
+										"Signature": "L41Tuwnz7WXH81XE+ceIyw7Kd9vQgons/jpmLP9mltPF12IwrhhR7QS9UKJl6L07+L+irK+sWAoetditFzg+iukckN25rlPABRUw5kaJ2MDGLrQ1oSmuxMbl/AsuN29AJd/Vv72Do+h2NiRrkgm6gYQZt9aWZeiIQ42Pf814Y95DZeAumtkcdwhKypmdT1h3c9e07p6GvNIdWB0icKeKi/SFzeqUY5rB44YAxllnvCErtQhVVEggWoqgrPwc6C951ni4Fvqpw9FXHQ9lIBe8BEjoS1iZrjTRynm7yY/8x/CJa0XBru/Mr9wOCo0CXPjvVJ0OQEOMpJGvyvn7L5ijVEBUkwz/sJi8lby4rjwQQx0eHLvDROwmawFasj07tVw09mCvaK4biUGgnAIJYkmKXbHzxieYNQmyWBdaj6DIVGuG2Tl225pC88et2Qu7NtTQvtcXbr1MvXqHOB/YI54VDH6ijQCLCEkbDt584E+uzmCzmgAzAtGhbqrEPFxO4+zXgpMclWf4Shi73b2MqFPtmx8DV1nyU8/Zn//Dvm6UoDGVT6lrowpbm3gQxm/A5A1e/8gETdGnM2vHYmzLWl+9Cm9rCAFSf/8I6kKjbEJct+gQp1+38v21qSQvAaPkxOcJbP/KZ7VkoiGjzqwx4IpiMgy6zMdEV769PP+J9gkZTvI="
+									}
+								]
+							},
+							"Name": "KylexDavis"
+						}
+					},
+					"type": "item"
+				}
 			},
 			{ 
 				"type": "stack",

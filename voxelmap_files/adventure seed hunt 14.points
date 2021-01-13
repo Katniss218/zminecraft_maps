@@ -1,0 +1,8 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Dom,x:-297,z:-196,y:78,enabled:true,red:0.13725491,green:0.9490196,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Wzgórze,x:-571,z:51,y:110,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Dom,x:85,z:140,y:79,enabled:true,red:0.9019608,green:0.85490197,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Zrujnowana wioska,x:-309,z:413,y:91,enabled:true,red:0.93333334,green:0.49803922,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Grota,x:-232,z:428,y:82,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#

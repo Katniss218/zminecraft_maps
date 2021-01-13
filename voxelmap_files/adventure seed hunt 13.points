@@ -1,0 +1,10 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Villagespot #1,x:226,z:287,y:74,enabled:true,red:0.003921569,green:0.9490196,blue:0.03137255,suffix:house,world:,dimensions:overworld#
+name:Mine,x:294,z:202,y:68,enabled:true,red:0.18431373,green:0.9254902,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Bridge,x:267,z:115,y:72,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Ravine,x:550,z:4,y:71,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Mountain,x:626,z:-23,y:117,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Passage,x:450,z:-109,y:73,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Hole,x:485,z:-216,y:68,enabled:true,red:0.039215688,green:0.93333334,blue:0.0,suffix:,world:,dimensions:overworld#

@@ -1,4 +1,0 @@
-#
-#Sun Jun 11 21:25:31 CEST 2017
-LinkedWorlds=
-ServerName=GC2 \:\: MaslO123 Wioska
