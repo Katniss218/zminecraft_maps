@@ -1,0 +1,38 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:prismarine_shard",
+					"functions":
+					[
+						{
+							"function": "set_name",
+							"name": { "italic": false, "text": "Silver Coin", "color": "gray", "bold": true }
+						},
+						{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "italic": false, "text": "Small coin made from pure silver.", "color": "white" },
+								{ "italic": false, "text": "" }
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{HideFlags:63}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{ItemId:1,CustomModelData:1,IsCoin:true,CoinType:0}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

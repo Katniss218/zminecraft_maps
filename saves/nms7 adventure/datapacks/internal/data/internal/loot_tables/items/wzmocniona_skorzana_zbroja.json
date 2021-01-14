@@ -1,0 +1,26 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/wzmocniony_skorzany_helm"
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/wzmocniona_skorzana_tunika"
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/wzmocnione_skorzane_spodnie"
+				},{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/wzmocnione_skorzane_buty"
+				}
+			]
+		}
+	]
+}

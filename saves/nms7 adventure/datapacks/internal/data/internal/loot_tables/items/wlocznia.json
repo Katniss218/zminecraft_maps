@@ -1,0 +1,38 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:wooden_shovel",
+					"functions": [
+						{
+							"function": "set_attributes",
+							"modifiers": [
+								{
+									"amount": 9,
+									"slot": "mainhand",
+									"name": "Attack Damage",
+									"attribute": "generic.attackDamage",
+									"operation": "addition"
+								},
+								{
+									"amount": -3.0,
+									"slot": "mainhand",
+									"name": "Attack Speed",
+									"attribute": "generic.attackSpeed",
+									"operation": "addition"
+								}
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"\\\"§f§lWłócznia\\\"\",Lore:[\"\",\"§6Obrażenia: §e§l9\",\"§6Szybkość: §6§l|§8§l||\"]},Unbreakable:1,HideFlags:63}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:iron_sword",
+					"functions":
+					[
+						{
+							"function": "set_attributes",
+							"modifiers":
+							[
+								{
+									"amount": 6,
+									"slot": "mainhand",
+									"name": "generic.attack_damage",
+									"attribute": "generic.attack_damage",
+									"operation": "addition"
+								},
+								{
+									"amount": -2.0,
+									"slot": "mainhand",
+									"name": "generic.attack_speed",
+									"attribute": "generic.attack_speed",
+									"operation": "addition"
+								}
+							]
+						},
+						{
+							"function": "set_attributes",
+							"modifiers":
+							[
+								{
+									"amount": -1,
+									"slot": "mainhand",
+									"name": "generic.attack_damage",
+									"attribute": "generic.attack_damage",
+									"operation": "addition"
+								}
+							]
+						},
+						{
+							"function": "set_name",
+							"name": { "italic": false, "text": "Sword (rusty)", "color": "gray", "bold": true }
+						},
+						{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "italic": false, "text": "This sword has seen its better days.", "color": "white" },
+								{ "italic": false, "text": "" },
+								["",{ "italic": false, "text": "Damage", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "6", "color": "yellow", "bold": true },{ "italic": false, "text": " (", "color": "gray" },{ "italic": false, "text": "5", "color": "red", "bold": true },{ "italic": false, "text": ")", "color": "gray" }],
+								{ "italic": false, "text": "" },
+								["",{ "italic": false, "text": "> ", "color": "gray" },{ "italic": false, "text": "Rusty", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "-1 Damage", "color": "red" }]
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{HideFlags:2147483647,Unbreakable:1}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{ItemId:1011,CustomModelData:1011}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

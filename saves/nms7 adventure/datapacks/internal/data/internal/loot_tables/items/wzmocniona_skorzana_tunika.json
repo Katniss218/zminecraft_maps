@@ -1,0 +1,31 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:leather_chestplate",
+					"functions": [
+						{
+							"function": "set_attributes",
+							"modifiers": [
+								{
+									"amount": 3,
+									"slot": "chest",
+									"name": "Armor",
+									"attribute": "generic.armor",
+									"operation": "addition"
+								}
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"\\\"§f§lWzm. skórzana tunika\\\"\",Lore:[\"\",\"§6Ochrona: §e§l3\"],color:9718579},Unbreakable:1,HideFlags:63}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:carrot_on_a_stick",
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{StaffNecrotic:1b,display:{Name:\"\\\"§f§lNekrotyczna rózga\\\"\",Lore:[\"§8Wysysa życie z pobliskich przeciwników, leczy gracza.\",\"\",\"§6Obrażenia: §e§l12\",\"§6Szybkość: §a§l|||\",\"§5Użycie Many: §rÔÔÔÔÔÔÔÔ\"]},Damage:14,Unbreakable:1,HideFlags:63}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
