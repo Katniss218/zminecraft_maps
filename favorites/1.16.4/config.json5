@@ -4540,6 +4540,20 @@
 				"nbt": "{id:\"minecraft:diamond_helmet\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§eHełm VIPa\"}'}}}"
 			},
 			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_chestplate",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Name": "{\"text\":\"§eNapierśnik VIPa\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:diamond_leggings\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§eNogawice VIPa\"}'}}}"
 			},
@@ -4839,6 +4853,26 @@
 				}
 			},
 			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_sword",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Name": "{\"text\":\"§6Miecz §as§6VIPa\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 2,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:trident\",Count:127b,tag:{Damage:0,display:{Name:'{\"text\":\"§6Trójząb §as§6VIPa\"}'},Enchantments:[{lvl:1s,id:\"minecraft:riptide\"}]}}"
 			},
@@ -4877,7 +4911,6 @@
 					"Count": 127,
 					"tag": { 
 						"Damage": 0,
-						"AuctionHouse": 1,
 						"display": { 
 							"Name": "{\"text\":\"§6Siekiera §as§6VIPa\"}"
 						},
@@ -5309,66 +5342,6 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
-					"id": "minecraft:bow",
-					"Count": 127,
-					"tag": { 
-						"RepairCost": 1,
-						"Damage": 14,
-						"display": { 
-							"Lore": [ 
-								"{\"text\":\"§8§m§l-------------------\"}",
-								"{\"text\":\"§6§oŁuk ten generuje..\"}",
-								"{\"text\":\"§6§oSmocze świsty..\"}",
-								"{\"text\":\"§8§m§l-------------------\"}",
-								"{\"text\":\"§8§oNagroda z transmutacji\"}"
-							],
-							"Name": "{\"text\":\"ezzzzzzzzzzzzzzz\"}"
-						},
-						"Enchantments": [ 
-							{ 
-								"lvl": 3,
-								"id": "minecraft:fire_aspect"
-							},
-							{ 
-								"lvl": 5,
-								"id": "minecraft:flame"
-							},
-							{ 
-								"lvl": 1,
-								"id": "minecraft:infinity"
-							},
-							{ 
-								"lvl": 3,
-								"id": "minecraft:knockback"
-							},
-							{ 
-								"lvl": 5,
-								"id": "minecraft:looting"
-							},
-							{ 
-								"lvl": 7,
-								"id": "minecraft:power"
-							},
-							{ 
-								"lvl": 4,
-								"id": "minecraft:punch"
-							},
-							{ 
-								"lvl": 10,
-								"id": "minecraft:sharpness"
-							},
-							{ 
-								"lvl": 3,
-								"id": "minecraft:unbreaking"
-							}
-						]
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
 					"id": "minecraft:blaze_rod",
 					"Count": 127,
 					"tag": { 
@@ -5522,6 +5495,49 @@
 					"id": "minecraft:diamond_axe",
 					"Count": 127,
 					"tag": { 
+						"Damage": 1,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"-------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Bardzo twarda i ostra..\",\"color\":\"gold\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Niszczy drewno puknięciem..\",\"color\":\"gold\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"-------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Kupione przez: \",\"color\":\"dark_gray\",\"italic\":true},{\"text\":\"Boredd\",\"color\":\"gray\",\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§6Smocza Siekiera\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 6,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:fire_aspect"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_axe",
+					"Count": 127,
+					"tag": { 
 						"Damage": 0,
 						"display": { 
 							"Lore": [ 
@@ -5562,6 +5578,53 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
+					"id": "minecraft:diamond_helmet",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"-------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Wykonane z..\",\"color\":\"gold\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Skóry diamentowego smoka..\",\"color\":\"gold\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"-------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Kupione przez: \",\"color\":\"dark_gray\",\"italic\":true},{\"text\":\"xDeq\",\"color\":\"gray\",\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§6Smoczy Hełm\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 3,
+								"id": "minecraft:aqua_affinity"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:blast_protection"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:fire_protection"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:respiration"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
 					"id": "minecraft:diamond_leggings",
 					"Count": 127,
 					"tag": { 
@@ -5588,6 +5651,49 @@
 							{ 
 								"lvl": 3,
 								"id": "minecraft:thorns"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_boots",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"-------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Bardzo solidny..\",\"color\":\"gold\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z łuskami smoka wody..\",\"color\":\"gold\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"-------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Kupione przez: \",\"color\":\"dark_gray\",\"italic\":true},{\"text\":\"r5iyrt7ipsf1s\",\"color\":\"gray\",\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§6Smocze Buty\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 3,
+								"id": "minecraft:depth_strider"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:feather_falling"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:fire_protection"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:protection"
 							},
 							{ 
 								"lvl": 6,
@@ -6692,10 +6798,6 @@
 				"nbt": "{id:\"minecraft:sponge\",Count:127b,tag:{display:{Lore:['{\"text\":\"§eMusisz ją zamoczyć i wykopać\"}','{\"text\":\"§eaby wydobyć skarby!\"}'],Name:'{\"text\":\"§6§lBonusowa gąbka\"}'}}}"
 			},
 			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:leather_boots\",Count:127b,tag:{Damage:60,Enchantments:[{lvl:5s,id:\"minecraft:protection\"}],display:{color:8991416}}}"
-			},
-			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
 					"id": "minecraft:diamond_chestplate",
@@ -6866,6 +6968,33 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
+					"id": "minecraft:skeleton_spawn_egg",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Pisanka z niespodzianką!\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Otwórz ją klikając prawym!\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Możliwe nagrody:\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"20% \",\"color\":\"aqua\"},{\"text\":\"- \",\"color\":\"white\"},{\"text\":\"Węgiel\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"20% \",\"color\":\"aqua\"},{\"text\":\"- \",\"color\":\"white\"},{\"text\":\"Redstone\",\"color\":\"red\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"20% \",\"color\":\"aqua\"},{\"text\":\"- \",\"color\":\"white\"},{\"text\":\"Lapis\",\"color\":\"dark_blue\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"15% \",\"color\":\"aqua\"},{\"text\":\"- \",\"color\":\"white\"},{\"text\":\"Sztabki Żelaza\",\"color\":\"white\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"15% \",\"color\":\"aqua\"},{\"text\":\"- \",\"color\":\"white\"},{\"text\":\"Sztabki Złota\",\"color\":\"yellow\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"9% \",\"color\":\"aqua\"},{\"text\":\"- \",\"color\":\"white\"},{\"text\":\"Dollary\",\"color\":\"dark_green\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"1% \",\"color\":\"aqua\"},{\"text\":\"- \",\"color\":\"white\"},{\"text\":\"Rzadka Pisanka\",\"color\":\"gold\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}"
+							],
+							"Name": "{\"text\":\"§b§lMagiczna Pisanka\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
 					"id": "minecraft:pumpkin",
 					"Count": 127,
 					"tag": { 
@@ -6951,6 +7080,162 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
+					"id": "minecraft:diamond_sword",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Ten przebiegły goblin\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"tym razem nie zniszczy\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"naszych wyjątkowych świąt!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z adwentu 2020!\",\"color\":\"gray\",\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§cPogromca Grinch\\u0027a\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 8,
+								"id": "minecraft:bane_of_arthropods"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:fire_aspect"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:looting"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:smite"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:blaze_rod",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Dla niegrzecznych.. Potworów!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z adwentu 2020!\",\"color\":\"gray\",\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§cRózga Mikołaja\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 6,
+								"id": "minecraft:knockback"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:looting"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:sharpness"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\" \"}",
+								"{\"text\":\"§7§oKilof wykorzystywany..\"}",
+								"{\"text\":\"§7§oPrzy wydobywaniu lodu!\"}",
+								"{\"text\":\"§7§oZ adwentu 2020!\"}"
+							],
+							"Name": "{\"text\":\"§bŚwiąteczny Lodołamacz\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:leather_chestplate",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Wykonany z wielu..\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Piernikowych ludzików!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zamrożony jest twardszy..\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Niż diament!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z adwentu 2020!\",\"color\":\"gray\",\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§bPiernikowy Sweter\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 10,
+								"id": "minecraft:blast_protection"
+							},
+							{ 
+								"lvl": 2,
+								"id": "minecraft:fire_protection"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:projectile_protection"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:thorns"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
 					"id": "minecraft:nether_star",
 					"Count": 127,
 					"tag": { 
@@ -6972,14 +7257,49 @@
 					"id": "minecraft:iron_pickaxe",
 					"Count": 127,
 					"tag": { 
-						"Damage": 3,
+						"RepairCost": 1,
+						"Damage": 0,
 						"display": { 
 							"Lore": [ 
-								"{\"text\":\"§8§o§m--------------------\"}",
-								"{\"text\":\"§7§oZ Gwiazdkowego Prezentu (2020)!\"}",
-								"{\"text\":\"§7§oZdobyte przez: §7§o§lKatniss\"}"
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Zagubionego Prezentu!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"mikolaj001921\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
 							],
-							"Name": "{\"text\":\"§6Gwiazdorowe §b❄ §6Szczęście z 4 Gwiazdek\"}"
+							"Name": "{\"text\":\"6Mikołajkowe Szczęście\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 6,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:iron_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"RepairCost": 1,
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"martynie\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§r§6Gwiazdorowe Szczęście\"}"
 						},
 						"Enchantments": [ 
 							{ 
@@ -7036,30 +7356,86 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
-					"id": "minecraft:diamond_pickaxe",
+					"id": "minecraft:diamond_sword",
+					"Count": 127,
+					"tag": { 
+						"RepairCost": 1,
+						"Damage": 6,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Pauliks01\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"Rdzeń ❄ 2\\u0027ej Gwiazdki\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:sweeping"
+							},
+							{ 
+								"lvl": 2,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_sword",
 					"Count": 127,
 					"tag": { 
 						"Damage": 0,
 						"display": { 
 							"Lore": [ 
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Katniss\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Wzmocniony magią świąt\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Oraz naszymi sercami!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Wesołych Świąt!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z adwentu 2020!\",\"color\":\"gray\",\"italic\":true}]}"
 							],
-							"Name": "{\"text\":\"§6Gwiazdkowy §b❄ §6Załamywacz z 27 Gwiazdek\"}"
+							"Name": "{\"text\":\"§6Gwiazdkowy Miecz\"}"
 						},
 						"Enchantments": [ 
 							{ 
-								"lvl": 8,
-								"id": "minecraft:efficiency"
+								"lvl": 7,
+								"id": "minecraft:bane_of_arthropods"
 							},
 							{ 
-								"lvl": 5,
-								"id": "minecraft:fortune"
+								"lvl": 2,
+								"id": "minecraft:fire_aspect"
 							},
 							{ 
-								"lvl": 10,
-								"id": "minecraft:unbreaking"
+								"lvl": 4,
+								"id": "minecraft:knockback"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:looting"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:smite"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:sweeping"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:thorns"
 							}
 						]
 					},
@@ -7076,11 +7452,11 @@
 						"Damage": 0,
 						"display": { 
 							"Lore": [ 
-								"{\"text\":\"§8§o§m--------------------\"}",
-								"{\"text\":\"§7§oZ Gwiazdkowego Prezentu (2020)!\"}",
-								"{\"text\":\"§7§oZdobyte przez: §7§o§lKatniss\"}"
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"TazoReKK\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
 							],
-							"Name": "{\"text\":\"§6Gwiazdorowy §b❄ Trójząb I §6z 5 Gwiazdek\"}"
+							"Name": "{\"text\":\"§6Gwiazdorowy §b❄ §6Trójząb I z 4 Gwiazdek\"}"
 						},
 						"Enchantments": [ 
 							{ 
@@ -7153,6 +7529,39 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
+					"id": "minecraft:diamond_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"RosxPL\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§6Gwiazdkowy §b❄ §6Załamywacz z 18 Gwiazdek\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 8,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
 					"id": "minecraft:diamond_axe",
 					"Count": 127,
 					"tag": { 
@@ -7178,6 +7587,55 @@
 							{ 
 								"lvl": 5,
 								"id": "minecraft:sharpness"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_helmet",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§o§m--------------------\"}",
+								"{\"text\":\"§7§oZ Gwiazdkowego Prezentu (2020)!\"}",
+								"{\"text\":\"§7§oZdobyte przez: §7§o§lfiliks\"}"
+							],
+							"Name": "{\"text\":\"§6Gwiazdkowy Hełm §b❄ z 22 Gwiazdek\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 4,
+								"id": "minecraft:aqua_affinity"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:blast_protection"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:projectile_protection"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:respiration"
+							},
+							{ 
+								"lvl": 2,
+								"id": "minecraft:thorns"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
 							}
 						]
 					},
@@ -7228,28 +7686,83 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
-					"id": "minecraft:blaze_rod",
+					"id": "minecraft:diamond_leggings",
 					"Count": 127,
 					"tag": { 
+						"Damage": 0,
 						"display": { 
 							"Lore": [ 
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Dla niegrzecznych.. Potworów!\",\"color\":\"gray\",\"italic\":true}]}",
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z adwentu 2020!\",\"color\":\"gray\",\"italic\":true}]}"
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"ReaxderXD\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
 							],
-							"Name": "{\"text\":\"§cRózga Mikołaja\"}"
+							"Name": "{\"text\":\"§6Nogawice Gwiazdora §b❄ §6z 29 Gwiazdek\"}"
 						},
 						"Enchantments": [ 
 							{ 
-								"lvl": 6,
-								"id": "minecraft:knockback"
+								"lvl": 10,
+								"id": "minecraft:blast_protection"
 							},
 							{ 
-								"lvl": 5,
-								"id": "minecraft:looting"
+								"lvl": 1,
+								"id": "minecraft:fire_protection"
 							},
 							{ 
-								"lvl": 8,
-								"id": "minecraft:sharpness"
+								"lvl": 10,
+								"id": "minecraft:projectile_protection"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_boots",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"--------------------\",\"color\":\"dark_gray\",\"italic\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z Gwiazdkowego Prezentu (2020)!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"paloksa\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§6Gwiazdozbiory §b❄ §6z 28 Gwiazdek\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 10,
+								"id": "minecraft:blast_protection"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:frost_walker"
+							},
+							{ 
+								"lvl": 9,
+								"id": "minecraft:projectile_protection"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 2,
+								"id": "minecraft:thorns"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
 							}
 						]
 					},
@@ -7407,6 +7920,45 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
+					"id": "minecraft:magma_cream",
+					"Count": 127,
+					"tag": { 
+						"metamorph.drop_type": "surowce",
+						"metamorph.drop_amount": "2",
+						"metamorph.bonus_attack": "1",
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"-------------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zbierz 4 fragmenty potworów,\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"i zsyntezuj z nich jajo metamorfa!\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Wpisz komendę: \",\"color\":\"gray\"},{\"text\":\"/laboratorium\",\"color\":\"blue\"},{\"text\":\"!\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"-------------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"},{\"text\":\"Dropy:\",\"color\":\"dark_aqua\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"},{\"text\":\"- \",\"color\":\"gray\"},{\"text\":\"2x emerald\",\"color\":\"green\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"},{\"text\":\"Ulepszenia:\",\"color\":\"dark_aqua\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"},{\"text\":\"- \",\"color\":\"gray\"},{\"text\":\"Atak: \",\"color\":\"yellow\"},{\"text\":\"+3\",\"color\":\"red\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"},{\"text\":\"- \",\"color\":\"gray\"},{\"text\":\"Życie: \",\"color\":\"yellow\"},{\"text\":\"+6 \",\"color\":\"red\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"},{\"text\":\"- \",\"color\":\"gray\"},{\"text\":\"Szybkość: \",\"color\":\"yellow\"},{\"text\":\"+0 \",\"color\":\"red\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"-------------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}"
+							],
+							"Name": "{\"text\":\"§2[§aMetamorph§2] §bFragment Metamorfa\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:luck_of_the_sea"
+							}
+						],
+						"metamorph.bonus_hp": "6",
+						"metamorph.drop_id": "3",
+						"metamorph.bonus_speed": "0"
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
 					"id": "minecraft:cookie",
 					"Count": 127,
 					"tag": { 
@@ -7449,40 +8001,6 @@
 							],
 							"Name": "{\"text\":\"§5§lWitherowa róża\"}"
 						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:diamond_pickaxe",
-					"Count": 127,
-					"tag": { 
-						"Damage": 0,
-						"display": { 
-							"Lore": [ 
-								"{\"text\":\" \"}",
-								"{\"text\":\"§7§oKilof wykorzystywany..\"}",
-								"{\"text\":\"§7§oPrzy wydobywaniu lodu!\"}",
-								"{\"text\":\"§7§oZ adwentu 2020!\"}"
-							],
-							"Name": "{\"text\":\"§bŚwiąteczny Lodołamacz\"}"
-						},
-						"Enchantments": [ 
-							{ 
-								"lvl": 7,
-								"id": "minecraft:efficiency"
-							},
-							{ 
-								"lvl": 4,
-								"id": "minecraft:fortune"
-							},
-							{ 
-								"lvl": 5,
-								"id": "minecraft:unbreaking"
-							}
-						]
 					},
 					"type": "item"
 				}
@@ -7565,66 +8083,6 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"Damage": 3,
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzU5NGNhNWRjNWM4NWRiM2I0YTkwZDQ4NTkzMmJlZGU1ZmJkZjQwMjNmYzRmYmZmNmZlMTRiZTQwOWMxZjk3In19fQ=="
-									}
-								]
-							},
-							"Id": [ 
-								1732067234,
-								1405893817,
-								-1075722042,
-								636196607
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"§2Christmas Ball Ornament (gold)\"}"
-						},
-						"SkullOwnerOrig": "04049c90-d3e9-4621-9caf-00000aaa1493"
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"Damage": 3,
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQxN2U0OGM5MjUzZTY3NDczM2NlYjdiYzNkYTdmNTIxNTFlNTI4OWQwMjEyYzhmMmRkNzFlNDE2ZTRlZTY1In19fQ=="
-									}
-								]
-							},
-							"Id": [ 
-								1425111432,
-								-1002227202,
-								-1754261259,
-								-1285979356
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"§2Chicken\"}"
-						},
-						"SkullOwnerOrig": "04049c90-d3e9-4621-9caf-0000aaa25342"
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
 					"id": "minecraft:diamond_sword",
 					"Count": 127,
 					"tag": { 
@@ -7663,6 +8121,42 @@
 								"{\"text\":\"§3§oNakrycie głowy wojownika.\"}"
 							],
 							"Name": "{\"text\":\"§3§lHełm Rycerza\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 2,
+								"id": "minecraft:mending"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							},
+							{ 
+								"lvl": 1,
+								"id": "minecraft:vanishing_curse"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_chestplate",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§3§oZapewnia dobrą ochronę\"}",
+								"{\"text\":\"§3§oi wygląda rewelacyjnie!\"}"
+							],
+							"Name": "{\"text\":\"§3§lNapierśnik Rycerza\"}"
 						},
 						"Enchantments": [ 
 							{ 
@@ -7762,44 +8256,110 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
-					"id": "minecraft:diamond_sword",
+					"id": "minecraft:player_head",
 					"Count": 127,
 					"tag": { 
-						"Damage": 0,
+						"Damage": 3,
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzU5NGNhNWRjNWM4NWRiM2I0YTkwZDQ4NTkzMmJlZGU1ZmJkZjQwMjNmYzRmYmZmNmZlMTRiZTQwOWMxZjk3In19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								1732067234,
+								1405893817,
+								-1075722042,
+								636196607
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"§2Christmas Ball Ornament (gold)\"}"
+						},
+						"SkullOwnerOrig": "04049c90-d3e9-4621-9caf-00000aaa1493"
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"Damage": 3,
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzZmZTkwZWRjMTZlZjM0YmI1MWMyYmJmZGJkNzJlMmM2ZmI3NDU0NWFiMTgwMjllZjM0ZDlhZWI2NjI0NWNhZiJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-89572424,
+								-1381287969,
+								-1645849193,
+								392452927
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"§2Festive Pumpkin\"}"
+						},
+						"SkullOwnerOrig": "04049c90-d3e9-4621-9caf-0000aaa41217"
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"Damage": 3,
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQxN2U0OGM5MjUzZTY3NDczM2NlYjdiYzNkYTdmNTIxNTFlNTI4OWQwMjEyYzhmMmRkNzFlNDE2ZTRlZTY1In19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								1425111432,
+								-1002227202,
+								-1754261259,
+								-1285979356
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"§2Chicken\"}"
+						},
+						"SkullOwnerOrig": "04049c90-d3e9-4621-9caf-0000aaa25342"
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:iron_horse_armor",
+					"Count": 127,
+					"tag": { 
 						"display": { 
 							"Lore": [ 
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\" \"}]}",
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Ten przebiegły goblin\",\"color\":\"gray\",\"italic\":true}]}",
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"tym razem nie zniszczy\",\"color\":\"gray\",\"italic\":true}]}",
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"naszych wyjątkowych świąt!\",\"color\":\"gray\",\"italic\":true}]}",
-								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z adwentu 2020!\",\"color\":\"gray\",\"italic\":true}]}"
+								"{\"text\":\"§9§lAMUNICJA: §b§l60 §f§l/ §3§l60\"}",
+								"{\"text\":\"§9§lTYP POCISKÓW: §6§l11.2mm\"}"
 							],
-							"Name": "{\"text\":\"§cPogromca Grinch\\u0027a\"}"
+							"Name": "{\"text\":\"§6§lKARABIN AUTOMATYCZNY\"}"
 						},
 						"Enchantments": [ 
 							{ 
-								"lvl": 8,
-								"id": "minecraft:bane_of_arthropods"
-							},
-							{ 
-								"lvl": 3,
-								"id": "minecraft:fire_aspect"
-							},
-							{ 
-								"lvl": 5,
-								"id": "minecraft:looting"
-							},
-							{ 
-								"lvl": 5,
-								"id": "minecraft:sharpness"
-							},
-							{ 
-								"lvl": 8,
-								"id": "minecraft:smite"
-							},
-							{ 
-								"lvl": 6,
-								"id": "minecraft:unbreaking"
+								"lvl": 1,
+								"id": "minecraft:luck_of_the_sea"
 							}
 						]
 					},
@@ -7809,11 +8369,15 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
-					"id": "minecraft:diamond_block",
+					"id": "minecraft:repeater",
 					"Count": 127,
 					"tag": { 
 						"display": { 
-							"Name": "{\"text\":\"§r§f§lSkup cennych bloków w dobrej cenie /is warp SkateZiomekPL\"}"
+							"Lore": [ 
+								"{\"text\":\"§9§lTYP POCISKÓW: §6§l11.2mm\"}",
+								"{\"text\":\"§9§lAMUNICJA: §b§l0 §f§l/ §3§l60\"}"
+							],
+							"Name": "{\"text\":\"§b§lMAGAZYNEK §6§l11.2mm\"}"
 						}
 					},
 					"type": "item"
@@ -7890,6 +8454,10 @@
 					},
 					"type": "item"
 				}
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:leather_boots\",Count:127b,tag:{Damage:60,Enchantments:[{lvl:5s,id:\"minecraft:protection\"}],display:{color:8991416}}}"
 			},
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
@@ -8347,6 +8915,37 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
+					"id": "minecraft:diamond_axe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§oPostaraj się go nie zakopać.\"}"
+							],
+							"Name": "{\"text\":\"§5§lToporek wojenny\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 6,
+								"id": "minecraft:knockback"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:looting"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:sharpness"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
 					"id": "minecraft:diamond_shovel",
 					"Count": 127,
 					"tag": { 
@@ -8369,6 +8968,105 @@
 							},
 							{ 
 								"lvl": 7,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:bow",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Udanych łowów!\",\"color\":\"dark_green\",\"italic\":true}]}"
+							],
+							"Name": "{\"text\":\"§2§lŁuk Artemidy\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:flame"
+							},
+							{ 
+								"lvl": 1,
+								"id": "minecraft:infinity"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:power"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:punch"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:chainmail_leggings",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§oZakładasz na własne ryzyko!\"}"
+							],
+							"Name": "{\"text\":\"§8§lPrzeklęte nogawice\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:binding_curse"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:thorns"
+							},
+							{ 
+								"lvl": 1,
+								"id": "minecraft:vanishing_curse"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 4,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§0§oHej ho\"}",
+								"{\"text\":\"§0§ohej ho\"}",
+								"{\"text\":\"§0§lgrotę by się kopało!\"}"
+							],
+							"Name": "{\"text\":\"§0§lKilof górnika\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 5,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 6,
 								"id": "minecraft:unbreaking"
 							}
 						]
@@ -14349,6 +15047,34 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
+					"id": "minecraft:paper",
+					"Count": 127,
+					"tag": { 
+						"HideFlags": 1,
+						"alchemia.skladnik.tier": "3",
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7Specjalny, alchemiczny przedmiot!\"}",
+								"{\"text\":\"§7Znajdź §dRecepturę§7, oraz\"}",
+								"{\"text\":\"§eReaktor Alchemiczny§7, aby\"}",
+								"{\"text\":\"§7użyć tego surowca w alchemii!\"}"
+							],
+							"Name": "{\"text\":\"§dAlchemiczna Tkanina III\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 69,
+								"id": "minecraft:infinity"
+							}
+						],
+						"alchemia.skladnik.typ": "tkanina"
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
 					"id": "minecraft:stone",
 					"Count": 127,
 					"tag": { 
@@ -14384,6 +15110,12 @@
 						"HideFlags": 1,
 						"alchemia.skladnik.tier": "2",
 						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7Specjalny, alchemiczny przedmiot!\"}",
+								"{\"text\":\"§7Znajdź §dRecepturę§7, oraz\"}",
+								"{\"text\":\"§eReaktor Alchemiczny§7, aby\"}",
+								"{\"text\":\"§7użyć tego surowca w alchemii!\"}"
+							],
 							"Name": "{\"text\":\"§eAlchemiczny Kamień II\"}"
 						},
 						"Enchantments": [ 
@@ -14448,6 +15180,62 @@
 								"id": "minecraft:infinity"
 							}
 						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:cocoa_beans",
+					"Count": 127,
+					"tag": { 
+						"HideFlags": 1,
+						"alchemia.skladnik.tier": "3",
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Specjalny, alchemiczny przedmiot!\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Znajdź \",\"color\":\"gray\"},{\"text\":\"Recepturę\",\"color\":\"light_purple\"},{\"text\":\", oraz\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Reaktor Alchemiczny\",\"color\":\"yellow\"},{\"text\":\", aby\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"użyć tego surowca w alchemii!\",\"color\":\"gray\"}]}"
+							],
+							"Name": "{\"text\":\"§dAlchemiczna Ziemia III\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 69,
+								"id": "minecraft:infinity"
+							}
+						],
+						"alchemia.skladnik.typ": "ziemia"
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:brown_dye",
+					"Count": 127,
+					"tag": { 
+						"HideFlags": 1,
+						"alchemia.skladnik.tier": "3",
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7Specjalny, alchemiczny przedmiot!\"}",
+								"{\"text\":\"§7Znajdź §dRecepturę§7, oraz\"}",
+								"{\"text\":\"§eReaktor Alchemiczny§7, aby\"}",
+								"{\"text\":\"§7użyć tego surowca w alchemii!\"}"
+							],
+							"Name": "{\"text\":\"§dAlchemiczna Ziemia III\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 69,
+								"id": "minecraft:infinity"
+							}
+						],
+						"alchemia.skladnik.typ": "ziemia"
 					},
 					"type": "item"
 				}
@@ -14561,6 +15349,34 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
+					"id": "minecraft:acacia_log",
+					"Count": 127,
+					"tag": { 
+						"HideFlags": 1,
+						"alchemia.skladnik.tier": "3",
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Specjalny, alchemiczny przedmiot!\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Znajdź \",\"color\":\"gray\"},{\"text\":\"Recepturę\",\"color\":\"light_purple\"},{\"text\":\", oraz\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Reaktor Alchemiczny\",\"color\":\"yellow\"},{\"text\":\", aby\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"użyć tego surowca w alchemii!\",\"color\":\"gray\"}]}"
+							],
+							"Name": "{\"text\":\"§dAlchemiczne Drewno III\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 69,
+								"id": "minecraft:infinity"
+							}
+						],
+						"alchemia.skladnik.typ": "drewno"
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
 					"id": "minecraft:light_gray_dye",
 					"Count": 127,
 					"tag": { 
@@ -14604,6 +15420,34 @@
 								"id": "minecraft:infinity"
 							}
 						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:gold_ingot",
+					"Count": 127,
+					"tag": { 
+						"HideFlags": 1,
+						"alchemia.skladnik.tier": "3",
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7Specjalny, alchemiczny przedmiot!\"}",
+								"{\"text\":\"§7Znajdź §dRecepturę§7, oraz\"}",
+								"{\"text\":\"§eReaktor Alchemiczny§7, aby\"}",
+								"{\"text\":\"§7użyć tego surowca w alchemii!\"}"
+							],
+							"Name": "{\"text\":\"§dAlchemiczny Metal III\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 69,
+								"id": "minecraft:infinity"
+							}
+						],
+						"alchemia.skladnik.typ": "metal"
 					},
 					"type": "item"
 				}
@@ -14660,6 +15504,34 @@
 								"id": "minecraft:infinity"
 							}
 						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:charcoal",
+					"Count": 127,
+					"tag": { 
+						"HideFlags": 1,
+						"alchemia.skladnik.tier": "3",
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Specjalny, alchemiczny przedmiot!\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Znajdź \",\"color\":\"gray\"},{\"text\":\"Recepturę\",\"color\":\"light_purple\"},{\"text\":\", oraz\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Reaktor Alchemiczny\",\"color\":\"yellow\"},{\"text\":\", aby\",\"color\":\"gray\"}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"użyć tego surowca w alchemii!\",\"color\":\"gray\"}]}"
+							],
+							"Name": "{\"text\":\"§dAlchemiczny Węgiel III\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 69,
+								"id": "minecraft:infinity"
+							}
+						],
+						"alchemia.skladnik.typ": "wegiel"
 					},
 					"type": "item"
 				}
@@ -15711,6 +16583,1369 @@
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
+					"id": "minecraft:shulker_box",
+					"Count": 127,
+					"tag": { 
+						"BlockEntityTag": { 
+							"Items": [ 
+								{ 
+									"Slot": 0,
+									"id": "minecraft:sand",
+									"Count": 64,
+									"tag": { 
+										"alchemia.skladnik.typ": "piasek",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "1",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§aAlchemiczny Piasek I\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 1,
+									"id": "minecraft:porkchop",
+									"Count": 16,
+									"tag": { 
+										"alchemia.skladnik.typ": "mieso",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "1",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§aAlchemiczne Mięso I\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 2,
+									"id": "minecraft:stone",
+									"Count": 43,
+									"tag": { 
+										"alchemia.skladnik.typ": "kamien",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "1",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§aAlchemiczny Kamień I\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 3,
+									"id": "minecraft:bone_meal",
+									"Count": 64,
+									"tag": { 
+										"alchemia.skladnik.typ": "tkanina",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "1",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§aAlchemiczna Tkanina I\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 4,
+									"id": "minecraft:soul_sand",
+									"Count": 4,
+									"tag": { 
+										"alchemia.skladnik.typ": "piasek",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "3",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§dAlchemiczny Piasek III\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 5,
+									"id": "minecraft:dirt",
+									"Count": 64,
+									"tag": { 
+										"alchemia.skladnik.typ": "ziemia",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "1",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§aAlchemiczna Ziemia I\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 6,
+									"id": "minecraft:cocoa_beans",
+									"Count": 7,
+									"tag": { 
+										"alchemia.skladnik.typ": "ziemia",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "3",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§dAlchemiczna Ziemia III\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 7,
+									"id": "minecraft:bone_meal",
+									"Count": 64,
+									"tag": { 
+										"alchemia.skladnik.typ": "tkanina",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "1",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§aAlchemiczna Tkanina I\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 8,
+									"id": "minecraft:dark_oak_log",
+									"Count": 4,
+									"tag": { 
+										"alchemia.skladnik.typ": "drewno",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "2",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§eAlchemiczne Drewno II\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 9,
+									"id": "minecraft:brown_wool",
+									"Count": 14,
+									"tag": { 
+										"alchemia.skladnik.typ": "ziemia",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "2",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§eAlchemiczna Ziemia II\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 10,
+									"id": "minecraft:netherrack",
+									"Count": 64
+								},
+								{ 
+									"Slot": 11,
+									"id": "minecraft:iron_ingot",
+									"Count": 48,
+									"tag": { 
+										"alchemia.skladnik.typ": "metal",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "2",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§eAlchemiczny Metal II\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 12,
+									"id": "minecraft:sugar",
+									"Count": 42,
+									"tag": { 
+										"alchemia.skladnik.typ": "tkanina",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "2",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§eAlchemiczna Tkanina II\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 13,
+									"id": "minecraft:diorite",
+									"Count": 64,
+									"tag": { 
+										"alchemia.skladnik.typ": "kamien",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "2",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§eAlchemiczny Kamień II\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 14,
+									"id": "minecraft:coal",
+									"Count": 64,
+									"tag": { 
+										"alchemia.skladnik.typ": "wegiel",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "2",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§eAlchemiczny Węgiel II\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 15,
+									"id": "minecraft:beef",
+									"Count": 49,
+									"tag": { 
+										"alchemia.skladnik.typ": "mieso",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "2",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§eAlchemiczne Mięso II\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 16,
+									"id": "minecraft:dirt",
+									"Count": 48,
+									"tag": { 
+										"alchemia.skladnik.typ": "ziemia",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "1",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§aAlchemiczna Ziemia I\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 17,
+									"id": "minecraft:diorite",
+									"Count": 30,
+									"tag": { 
+										"alchemia.skladnik.typ": "kamien",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "2",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§eAlchemiczny Kamień II\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 18,
+									"id": "minecraft:ink_sac",
+									"Count": 56,
+									"tag": { 
+										"alchemia.skladnik.typ": "wegiel",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "1",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§aAlchemiczny Węgiel I\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 19,
+									"id": "minecraft:dark_oak_log",
+									"Count": 64,
+									"tag": { 
+										"alchemia.skladnik.typ": "drewno",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "2",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§eAlchemiczne Drewno II\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 20,
+									"id": "minecraft:spruce_log",
+									"Count": 43,
+									"tag": { 
+										"alchemia.skladnik.typ": "drewno",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "1",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§aAlchemiczne Drewno I\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 21,
+									"id": "minecraft:light_gray_dye",
+									"Count": 64,
+									"tag": { 
+										"alchemia.skladnik.typ": "metal",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "1",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§aAlchemiczny Metal I\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 22,
+									"id": "minecraft:charcoal",
+									"Count": 8,
+									"tag": { 
+										"alchemia.skladnik.typ": "wegiel",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "3",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§dAlchemiczny Węgiel III\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 23,
+									"id": "minecraft:porkchop",
+									"Count": 64,
+									"tag": { 
+										"alchemia.skladnik.typ": "mieso",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "1",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§aAlchemiczne Mięso I\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 24,
+									"id": "minecraft:ink_sac",
+									"Count": 64,
+									"tag": { 
+										"alchemia.skladnik.typ": "wegiel",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "1",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§aAlchemiczny Węgiel I\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 25,
+									"id": "minecraft:light_gray_dye",
+									"Count": 64,
+									"tag": { 
+										"alchemia.skladnik.typ": "metal",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "1",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§aAlchemiczny Metal I\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 26,
+									"id": "minecraft:ink_sac",
+									"Count": 64,
+									"tag": { 
+										"alchemia.skladnik.typ": "wegiel",
+										"HideFlags": 1,
+										"alchemia.skladnik.tier": "1",
+										"display": { 
+											"Lore": [ 
+												"§7Specjalny, alchemiczny przedmiot!",
+												"§7Znajdź §dRecepturę§7, oraz",
+												"§eReaktor Alchemiczny§7, aby",
+												"§7użyć tego surowca w alchemii!"
+											],
+											"Name": "{\"text\":\"§aAlchemiczny Węgiel I\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 69,
+												"id": "minecraft:infinity"
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:yellow_shulker_box",
+					"Count": 127,
+					"tag": { 
+						"BlockEntityTag": { 
+							"Items": [ 
+								{ 
+									"Slot": 0,
+									"id": "minecraft:diamond_helmet",
+									"Count": 1,
+									"tag": { 
+										"Damage": 0,
+										"display": { 
+											"Lore": [ 
+												"§8§m§l-------------------",
+												"§6§oWykonane z..",
+												"§6§oSkóry diamentowego smoka..",
+												"§8§m§l-------------------",
+												"§8§oKupione przez: §7§oxDeq"
+											],
+											"Name": "{\"text\":\"§6Smoczy Hełm\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 3,
+												"id": "minecraft:aqua_affinity"
+											},
+											{ 
+												"lvl": 5,
+												"id": "minecraft:blast_protection"
+											},
+											{ 
+												"lvl": 6,
+												"id": "minecraft:fire_protection"
+											},
+											{ 
+												"lvl": 5,
+												"id": "minecraft:protection"
+											},
+											{ 
+												"lvl": 3,
+												"id": "minecraft:respiration"
+											},
+											{ 
+												"lvl": 6,
+												"id": "minecraft:unbreaking"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 1,
+									"id": "minecraft:diamond_chestplate",
+									"Count": 1,
+									"tag": { 
+										"Damage": 0,
+										"display": { 
+											"Lore": [ 
+												"§8§o§m--------------------",
+												"§7§oZ Gwiazdkowego Prezentu (2020)!",
+												"§7§oZdobyte przez: §7§o§lHeros78"
+											],
+											"Name": "{\"text\":\"§6Płaszcz Gwiazdora §b❄ §6z 16 Gwiazdek\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 10,
+												"id": "minecraft:blast_protection"
+											},
+											{ 
+												"lvl": 10,
+												"id": "minecraft:projectile_protection"
+											},
+											{ 
+												"lvl": 5,
+												"id": "minecraft:protection"
+											},
+											{ 
+												"lvl": 2,
+												"id": "minecraft:thorns"
+											},
+											{ 
+												"lvl": 10,
+												"id": "minecraft:unbreaking"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 2,
+									"id": "minecraft:diamond_leggings",
+									"Count": 1,
+									"tag": { 
+										"Damage": 0,
+										"display": { 
+											"Lore": [ 
+												"§8§o§m--------------------",
+												"§7§oZ Gwiazdkowego Prezentu (2020)!",
+												"§7§oZdobyte przez: §7§o§lReaxderXD"
+											],
+											"Name": "{\"text\":\"§6Nogawice Gwiazdora §b❄ §6z 29 Gwiazdek\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 10,
+												"id": "minecraft:blast_protection"
+											},
+											{ 
+												"lvl": 1,
+												"id": "minecraft:fire_protection"
+											},
+											{ 
+												"lvl": 10,
+												"id": "minecraft:projectile_protection"
+											},
+											{ 
+												"lvl": 4,
+												"id": "minecraft:protection"
+											},
+											{ 
+												"lvl": 10,
+												"id": "minecraft:unbreaking"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 3,
+									"id": "minecraft:diamond_boots",
+									"Count": 1,
+									"tag": { 
+										"Damage": 0,
+										"display": { 
+											"Lore": [ 
+												"§8§o§m--------------------",
+												"§7§oZ Gwiazdkowego Prezentu (2020)!",
+												"§7§oZdobyte przez: §7§o§lpaloksa"
+											],
+											"Name": "{\"text\":\"§6Gwiazdozbiory §b❄ §6z 28 Gwiazdek\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 10,
+												"id": "minecraft:blast_protection"
+											},
+											{ 
+												"lvl": 3,
+												"id": "minecraft:frost_walker"
+											},
+											{ 
+												"lvl": 9,
+												"id": "minecraft:projectile_protection"
+											},
+											{ 
+												"lvl": 4,
+												"id": "minecraft:protection"
+											},
+											{ 
+												"lvl": 2,
+												"id": "minecraft:thorns"
+											},
+											{ 
+												"lvl": 10,
+												"id": "minecraft:unbreaking"
+											}
+										]
+									}
+								},
+								{ 
+									"Slot": 4,
+									"id": "minecraft:diamond_chestplate",
+									"Count": 1,
+									"tag": { 
+										"Damage": 0,
+										"display": { 
+											"Lore": [ 
+												"§8§o§m--------------------",
+												"§7§oZ Unikalnej Pisanki!",
+												"§7§oZdobyte przez: §7§o§lQino342"
+											],
+											"Name": "{\"text\":\"§6Antyśmingusowa Zbroja z 33 Skorupek\"}"
+										},
+										"Enchantments": [ 
+											{ 
+												"lvl": 7,
+												"id": "minecraft:blast_protection"
+											},
+											{ 
+												"lvl": 10,
+												"id": "minecraft:fire_protection"
+											},
+											{ 
+												"lvl": 7,
+												"id": "minecraft:projectile_protection"
+											},
+											{ 
+												"lvl": 6,
+												"id": "minecraft:protection"
+											},
+											{ 
+												"lvl": 2,
+												"id": "minecraft:thorns"
+											},
+											{ 
+												"lvl": 10,
+												"id": "minecraft:unbreaking"
+											}
+										]
+									}
+								}
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"§r§6§lSM ITY\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_sword",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§l§m----------------------\"}",
+								"{\"text\":\"§7§oZ reakcji alchemicznej!\"}",
+								"{\"text\":\"§7§oZdobyte przez: §7§l§oDanioleQPL\"}",
+								"{\"text\":\"§8§l§m----------------------\"}"
+							],
+							"Name": "{\"text\":\"§6❂Alchemiczny❂ Miecz §eGrabieży §6z 39 Składników\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 8,
+								"id": "minecraft:bane_of_arthropods"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:looting"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:smite"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:sweeping"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_sword",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§l§m----------------------\"}",
+								"{\"text\":\"§7§oZ reakcji alchemicznej!\"}",
+								"{\"text\":\"§7§oZdobyte przez: §7§l§oPikaSolOo\"}",
+								"{\"text\":\"§8§l§m----------------------\"}"
+							],
+							"Name": "{\"text\":\"§6❂Alchemiczny❂ §eOstry §6Miecz z 47 Składników\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:knockback"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:sweeping"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:trident",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§l§m----------------------\"}",
+								"{\"text\":\"§7§oZ reakcji alchemicznej!\"}",
+								"{\"text\":\"§7§oZdobyte przez: §7§l§okapixxks197\"}",
+								"{\"text\":\"§8§l§m----------------------\"}"
+							],
+							"Name": "{\"text\":\"§6❂Alchemiczny❂ Trójząb Alchemika I z 11 Składników\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:channeling"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:impaling"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:loyalty"
+							},
+							{ 
+								"lvl": 1,
+								"id": "minecraft:mending"
+							},
+							{ 
+								"lvl": 9,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:trident",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"----------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z reakcji alchemicznej!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Zabong123\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"----------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}"
+							],
+							"Name": "{\"text\":\"§6❂Alchemiczny❂ Trójząb Alchemika II z 39 Składników\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 9,
+								"id": "minecraft:impaling"
+							},
+							{ 
+								"lvl": 1,
+								"id": "minecraft:mending"
+							},
+							{ 
+								"lvl": 3,
+								"id": "minecraft:riptide"
+							},
+							{ 
+								"lvl": 9,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:bow",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"----------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z reakcji alchemicznej!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"kubaczak\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"----------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}"
+							],
+							"Name": "{\"text\":\"§6❂Alchemiczny❂ Łuk z 19 Składników\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:flame"
+							},
+							{ 
+								"lvl": 1,
+								"id": "minecraft:infinity"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:power"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:punch"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_pickaxe",
+					"Count": 127,
+					"tag": { 
+						"Unbreakable": 1,
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§l§m----------------------\"}",
+								"{\"text\":\"§7§oZ reakcji alchemicznej!\"}",
+								"{\"text\":\"§7§oZdobyte przez: §7§l§oWojtula123\"}",
+								"{\"text\":\"§8§l§m----------------------\"}"
+							],
+							"Name": "{\"text\":\"§6❂Alchemiczny❂ §eNiezniszczalny §6Kilof z 1 Składników\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 5,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:fortune"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_axe",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§l§m----------------------\"}",
+								"{\"text\":\"§7§oZ reakcji alchemicznej!\"}",
+								"{\"text\":\"§7§oZdobyte przez: §7§l§oPikaSolOo\"}",
+								"{\"text\":\"§8§l§m----------------------\"}"
+							],
+							"Name": "{\"text\":\"§6❂Alchemiczna❂ Siekiera z 15 Składników\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 8,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_shovel",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"----------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z reakcji alchemicznej!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Kaska_Glod\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"----------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}"
+							],
+							"Name": "{\"text\":\"§6❂Alchemiczna❂ Łopata z 33 Składników\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 10,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:sharpness"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_shovel",
+					"Count": 127,
+					"tag": { 
+						"Unbreakable": 1,
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8§l§m----------------------\"}",
+								"{\"text\":\"§7§oZ reakcji alchemicznej!\"}",
+								"{\"text\":\"§7§oZdobyte przez: §7§l§ogolonkazpolski\"}",
+								"{\"text\":\"§8§l§m----------------------\"}"
+							],
+							"Name": "{\"text\":\"§6❂Alchemiczna❂ §eNiezniszczalna §6Łopata z 49 Składników\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 5,
+								"id": "minecraft:efficiency"
+							},
+							{ 
+								"lvl": 4,
+								"id": "minecraft:fortune"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:sharpness"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_helmet",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"----------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z reakcji alchemicznej!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"Kaska_Glod\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"----------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}"
+							],
+							"Name": "{\"text\":\"§6❂Alchemiczny❂ Hełm z 20 Składników\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:aqua_affinity"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:blast_protection"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:fire_protection"
+							},
+							{ 
+								"lvl": 6,
+								"id": "minecraft:projectile_protection"
+							},
+							{ 
+								"lvl": 8,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 7,
+								"id": "minecraft:respiration"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_leggings",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"----------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Z reakcji alchemicznej!\",\"color\":\"gray\",\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"Zdobyte przez: \",\"color\":\"gray\",\"italic\":true},{\"text\":\"FoneQ\",\"color\":\"gray\",\"bold\":true,\"italic\":true}]}",
+								"{\"text\":\"\",\"italic\":false,\"extra\":[{\"text\":\"----------------------\",\"color\":\"dark_gray\",\"bold\":true,\"strikethrough\":true}]}"
+							],
+							"Name": "{\"text\":\"§6❂Alchemiczne❂ Nogawice z 26 Składników\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 5,
+								"id": "minecraft:blast_protection"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:fire_protection"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:projectile_protection"
+							},
+							{ 
+								"lvl": 9,
+								"id": "minecraft:protection"
+							},
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:elytra",
+					"Count": 127,
+					"tag": { 
+						"Damage": 2,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§3§oJa latam,\"}",
+								"{\"text\":\"§3§oja latam!\"}",
+								"{\"text\":\"\"}",
+								"{\"text\":\"§3§oLatać każdy może,\"}",
+								"{\"text\":\"§3§oczasem trochę lepiej,\"}",
+								"{\"text\":\"§3§oczasem trochę gorzej..\"}"
+							]
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
 					"id": "minecraft:red_stained_glass_pane",
 					"Count": 127,
 					"type": "item"
@@ -15796,6 +18031,114 @@
 					"tag": { 
 						"display": { 
 							"Name": "{\"text\":\"§r§3breves to penis\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:melon",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Name": "{\"text\":\"§l[§a§lM§a§n§le§f§m§ll§f§lo§a§m§lni§a§lar§f§n§lz§f§l] §a§m§lAl§f§m§leZ§a§leZ§a§l [§f§lP§a§lo§f§ld§a§lp§f§li§a§ls§f§li§a§lk§f§l]\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:enchanted_golden_apple",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Name": "{\"text\":\"§r§c§lkocham §9§l§no§b§ll§f§li§9§lw§b§lk§f§li§c§l na §e§lpizzy\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:blaze_powder",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Name": "{\"text\":\"§l§k;§4§lPło§c§l§mmyk§6§lowy§0§l§k; §0§l§k;§f§lPo§7§l§mdp§8§lis§0§l§k; §0§l§k;§0§l§m_§f§lUc§7§lhi§8§lha§0§l§m__Madary§0§l§k;\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:light_blue_dye",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Name": "{\"text\":\"§r§4 §k** §4Pozdrowienia §5od §dMartynka321_§k**\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:prismarine_shard",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Name": "{\"text\":\"§r§3§k§l§n§mLLLLL§f§l§nka§3§l§mw§3§l§na§f§l§nł§3§l§me§3§l§m§nk§3§m§n §1[§f§lKA§3§lPIT§f§lAN§1] §f§lar§3§lbuzi§f§lk666§3§l§k§m§nLLLLL\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"Damage": 3,
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjkzYjU3YmE0YWM2ZjA0MzE1ZmM0ODFkZTdhMjFlZjI3ZWNiNDhiYWIyNDM1OGEyZWM3MjIwMjBkYzVmYzg1ZSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-543548888,
+								1178743163,
+								-1262280589,
+								-389392850
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"§e§l§oHam§c§lbur§2§l§oger §f§l§ood §e§l§o§mAhan§2§l§nter§4§l§o§m§n55\"}"
+						},
+						"SkullOwnerOrig": "04049c90-d3e9-4621-9caf-0000aaa22477"
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:diamond_block",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Name": "{\"text\":\"§r§f§lSkup cennych bloków w dobrej cenie /is warp SkateZiomekPL\"}"
 						}
 					},
 					"type": "item"
