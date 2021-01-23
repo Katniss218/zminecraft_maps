@@ -507,6 +507,10 @@
 			},
 			{ 
 				"type": "stack",
+				"nbt": "{id:\"minecraft:stick\",Count:127b,tag:{Damage:0,AttributeModifiers:[{UUID:[I;0,2872,0,894654],Amount:2,Slot:\"mainhand\",AttributeName:\"generic.attack_damage\",Operation:0,Name:\"generic.attack_damage\"}],display:{Name:'{\"text\":\"§fNaostrzony kij\"}'}}}"
+			},
+			{ 
+				"type": "stack",
 				"nbt": "{id:\"minecraft:wooden_sword\",Count:127b,tag:{Damage:0,AttributeModifiers:[{Amount:3,Slot:\"mainhand\",AttributeName:\"generic.attack_damage\",Operation:0,UUID:[I;0,2872,0,894654],Name:\"generic.attackDamage\"}],display:{Name:'{\"text\":\"§8Miecz treningowy\"}'}}}"
 			},
 			{ 
@@ -528,6 +532,128 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:stone_shovel\",Count:127b,tag:{Damage:0,AttributeModifiers:[{Amount:6,Slot:\"mainhand\",AttributeName:\"generic.attack_damage\",Operation:0,UUID:[I;0,2872,0,894654],Name:\"generic.attackDamage\"}],display:{Name:'{\"text\":\"§9Kamienna maczuga\"}'}}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:barrier",
+					"Count": 127,
+					"tag": { 
+						"original_id": "customnpcs:npcMoney",
+						"Damage": 0,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§6Przedmiot Questowy\"}"
+							],
+							"Name": "{\"text\":\"§e§lPieniadze\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:barrier",
+					"Count": 127,
+					"tag": { 
+						"original_id": "customnpcs:npcOrb",
+						"Damage": 14,
+						"HideFlags": 63,
+						"display": { 
+							"Lore": [ 
+								"",
+								"{\"text\":\"§8x§7§l1\"}"
+							],
+							"Name": "{\"text\":\"§f§lMiedziana Moneta\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:barrier",
+					"Count": 127,
+					"tag": { 
+						"original_id": "customnpcs:npcOrb",
+						"Damage": 15,
+						"HideFlags": 63,
+						"display": { 
+							"Lore": [ 
+								"",
+								"{\"text\":\"§8x§7§l64\"}"
+							],
+							"Name": "{\"text\":\"§f§lSrebrna Moneta\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:barrier",
+					"Count": 127,
+					"tag": { 
+						"original_id": "customnpcs:npcOrb",
+						"Damage": 11,
+						"HideFlags": 63,
+						"display": { 
+							"Lore": [ 
+								"",
+								"{\"text\":\"§8x§7§l4096\"}"
+							],
+							"Name": "{\"text\":\"§f§lZlota Moneta\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 10,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:stone_sword\",Count:127b,tag:{Damage:0,AttributeModifiers:[{UUID:[I;0,2872,0,894654],Amount:4,Slot:\"mainhand\",AttributeName:\"generic.attack_damage\",Operation:0,Name:\"generic.attack_damage\"}],display:{Name:'{\"text\":\"§7Kamienny miecz\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:wooden_hoe\",Count:127b,tag:{Damage:0,AttributeModifiers:[{UUID:[I;0,2872,0,894654],Amount:3,Slot:\"mainhand\",AttributeName:\"generic.attack_damage\",Operation:0,Name:\"generic.attack_damage\"}],display:{Name:'{\"text\":\"§7Goblinia maczuga\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:iron_axe\",Count:127b,tag:{Damage:0,AttributeModifiers:[{UUID:[I;0,2872,0,894654],Amount:9,Slot:\"mainhand\",AttributeName:\"generic.attack_damage\",Operation:0,Name:\"generic.attack_damage\"},{UUID:[I;0,2534872,0,35894654],Amount:0.05,Slot:\"mainhand\",AttributeName:\"generic.attack_speed\",Operation:0,Name:\"generic.attack_speed\"}],display:{Name:'{\"text\":\"§bKrwawa siekiera\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:leather_boots\",Count:127b,tag:{Damage:0,AttributeModifiers:[{UUID:[I;0,72453,0,8946545],Amount:2,Slot:\"feet\",AttributeName:\"generic.armor\",Operation:0,Name:\"generic.armor\"}],display:{Name:'{\"text\":\"§8Zniszczone buty\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:iron_helmet\",Count:127b,tag:{Damage:0,AttributeModifiers:[{UUID:[I;0,2872453,0,894654345],Amount:5,Slot:\"head\",AttributeName:\"generic.armor\",Operation:0,Name:\"generic.armor\"}],display:{Name:'{\"text\":\"§9Zelazny helm\"}'}}}"
 			},
 			{ 
 				"type": "stack",
@@ -614,6 +740,20 @@
 				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{display:{Name:'{\"text\":\"----zw3\"}'}}}"
 			},
 			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:leather_chestplate",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"display": { 
+							"color": 13314853
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:written_book\",Count:127b,tag:{pages:['{\"extra\":[{\"text\":\"Dawno, dawno temu, w krainie \"},{\"bold\":true,\"text\":\"Esztanii\"},{\"color\":\"reset\",\"text\":\" ludzie zyli w pokoju i dobrobycie. Dobro i zlo byly w rownowadze. Lecz pewnego dnia wszystko zaczelo sie zmieniac. Nad bóstwami krainy sprawowal piecze \"},{\"bold\":true,\"text\":\"Wszechwidzacy\"},{\"color\":\"reset\",\"text\":\". Nie na dlugo jednak.\"}],\"text\":\"\"}','{\"extra\":[{\"text\":\"Tego feralnego dnia cos zaczelo sie dziac... \"},{\"bold\":true,\"text\":\"Wszechwidzacy\"},{\"color\":\"reset\",\"text\":\" stawal sie coraz bardziej niezdolny. Wiedzial o tym \"},{\"bold\":true,\"color\":\"dark_red\",\"text\":\"Zain Nox\"},{\"color\":\"reset\",\"text\":\" - bóg podziemi i ciemnosci. Ludzie na ziemi w pelni grozy patrzyli na jego dramatyczny wzrost w sile.\"}],\"text\":\"\"}','{\"extra\":[{\"text\":\"Stal sie tak potezny, ze zniszczyl delikatna równowage panujaca w \"},{\"bold\":true,\"text\":\"Esztanii\"},{\"color\":\"reset\",\"text\":\". Zlo zstapilo na ziemie i nastaly dni bez slonca. Teraz ludzie pelni trwogi patrza na ostatnie przygotowania \"},{\"bold\":true,\"color\":\"dark_red\",\"text\":\"Zain Nox\\\\u0027a\"},{\"color\":\"reset\",\"text\":\", nim ten zejdzie na ziemie i rozpeta prawdziwe pieklo.\"}],\"text\":\"\"}'],title:\"** WPROWADZENIE **\",author:\"Katniss\",display:{Lore:['{\"text\":\"Zawiera wprowadzenie do gry. PRZECZYTAJ!\"}']},resolved:1b}}"
 			},
@@ -640,6 +780,34 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:chainmail_chestplate\",Count:127b,tag:{Unbreakable:1,Damage:0,HideFlags:63,AttributeModifiers:[{UUIDMost:29779,UUIDLeast:788339,Amount:5,Slot:\"chest\",AttributeName:\"generic.armor\",Operation:0,Name:\"generic.armor\"}],display:{Lore:['{\"text\":\"§8Tunika wykonana z tysiecy malych,\"}','{\"text\":\"§8zelaznych kólek, laczonych\"}','{\"text\":\"§8metoda \\'na styk\\'.\"}','{\"text\":\"\"}','{\"text\":\"§7> §6Ochrona: §e§l5\"}'],Name:'{\"text\":\"§7§lTunika kolcza\"}'}}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:popped_chorus_fruit",
+					"Count": 127,
+					"tag": { 
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§8Mozna za nia kupic przedmioty.\"}"
+							],
+							"Name": "{\"text\":\"§6§lMiedziana moneta\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:stone_sword\",Count:127b,tag:{Unbreakable:1,Damage:0,HideFlags:63,AttributeModifiers:[{UUID:[I;0,285733,0,216639],Amount:6,Slot:\"mainhand\",AttributeName:\"generic.attack_damage\",Operation:0,Name:\"generic.attack_damage\"},{UUID:[I;0,83733,0,254660],Amount:-2,Slot:\"mainhand\",AttributeName:\"generic.attack_speed\",Operation:0,Name:\"generic.attack_speed\"}],display:{Lore:['{\"text\":\"§8Jeden z zombiaków mial go przy\"}','{\"text\":\"§8sobie, ciekawe czy sie przydal.\"}','{\"text\":\"\"}','{\"text\":\"§7> §6Obrazenia: §e§l5-7\"}','{\"text\":\"§7> §6Szybkosc: §e§l||§8§l|\"}'],Name:'{\"text\":\"§7§lGranitowy miecz\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:leather_chestplate\",Count:127b,tag:{Unbreakable:1,Damage:0,HideFlags:63,AttributeModifiers:[{UUID:[I;0,29779,0,788339],Amount:4,Slot:\"chest\",AttributeName:\"generic.armor\",Operation:0,Name:\"generic.armor\"}],display:{color:7813932,Lore:['{\"text\":\"§8Gotowana w wosku, w celu\"}','{\"text\":\"§8utwardzenia. Dosc odporna na ciosy.\"}','{\"text\":\"\"}','{\"text\":\"§7> §6Ochrona: §e§l4\"}'],Name:'{\"text\":\"§7§lWzmoc. skorzana tunika\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:leather_boots\",Count:127b,tag:{Unbreakable:1,Damage:0,HideFlags:63,AttributeModifiers:[{UUID:[I;0,29779,0,788339],Amount:2,Slot:\"feet\",AttributeName:\"generic.armor\",Operation:0,Name:\"generic.armor\"}],display:{color:7813932,Lore:['{\"text\":\"§8Gotowane w wosku w celu\"}','{\"text\":\"§8utwardzenia. Dosc odporne na ciosy.\"}','{\"text\":\"\"}','{\"text\":\"§7> §6Ochrona: §e§l2\"}'],Name:'{\"text\":\"§7§lWzmoc. skorzane buty\"}'}}}"
 			},
 			{ 
 				"type": "stack",
@@ -1799,35 +1967,35 @@
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"1-- Od tego gościa --\"}'}}}"
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"1-- Od Amenosa z dest v3 --\"}'}}}"
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"2-- Od tego gościa --\"}'}}}"
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"2-- Od Amenosa z dest v3 --\"}'}}}"
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"3-- Od tego gościa --\"}'}}}"
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"3-- Od Amenosa z dest v3 --\"}'}}}"
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"4-- Od tego gościa --\"}'}}}"
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"4-- Od Amenosa z dest v3 --\"}'}}}"
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"5-- Od tego gościa --\"}'}}}"
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"5-- Od Amenosa z dest v3 --\"}'}}}"
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"6-- Od tego gościa --\"}'}}}"
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"6-- Od Amenosa z dest v3 --\"}'}}}"
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"7-- Od tego gościa --\"}'}}}"
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"7-- Od Amenosa z dest v3 --\"}'}}}"
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"8-- Od tego gościa --\"}'}}}"
+				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{RepairCost:0,display:{Name:'{\"text\":\"8-- Od Amenosa z dest v3 --\"}'}}}"
 			},
 			{ 
 				"type": "stack",
@@ -18907,6 +19075,78 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:purple_stained_glass_pane\",Count:127b}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:fishing_rod",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"AuctionHouse": 1,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§e§oDla profesjonalistów.\"}",
+								"{\"text\":\"§8------------------------------\"}",
+								"{\"text\":\"§a§lKliknij tutaj aby zakupić przedmiot.\"}",
+								"{\"text\":\" \"}",
+								"{\"text\":\"§3Cena: §e$3,000.00\"}",
+								"{\"text\":\"§3Sprzedawca: §eLaniaa\"}",
+								"{\"text\":\"§3Wygasa: §e11h 16m 13s\"}",
+								"{\"text\":\" \"}",
+								"{\"text\":\"§8------------------------------\"}"
+							],
+							"Name": "{\"text\":\"§e§lWędka rybaka\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 7,
+								"id": "minecraft:luck_of_the_sea"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:lure"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:turtle_helmet",
+					"Count": 127,
+					"tag": { 
+						"Damage": 0,
+						"AuctionHouse": 1,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§4§oChroni przed wybuchami.\"}",
+								"{\"text\":\"§8------------------------------\"}",
+								"{\"text\":\"§c§lNie stać cię na ten przedmiot.\"}",
+								"{\"text\":\" \"}",
+								"{\"text\":\"§3Cena: §e$600.00\"}",
+								"{\"text\":\"§3Sprzedawca: §ekwiecina5\"}",
+								"{\"text\":\"§3Wygasa: §e11h 40m 23s\"}",
+								"{\"text\":\" \"}",
+								"{\"text\":\"§8------------------------------\"}"
+							],
+							"Name": "{\"text\":\"§4§lHełm pirotechnika\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 6,
+								"id": "minecraft:blast_protection"
+							},
+							{ 
+								"lvl": 5,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
 			}
 		],
 		// Declares whether cheating mode is on.

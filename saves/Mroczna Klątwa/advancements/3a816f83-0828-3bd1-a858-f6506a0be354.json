@@ -1,0 +1,17 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-01-23 10:21:36 +0100",
+      "minecraft:taiga": "2021-01-23 10:22:56 +0100",
+      "minecraft:birch_forest": "2021-01-23 10:23:35 +0100",
+      "minecraft:badlands": "2021-01-23 10:31:35 +0100",
+      "minecraft:dark_forest": "2021-01-23 10:31:40 +0100",
+      "minecraft:river": "2021-01-23 10:24:24 +0100",
+      "minecraft:swamp": "2021-01-23 10:27:59 +0100",
+      "minecraft:savanna": "2021-01-23 10:29:53 +0100",
+      "minecraft:plains": "2021-01-23 10:21:32 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}
