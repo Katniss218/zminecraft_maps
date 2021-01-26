@@ -298,6 +298,20 @@
 				"nbt": "{id:\"minecraft:gray_stained_glass_pane\",Count:127b,tag:{display:{Name:'{\"text\":\"----pp03\"}'}}}"
 			},
 			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:writable_book",
+					"Count": 127,
+					"tag": { 
+						"pages": [ 
+							"§8Tier0\n§fTier1 §7(bialy)\n§9Tier2\n§bTier3\n§eTier4\n§6§lTier5\n§aTier6\n§c§lTier7\n§4Tier8\n§4§nTier9\n§4§l§nTier10",
+							"§7§l[§8Tier0§7§l]\n§7§l[§eTier1§7§l]"
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:oak_sign\",Count:127b,tag:{display:{Lore:['{\"text\":\"\"}','{\"text\":\"§8Tier 0\"}','{\"text\":\"§fTier 1\"}','{\"text\":\"§9Tier 2\"}','{\"text\":\"§bTier 3\"}','{\"text\":\"§eTier 4\"}','{\"text\":\"§6§lTier 5§d :SPECIAL:\"}','{\"text\":\"§aTier 6\"}','{\"text\":\"§c§lTier 7§d :SPECIAL:\"}','{\"text\":\"§4Tier 8\"}','{\"text\":\"§4§nTier 9\"}','{\"text\":\"§4§l§nTIER 10§d :SPECIAL:\"}']}}}"
 			},
@@ -312,6 +326,10 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:stone_sword\",Count:127b,tag:{Damage:0,HideFlags:63,AttributeModifiers:[{UUIDMost:581581,UUIDLeast:558091,Amount:5,Slot:\"mainhand\",AttributeName:\"generic.attackDamage\",Operation:0,Name:\"generic.attackDamage\"}],display:{Lore:['{\"text\":\"§7§l- §8\\'Kiedys byl wolny\\'\"}','{\"text\":\"\"}','{\"text\":\"§7> §eObrazenia: §6§l5-6\"}','{\"text\":\"§8§l([§8  -  §8§l])\"}'],Name:'{\"text\":\"§b§lZniewolony miecz\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:leather_chestplate\",Count:127b,tag:{Damage:0,Unbreakable:1,HideFlags:63,AttributeModifiers:[{Amount:3,Slot:\"chest\",AttributeName:\"generic.armor\",Operation:0,UUID:[I;0,581581,0,558091],Name:\"generic.armor\"}],display:{Lore:['{\"text\":\"§7§l- §8\\'Nie chroni zbyt dobrze\\'\"}','{\"text\":\"\"}','{\"text\":\"§7> §eObrona: §6§l3\"}'],Name:'{\"text\":\"§fSkorzany kaftan\"}'}}}"
 			},
 			{ 
 				"type": "stack",
@@ -330,6 +348,151 @@
 				"nbt": "{id:\"minecraft:diamond_shovel\",Count:127b,tag:{Unbreakable:1,Damage:0,HideFlags:63,AttributeModifiers:[{UUIDMost:58181,UUIDLeast:55809,Amount:21.8f,Slot:\"mainhand\",AttributeName:\"generic.attackDamage\",Operation:0,Name:\"generic.attackDamage\"}],display:{Lore:['{\"text\":\"§7§l- §8\\'§9Nigdy nie kop pod soba§8\\'\"}','{\"text\":\"\"}','{\"text\":\"§7> §eObrazenia: §6§l18-23\"}'],Name:'{\"text\":\"§6§lLopata §6§l§nSteve\\\\u0027a\"}'}}}"
 			},
 			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:rotten_flesh",
+					"Count": 127,
+					"tag": { 
+						"HideFlags": 63,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7§l- §8'Okropnie smierdzi'\"}"
+							],
+							"Name": "{\"text\":\"§8Plugawe cialo\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:ghast_tear\",Count:127b,tag:{HideFlags:63,AttributeModifiers:[{UUIDMost:58181,UUIDLeast:55809,Amount:2,Slot:\"offhand\",AttributeName:\"generic.max_health\",Operation:0,Name:\"generic.max_health\"}],display:{Lore:['{\"text\":\"§7§l- §8\\'Okropnie smierdzi\\'\"}','{\"text\":\"\"}','{\"text\":\"§7> §a§l+§e2 HP\"}'],Name:'{\"text\":\"§9Zab orka\"}'}}}"
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:gray_dye\",Count:127b,tag:{HideFlags:63,display:{Lore:['{\"text\":\"§7§l- §8\\'Drzemie w niej ogromna sila\\'\"}'],Name:'{\"text\":\"§4§lEsencja bólu\"}'}}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:barrier",
+					"Count": 127,
+					"tag": { 
+						"original_id": "variedcommodities:coin_bronze",
+						"HideFlags": 63,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7§l- §8'Srodek platniczy'\"}"
+							],
+							"Name": "{\"text\":\"§9Miedziana moneta\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:barrier",
+					"Count": 127,
+					"tag": { 
+						"original_id": "variedcommodities:coin_iron",
+						"HideFlags": 63,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7§l- §8'Srodek platniczy'\"}"
+							],
+							"Name": "{\"text\":\"§9Srebrna moneta\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:barrier",
+					"Count": 127,
+					"tag": { 
+						"original_id": "variedcommodities:coin_gold",
+						"HideFlags": 63,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7§l- §8'Srodek platniczy'\"}"
+							],
+							"Name": "{\"text\":\"§9Zlota moneta\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:barrier",
+					"Count": 127,
+					"tag": { 
+						"original_id": "variedcommodities:coin_emerald",
+						"HideFlags": 63,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7§l- §8'Srodek platniczy'\"}"
+							],
+							"Name": "{\"text\":\"§9Szmargdowa moneta\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:barrier",
+					"Count": 127,
+					"tag": { 
+						"original_id": "variedcommodities:coin_diamond",
+						"HideFlags": 63,
+						"display": { 
+							"Lore": [ 
+								"{\"text\":\"§7§l- §8'Srodek platniczy'\"}"
+							],
+							"Name": "{\"text\":\"§9Diamentowa moneta\"}"
+						},
+						"Enchantments": [ 
+							{ 
+								"lvl": 1,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:brick\",Count:127b,tag:{HideFlags:63,display:{Lore:['{\"text\":\"§7§l- §8\\'Zaplacisz nia w sklepie\\'\"}'],Name:'{\"text\":\"§6§lMiedziana sztabka\"}'},Enchantments:[{lvl:1s,id:\"minecraft:unbreaking\"}]}}"
 			},
@@ -340,14 +503,6 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:gold_ingot\",Count:127b,tag:{HideFlags:63,display:{Lore:['{\"text\":\"§7§l- §8\\'Zaplacisz nia w sklepie\\'\"}'],Name:'{\"text\":\"§a§lZlota sztabka\"}'},Enchantments:[{lvl:1s,id:\"minecraft:unbreaking\"}]}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:ghast_tear\",Count:127b,tag:{HideFlags:63,AttributeModifiers:[{UUIDMost:58181,UUIDLeast:55809,Amount:2,Slot:\"offhand\",AttributeName:\"generic.max_health\",Operation:0,Name:\"generic.max_health\"}],display:{Lore:['{\"text\":\"§7§l- §8\\'Okropnie smierdzi\\'\"}','{\"text\":\"\"}','{\"text\":\"§7> §a§l+§e2 HP\"}'],Name:'{\"text\":\"§9Zab orka\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:gray_dye\",Count:127b,tag:{HideFlags:63,display:{Lore:['{\"text\":\"§7§l- §8\\'Drzemie w niej ogromna sila\\'\"}'],Name:'{\"text\":\"§4§lEsencja bólu\"}'}}}"
 			},
 			{ 
 				"type": "stack",

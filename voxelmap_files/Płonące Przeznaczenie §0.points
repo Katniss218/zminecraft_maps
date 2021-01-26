@@ -1,21 +1,60 @@
 subworlds:
 oldNorthWorlds:
 seeds:
-name:Skrytka,x:1016,z:435,y:67,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:world,world:,dimensions:overworld#
-name:Ob髗 bandyt體,x:1141,z:434,y:74,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
-name:zamek starego kr髄a,x:1345,z:488,y:93,enabled:true,red:0.98039216,green:0.9490196,blue:0.011764706,suffix:house,world:,dimensions:the_nether#overworld#
-name:Swi箃ynia villager體,x:1118,z:127,y:82,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:the_nether#overworld#
-name:skrytka na klucz,x:1193,z:136,y:76,enabled:true,red:0.92941177,green:0.003921569,blue:0.0,suffix:diamond,world:,dimensions:overworld#
-name:wie縜,x:1195,z:28,y:79,enabled:true,red:0.8666667,green:0.9490196,blue:0.003921569,suffix:,world:,dimensions:overworld#
-name:miasto,x:1369,z:-183,y:89,enabled:true,red:0.003921569,green:0.95686275,blue:0.0627451,suffix:house,world:,dimensions:the_nether#overworld#
-name:Wyrocznia Pelem,x:404,z:257,y:86,enabled:true,red:0.047058824,green:0.99607843,blue:0.043137256,suffix:,world:,dimensions:overworld#
+name:Skrytka,x:1016,z:435,y:67,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:,world:,dimensions:overworld#
+name:Ob贸z bandyt贸w,x:1141,z:434,y:74,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:wie偶a,x:1195,z:28,y:79,enabled:true,red:0.8666667,green:0.9490196,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Miasto Woodtown,x:1369,z:-183,y:89,enabled:true,red:0.003921569,green:0.95686275,blue:0.0627451,suffix:house,world:,dimensions:overworld#the_nether#
+name:Wyrocznia Pelem,x:404,z:257,y:86,enabled:true,red:0.003921569,green:0.95686275,blue:0.0627451,suffix:,world:,dimensions:overworld#
 name:Most,x:390,z:131,y:88,enabled:false,red:0.039215688,green:1.0,blue:0.101960786,suffix:,world:,dimensions:overworld#
 name:Most,x:442,z:81,y:86,enabled:false,red:0.007843138,green:1.0,blue:0.07450981,suffix:,world:,dimensions:overworld#
 name:most,x:507,z:-199,y:73,enabled:false,red:0.011764706,green:0.99607843,blue:0.12156863,suffix:,world:,dimensions:overworld#
-name:startowa wioska (Gheyn?),x:1017,z:385,y:106,enabled:true,red:0.0,green:0.972549,blue:0.023529412,suffix:house,world:,dimensions:the_nether#overworld#
-name:kryj體ka mutant體,x:1027,z:422,y:44,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
-name:Spalone ruiny miasta z dzieci駍t,x:265,z:135,y:73,enabled:true,red:0.9372549,green:0.972549,blue:0.09411765,suffix:house,world:,dimensions:the_nether#overworld#
-name:Wi陑ienie w jaskini,x:1234,z:503,y:62,enabled:true,red:0.99607843,green:0.043137256,blue:0.039215688,suffix:,world:,dimensions:overworld#
-name:Chata Zeka,x:1146,z:420,y:60,enabled:true,red:0.03137255,green:1.0,blue:0.11372549,suffix:,world:,dimensions:overworld#
-name:Jaskinia mutant體,x:1124,z:392,y:66,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:startowa wioska (Gheyn?),x:1017,z:385,y:106,enabled:true,red:0.0,green:0.972549,blue:0.023529412,suffix:house,world:,dimensions:overworld#the_nether#
+name:Wi臋zienie w jaskini,x:1234,z:503,y:62,enabled:true,red:0.99607843,green:0.043137256,blue:0.039215688,suffix:,world:,dimensions:overworld#
+name:Jaskinia mutant贸w,x:1124,z:392,y:66,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Chest,x:1122,z:396,y:63,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Dom,x:1179,z:403,y:71,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
+name:Kowal,x:973,z:370,y:65,enabled:true,red:0.011764706,green:0.94509804,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Targowisko,x:977,z:397,y:68,enabled:true,red:0.06666667,green:0.92941177,blue:0.0,suffix:,world:,dimensions:overworld#
+name:SPAWN,x:1029,z:443,y:94,enabled:true,red:0.0,green:0.93333334,blue:0.023529412,suffix:world,world:,dimensions:overworld#
+name:Dom So艂tysa,x:1013,z:354,y:69,enabled:true,red:0.015686275,green:0.99607843,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:Most,x:1193,z:429,y:68,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Wie偶a,x:1253,z:453,y:85,enabled:true,red:0.9607843,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Wej艣cie do jaski艅,x:1228,z:477,y:60,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Okno,x:1228,z:512,y:64,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Dom maga,x:1288,z:459,y:86,enabled:true,red:0.98039216,green:0.9490196,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Bli藕niaki,x:1355,z:516,y:74,enabled:true,red:0.9372549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Dom,x:1386,z:520,y:83,enabled:true,red:0.90588236,green:0.9098039,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Wej艣cie,x:1369,z:489,y:67,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Most,x:1229,z:354,y:73,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Most,x:1176,z:74,y:74,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:Brama,x:1367,z:-140,y:72,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Brama,x:1386,z:-263,y:72,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Przej艣cie,x:1403,z:-173,y:64,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:koniec szlaku,x:507,z:-200,y:66,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Most,x:440,z:81,y:81,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Schody,x:460,z:81,y:72,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Most,x:389,z:131,y:82,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Spalone ruiny miasta z dzieci艅st,x:186,z:65,y:78,enabled:true,red:0.92941177,green:0.93333334,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Kryj贸wka,x:1131,z:445,y:69,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Chata Zek'a,x:1150,z:420,y:60,enabled:true,red:0.03137255,green:0.91764706,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Przysta艅,x:1027,z:307,y:67,enabled:true,red:0.0,green:0.92156863,blue:0.08235294,suffix:,world:,dimensions:overworld#
+name:Most,x:1051,z:357,y:67,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Brama,x:1073,z:362,y:64,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Namioty,x:1025,z:375,y:65,enabled:true,red:0.0,green:0.9137255,blue:0.03529412,suffix:,world:,dimensions:overworld#
+name:Stodo艂a,x:987,z:405,y:68,enabled:true,red:0.003921569,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Szopa,x:988,z:414,y:67,enabled:true,red:0.007843138,green:0.98039216,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Studnia,x:996,z:389,y:67,enabled:true,red:0.043137256,green:0.9411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Jaskinia mutant贸w,x:1001,z:389,y:61,enabled:true,red:0.9490196,green:0.49803922,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Przej艣cie,x:1149,z:341,y:88,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Woda,x:1160,z:240,y:64,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Zamek Starego Kr贸la,x:1350,z:483,y:84,enabled:true,red:0.95686275,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:艢wi膮tynia Villager贸w,x:1109,z:126,y:73,enabled:true,red:0.9843137,green:0.015686275,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Skrytka na klucz,x:1188,z:135,y:68,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:diamond,world:,dimensions:overworld#
+name:Dom,x:1009,z:456,y:83,enabled:true,red:0.011764706,green:0.9372549,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Crafting Table,x:1057,z:503,y:66,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
+name:Tutorial,x:1122,z:312,y:20,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:D藕wignia,x:1012,z:434,y:45,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:D藕wignia,x:1012,z:429,y:44,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:殴r贸d艂o zarazy,x:1025,z:422,y:44,enabled:true,red:0.92941177,green:0.019607844,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chest,x:986,z:404,y:53,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
