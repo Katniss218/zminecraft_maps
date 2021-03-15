@@ -139,15 +139,15 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDkyM2RmODRhMjRiNjU0NTQzMDJkYWExNmZiYmUwZDQ5OTM0NzFmNTQxYjhlMjY3ZGYwMDFjYWJhNThlNDhhYSJ9fX0="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGU2YzY2NWI4MjczODlhYWU0MjNmMGJjNzAzYjZjY2E4M2I1MTgxZDMzZjYwZjcyNzI4MzY3NGY4MDE0YTQ1NiJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								1171919014,
-								-325628877,
-								-1425054846,
-								-1651076972
+								-1886884079,
+								-1149940254,
+								-1103790561,
+								146940334
 							]
 						},
 						"display": { 
@@ -167,131 +167,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q2ZTNiZjE3OTUxOGM0NDk0MDNmNWEyYWM0MTlmODBiYmMyZGY4ZGZhZTg3MTU2ZDM3NTQ4MjY1YWYxMGNjMyJ9fX0="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjUxODBkYTVhZTZiMjMwZTcwZTQ1Y2QyZjZlNTBjODk4OGZlYTAxY2NkMjhkYWQzM2I4YjE2MGM5ZDgwZjc1NSJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								1160943432,
-								-140951483,
-								-1451823191,
-								-217110611
+								1422291853,
+								-2036905052,
+								-2095856772,
+								-1819643656
 							]
 						},
 						"display": { 
 							"Name": "{\"text\":\"Spruce Planks\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGYyYzkyZWZlOGY0Yjg5NjUwMWE0ZWIwZDhhMDZiZDJkZGY2MTBjMzI1ZDZjNWQ4ZTRmNzhkN2Q5MWYyMWQ2ZiJ9fX0="
-									}
-								]
-							},
-							"Id": [ 
-								579529010,
-								1914388797,
-								-2141025368,
-								-296281169
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Birch Planks\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGIzODhjMGM1MDcxMGJkMmFkOTY2ODZlYjEzMGJkMmYzZDg3NjYwYjgzODMyYmI0MzA0MmU5YWJhYjhlYjcwZiJ9fX0="
-									}
-								]
-							},
-							"Id": [ 
-								319859712,
-								-1717942737,
-								-1985929292,
-								482992971
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Jungle Planks\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTEwNzVlNDBlZTA3MjFhMmEyNjc4ODY1NzZmOWU5NTlkODA0MjkyMzA5MGJlZjBhOGE2OGRkOWRkMTY4ZDAzNSJ9fX0="
-									}
-								]
-							},
-							"Id": [ 
-								1270689621,
-								-614118115,
-								-2101783830,
-								-1730298847
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Acacia Planks\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDA3OGJmNmU4MDM3NzRkOTUwYjUzNTAzZjI2NWVhYTA3NTIzNjQ3MWNlZmFjMzQ4MDYyYjdkYzVlNzIyYzEyMCJ9fX0="
-									}
-								]
-							},
-							"Id": [ 
-								-784201141,
-								1679180589,
-								-1682502875,
-								-917928198
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Dark Oak Planks\"}"
 						}
 					},
 					"type": "item"
@@ -375,27 +263,79 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjE5YWQ1MjE1YmE2YzdlNGU0ZDA2NjhmMDJkM2E5YzkzN2FjNTM2YWNjNzVhYzQ5ZTdiZDdiMWM4Y2NmODAifX19"
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjY4NjlmZGFiYTFhOWZmZjNjOTg0MDk1ZDQxMTdjZmRhNDhiNjZjNWE1YWYzM2ZjNDQwYmVjZmNlYjc4YSJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								865863214,
-								-94024140,
-								-1788497655,
-								1883662715
+								1932744695,
+								628836936,
+								-1109927050,
+								-1460361780
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Log with Leaves\"}"
+							"Name": "{\"text\":\"Sandstone Boulder\"}"
 						}
 					},
 					"type": "item"
 				}
 			},
 			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ3NDI4MzlkMzQxMjVkMTI4ZGY0ZTIzZWI2Mzc0OTgyYWM2N2Q3MmNiZjYzOTI1ZWQ2OTFlOTNjMjRlZmMzNyJ9fX0=\"}]},Id:[I;2126359976,20991762,-1191497999,-1855018653]},display:{Name:'{\"text\":\"Axe on a stumb\"}'}}}"
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQxZjhiYTViNDZiZDY4MjVkYWNlNzA0MjgzZjFhMTZjZGY5OTI0ZTlkZTVjYmNlNzM1NDQ1YWZjNzZhNTZlIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								1781572372,
+								-659862843,
+								-1732121873,
+								-756041012
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Stone Boulder\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzY0ZjMwZTViOWYyZGQyMDkyZmE5MTk1MzExNDkxMmU4NmY0MjJlNDYwNzhkOTMzYTNjYzVjOTE3YWIyZWQ5MCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								1088065575,
+								629972501,
+								-2021655949,
+								-839832446
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Mossy Boulder\"}"
+						}
+					},
+					"type": "item"
+				}
 			},
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
@@ -579,6 +519,38 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjE5YWQ1MjE1YmE2YzdlNGU0ZDA2NjhmMDJkM2E5YzkzN2FjNTM2YWNjNzVhYzQ5ZTdiZDdiMWM4Y2NmODAifX19"
+									}
+								]
+							},
+							"Id": [ 
+								865863214,
+								-94024140,
+								-1788497655,
+								1883662715
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Log with Leaves\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ3NDI4MzlkMzQxMjVkMTI4ZGY0ZTIzZWI2Mzc0OTgyYWM2N2Q3MmNiZjYzOTI1ZWQ2OTFlOTNjMjRlZmMzNyJ9fX0=\"}]},Id:[I;2126359976,20991762,-1191497999,-1855018653]},display:{Name:'{\"text\":\"Axe on a stumb\"}'}}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjE5M2IyNGQ3Y2IwZjg2M2I5ODdhNTRiMDI2YmQ5MDE4ZmFjMTU2NzFiM2ZiYmVjYzdkNmUyNTNjMjU3YiJ9fX0="
 									}
 								]
@@ -623,19 +595,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODBhNDMzNGY2YTYxZTQwYzBjNjNkZWI2NjVmYTdiNTgxZTZlYjI1OWY3YTMyMDdjZWQ3YTFmZjhiZGM4YTlmOSJ9fX0="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjI2OTIxY2JhMTZmMWZlYmYxNjU0MjRjYWQ5ZDUzNThlODE1Njg0MjJkNDlkNDc3MWQ2MmE1YTVjNTEwYTMifX19"
 									}
 								]
 							},
 							"Id": [ 
-								827352338,
-								1875659149,
-								-1127232860,
-								1651510631
+								-1832848475,
+								-1913699065,
+								-1648492960,
+								1406564655
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Cobblestone Crafting Table\"}"
+							"Name": "{\"text\":\"Foot Stool\"}"
 						}
 					},
 					"type": "item"
@@ -670,32 +642,8 @@
 				}
 			},
 			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmRkNDM2NGZlMmIxOWE2YzExOWQxN2I1Njk0NGVmZjU2NmMxNGI0ZmVhNDVlOWI0YmMzMjkyOGQ1OTdmNDY4In19fQ=="
-									}
-								]
-							},
-							"Id": [ 
-								375802556,
-								332154385,
-								-1730221004,
-								-1309631499
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Gunpowder\"}"
-						}
-					},
-					"type": "item"
-				}
+				"type": "stack",
+				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTJkZDdkODE4Y2JhNjUyYjAxY2YzNTBkMmIyYTFjZWVkZDRmNDZhY2FkMDViMmNlODFjM2Y4NzdlYWI3MTcifX19\"}]},Id:[I;2075206903,1102203097,-2107118560,2027789071]},display:{Name:'{\"text\":\"Metal Crate\"}'}}}"
 			},
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
@@ -726,12 +674,176 @@
 				}
 			},
 			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTJkZDdkODE4Y2JhNjUyYjAxY2YzNTBkMmIyYTFjZWVkZDRmNDZhY2FkMDViMmNlODFjM2Y4NzdlYWI3MTcifX19\"}]},Id:[I;2075206903,1102203097,-2107118560,2027789071]},display:{Name:'{\"text\":\"Metal Crate\"}'}}}"
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjhhMDY1NTg4YzdkYmYxMjk0NTk1YWJhNzc3OTFjM2FkNjVmMTliZjFjOWFkN2E1YzIzZGE0MGI4Mjg2MGI3In19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								314491673,
+								716456916,
+								-1894224358,
+								-2130553129
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Compass\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E1ZTM2M2E5MjBkMTQwNzY1Nzg2Yjg1ODMzMmMxMjRlN2NlNzU2MWZkZGFlMDFkNTllZDUwMTM2YTRjOGI0MCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								760060346,
+								-473937434,
+								-1636323224,
+								1106097292
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Chainwheel\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODBhNDMzNGY2YTYxZTQwYzBjNjNkZWI2NjVmYTdiNTgxZTZlYjI1OWY3YTMyMDdjZWQ3YTFmZjhiZGM4YTlmOSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								827352338,
+								1875659149,
+								-1127232860,
+								1651510631
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Cobblestone Crafting Table\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmRkNDM2NGZlMmIxOWE2YzExOWQxN2I1Njk0NGVmZjU2NmMxNGI0ZmVhNDVlOWI0YmMzMjkyOGQ1OTdmNDY4In19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								375802556,
+								332154385,
+								-1730221004,
+								-1309631499
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Gunpowder\"}"
+						}
+					},
+					"type": "item"
+				}
 			},
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmIxYzNjMzlhZGZjZTEyZDJiODg0ZjcyZDFiZGY0NzRmYjIzODkyZWMyOWQ2OWZmMGRkMTExZDY5ZDcifX19\"}]},Id:[I;-1129752239,1628652858,-1145880461,-953718325]},display:{Name:'{\"text\":\"Wooden Clock\"}'}}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjZmNDQ4ZTNhMzViZWRkYjI1MmVlN2IzMGZlZDY3MTUzYjhhMzI0NTA2NTU2YjRhNzFlYWZjZTVlYjg2YjQ5In19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								-2047883046,
+								-1264760793,
+								-1524206417,
+								914086547
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Cartography Table Globe\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOThkYWExZTNlZDk0ZmYzZTMzZTFkNGM2ZTQzZjAyNGM0N2Q3OGE1N2JhNGQzOGU3NWU3YzkyNjQxMDYifX19"
+									}
+								]
+							},
+							"Id": [ 
+								-1121419518,
+								2067529689,
+								-982738485,
+								263170875
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Globe\"}"
+						}
+					},
+					"type": "item"
+				}
 			},
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
@@ -756,90 +868,6 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Old Globe\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjc0MTc5MjQ1NjY3ZTYxNjY5Y2MxNDFhM2RjNDZkMjU5ZjE1OWEyOGVhMWI0NjkzNjQyZDlhMzEyNmRhOTU3ZCJ9fX0="
-									}
-								]
-							},
-							"Id": [ 
-								-36543206,
-								831493760,
-								-987927503,
-								-2133975525
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Spool of Thread (light gray)\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQzMTY2OGQxMTYzOTdmYTdiY2JlODk0NGQ1MWQyMjkwOWUzYjgwYzlkM2RkZTE5ZmY0ODZmZGRmZTA2ZCJ9fX0="
-									}
-								]
-							},
-							"Id": [ 
-								-710603200,
-								410548388,
-								-68917733,
-								1210408967
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Spool of Thread (black)\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI5YTRkZmNjNzE1M2MzMTc2ZGM4Y2YzODg4N2QyZDgzODU1NDVmYTRjNWY4YzJmZjEzZjlkNjllOThlOSJ9fX0="
-									}
-								]
-							},
-							"Id": [ 
-								1247458929,
-								-1399799800,
-								-309112118,
-								811023008
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Spool of Thread (gold)\"}"
 						}
 					},
 					"type": "item"
@@ -939,6 +967,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjZjMzZiZDQ0NDNhMzNiNjdhNGQwZmFjNjljMmY1ZjJiNDVkYjY2ZTkxYmFhYTVlOWI3ZWRiN2EyZmE4MSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1409801737,
+								-43758357,
+								-1857589883,
+								-865823956
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Spool\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODc0NjhlZWRhMThmZTdkZTE1MDg5N2E0MzE5NzNmNDI3ZTQzMWY5Yzk4YzQyODc2ZDkzNmEyZDk2ZTFhNCJ9fX0="
 									}
 								]
@@ -952,6 +1008,90 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Old Clock\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNiZDlmNWVjMWVkMDA3MjU5OTk2NDkxZTY5ZmY2NDlhMzEwNmNmOTIwMjI3YjFiYjNhNzFlZTdhODk4NjNmIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								604261039,
+								-54442350,
+								-1720687814,
+								-662156756
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Anvil\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2MxZTMwNjRkNGE4Nzc1YWQzMzFmYzUxYjJmNDE0NDIwMjA2YzcyZDc1ZTdjNmMyMjU1Yzg1NmM1OTU0OCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								558284980,
+								387773895,
+								547168126,
+								456414357
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Brown Ball\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODM0NTk1ODE2NmJjYWJlNzE2MjkyZWY0NDc0YzkyYmVhZjNiYjRjYTZkZjFjMjkzZjg5NjI4MDJmY2U3NjUzIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								2064435004,
+								713154949,
+								-1853463633,
+								-354529678
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Framed Stone\"}"
 						}
 					},
 					"type": "item"
@@ -1023,19 +1163,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTE1ZGNiMjJkMzJlZDEzOGUwMjQ5ZjhmZTE4YWU1YTRlNDIxNTIwYTZkYzU3NTZhNGI4NzQ5NDRmZDg3NTliIn19fQ=="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjc0MTc5MjQ1NjY3ZTYxNjY5Y2MxNDFhM2RjNDZkMjU5ZjE1OWEyOGVhMWI0NjkzNjQyZDlhMzEyNmRhOTU3ZCJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								1536799079,
-								-237831370,
-								1528143143,
-								-1322425822
+								-36543206,
+								831493760,
+								-987927503,
+								-2133975525
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Boulder\"}"
+							"Name": "{\"text\":\"Spool of Thread (light gray)\"}"
 						}
 					},
 					"type": "item"
@@ -1051,19 +1191,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQxZjhiYTViNDZiZDY4MjVkYWNlNzA0MjgzZjFhMTZjZGY5OTI0ZTlkZTVjYmNlNzM1NDQ1YWZjNzZhNTZlIn19fQ=="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQzMTY2OGQxMTYzOTdmYTdiY2JlODk0NGQ1MWQyMjkwOWUzYjgwYzlkM2RkZTE5ZmY0ODZmZGRmZTA2ZCJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								1781572372,
-								-659862843,
-								-1732121873,
-								-756041012
+								-710603200,
+								410548388,
+								-68917733,
+								1210408967
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Stone Boulder\"}"
+							"Name": "{\"text\":\"Spool of Thread (black)\"}"
 						}
 					},
 					"type": "item"
@@ -1079,19 +1219,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzY0ZjMwZTViOWYyZGQyMDkyZmE5MTk1MzExNDkxMmU4NmY0MjJlNDYwNzhkOTMzYTNjYzVjOTE3YWIyZWQ5MCJ9fX0="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI5YTRkZmNjNzE1M2MzMTc2ZGM4Y2YzODg4N2QyZDgzODU1NDVmYTRjNWY4YzJmZjEzZjlkNjllOThlOSJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								1088065575,
-								629972501,
-								-2021655949,
-								-839832446
+								1247458929,
+								-1399799800,
+								-309112118,
+								811023008
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Mossy Boulder\"}"
+							"Name": "{\"text\":\"Spool of Thread (gold)\"}"
 						}
 					},
 					"type": "item"
@@ -1107,19 +1247,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjY4NjlmZGFiYTFhOWZmZjNjOTg0MDk1ZDQxMTdjZmRhNDhiNjZjNWE1YWYzM2ZjNDQwYmVjZmNlYjc4YSJ9fX0="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjY3Mjc3YzBlZWY4NjRlNjM3NTBkOGU3NmEzNGU4ZjVlNzA2YjNlZWI1NzQ4NWUxODg0MjJlMTM2NmUyZTA2MCJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								1932744695,
-								628836936,
-								-1109927050,
-								-1460361780
+								-1827877311,
+								-1541190076,
+								-2066905404,
+								-1921112317
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Sandstone Boulder\"}"
+							"Name": "{\"text\":\"Ammolite\"}"
 						}
 					},
 					"type": "item"
@@ -1187,6 +1327,7 @@
 					"id": "minecraft:player_head",
 					"Count": 127,
 					"tag": { 
+						"RepairCost": 0,
 						"SkullOwner": { 
 							"Properties": { 
 								"textures": [ 
@@ -1203,7 +1344,7 @@
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Old Newspapers\"}"
+							"Name": "{\"text\":\"Stack of Paper\"}"
 						}
 					},
 					"type": "item"
@@ -1212,6 +1353,34 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWVlOGQ2ZjVjYjdhMzVhNGRkYmRhNDZmMDQ3ODkxNWRkOWViYmNlZjkyNGViOGNhMjg4ZTkxZDE5YzhjYiJ9fX0=\"}]},Id:[I;743924009,-670023481,-1462334552,1436603543]},display:{Name:'{\"text\":\"Books 2 (V)\"}'}}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmJjNjE2OGJjODlmNjIzYjIwNDg4MjgxMzU1MWIwODY3MDVkODRkMjgyMjUxZWVlY2Q4OWIzODQ3NGZlYzAifX19"
+									}
+								]
+							},
+							"Id": [ 
+								253022630,
+								-2026026850,
+								-1783072634,
+								-1763884380
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Books\"}"
+						}
+					},
+					"type": "item"
+				}
 			},
 			{ 
 				"type": "stack",
@@ -1278,8 +1447,64 @@
 				}
 			},
 			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjA4ODlmMWRmNzQwYmE4OTAxYzM0NDYyZjM3YWZjNmE5ZmE4MjI5NzNiYWI4MWMyNWU5MDAxODhhMDlhYjVhIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								521168385,
+								1668432817,
+								-1893267321,
+								-72933910
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Stack of Books\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Id:[I;-456710194,-586658938,-1235939680,-1940090906],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM0NGQ4M2U3YzZlY2U5MGQzNGM2ODVhOWEzMzg0ZjhlOGQwMTUxNjMzZmMyZWVhZTRkNGI2MzY4NjJkMzMifX19\"}]},Name:\"SomeNameThatIsTooLongForMC\"},display:{Name:'{\"text\":\"Books\"}'}}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODdlYzQ0NGY3NmNkYWJlMjUxZDlhMTgyNjA0NTJkMzkyM2VhNTJmNTcxZWVjNTE3ZTIyNzMzNWI2YTMwYWEifX19"
+									}
+								]
+							},
+							"Id": [ 
+								1834182230,
+								-125940441,
+								-1425264526,
+								1826241718
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Stack of Books\"}"
+						}
+					},
+					"type": "item"
+				}
 			},
 			{ 
 				"type": "stack",
@@ -1507,34 +1732,6 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjI2OTIxY2JhMTZmMWZlYmYxNjU0MjRjYWQ5ZDUzNThlODE1Njg0MjJkNDlkNDc3MWQ2MmE1YTVjNTEwYTMifX19"
-									}
-								]
-							},
-							"Id": [ 
-								-1832848475,
-								-1913699065,
-								-1648492960,
-								1406564655
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Foot Stool\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWUyNTk2MmJlN2M5ZWYzNGE5YmI0NDQ3MmZhZjI2NTkzMTIyYjM3N2IyNzU2ODFhOTQ5MWE4Y2IxOGE1NTY3In19fQ=="
 									}
 								]
@@ -1675,6 +1872,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2I2ZDVmYWVlZmQxYjI5OTJjNmVmNGQ1OGRkYTRiZTkyMzc2MTFiZjk4MzFjNGU0OTg3ZmVlYmQ4Njg3ZWJkNSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1315198942,
+								-1228583894,
+								-1272088978,
+								-2100873231
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Urn\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNiM2FjZGMxMWNhNzQ3YmY3MTBlNTlmNGM4ZTliM2Q5NDlmZGQzNjRjNjg2OTgzMWNhODc4ZjA3NjNkMTc4NyJ9fX0="
 									}
 								]
@@ -1771,7 +1996,7 @@
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Bag of Semolina\"}"
+							"Name": "{\"text\":\"Bag of Flour\"}"
 						}
 					},
 					"type": "item"
@@ -2127,6 +2352,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTUxOTY5NjlhZmNjMTk0OWMzNTM4Njk3Y2RkNWIxOTE5N2ZhMzg1MTYxMzQ2OGRiZDU1ZDAzMTUzODk5YjYifX19"
+									}
+								]
+							},
+							"Id": [ 
+								783707778,
+								1571103381,
+								1862508010,
+								-1459567146
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Lettuce\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjUxMDZmMGNjNGMxMmRjZmU3NzM2YTFmZmM5Mjc3MmY0MWI2NmUxYjc2ODJiMWY0NzUzNzc4NzcyMDU2NzI2MiJ9fX0="
 									}
 								]
@@ -2323,6 +2576,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjhlNjBlYmQ4MGI2MDYzYTk2ZTlhYWY4NGYwMzgyNTcwNThlNzYyZjFiZWMzYmY1YzBmNjI1MWU2NWQ1YzVlZSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-272305716,
+								-2068559776,
+								-1923856964,
+								-6452186
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Basket with Potatoes\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmYyNWE5Nzk5OGZmYzU4MWI5NTdkNzMxNjFhYjE4OThjYWM1Y2VjODljODliMzRjMjNjYjZkNDA3NGM0YzhhYyJ9fX0="
 									}
 								]
@@ -2407,62 +2688,6 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjhlNjBlYmQ4MGI2MDYzYTk2ZTlhYWY4NGYwMzgyNTcwNThlNzYyZjFiZWMzYmY1YzBmNjI1MWU2NWQ1YzVlZSJ9fX0="
-									}
-								]
-							},
-							"Id": [ 
-								-272305716,
-								-2068559776,
-								-1923856964,
-								-6452186
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Basket with Potatoes\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTgzNjhlZjBjMzY3MjgzM2JhYWVhMDg3OWY2MWNlODcwOWJiMjJiZTc2YWIwZWI5ZWQ2OGMxYzBmMTg2YWQ5OCJ9fX0="
-									}
-								]
-							},
-							"Id": [ 
-								403950616,
-								-1726594783,
-								-2097617896,
-								1625625632
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Basket of Satanic Fruit\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjlmOTkxZjFmNzFiM2EzMzFmY2MxMmQ2ZTY0ZGZmMmU3MzdjOTcxZDllODhlOTcwYzc4N2UwZThjZDA2NDA4NiJ9fX0="
 									}
 								]
@@ -2476,6 +2701,34 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Basket with Root Crops\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDc2ZDYxZDBkYTljMzM5NTcyNWZkNTBkYTE3ODk2MjE5Mzc5ZmM5OWNkYjVmNjEzN2JlYWNmNDlmMjM3ZTJlZiJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								1176513721,
+								-348503925,
+								-2065094847,
+								1574496047
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Basket with Apples\"}"
 						}
 					},
 					"type": "item"
@@ -2519,19 +2772,75 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDc2ZDYxZDBkYTljMzM5NTcyNWZkNTBkYTE3ODk2MjE5Mzc5ZmM5OWNkYjVmNjEzN2JlYWNmNDlmMjM3ZTJlZiJ9fX0="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWJhMzRhZTliODY0NWEzZjQ4Y2IxODEzMmU3ZDQyNzkzMDMxNTRkOTZlMTE2OTY1ODc0YzUyZTAxYzBkMDg1ZCJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								1176513721,
-								-348503925,
-								-2065094847,
-								1574496047
+								-1776809596,
+								-452964524,
+								-1578433669,
+								935610868
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Basket with Apples\"}"
+							"Name": "{\"text\":\"Blueberry Basket\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFmOGU1MjkzZjdlMTAyMjY3YzY5M2E1ZjJhNzA2ZDNlOGFkOTExNjAzNGYxODVmZjc2MGQ5ZWE0N2EyYzE2ZiJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								1347863520,
+								-114736181,
+								-1541759461,
+								-1859024677
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Basket of Plums\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTgzNjhlZjBjMzY3MjgzM2JhYWVhMDg3OWY2MWNlODcwOWJiMjJiZTc2YWIwZWI5ZWQ2OGMxYzBmMTg2YWQ5OCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								403950616,
+								-1726594783,
+								-2097617896,
+								1625625632
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Basket of Satanic Fruit\"}"
 						}
 					},
 					"type": "item"
@@ -2616,6 +2925,90 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Potted Flowering Azalea\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg2NjNhYjdiZTlkN2FjZjI5MjdhZjI2ZGRmZjAxYjYzOGUyNzE1YjI0OGU4MzA4NjQ5MDNiNmY1YmU5OGZiYSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								714945933,
+								604193045,
+								-1780735802,
+								-452699953
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Spore Sac\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU3Yzc4YTlmZjAyYmMwMzQxZjM3Yzg0MTdiZjkyNTA3YTk0N2UzZjY1MTVjNTgxOWRlODIyM2I3NjUzYmZhMCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-59646329,
+								841763344,
+								-1963900923,
+								1427040137
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Zempasuchitl Flower\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTVkODk0MzFkMTRiZmVmMjA2MDQ2MWI0YTM1NjU2MTRkYzUxMTE1YzAwMWZhZTI1MDhlODY4NGJjMGFlNmE4MCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								1353655791,
+								-1380367152,
+								-2012256112,
+								-368197246
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Rose\"}"
 						}
 					},
 					"type": "item"
@@ -3051,6 +3444,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzAzZjRhYzc5OGQzYmY3ZmRlMzA1OGI2MjkxZDhjYzBlMGExN2NlYTFlMTBiZGE1MWYzMTliMzQwZmNiZmY5NCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-416921731,
+								-1708309930,
+								-1207250923,
+								-1901260935
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Golden Chalice with Candy\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTdmNTdlN2FhOGRlODY1OTFiYjBiYzUyY2JhMzBhNDlkOTMxYmZhYmJkNDdiYmM4MGJkZDY2MjI1MTM5MjE2MSJ9fX0="
 									}
 								]
@@ -3092,6 +3513,34 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Goldblock\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWVhNWU4MDQxMzQ1YmEyNGJmYzg5NTQ2ZjRjODJiZThjZjlmOWJhNWE4ZTU1MzY1NDUzNDNhZTU5YjkzN2U5MiJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								720739724,
+								915357956,
+								-1482552097,
+								-1459270500
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Artifact\"}"
 						}
 					},
 					"type": "item"
@@ -3288,6 +3737,62 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Flesh\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODRlNGE2OTdmN2YzNWJhYTRjZDczNDI5YjE1YmVjNjhjYzcyOGU5ZjZkNmYwMzU3YTM4MzMyNjZjNGMyIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								-292341407,
+								-1730982068,
+								-1686555215,
+								986424216
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Bloodstone\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzFkN2M4MTZmYzhjNjM2ZDdmNTBhOTNhMGJhN2FhZWZmMDZjOTZhNTYxNjQ1ZTllYjFiZWYzOTE2NTVjNTMxIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								1275683968,
+								1255558020,
+								-1180031804,
+								-266380137
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Flesh Clump\"}"
 						}
 					},
 					"type": "item"
@@ -3863,6 +4368,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTA4MjlkYzRlZTVkYmE2NDlkMDM3MDkyOWUxYWQwYTM0N2Y4YzQ5NjY4YWJiZWU0YmQ2MTQxNDFhMzcyYjRmNCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1073565371,
+								-461094545,
+								-2045935214,
+								-1508857567
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Pear\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGNhZmVmMjhjNzQ1NjIzMGU2ZDI2MTgwMmJjNjI2ZTBkOTRhNjU5YmIyYmJmNTljMjdmZjZhNTU0ZWIxOWQ4NSJ9fX0="
 									}
 								]
@@ -3947,19 +4480,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmYwZTViZTgwOGNhMzM1YzEyMjNjY2JhNzIyYjg3MDA2MmI5MDNmMjIxYmQ2OTNiYjhhYTkyYjhmMjkyMGJjZSJ9fX0="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTBkNDkxMTE4NzlkZmZmMzg0MDdjMDRiMzgzNWUyNGExMWUwMDg3NGRiZjVjZmRkYmNlZTc4MGQzODYyMGMxMiJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								-623084796,
-								-698397149,
-								-1133377483,
-								-492763929
+								-761463328,
+								-362919266,
+								-1548289945,
+								1533444193
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Cherry\"}"
+							"Name": "{\"text\":\"Peach\"}"
 						}
 					},
 					"type": "item"
@@ -4227,6 +4760,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmYwZTViZTgwOGNhMzM1YzEyMjNjY2JhNzIyYjg3MDA2MmI5MDNmMjIxYmQ2OTNiYjhhYTkyYjhmMjkyMGJjZSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-623084796,
+								-698397149,
+								-1133377483,
+								-492763929
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Cherry\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzA3ODJjMjNiOTBmMDFiMzVhZTMwMTZjN2NkNGJjMzg0NzA5NzIxZWI3MDkwOGM3ZDc4YmExNzJmMGU5NzBmMyJ9fX0="
 									}
 								]
@@ -4451,34 +5012,6 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWZhNTk2YjIxMzIzNTA1ZGJhN2M0N2FlN2Q4Nzg5YTIwOTNjNzU2ZTkyOTBiOGY2NmZjNWE0NGE2ZDVkOWNmZCJ9fX0="
-									}
-								]
-							},
-							"Id": [ 
-								209920803,
-								51921734,
-								-1984031504,
-								1039060994
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Jungle Pod\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmQwNzI2ZDVhNzdkNjhjYmU3YzVkNWU4NGQ0NzkyY2NmMzI4ZWYzOTU4YWYyYTc3MjQ1ZTU1ODZhZTczZGY2NiJ9fX0="
 									}
 								]
@@ -4520,6 +5053,34 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Jungle Pod\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTdkN2M1NzNlZDU2MDc3MjU1ZDJhOWY1ODNmMTIxNjg0N2E4ZDQ1NTM3NzVjOGY1ODkzM2M0NWJmODZhOWVjIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								-257447710,
+								294172024,
+								514268870,
+								-1794075440
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Pineapple\"}"
 						}
 					},
 					"type": "item"
@@ -4660,6 +5221,34 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Green Pepper\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTFkZDQ1NWNlMjAxNGI4MmUwYTJjNzgyN2YzYjM4YWM1Zjk3MWE1MzI3OGM3MTMwMmU5MjQwOWI4MTRhZTAyYyJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								1807548301,
+								1935296955,
+								-1185409671,
+								95094143
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Igneous Apple\"}"
 						}
 					},
 					"type": "item"
@@ -5067,6 +5656,62 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE0OWZjZDJkMThhYTlhYjQ3OTljZTg5MWJlNGZjOTZmMThiZWU4YWQ2ZjdkYjcxN2RjZWRiZjY1Zjc5N2IwIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								252586252,
+								-34453599,
+								-1182271702,
+								88730934
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Steve Head in a Bottle\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTYxMjhlM2VjNDQwZDBjZmU1MjQxYTQyZjI3NjFmM2U1Yjg0NjZiOGY5MTM4YzRiZGQyYmQzN2E2Njg4MzY0NiJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1989586471,
+								1065176843,
+								-1476717168,
+								1641219256
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Zombie Head in a Bottle\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTA0MTE0M2YzNWQ1OTFhNzllY2ZmMTc0OWIyNDBiMTBkZTBjYmViZGQ1OTg3NTBkZDg3YTdmNWRkM2VkMWJkNCJ9fX0="
 									}
 								]
@@ -5383,16 +6028,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTMzODI2Mjc1N2Q2M2U0MmQ0NGE2ZjE1OTliMTJkODI3NzQwZDdmM2FiOWEyZTZkZGIxNjFmZGE4YzNlZWYifX19"
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmViZjUxYTNhNTJiNzQ3MmEyODVjNjU4Mjg0Njg4YmNiZTU3Y2Q5ZjZmYWE3YTNlNGMyNmE2MTA1MjU0In19fQ=="
 									}
 								]
 							},
 							"Id": [ 
-								-226882121,
-								887833542,
-								-1414488425,
-								-1354328917
+								480741602,
+								-634042270,
+								-1500275131,
+								1139803575
 							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Mug Cider\"}"
 						}
 					},
 					"type": "item"
@@ -5408,19 +6056,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmViZjUxYTNhNTJiNzQ3MmEyODVjNjU4Mjg0Njg4YmNiZTU3Y2Q5ZjZmYWE3YTNlNGMyNmE2MTA1MjU0In19fQ=="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg5ODUxMWFkNTAyYWVhYzczM2Q4MGFkMTQwNmYzN2JlNmRlZGIxZmVjOGZhOWQ4ZTRhYzMzYjM1OWJhYmNhMyJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								480741602,
-								-634042270,
-								-1500275131,
-								1139803575
+								-826471496,
+								807881867,
+								-1946805631,
+								1452496956
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Mug Cider\"}"
+							"Name": "{\"text\":\"Medieval Mug\"}"
 						}
 					},
 					"type": "item"
@@ -5604,6 +6252,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTRjYjc5MjIyODkzYmI0ZmRkODk2OGNjM2UyOTQyODVkZGM2ZmNhZDA1NDM3ZWVmZWFiMzIzYjI5ZmUzOCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								1799878245,
+								-1529985980,
+								-1406284925,
+								1557867577
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Honey\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjFkYTM4YjFiYzc1YTM5ZTcxYzdkY2IzY2FiNzNjMjZjODI2ZjgyNmM1OWU4YTQ0MTRjMThjNDU1Y2VlOWE2MiJ9fX0="
 									}
 								]
@@ -5617,6 +6293,34 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Honey Pot\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmM2ODAxNDlhZDE3ZTQ2ZmJiZjc2MDZiMjg0Y2M4M2EwM2IxYTY3Y2Q4YTUyNzE3YjQ0YmZhM2FkNTkxNGYxNCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-334428575,
+								-678215008,
+								-1273393869,
+								-977753282
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Honeycomb Block\"}"
 						}
 					},
 					"type": "item"
@@ -5730,6 +6434,34 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Statue\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzE1Mjg3YzQzZTY1OGE3YTg5MjZiNzE5YmY0MDgzZmM4NjA1ZDBmNDQ3ZWJiY2Y4NTk5MDcyZDA0MmMxYzYwNyJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1361075268,
+								-1144831704,
+								-1915807561,
+								-514589783
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Snake Head Statue\"}"
 						}
 					},
 					"type": "item"
@@ -6398,19 +7130,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTY5MmU1NzFlOWY5ODNkMWIxMGRiMzcyZTE4YTc5NTMxNGJlNmIwNTJiMDJhOGE1NmNjOTg1OWExZGQ4MjU4NyJ9fX0="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2IyMDZiZTZjMTYwMGZlN2NkN2U5MGZlOWU4NjlhZWYxN2M2NzBjNzVhZjNiZTQ2OGJhNWViYjc5M2MxODgxZiJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								-193231129,
-								-908574024,
-								-1172771267,
-								457294474
+								1001050225,
+								-1182577667,
+								-1532903011,
+								-1685588530
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Desert Fossil\"}"
+							"Name": "{\"text\":\"Music Discs (chirp)\"}"
 						}
 					},
 					"type": "item"
@@ -6426,19 +7158,159 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q0YTdmY2U2Zjg4OGU4MDQyZDYzNGM3OTczYjNjYmM3ZTkzMjBmMTc0NDYwOGU2YzVjZGQ1ZjRlZjljYTM5MyJ9fX0="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2EzMjA4OGU4NGM4ODExOWYwZTBkMmM5ZmZhMzlkYmVmZGZlOWQzYTYyM2MzNGVkMjkwZTFmNWEzZWMyODMzZiJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								-700651292,
-								204685780,
-								-2029488951,
-								-451327942
+								-1086964533,
+								955861449,
+								-1545059197,
+								-23173541
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Magma Core\"}"
+							"Name": "{\"text\":\"Music Discs (11)\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDkyNjJhNGQ3MjFmMGI5YmQ3ZjllMDgwNTkyYTA3Y2E1MDllNzNlYWEyZjM0Mjc3MTQ5MjAyNWUzMWRmN2Q4MiJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-397016041,
+								1764575808,
+								-1757485597,
+								-954696041
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Iron Helmet\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTI1MmJhYzQ3YjcyZGE1MWNiYmZhMGU1YjMwNGM4MjUxNTFhYzliNTUzNDEyZGYyOTBlOTg4ZWY0ZWJhZmM3MSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								1255414533,
+								218907803,
+								-1470797864,
+								-184574591
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Iron Helmet\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODgwMTg0MGEwNDk3YTNhYjJhMzlhZjM3ZmQ3YWIxMjYzNWZiNWExZTViMWQwNzczMmFkM2U3NjM5YWQ2ZDg0MyJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								209075787,
+								404701402,
+								-1842947730,
+								-1544292868
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Gold Helmet\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDEyMDQ4MzFhMGUxYzZiYTU2YjI5MjE4NmEzMmUzNGU0YjE1YWQ1OGE0YjQzZWYyYTgxZTMwMTViMTRiNmUxMCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-616862063,
+								72564900,
+								-1280263069,
+								1150359847
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Knight Helmet\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmJhOWIyZjA2ZDE3Nzg1ZWE4YzE0Mjk0YzBlNjFkZWYyNDdiY2M3ZWNkNmU1OWNjODA3M2EzNjBlN2U5Y2NmYSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1079008173,
+								-1299689718,
+								-1239985024,
+								-191495395
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Crusader Helmet\"}"
 						}
 					},
 					"type": "item"
@@ -8081,6 +8953,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODFmYWI5MjcyZDY0OTdmMTQwOTEyODM2NDE4MzZiODVmMmJkNzVmMWRkNjM0YTU0ZTk2M2ZkMDgzNjU0MDdlMSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								1651049440,
+								-1179038770,
+								-1395526373,
+								-1738571025
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Dark Ent\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmM2MmU4OTE3NzIzMWU3NTVkNzU2M2Y1ZGM3NTZmN2M5NzNkNzVhNjgwZDZiZTUyMzJkZTk5MTRiN2Y0ZGFmMiJ9fX0="
 									}
 								]
@@ -8109,19 +9009,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTVlMGZiODE5NTFmMTE2OGI2YzBmYmQ1OTM0Mjc5MDNiODEwMTQ3MzU5MDQ2YTMwM2VlMDY5NTAzZDg0ZjQyMiJ9fX0="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTE0MDBkOWQwZTg3YTc2MjFmZWU5ZjFkYzBiZmE1OWYwMjVlY2Y0ZTMzNGRjNWZiYzRkZDkxN2NiOTc1NzZmMiJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								-1538414118,
-								-1283701639,
-								-1299060351,
-								-85390938
+								-1697322779,
+								601247109,
+								-1448273252,
+								-1519528560
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Piranha Plant\"}"
+							"Name": "{\"text\":\"Ent Chieftain\"}"
 						}
 					},
 					"type": "item"
@@ -8137,19 +9037,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWVmNmIyN2ViZGJkMjg5OTc3MzY4Yjk4NjM4MmY1NjljMTIzNThhNmZjM2E3ZDkxZjFkOTc4YWI1N2ZlM2ZjNCJ9fX0="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTVlMGZiODE5NTFmMTE2OGI2YzBmYmQ1OTM0Mjc5MDNiODEwMTQ3MzU5MDQ2YTMwM2VlMDY5NTAzZDg0ZjQyMiJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								894220039,
-								-1186181228,
-								-1392632613,
-								1700028614
+								-1538414118,
+								-1283701639,
+								-1299060351,
+								-85390938
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Woody Slime\"}"
+							"Name": "{\"text\":\"Piranha Plant\"}"
 						}
 					},
 					"type": "item"
@@ -8277,6 +9177,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWVmNmIyN2ViZGJkMjg5OTc3MzY4Yjk4NjM4MmY1NjljMTIzNThhNmZjM2E3ZDkxZjFkOTc4YWI1N2ZlM2ZjNCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								894220039,
+								-1186181228,
+								-1392632613,
+								1700028614
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Swamp Thing\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjg2NjRmYjI2ZmNmMjFiYjY4NGFlOTE0N2FiZDQ5Njg3Y2M3YmJhMGIwMTE0ZGJlZjYxYzdkZDM4MWNhIn19fQ=="
 									}
 								]
@@ -8318,6 +9246,34 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Swamp Monster\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODMyMWJkODY1NDQyZjdhZjhmM2FhZTE1OWNiNDJkNzhlOGZlNjNiMjFmNTFiMzY3ZGZiMGE0ZTY0MjI3M2VjMyJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-239267541,
+								-1870968606,
+								-1580189534,
+								532311787
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Bossk\"}"
 						}
 					},
 					"type": "item"
@@ -8645,6 +9601,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2RlYjM3Yzk3NjYxOGE0YzUyMjgxYmRjYjY3MTM3MTMxNzRiNjYxYjI5ZGVlMTZkN2MyYWEzYWNmYTRkMmIifX19"
+									}
+								]
+							},
+							"Id": [ 
+								-2024973540,
+								-30192831,
+								-2081235069,
+								390089594
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Monster Rat\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzZkYjk4ODhjNTI3NWU3OTkwZWY3YTA1MmY4MWNiZDM4NDZiM2I5M2Q2ODJiMzY0MmY5ZWMyNGRlODgzNTNiZiJ9fX0="
 									}
 								]
@@ -8757,6 +9741,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTc3YmFiZDlmNmQ5MTlmNDJmYjQwNTg1ZmZkMzE2MTg3MTUxNTIwOTNmYjY4NmVmZjk1NTJmOTI2ZTFiNTQifX19"
+									}
+								]
+							},
+							"Id": [ 
+								1808788100,
+								-1298118692,
+								-1965820650,
+								1236735075
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Outlaw\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2M4ZjdiYzIyMGQ0ODBkZjgxYWI0NTJjZGZmMjU4NTk2NmE1ZGQ5MjNiYjMxYjk1YWJhOGE4NzNlYzQ3NTFjNyJ9fX0="
 									}
 								]
@@ -8813,6 +9825,126 @@
 			},
 			{ 
 				"type": "stack",
+				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Id:[I;711053728,2048151390,-1209256186,1180175363],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWM5ZmRkNzlkMGE1ODAyOWY5NTljY2Y4NjQzYWVhZTFhMzRmNWE5ZjRkZmUzNTI2ZjZkMTRiZTUyMWQ4YzZlIn19fQ==\"}]},Name:\"SomeNameThatIsTooLongForMC\"},display:{Name:'{\"text\":\"Zombie\"}'}}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg2YTU1YzU4YTdjNzZlMTNlZTY2MTAzYWRiNTMyYTg4YWRkOTZkMTYwNTM0OTg5ZTE1MDExNTE1ZjBhMGIzNCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1585203759,
+								82922942,
+								-1573463407,
+								189075013
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Scarecrow\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2UxMWQ1OGEzNTlmZjdkOWY2ZDU5ZGQ5NTFjMDFmN2Y3ZjBiMzk5NTFhZDZkNTU2ZTYzYTkxNGJjZjMyMDM3MCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								318365743,
+								-1658762967,
+								-1775911637,
+								953170413
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Zombie Boy\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjRiMDIwNDhhMWQ2YmExNjUxYzMxMDUwMDJlZDEzNWViN2U5MTYzYmUyMzk3NzA0NjUyOGE4ODUxZWM0M2I1NCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1957263544,
+								-1024376218,
+								-1497311088,
+								335943817
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Zombie Soldier\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTcxY2U0NjljYmE0NDI2YzgxMWY2OWJlNWQ5NThhMDliZmI5YjFiMmJiNjQ5ZDM1NzdhMGMyMTYxYWQyZjUyNCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1777301835,
+								-543800534,
+								-2072839397,
+								-1244652453
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Zombie Horse\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZhYjRhOWE2YTMyOGY2YWQ4MmFjOTMyNjhiZTFhMzA1ZjJjMjYzNWZkNzMyMmYxM2M5NDJmMmFlNDE5NCJ9fX0=\"}]},Id:[I;-142273686,538527908,-2054579395,693546358]},display:{Name:'{\"text\":\"Herobrine\"}'}}}"
+			},
+			{ 
+				"type": "stack",
 				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFlMzg1NWY5NTJjZDRhMDNjMTQ4YTk0NmUzZjgxMmE1OTU1YWQzNWNiY2I1MjYyN2VhNGFjZDQ3ZDMwODEifX19\"}]},Id:[I;-967193132,-466204297,-1498950319,-1900097605]},display:{Name:'{\"text\":\"Skeleton Head\"}'}}}"
 			},
 			{ 
@@ -8820,16 +9952,68 @@
 				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk2MjhkOWIzZDc2ODI3ZjQzM2M4MzNlYTlkOTUxYjRiODdhNWZhNzhhN2I4N2U1ZTJiYmJlNGRlMzE2NmQzIn19fQ==\"}]},Id:[I;-883601366,-1495842791,-2003613923,201844797]},display:{Name:'{\"text\":\"Enraged Skeleton Head\"}'}}}"
 			},
 			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzU3YjhhY2QxNDViZDNkZmIxZGI5NGJkYmVkNDU4ZmUxODQ2YTljODg0ODIyY2EzY2U4MWE0Y2Y4MCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								1764524634,
+								373116153,
+								-1439012925,
+								1162853076
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Skull\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTFmNTRmZjliYjQyODUxOTEyYWE4N2ExYmRhNWI3Y2Q5ODE0Y2NjY2ZiZTIyNWZkZGE4ODdhZDYxODBkOSJ9fX0=\"}]},Id:[I;1927846440,1241138607,-1814276491,-1745268561]},display:{Name:'{\"text\":\"Skeleton Minion\"}'}}}"
 			},
 			{ 
 				"type": "stack",
-				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTkzN2FmMjYzMzI2ZTJiNDA5MDQyNzFiODMxYzNiMTc2ZWEyMWYwMTg2YmZhZjRlMTZlZWUxZTI4OWRkYWQ4In19fQ==\"}]},Id:[I;2026470890,1580090277,-1113390089,-243682498]},display:{Name:'{\"text\":\"Skeleton Minion Rough\"}'}}}"
+				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdiOTZkZDk1ZTNlZmViNDk4OTJmNWQ5OTc4NDE3NTg3NDM1YTkzZGQ3MzYxZmUyNzI1YTEyNjE4ZGFiYmNiYyJ9fX0=\"}]},Id:[I;1257244113,-273005633,-2034050698,-1187444491]},display:{Name:'{\"text\":\"Skeleton Gladiator Head\"}'}}}"
 			},
 			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdiOTZkZDk1ZTNlZmViNDk4OTJmNWQ5OTc4NDE3NTg3NDM1YTkzZGQ3MzYxZmUyNzI1YTEyNjE4ZGFiYmNiYyJ9fX0=\"}]},Id:[I;1257244113,-273005633,-2034050698,-1187444491]},display:{Name:'{\"text\":\"Skeleton Gladiator Head\"}'}}}"
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTI0MGYyYjFhNjgxMzY2NDU2YmY5ODkyZDFjMGY0NzMzOTliOTZiYTkwYmNhYjY4ZTc3YjY4NDg0NjllYjU3In19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								1076876798,
+								-181975559,
+								-1455522315,
+								1508980085
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Skull\"}"
+						}
+					},
+					"type": "item"
+				}
 			},
 			{ 
 				"type": "stack",
@@ -8854,6 +10038,34 @@
 								-563131352,
 								-1762988576,
 								385258655
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Mossy Skeleton\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQxODZhY2JmZGYyYjc5ZGIwNDFmOTU3NWY4ZTAyZjU5MGY2YTUxZWY0NjRiM2M0YzIxNWRmZGFhMGVkYTlhNCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1539154507,
+								-959624621,
+								-1416126164,
+								432736509
 							]
 						},
 						"display": { 
@@ -8920,14 +10132,6 @@
 				}
 			},
 			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Id:[I;711053728,2048151390,-1209256186,1180175363],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWM5ZmRkNzlkMGE1ODAyOWY5NTljY2Y4NjQzYWVhZTFhMzRmNWE5ZjRkZmUzNTI2ZjZkMTRiZTUyMWQ4YzZlIn19fQ==\"}]},Name:\"SomeNameThatIsTooLongForMC\"},display:{Name:'{\"text\":\"Zombie\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZhYjRhOWE2YTMyOGY2YWQ4MmFjOTMyNjhiZTFhMzA1ZjJjMjYzNWZkNzMyMmYxM2M5NDJmMmFlNDE5NCJ9fX0=\"}]},Id:[I;-142273686,538527908,-2054579395,693546358]},display:{Name:'{\"text\":\"Herobrine\"}'}}}"
-			},
-			{ 
 				"type": "roughlyenoughitems:entry_stack",
 				"data": { 
 					"id": "minecraft:player_head",
@@ -8937,19 +10141,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTcxY2U0NjljYmE0NDI2YzgxMWY2OWJlNWQ5NThhMDliZmI5YjFiMmJiNjQ5ZDM1NzdhMGMyMTYxYWQyZjUyNCJ9fX0="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDlmN2NlYzAwYWZlOWY3YzYyNGFlOGRmNWMwMzNjYjQxOWY2ZWE0MTAxNzAyMWI5YmVmZDkxOTcwYjgzM2E1YyJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								-1777301835,
-								-543800534,
-								-2072839397,
-								-1244652453
+								2147172735,
+								-1468380994,
+								-1893618298,
+								-1175039205
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Zombie Horse\"}"
+							"Name": "{\"text\":\"Skull\"}"
 						}
 					},
 					"type": "item"
@@ -8986,10 +10190,6 @@
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGMxYTE5YWE4NTIxNDBjNjgzNzNjM2MxNDIyYWQ5MzVkNmFjZTM4Y2ZiMWY1OWM2OGJmMzZkOGE4ZDRiNTc0In19fQ==\"}]},Id:[I;-597560091,2122007042,-1888347989,-1264303237]},display:{Name:'{\"text\":\"Skeleton Warrior Head\"}'}}}"
-			},
-			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTZlOTM0NjdhM2EwNzkyMjdmNGE3ZDNlYmE3NjE3NTM2ZGE0OTFiYzJmYzZkNzNlZTM5NjhkM2NmMWE2YTUifX19\"}]},Id:[I;-1692129490,-1614657166,-2011638310,1010648271]},display:{Name:'{\"text\":\"Skeleton Necromancer Head\"}'}}}"
 			},
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
@@ -9141,47 +10341,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJlZGI4ZDRiMDZlZWI5NzllZTUxNWY3NzhmMzFiM2RlZWY5MmZiNTgxN2YzNDUyZjUxZmM1OGQ0ODEzNCJ9fX0="
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTc1M2E1MjFlZWYyYzk0ODg5NzhmYjJmYzgyY2JiODM0OWQ1MTUyNzA0NjBiMDU2YmE3MmYzZTI3ODhjNGY3YiJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								622507235,
-								-973708827,
-								-1234937353,
-								-1894574012
+								-289006224,
+								-540587311,
+								-2013380515,
+								433175911
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Ghost\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWY3YTRmOTVlNWZlOTliNDViZTYxYmIzMzg4MmMxMmE5M2IyMmQyOTdmZDE3NjVhYjIxZTc3NDhkYzZiOGNmMyJ9fX0="
-									}
-								]
-							},
-							"Id": [ 
-								-53059252,
-								-1380889384,
-								-2090780690,
-								-342255524
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Ghost\"}"
+							"Name": "{\"text\":\"Skeleton Captain\"}"
 						}
 					},
 					"type": "item"
@@ -9216,32 +10388,8 @@
 				}
 			},
 			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGZmZDllZTIyZGZhZjQ0OTM1ZmY0NzA4MzU4OTMyODhhNTJiYWFkYjYzZmQ0OTRiZjUzYTIzMjgzNWI1NTIzZSJ9fX0="
-									}
-								]
-							},
-							"Id": [ 
-								-1015773758,
-								871842522,
-								-2032306519,
-								1204321014
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Ghost King\"}"
-						}
-					},
-					"type": "item"
-				}
+				"type": "stack",
+				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTZlOTM0NjdhM2EwNzkyMjdmNGE3ZDNlYmE3NjE3NTM2ZGE0OTFiYzJmYzZkNzNlZTM5NjhkM2NmMWE2YTUifX19\"}]},Id:[I;-1692129490,-1614657166,-2011638310,1010648271]},display:{Name:'{\"text\":\"Skeleton Necromancer Head\"}'}}}"
 			},
 			{ 
 				"type": "stack",
@@ -9298,6 +10446,118 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Grim Reaper\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJlZGI4ZDRiMDZlZWI5NzllZTUxNWY3NzhmMzFiM2RlZWY5MmZiNTgxN2YzNDUyZjUxZmM1OGQ0ODEzNCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								622507235,
+								-973708827,
+								-1234937353,
+								-1894574012
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Ghost\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWY3YTRmOTVlNWZlOTliNDViZTYxYmIzMzg4MmMxMmE5M2IyMmQyOTdmZDE3NjVhYjIxZTc3NDhkYzZiOGNmMyJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-53059252,
+								-1380889384,
+								-2090780690,
+								-342255524
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Ghost\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTNkNjQxNzk4NDU2NjFlYzU4NzljZTNiZDcwNGZhMGQzOGFkMjAwOTllNDIwNmI4NmI5MTg1MjI0MWI0YzZlNCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-330194734,
+								170018430,
+								-1475386610,
+								-16142857
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Ghost\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGZmZDllZTIyZGZhZjQ0OTM1ZmY0NzA4MzU4OTMyODhhNTJiYWFkYjYzZmQ0OTRiZjUzYTIzMjgzNWI1NTIzZSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1015773758,
+								871842522,
+								-2032306519,
+								1204321014
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Ghost King\"}"
 						}
 					},
 					"type": "item"
@@ -10009,34 +11269,6 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJjZGFmNDdlYmVmNWVlMjJlODc5MjE2YzllZDU3NzEyNmE4YTc5OTE3OWQ0MDkxZDBmOWI3ODA2OGI1OTI0YSJ9fX0="
-									}
-								]
-							},
-							"Id": [ 
-								-1024371724,
-								1157972461,
-								-1498779860,
-								-478233498
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Tauntaun\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTVhOTQ5MTRhODM5YzExM2JjZjU1YTgyYmEwOTA4M2ViNTgyM2I0NTg3NjBkYzhjOGYyYmRjYmFlY2NkZWYyYyJ9fX0="
 									}
 								]
@@ -10065,19 +11297,19 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmRlMjVhZmExOWQ0NzIyZGJiYWEzNTcyOTkyNjVmZTkwNjRkMWJkMTU2MWY2ZGY2YTJmNWU2Nzk5ODgifX19"
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJjZGFmNDdlYmVmNWVlMjJlODc5MjE2YzllZDU3NzEyNmE4YTc5OTE3OWQ0MDkxZDBmOWI3ODA2OGI1OTI0YSJ9fX0="
 									}
 								]
 							},
 							"Id": [ 
-								167222259,
-								447694694,
-								-1823186186,
-								-232169770
+								-1024371724,
+								1157972461,
+								-1498779860,
+								-478233498
 							]
 						},
 						"display": { 
-							"Name": "{\"text\":\"Night King\"}"
+							"Name": "{\"text\":\"Tauntaun\"}"
 						}
 					},
 					"type": "item"
@@ -10246,6 +11478,34 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Yeti\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmRlMjVhZmExOWQ0NzIyZGJiYWEzNTcyOTkyNjVmZTkwNjRkMWJkMTU2MWY2ZGY2YTJmNWU2Nzk5ODgifX19"
+									}
+								]
+							},
+							"Id": [ 
+								167222259,
+								447694694,
+								-1823186186,
+								-232169770
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Night King\"}"
 						}
 					},
 					"type": "item"
@@ -10457,6 +11717,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjliYWQ4NzFkZjkwNWMxYzZkNzlhOTlkZjQ1ZTc1ZGYxZWQzOWRmZjlmOGExYWJhMjE2OTU1ZWE0ZjZlYTgzIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								506781039,
+								1263944590,
+								-1199963212,
+								-1447139376
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Neutral Mage\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGMwZWE0Y2U4NGEzMjVmMTM1NTUwODYyMmYxZTY3Mjc0YzQ5Mjc2NDE3ZmY1ODBlZTU0ZTQ0NWJlYTEwMmU3MiJ9fX0="
 									}
 								]
@@ -10625,6 +11913,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjlmMTU5ZDI2NzcxY2M2ZTQ1N2ExYjdlMzk1ODJlMTI0OGU5MjMyMDRhODc2YTFmZWEyZTgzMDVkYTc2In19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								-853991355,
+								-1390328028,
+								-1991646227,
+								-1767731768
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Thug\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjg2NmQ5YTI5NjgwZmVjOWUzNDVmNTBjNmYwMjNhNmNiNjAwMGEyNTRmMWUwMmJiMGEwNDBlMDAwNGY1YzQ1YyJ9fX0="
 									}
 								]
@@ -10638,6 +11954,34 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Arthur Maxon\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzdiZDViNThjYTkyNjQzNWY3N2U3N2FhM2I5ZmVjMzg4ZjI0MWE4M2U0ZWI1YWU5Mzg2MWQ4YjA4NTQ3ZDRjNSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1878718276,
+								-2085796220,
+								-1354561200,
+								-886894790
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Man\"}"
 						}
 					},
 					"type": "item"
@@ -10718,6 +12062,62 @@
 								-2120435563,
 								-1195521509,
 								505421193
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Man\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2U0MGQ3OTBhYTAzZTkyZDQzZTRhMDVlZDUwZTFkN2JmNjI5NmJhNGUwOWU2NTU5MThkZTI4ZDM2MGFiN2JjMiJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								1208390504,
+								-200915688,
+								-1225003432,
+								-613897469
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Man\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODc1Y2Q4MWJjOTczYTM0Nzc4N2QxZmJiNmNjOGExN2MxNTg3YzVjM2MxMjI4NmNjZjRjYjIyZGIxYzNhZjFlIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								-484383646,
+								259605828,
+								-1833304048,
+								-315690972
 							]
 						},
 						"display": { 
@@ -11276,6 +12676,62 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmJhNzZkZWEzZGZjMzU0NzRlMzc0Yzk3NjIxNDQ4ZDVmMTczOWYzMmY0MWYyMWRkZGY2ZmE1NTVkMGMzOWEifX19"
+									}
+								]
+							},
+							"Id": [ 
+								798217088,
+								-1045871842,
+								-1247522731,
+								1050098132
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Man\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTAzZjllZTVkOTRkY2Q1ZmRhZjZiMjg4NTVhNGMzYzI1YzY3OGExZDRiZTMwYjQyOTM5NGJkOWFkMzNhNDcyIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								1804520398,
+								1069826916,
+								-1648902560,
+								1839643310
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Man\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzg0YmEwNDc1YTQyZWNjZGU0OGZiMGVhZTA3NjJiZDM0MDY3NzFhMDk2ZThjYTQyYmM1NzE5YjRmMDc2OGJhMyJ9fX0="
 									}
 								]
@@ -11354,6 +12810,62 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWI1Y2YxMmJiZDQwNjY3MDE1Mzg3ZjZkNzRhNGI4NDBkZjYxN2FkNmExMDAyODBiNDA4OGQzYjRiYjc4ZGM2NCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								29373374,
+								-1459138979,
+								-2037938180,
+								-786294102
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Injured Man\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzk3ZTViYTc1YjVhZTIzZTBmM2FlYjRiMjE5ZDMzMWM4Y2I4ODE3YWIyYjc3ZjE3MzBlODVmNmM3ZTM0YjkifX19"
+									}
+								]
+							},
+							"Id": [ 
+								-1072856316,
+								936199709,
+								-1361723267,
+								972111497
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Woman\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzA3YWI5NDY4NjMxZWRhMmEyZGIxMDkyODJkODQ4ZjkyOGJhZjA1N2U1NzhlOTZmOTZlODc3YjJjZmNlNWJiIn19fQ=="
 									}
 								]
@@ -11410,6 +12922,90 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTc5ZjkxOGRkYjIyYWQ5YmU1N2IyMTgwNDcyOTI4OTQ2ODY0YmMyZjgzYzVhMzJhOGQ3M2UyZjNjZjI0YiJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1839053914,
+								310201399,
+								-1817786757,
+								2107251194
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Girl\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdhOGI5MmEzNjQ0MzU3OGFmODdlZmFmNTE3MWYxNjMzMjJkZTFlY2Y2OWQ4MzdhNjhhM2ViZDA3ODc2MjE5YyJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1302508267,
+								400379630,
+								-1706770862,
+								-1475313114
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Woman\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2NkZTEzZmZhMzQ2NjFhYjlmZTE3MDBkNjJjOTEzOWE0NWE5ZTJlNTMzZTVlMjgwYzkwOWIyZWQyMzgyMWYwYSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								1907280538,
+								-1911929921,
+								-1414979759,
+								-2099987142
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Girl\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzAzZjU3NzM0NWVjNDQ2MDQ0Y2M2MjI1NDhkOWI4ZmE5ZDI4MjA4M2FiZmZiZjMxNDJiMzFkMmJiZDg4OWMyYSJ9fX0="
 									}
 								]
@@ -11451,6 +13047,34 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Aristocratic\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2NlZjVmYmUyNzNlZGI0NDA0ZmYzNGNkYzhiMTQ0OTYzOWIzZWE4MzkyNTU4OTdkNzFlOGUzMjFmYjg3NjYwIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								-579558076,
+								-1591195029,
+								-1166046994,
+								543110299
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Hooded Girl\"}"
 						}
 					},
 					"type": "item"
@@ -11547,6 +13171,62 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjA1NjJjNTEzMDhiNTE1Nzg1Mjc4NmIxNDI0ZDFhNTJlMTNmOThiNWUzZWY1Y2M3YTgwOTBhZDc4OTM5MDI3In19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								-1128459472,
+								107039355,
+								-1962309590,
+								-1208186795
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Miner\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2NhYTEwYTIwMmIxNGZhZmI3OTdjZTAyNDdmZjE0ZGM5ZGMzM2IzYmYxYTljYTRjMzQ3NzAzYmM4YmE0YWM0OCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								158050172,
+								619987176,
+								-1620051614,
+								-19050457
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Miner\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWU3N2FlNGYzNjUyZjY3MTIwM2NmNDVmZjNjN2Y3ZTYzMjhlOTIxYzM3NGE3YTMxMWIzZTQ4NDQ0ZmQ4OTIifX19"
 									}
 								]
@@ -11594,16 +13274,212 @@
 				}
 			},
 			{ 
-				"type": "stack",
-				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0aW1lc3RhbXAiOjE0NTI5ODYxNDYzNDYsInByb2ZpbGVJZCI6IjgxNDlkYzI4NDViYzQ5M2VhNDliY2JmMWU5ZjIyN2JhIiwicHJvZmlsZU5hbWUiOiJzYW1zYW1zYW0xMjM0Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lYjU5ZWNjM2E0YjkyODkyNmZiM2FkMmNhZGIzNDg2MjY3OTczOGEyZTY2YTY4YzE2YWI4YTNhMWE2NWIifX19\",Signature:\"GJRRMGJYpp51g09xV9bxcuRv5ukBZQcpTuQ9e6+lKBDDl/6lYWKgFa+aRqCa9c0N4yhbnES4jf+E9vjWMcPKFLs5dreP8T5A4i1GKAXliOqYg6cgXOaSvF08jprtOqoiGEwROQD+LzkWBKQl+TMNIa7gwpah5I5LhE2NoLrPyVKsdh9KCNLjnjsvPtSy+Re5MA51u/JnArFxm/fE5oB07WUqAURfyLj2oDIY4IposbRDybrqeK4CKsnfMo1vRfhuMd3ejQxm1xWNx2vJ4kRnh44VQnjNIgff6eY4gmZiPi5/I2+Yxp2N6BIVfUmTYOOF4YZoFe9IO1PqdmA28682HCc4/P+aotEqnQu/3GNoAGq4xchQ45jdYpPHgyTQMfGXUH/gVcTD4m+cM+yabVuYITamJv+GDAstP9nGY2GAPLReeFe8HZzkXt9DfhpFzdaZjalOXLyFsWrrBS1dVkppVS6k3sTv03fD2V0BC+Wl++h08pL7iagVW0otRwDWt0FKrN1ER/gLTYpunGOSQEzIyAGuWPvjLCC25vCvTlFtq9Uf87qZdERdURoYfddi12BPFDgg1SCOi9ea/CzxCOph7498SKqW/j2NN91ZZmOsaiRceMj9hzDRY06QJAV9VGjY89m0rmkTgXPXBWidbXgSSImQ81Sh9co8J9dg+7lMuEE=\"}]},Id:[I;-2125865944,1169967422,-1533293583,-370006086]},display:{Name:'{\"text\":\"Sailor/Pirate Head\"}'}}}"
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzkyNGVhOTkxMDhkYzdjNjI4ODAxNjY2N2Q0ZGNlNDA5ZDIzMTEyOGU0Y2MyZTgwODhlMDZhY2QzMGExYWY2YiJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-90968251,
+								-184991139,
+								-1645048543,
+								-1065700991
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Pirate\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2NjM2Y3Y2VkNjJjNDA5NDUxNDNhN2FjZjI2YzAzZGM0MTkxNjRmNWYzM2RmYWU4YzhmOTQ3YTJjOWYxNWMifX19"
+									}
+								]
+							},
+							"Id": [ 
+								-1564655561,
+								791560650,
+								-1620407214,
+								-1562194009
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Pirate\"}"
+						}
+					},
+					"type": "item"
+				}
 			},
 			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjIxYjY5NThkYTMyZjEzOGU0ZjU0YWViODg2YmE2YjU2ZGM2ZjI0ODg5ZTViMTM5MzY1YjVlOGYyMjQxMDFmIn19fQ==\"}]},Id:[I;-1704818542,-2110960173,-1248990910,909310275]},display:{Name:'{\"text\":\"Pirate Head\"}'}}}"
 			},
 			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2M0NjUzODZiYmU5ZmFmMTQzN2FmNjM3N2Q2NjczNWRjNWExNWVhNWNlZGYyNmJkOTVmZDNmZTY2YjNhZmNkIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								291889093,
+								-339589906,
+								-1360867389,
+								-991881813
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Pirate Girl\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDA3OTQyNmY4YWZhNGQ5ODJhNDRjYjlkYTNmMjQzZTAzODNmZjdjYzQ4ZjY1YzAxZDdkYTQyZTc2NDFhOTcwIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								-1029849070,
+								-1449242857,
+								-1427770000,
+								-77491218
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Female Captain\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "stack",
+				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0aW1lc3RhbXAiOjE0NTI5ODYxNDYzNDYsInByb2ZpbGVJZCI6IjgxNDlkYzI4NDViYzQ5M2VhNDliY2JmMWU5ZjIyN2JhIiwicHJvZmlsZU5hbWUiOiJzYW1zYW1zYW0xMjM0Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lYjU5ZWNjM2E0YjkyODkyNmZiM2FkMmNhZGIzNDg2MjY3OTczOGEyZTY2YTY4YzE2YWI4YTNhMWE2NWIifX19\",Signature:\"GJRRMGJYpp51g09xV9bxcuRv5ukBZQcpTuQ9e6+lKBDDl/6lYWKgFa+aRqCa9c0N4yhbnES4jf+E9vjWMcPKFLs5dreP8T5A4i1GKAXliOqYg6cgXOaSvF08jprtOqoiGEwROQD+LzkWBKQl+TMNIa7gwpah5I5LhE2NoLrPyVKsdh9KCNLjnjsvPtSy+Re5MA51u/JnArFxm/fE5oB07WUqAURfyLj2oDIY4IposbRDybrqeK4CKsnfMo1vRfhuMd3ejQxm1xWNx2vJ4kRnh44VQnjNIgff6eY4gmZiPi5/I2+Yxp2N6BIVfUmTYOOF4YZoFe9IO1PqdmA28682HCc4/P+aotEqnQu/3GNoAGq4xchQ45jdYpPHgyTQMfGXUH/gVcTD4m+cM+yabVuYITamJv+GDAstP9nGY2GAPLReeFe8HZzkXt9DfhpFzdaZjalOXLyFsWrrBS1dVkppVS6k3sTv03fD2V0BC+Wl++h08pL7iagVW0otRwDWt0FKrN1ER/gLTYpunGOSQEzIyAGuWPvjLCC25vCvTlFtq9Uf87qZdERdURoYfddi12BPFDgg1SCOi9ea/CzxCOph7498SKqW/j2NN91ZZmOsaiRceMj9hzDRY06QJAV9VGjY89m0rmkTgXPXBWidbXgSSImQ81Sh9co8J9dg+7lMuEE=\"}]},Id:[I;-2125865944,1169967422,-1533293583,-370006086]},display:{Name:'{\"text\":\"Sailor/Pirate Head\"}'}}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJiNDRiYzc1MDIxNTNjNGQ1Y2ZlNzdjOTcxYmMxNjljZjRkNjNjYjI2ZDczZThlNjlmNzcyNzQ5NGIwY2I5MCJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-513908392,
+								-1460580617,
+								-1136348450,
+								1637473005
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Sailor\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGRjZjhhZDI4NTNiMTUwZWFiYTRiZjM2OGMzM2VkOTk0OGEzNDhmYzEzZDBkMmViMzI4N2M1MTczODg0NmYifX19"
+									}
+								]
+							},
+							"Id": [ 
+								1902227705,
+								1038501320,
+								-1904861394,
+								1259323197
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Sailor\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
 				"type": "stack",
 				"nbt": "{id:\"minecraft:player_head\",Count:127b,tag:{SkullOwner:{Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTdkMmYyNTRlMDU1Nzc4YjkwZTEzYjkxNGI0Y2E0MzdkY2YxY2IzYTM1YTI5YjFkZTRmYWQyYWE1YTBiZjBkZCJ9fX0=\"}]},Id:[I;-1659079613,-1250868591,-1974658460,784770279]},display:{Name:'{\"text\":\"Captain Head\"}'}}}"
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg3ZmNjY2FlNGM1NmIxOTY5ZTZkY2ZkZDdhOTkyMTY2N2ZmYjNjMjU5NjhjZDE4N2UwZDdiYTQ1YmFlMzdmYiJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								1521863290,
+								1927170014,
+								-1273412054,
+								98383723
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Rusty Armored Man\"}"
+						}
+					},
+					"type": "item"
+				}
 			},
 			{ 
 				"type": "roughlyenoughitems:entry_stack",
@@ -11755,6 +13631,34 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMxOWFiMzBhMzM2OWIyOWRhMjMzZjU1MTE2YTU1Mjk5MGMwMjhiZjFkYzY3ZWI1Mzg4OGRlOWNiZjVkY2YxIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								-1034024010,
+								1097484811,
+								-1740450710,
+								-1406314988
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Guard Leader\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIxNmEwYTU3ZjE2NWM3ZTZkYmM3MjJmNTI5NmZhNWI5N2M1YzJjNGJjYjg3MWE3YjJjYTFjNDY0YWI4ZGY2NCJ9fX0="
 									}
 								]
@@ -11796,6 +13700,34 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Iron Hills Dwarf\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGUzODZhNzIxOWI4YzY3MTc3YjliN2VkOGI1MmYxNWJkZDA1ODYxMzhhNTFhNDk0ZDIxOWU5MDI2ZTMxYjMxIn19fQ=="
+									}
+								]
+							},
+							"Id": [ 
+								1570736607,
+								1736131974,
+								-1841045083,
+								-1493968860
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Santa Claus\"}"
 						}
 					},
 					"type": "item"
@@ -11895,62 +13827,6 @@
 							"Properties": { 
 								"textures": [ 
 									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGUzODZhNzIxOWI4YzY3MTc3YjliN2VkOGI1MmYxNWJkZDA1ODYxMzhhNTFhNDk0ZDIxOWU5MDI2ZTMxYjMxIn19fQ=="
-									}
-								]
-							},
-							"Id": [ 
-								1570736607,
-								1736131974,
-								-1841045083,
-								-1493968860
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Santa Claus\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
-										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMxOWFiMzBhMzM2OWIyOWRhMjMzZjU1MTE2YTU1Mjk5MGMwMjhiZjFkYzY3ZWI1Mzg4OGRlOWNiZjVkY2YxIn19fQ=="
-									}
-								]
-							},
-							"Id": [ 
-								-1034024010,
-								1097484811,
-								-1740450710,
-								-1406314988
-							]
-						},
-						"display": { 
-							"Name": "{\"text\":\"Guard Leader\"}"
-						}
-					},
-					"type": "item"
-				}
-			},
-			{ 
-				"type": "roughlyenoughitems:entry_stack",
-				"data": { 
-					"id": "minecraft:player_head",
-					"Count": 127,
-					"tag": { 
-						"SkullOwner": { 
-							"Properties": { 
-								"textures": [ 
-									{ 
 										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGVkYWQwYjFhY2EwOTg5MDU4OWEzYzJiNzZjYzRmYTllNDQ5NzdmNTJkNzczNTBhNTQxNjU0ZGY5ZjI3ZWUifX19"
 									}
 								]
@@ -11992,6 +13868,34 @@
 						},
 						"display": { 
 							"Name": "{\"text\":\"Baroness\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODEzYTNjMThmMDNhNjNmOThjMGE1ZTQzZDczMjZjY2E2MzJhMjNjM2NhZjhjMzA0ODNmNTRmMTU3NjUifX19"
+									}
+								]
+							},
+							"Id": [ 
+								1966677649,
+								-113751676,
+								-1876786567,
+								-1305738988
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Princess\"}"
 						}
 					},
 					"type": "item"
@@ -29339,6 +31243,116 @@
 				"data": { 
 					"id": "minecraft:red_stained_glass_pane",
 					"Count": 127,
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU5NjhiNjE2MGYzODBmYmU3ODY5YTMwNzBlYjdmYjc2MjY3ZGIwN2Q2ODRlYzIwZjdlOThjMWQwNzNkZDcwMiJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								1054639981,
+								615399825,
+								-1939585411,
+								-930073993
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Iron Block\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTVhOTI1MjFlZDc3OTA0ZWI0NTAwMDUwYjc1NmVkY2NlNmE2MjA3YmFjNGVhMWM2ZjhiMzViNWY4NmE5YWJhNSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								-1263888061,
+								-2108995190,
+								-1141214821,
+								-354177021
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Bag of Gunpowder\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2MwYWEwMGQ2Mjg1ZGY2NzJkOWFjMTIyZGU0YjI0YjRhZTczNjM3NzFiMDQ1YmM0ZTMyNzNlZjg1Yzc1YzhkNSJ9fX0="
+									}
+								]
+							},
+							"Id": [ 
+								1759784585,
+								-2059448767,
+								-1441927664,
+								-654812651
+							]
+						},
+						"display": { 
+							"Name": "{\"text\":\"Lantern\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:player_head",
+					"Count": 127,
+					"tag": { 
+						"SkullOwner": { 
+							"Id": [ 
+								-491934857,
+								-435010012,
+								-1583977017,
+								-439822362
+							],
+							"Properties": { 
+								"textures": [ 
+									{ 
+										"Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWRjNGMxMmJmMjYxOWNiZmM4ZjIyZGM2MmMwMjJjZTE1MTI2Y2VhM2UyMTJjMjhkOWY5NmVhMzEwYWM0YzQyIn19fQ=="
+									}
+								]
+							},
+							"Name": "SomeNameThatIsTooLongForMC"
+						}
+					},
 					"type": "item"
 				}
 			}
