@@ -1,0 +1,4 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:SPAWN,x:106,z:254,y:64,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#

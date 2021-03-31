@@ -4,7 +4,6 @@ seeds:
 name:>> SPAWN <<,x:150,z:-34,y:73,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#
 name:Big plateau,x:33,z:-196,y:89,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
 name:The Spires,x:-210,z:-318,y:131,enabled:true,red:0.007843138,green:0.9529412,blue:0.80784315,suffix:,world:,dimensions:overworld#
-name:Starting Village,x:218,z:-516,y:75,enabled:true,red:0.003921569,green:0.9372549,blue:0.02745098,suffix:house,world:,dimensions:overworld#
 name:passage,x:228,z:-438,y:66,enabled:true,red:0.1764706,green:0.1764706,blue:0.1764706,suffix:,world:,dimensions:overworld#
 name:bridge,x:224,z:-484,y:67,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
 name:Uncharted Forest,x:219,z:-620,y:98,enabled:true,red:0.9254902,green:0.42745098,blue:0.003921569,suffix:,world:,dimensions:overworld#
@@ -13,3 +12,26 @@ name:small ravine,x:152,z:-438,y:66,enabled:true,red:0.16078432,green:0.16078432
 name:Cave,x:235,z:-498,y:64,enabled:true,red:0.93333334,green:0.41960785,blue:0.007843138,suffix:,world:,dimensions:overworld#
 name:Cave,x:221,z:-553,y:63,enabled:true,red:0.90588236,green:0.3882353,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Cave,x:219,z:-522,y:64,enabled:true,red:0.9529412,green:0.42745098,blue:0.0,suffix:,world:,dimensions:overworld#
+name:>> START <<,x:217,z:-505,y:70,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Chest,x:216,z:-521,y:61,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:204,z:-529,y:44,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:235,z:-541,y:51,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:208,z:-562,y:56,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:189,z:-524,y:54,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:182,z:-518,y:54,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Switch 1,x:169,z:-551,y:54,enabled:true,red:0.003921569,green:0.9882353,blue:0.88235295,suffix:gear,world:,dimensions:overworld#
+name:Switch 2,x:207,z:-546,y:54,enabled:true,red:0.003921569,green:0.9529412,blue:0.8901961,suffix:gear,world:,dimensions:overworld#
+name:Key 0x00F0,x:204,z:-542,y:53,enabled:true,red:0.019607844,green:0.101960786,blue:0.9411765,suffix:key,world:,dimensions:overworld#
+name:Switch 3,x:209,z:-546,y:48,enabled:true,red:0.03529412,green:0.9882353,blue:0.8862745,suffix:gear,world:,dimensions:overworld#
+name:Nests,x:205,z:-543,y:13,enabled:true,red:0.99215686,green:0.019607844,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Switch 4,x:193,z:-526,y:19,enabled:true,red:0.019607844,green:0.99215686,blue:0.8901961,suffix:gear,world:,dimensions:overworld#
+name:Door,x:210,z:-554,y:33,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
+name:Chest,x:211,z:-518,y:74,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:228,z:-514,y:78,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:218,z:-503,y:72,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:215,z:-501,y:75,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Caverns,x:68,z:-229,y:74,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Chest,x:298,z:-493,y:68,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:328,z:-509,y:65,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Fisherman's Hut,x:296,z:-492,y:73,enabled:true,red:0.011764706,green:0.99607843,blue:0.015686275,suffix:,world:,dimensions:overworld#
+name:Your House,x:217,z:-502,y:82,enabled:true,red:0.007843138,green:0.9529412,blue:0.011764706,suffix:,world:,dimensions:overworld#

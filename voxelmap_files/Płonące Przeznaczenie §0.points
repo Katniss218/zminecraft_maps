@@ -58,3 +58,5 @@ name:Dźwignia,x:1012,z:434,y:45,enabled:true,red:0.16078432,green:0.16078432,bl
 name:Dźwignia,x:1012,z:429,y:44,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
 name:Źródło zarazy,x:1025,z:422,y:44,enabled:true,red:0.92941177,green:0.019607844,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Chest,x:986,z:404,y:53,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Szlak się kończy,x:1351,z:-344,y:87,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Lawospad kuźni,x:1331,z:-143,y:74,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
