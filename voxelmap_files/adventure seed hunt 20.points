@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:121,z:244,y:66,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:cool,x:9,z:-65,y:97,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Club,x:-260,z:547,y:101,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#

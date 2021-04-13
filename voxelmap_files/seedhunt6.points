@@ -1,0 +1,5 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-65,z:106,y:64,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:cool island,x:85,z:138,y:77,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#

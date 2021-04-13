@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:cool mountain,x:-207,z:-13043,y:108,enabled:true,red:0.02745098,green:0.8352941,blue:0.0,suffix:,world:,dimensions:overworld#
+name:cool,x:-235,z:-17194,y:98,enabled:true,red:0.1894424,green:0.009248972,blue:0.96225464,suffix:,world:,dimensions:overworld#
+name:spawn ish,x:-264,z:-259,y:69,enabled:true,red:0.52105457,green:0.53948474,blue:0.48537618,suffix:,world:,dimensions:overworld#

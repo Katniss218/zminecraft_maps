@@ -1,0 +1,16 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-107,z:-27,y:72,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Starting Village,x:-318,z:-204,y:96,enabled:true,red:0.0,green:0.9137255,blue:0.03529412,suffix:house,world:,dimensions:overworld#
+name:Hills and Cliffs,x:-615,z:-37,y:99,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:coastal swamp,x:-332,z:-457,y:69,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:more hills,x:-609,z:-620,y:90,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:cool,x:-688,z:-579,y:84,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:big cave,x:-323,z:-381,y:59,enabled:true,red:0.92156863,green:0.47843137,blue:0.0,suffix:,world:,dimensions:overworld#
+name:cavern,x:-277,z:-194,y:62,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Mountains,x:256,z:14,y:123,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
+name:Lake1,x:-14,z:-167,y:75,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Lake2,x:-102,z:-283,y:72,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Little forest,x:46,z:-624,y:77,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Crack ravine,x:-101,z:-478,y:73,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#

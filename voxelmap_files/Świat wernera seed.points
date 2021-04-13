@@ -1,0 +1,19 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:243,z:-151,y:69,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:Filo,x:412,z:-42,y:75,enabled:true,red:0.9254902,green:0.8980392,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Szermer?,x:-58,z:640,y:79,enabled:true,red:0.94509804,green:0.89411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Stompor - adam163264,x:741,z:-266,y:78,enabled:true,red:0.011764706,green:0.9372549,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Coś,x:302,z:37,y:66,enabled:true,red:0.9137255,green:0.92156863,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Coś,x:-31,z:728,y:65,enabled:true,red:0.9019608,green:0.85490197,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Farma Kopra,x:-214,z:433,y:75,enabled:true,red:0.9098039,green:0.8509804,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Koper,x:-237,z:418,y:77,enabled:true,red:0.94509804,green:0.89411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chest 32 iron,x:-23,z:-167,y:73,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:wioska,x:657,z:261,y:65,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Zaczęty dom,x:283,z:145,y:74,enabled:true,red:0.8784314,green:0.88235295,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chest 3x dia 20x iron,x:-483,z:821,y:63,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Stajnia,x:915,z:-579,y:71,enabled:true,red:0.9019608,green:0.85490197,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Coś,x:736,z:-439,y:72,enabled:true,red:0.9098039,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Paśki,x:-23,z:233,y:68,enabled:true,red:0.9529412,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Klif,x:156,z:236,y:84,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#

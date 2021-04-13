@@ -1,0 +1,11 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:190,z:-37,y:70,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Valley,x:376,z:38,y:77,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Mountains,x:542,z:-54,y:107,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Cliff,x:360,z:231,y:92,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Flat,x:490,z:73,y:81,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Atol,x:239,z:-7,y:81,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Overgrown House,x:383,z:10,y:84,enabled:true,red:0.89411765,green:0.8509804,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Overgrown ruined tower,x:308,z:16,y:81,enabled:true,red:0.94509804,green:0.91764706,blue:0.003921569,suffix:,world:,dimensions:overworld#

@@ -1,0 +1,7 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-17,z:0,y:64,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
+name:House,x:-125,z:-66,y:65,enabled:true,red:0.003921569,green:0.90588236,blue:0.08235294,suffix:,world:,dimensions:overworld#
+name:House,x:-165,z:-101,y:66,enabled:true,red:0.0,green:0.9137255,blue:0.03529412,suffix:,world:,dimensions:overworld#
+name:Cultists,x:-118,z:-436,y:77,enabled:true,red:0.9372549,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#

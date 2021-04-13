@@ -1,0 +1,17 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-151,z:122,y:75,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Roof,x:-325,z:44,y:66,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Roof 2,x:-371,z:10,y:65,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Roofs 3,x:-414,z:-71,y:66,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Roofs 4,x:-349,z:-119,y:66,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Roof 5,x:-700,z:137,y:66,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Roofs 6,x:-729,z:40,y:64,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
+name:Roof 7,x:-567,z:-131,y:66,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Roofs 8,x:-327,z:-173,y:66,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Cute landscape,x:-232,z:-432,y:96,enabled:true,red:0.0,green:0.9529412,blue:0.87058824,suffix:,world:,dimensions:overworld#
+name:Shattered Caves,x:-21,z:-131,y:77,enabled:true,red:0.12941177,green:0.12941177,blue:0.12941177,suffix:,world:,dimensions:overworld#
+name:Twisted Caves,x:142,z:-527,y:89,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Roof 9,x:-373,z:-413,y:65,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Starting village,x:-233,z:-404,y:82,enabled:true,red:0.007843138,green:0.90588236,blue:0.007843138,suffix:house,world:,dimensions:overworld#

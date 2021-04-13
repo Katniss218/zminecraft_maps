@@ -1,0 +1,5 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:254,z:201,y:69,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:settlement,x:445,z:164,y:97,enabled:true,red:0.003921569,green:0.92941177,blue:0.0627451,suffix:,world:,dimensions:overworld#

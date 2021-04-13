@@ -1,0 +1,44 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-230,z:-134,y:71,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Roof,x:-192,z:-54,y:65,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Village 1,x:-410,z:63,y:78,enabled:true,red:0.003921569,green:0.9647059,blue:0.11372549,suffix:house,world:,dimensions:overworld#
+name:Village 2,x:-676,z:-5,y:90,enabled:true,red:0.003921569,green:0.9490196,blue:0.043137256,suffix:house,world:,dimensions:overworld#
+name:Cove,x:-259,z:-50,y:73,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Giant CAVE,x:-381,z:265,y:72,enabled:true,red:0.92941177,green:0.4392157,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Roof interesting,x:100,z:344,y:64,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:road to the CAVE,x:-413,z:143,y:70,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:cool,x:-539,z:134,y:76,enabled:true,red:0.5529412,green:0.5529412,blue:0.5529412,suffix:,world:,dimensions:overworld#
+name:House,x:-604,z:22,y:89,enabled:true,red:0.0,green:0.9254902,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:The Swamps,x:-823,z:25,y:86,enabled:true,red:0.93333334,green:0.41960785,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Bridge,x:-449,z:30,y:67,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Evil Cave,x:-518,z:-190,y:73,enabled:true,red:0.9372549,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Old Ruined Tower,x:-504,z:343,y:86,enabled:true,red:0.94509804,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Bridge,x:-493,z:229,y:75,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Something here (good),x:-450,z:252,y:89,enabled:true,red:0.043137256,green:0.9411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cave,x:-522,z:169,y:86,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Cave,x:-548,z:134,y:80,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Cave,x:-520,z:154,y:86,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
+name:Cave,x:-287,z:168,y:77,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Cave,x:-306,z:146,y:74,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Hideout,x:-508,z:220,y:73,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Cave,x:-455,z:215,y:70,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Cave,x:-487,z:26,y:63,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:Cave,x:-525,z:70,y:66,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Cave,x:-621,z:111,y:62,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Jungle,x:558,z:-277,y:113,enabled:true,red:0.12941177,green:0.12941177,blue:0.12941177,suffix:,world:,dimensions:overworld#
+name:Cave,x:-551,z:98,y:75,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Cave,x:-542,z:120,y:74,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
+name:Cave,x:-485,z:110,y:66,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:Small Ruins,x:-855,z:-112,y:80,enabled:true,red:0.92156863,green:0.87058824,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cave,x:-797,z:8,y:66,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Village 3,x:-1091,z:384,y:103,enabled:true,red:0.0,green:0.91764706,blue:0.05882353,suffix:house,world:,dimensions:overworld#
+name:Ruins of Temple,x:-1009,z:320,y:74,enabled:true,red:0.8901961,green:0.87058824,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:cool,x:-1016,z:425,y:71,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:Cave,x:-957,z:444,y:67,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Ruined Portal,x:-937,z:324,y:71,enabled:true,red:0.9137255,green:0.92156863,blue:0.0,suffix:,world:,dimensions:overworld#
+name:More ruins here,x:-857,z:135,y:80,enabled:true,red:0.9490196,green:0.54901963,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Cliff,x:-858,z:452,y:69,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Lava lake,x:-807,z:575,y:72,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Massive caves,x:-668,z:401,y:83,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#

@@ -1,0 +1,5 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-23,z:-82,y:78,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Tower,x:121,z:-232,y:85,enabled:true,red:0.9254902,green:0.54509807,blue:0.0,suffix:,world:,dimensions:overworld#
