@@ -1,0 +1,29 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-179,z:233,y:64,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
+name:Village,x:-186,z:223,y:101,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:house,world:,dimensions:overworld#
+name:4 Pillars,x:-34,z:509,y:102,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Sloth Mountain,x:-394,z:767,y:96,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Village,x:-298,z:-422,y:96,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:house,world:,dimensions:overworld#
+name:Giant Cavern,x:-534,z:-614,y:61,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Village,x:-759,z:-265,y:98,enabled:true,red:0.007843138,green:0.92941177,blue:0.007843138,suffix:house,world:,dimensions:overworld#
+name:Cool Gulf,x:-994,z:-382,y:76,enabled:true,red:0.5294118,green:0.5294118,blue:0.5294118,suffix:,world:,dimensions:overworld#
+name:Caves,x:-791,z:-208,y:71,enabled:true,red:0.93333334,green:0.46666667,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Shattered Ground,x:-750,z:-43,y:77,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:House,x:-465,z:-116,y:98,enabled:true,red:0.03529412,green:0.9254902,blue:0.0,suffix:,world:,dimensions:overworld#
+name:House,x:-701,z:-264,y:89,enabled:true,red:0.0,green:0.92156863,blue:0.039215688,suffix:,world:,dimensions:overworld#
+name:Bridge,x:-764,z:-220,y:74,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Shattered Caves,x:-821,z:-441,y:81,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Hideout,x:-494,z:-781,y:75,enabled:true,red:0.92941177,green:0.3764706,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Bridge,x:-780,z:-277,y:75,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Farms,x:-715,z:-314,y:74,enabled:true,red:0.003921569,green:0.9529412,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Port,x:-857,z:-192,y:75,enabled:true,red:0.0,green:0.91764706,blue:0.05882353,suffix:,world:,dimensions:overworld#
+name:Blade Peaks,x:-693,z:-120,y:90,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Lumberjacks,x:-823,z:-277,y:78,enabled:true,red:0.007843138,green:0.92941177,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Mine,x:-782,z:-364,y:83,enabled:true,red:0.9490196,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:House,x:-1069,z:-410,y:101,enabled:true,red:0.9019608,green:0.85490197,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cave,x:-1005,z:-510,y:66,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Cave,x:-985,z:-502,y:68,enabled:true,red:0.9529412,green:0.46666667,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Cave,x:-860,z:-341,y:66,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:House,x:-736,z:-242,y:87,enabled:true,red:0.9411765,green:0.8784314,blue:0.003921569,suffix:,world:,dimensions:overworld#

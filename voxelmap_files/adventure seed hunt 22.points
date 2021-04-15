@@ -1,0 +1,21 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:42,z:-102,y:68,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Landsweil,x:61,z:-212,y:78,enabled:true,red:0.003921569,green:0.9529412,blue:0.023529412,suffix:house,world:,dimensions:overworld#
+name:Funny ravine,x:54,z:-455,y:68,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Bandit Camp,x:-32,z:-186,y:76,enabled:true,red:0.9529412,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Amdorf (small),x:-259,z:-468,y:102,enabled:true,red:0.007843138,green:0.90588236,blue:0.007843138,suffix:house,world:,dimensions:overworld#
+name:here something,x:-109,z:-668,y:80,enabled:true,red:0.7087215,green:0.573314,blue:0.29970944,suffix:,world:,dimensions:overworld#
+name:Shattered cave,x:-16,z:-440,y:70,enabled:true,red:0.12941177,green:0.12941177,blue:0.12941177,suffix:,world:,dimensions:overworld#
+name:Farms & Lumberjacks,x:19,z:-263,y:67,enabled:true,red:0.07058824,green:0.93333334,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Farms,x:85,z:-293,y:67,enabled:true,red:0.003921569,green:0.93333334,blue:0.043137256,suffix:,world:,dimensions:overworld#
+name:Bridge,x:-56,z:-403,y:74,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Bridge,x:-169,z:-390,y:73,enabled:true,red:0.12941177,green:0.12941177,blue:0.12941177,suffix:,world:,dimensions:overworld#
+name:Ruined House,x:-87,z:-432,y:77,enabled:true,red:0.92941177,green:0.90588236,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Big Ruins here,x:-145,z:-625,y:86,enabled:true,red:0.94509804,green:0.4117647,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Bridge,x:102,z:-386,y:72,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Dungeon,x:-6,z:-5,y:76,enabled:true,red:0.8862745,green:0.42745098,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:destroythis,x:-389,z:-761,y:98,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:destroythis,x:156,z:-725,y:87,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:More outlaws here,x:-43,z:-304,y:69,enabled:true,red:0.92156863,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#

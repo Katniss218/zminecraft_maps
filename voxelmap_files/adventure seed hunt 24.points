@@ -1,0 +1,10 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-200,z:-249,y:63,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Cliff,x:-285,z:-315,y:90,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Cliff 2,x:-335,z:-267,y:72,enabled:true,red:0.12941177,green:0.12941177,blue:0.12941177,suffix:,world:,dimensions:overworld#
+name:Valley,x:10,z:-130,y:76,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Village,x:-98,z:-242,y:90,enabled:true,red:0.003921569,green:0.92156863,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Houses,x:-297,z:-174,y:82,enabled:true,red:0.0627451,green:0.9098039,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Building,x:-198,z:-176,y:81,enabled:true,red:0.003921569,green:0.90588236,blue:0.039215688,suffix:,world:,dimensions:overworld#

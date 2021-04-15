@@ -1,0 +1,34 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:3,z:29,y:65,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Vernot,x:-329,z:257,y:87,enabled:true,red:0.0,green:0.92941177,blue:0.08627451,suffix:house,world:,dimensions:overworld#
+name:Ravine,x:-484,z:206,y:67,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Ruins,x:-309,z:318,y:85,enabled:true,red:0.9137255,green:0.8627451,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Tomb/Temple,x:45,z:512,y:66,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Savanna oasis thing,x:234,z:494,y:86,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Giant hole in ground,x:-417,z:210,y:61,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Mine,x:-395,z:227,y:70,enabled:true,red:0.92941177,green:0.90588236,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Giant roof,x:-557,z:227,y:74,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Ravine,x:-349,z:343,y:67,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Cave,x:-338,z:323,y:63,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Cave,x:-334,z:337,y:66,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Cave system,x:-342,z:212,y:66,enabled:true,red:0.92941177,green:0.5058824,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Arch,x:-289,z:332,y:67,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Edenton,x:-790,z:246,y:104,enabled:true,red:0.003921569,green:0.9490196,blue:0.03137255,suffix:house,world:,dimensions:overworld#
+name:Path through the forest,x:-500,z:314,y:91,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Ruined houses,x:-544,z:415,y:76,enabled:true,red:0.9254902,green:0.47843137,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cool terrain,x:-513,z:751,y:73,enabled:true,red:0.5686275,green:0.5686275,blue:0.5686275,suffix:,world:,dimensions:overworld#
+name:Hole in ground,x:-652,z:514,y:66,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Bandits,x:-994,z:335,y:76,enabled:true,red:0.9529412,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Roof,x:-757,z:147,y:65,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Roof,x:-978,z:79,y:74,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Ravine,x:-1055,z:130,y:77,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Caves,x:-893,z:419,y:67,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:massive wastelands,x:-1112,z:401,y:99,enabled:true,red:0.9254902,green:0.49019608,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chasm,x:-1110,z:371,y:64,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Secret cave,x:-563,z:205,y:82,enabled:true,red:0.9490196,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Roof 2,x:-580,z:201,y:66,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:START,x:-301,z:220,y:78,enabled:true,red:0.007843138,green:0.92941177,blue:0.007843138,suffix:world,world:,dimensions:overworld#
+name:Ravine,x:-545,z:88,y:59,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Divided Ravine,x:-679,z:39,y:67,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#

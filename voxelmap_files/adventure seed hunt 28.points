@@ -1,0 +1,18 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:84,z:197,y:66,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Village,x:6,z:123,y:89,enabled:true,red:0.043137256,green:0.9843137,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:fun,x:-130,z:-235,y:96,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Lava lake,x:402,z:597,y:91,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Giant hole,x:-120,z:511,y:59,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Cave system,x:-56,z:239,y:68,enabled:true,red:0.8745098,green:0.8784314,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Cave,x:49,z:123,y:64,enabled:true,red:0.95686275,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Cave,x:-11,z:136,y:69,enabled:true,red:0.93333334,green:0.8862745,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Roof,x:-243,z:774,y:76,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Lava lake,x:19,z:40,y:71,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Cave system,x:-28,z:104,y:69,enabled:true,red:0.8862745,green:0.8862745,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Lava lake,x:-42,z:-23,y:85,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Mine,x:28,z:65,y:71,enabled:true,red:0.9607843,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cool,x:271,z:142,y:93,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Wasserfall,x:515,z:-334,y:110,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#

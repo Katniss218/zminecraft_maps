@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:55,z:-58,y:63,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Ruins,x:231,z:-253,y:97,enabled:true,red:0.9529412,green:0.5372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Village,x:266,z:-223,y:69,enabled:true,red:0.0,green:0.9254902,blue:0.019607844,suffix:,world:,dimensions:overworld#
