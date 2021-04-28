@@ -1,0 +1,17 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:11,z:-266,y:63,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Cool,x:250,z:9,y:80,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Something here,x:-195,z:-218,y:95,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Cave,x:53,z:75,y:82,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Cave system,x:-69,z:-277,y:66,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Cave system giant,x:-241,z:-181,y:60,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Magic Ravine,x:-224,z:-140,y:35,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Round,x:-243,z:-180,y:34,enabled:true,red:0.56078434,green:0.56078434,blue:0.56078434,suffix:,world:,dimensions:overworld#
+name:Cool area,x:-63,z:-224,y:73,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:Cool area 2,x:-24,z:-249,y:64,enabled:true,red:0.5529412,green:0.5529412,blue:0.5529412,suffix:,world:,dimensions:overworld#
+name:Iron Cave,x:68,z:-303,y:57,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Fun,x:-296,z:-163,y:81,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Levitating Water,x:-56,z:-164,y:63,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:U-shaped Ravine,x:-178,z:-303,y:79,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#

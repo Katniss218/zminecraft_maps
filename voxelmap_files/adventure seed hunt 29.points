@@ -4,3 +4,12 @@ seeds:
 name:>> SPAWN <<,x:55,z:-58,y:63,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
 name:Ruins,x:231,z:-253,y:97,enabled:true,red:0.9529412,green:0.5372549,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Village,x:266,z:-223,y:69,enabled:true,red:0.0,green:0.9254902,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:Vertical cave,x:218,z:-116,y:75,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Ruined town,x:632,z:-236,y:89,enabled:true,red:0.9529412,green:0.50980395,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Smol lava lake,x:282,z:-479,y:71,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Bridge,x:438,z:-227,y:70,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Cave,x:192,z:-260,y:81,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Bridge,x:125,z:-274,y:85,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Something here,x:104,z:-285,y:88,enabled:true,red:0.9490196,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Funny cave,x:172,z:-207,y:74,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Cave,x:323,z:-194,y:66,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
