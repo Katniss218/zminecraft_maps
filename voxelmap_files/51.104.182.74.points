@@ -1,0 +1,8 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:sadda,x:-295,z:184,y:8,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:sadada,x:109,z:151,y:66,enabled:true,red:0.8012173,green:0.68586916,blue:0.69189805,suffix:,world:,dimensions:overworld#
+name:adsd,x:-1981,z:3759,y:64,enabled:true,red:0.10190225,green:0.7002013,blue:0.6799489,suffix:,world:,dimensions:overworld#
+name:sw,x:-1389,z:2758,y:91,enabled:true,red:0.531296,green:0.99013305,blue:0.4615919,suffix:,world:,dimensions:overworld#
+name:treehouse,x:-25,z:490,y:84,enabled:true,red:0.28554428,green:0.64635986,blue:0.36595774,suffix:,world:,dimensions:overworld#

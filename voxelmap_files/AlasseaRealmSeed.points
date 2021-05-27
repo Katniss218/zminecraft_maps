@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-30,z:136,y:76,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Tower Spot,x:165,z:245,y:77,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:dark forest,x:45,z:495,y:105,enabled:true,red:0.5294118,green:0.5294118,blue:0.5294118,suffix:,world:,dimensions:overworld#

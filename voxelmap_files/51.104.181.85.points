@@ -1,0 +1,8 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:waterfall,x:-1310,z:-82,y:84,enabled:true,red:0.06666667,green:0.9019608,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Stairs,x:-1353,z:-55,y:63,enabled:true,red:0.0,green:0.93333334,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Mansion,x:-1318,z:-39,y:79,enabled:true,red:0.16862746,green:0.9372549,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Abandoned area,x:-1267,z:-10,y:64,enabled:true,red:0.007843138,green:0.95686275,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Satanic Temple,x:-1319,z:-10,y:79,enabled:true,red:0.0,green:0.96862745,blue:0.023529412,suffix:,world:,dimensions:overworld#

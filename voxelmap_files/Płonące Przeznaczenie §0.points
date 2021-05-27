@@ -52,7 +52,7 @@ name:Zamek Starego Króla,x:1350,z:483,y:84,enabled:true,red:0.95686275,green:0.
 name:Świątynia Villagerów,x:1109,z:126,y:73,enabled:true,red:0.9843137,green:0.015686275,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Skrytka na klucz,x:1188,z:135,y:68,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:diamond,world:,dimensions:overworld#
 name:Dom,x:1009,z:456,y:83,enabled:true,red:0.011764706,green:0.9372549,blue:0.007843138,suffix:,world:,dimensions:overworld#
-name:Crafting Table,x:1057,z:503,y:66,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
+name:Crafting Table,x:1057,z:503,y:66,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
 name:Tutorial,x:1122,z:312,y:20,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
 name:Dźwignia,x:1012,z:434,y:45,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
 name:Dźwignia,x:1012,z:429,y:44,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
@@ -60,3 +60,4 @@ name:Źródło zarazy,x:1025,z:422,y:44,enabled:true,red:0.92941177,green:0.0196
 name:Chest,x:986,z:404,y:53,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Szlak się kończy,x:1351,z:-344,y:87,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
 name:Lawospad kuźni,x:1331,z:-143,y:74,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Tree errors,x:889,z:106,y:89,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#

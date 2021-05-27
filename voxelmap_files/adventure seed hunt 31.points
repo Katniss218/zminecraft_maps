@@ -9,3 +9,4 @@ name:Cliff,x:-611,z:-373,y:105,enabled:true,red:0.14509805,green:0.14509805,blue
 name:Fun lava lake,x:-28,z:-37,y:75,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
 name:Bridge,x:-135,z:26,y:73,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
 name:Mine,x:-116,z:26,y:72,enabled:true,red:0.9490196,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Farms,x:-208,z:115,y:75,enabled:true,red:0.101960786,green:0.9647059,blue:0.0,suffix:,world:,dimensions:overworld#

@@ -1,5 +1,8 @@
 subworlds:
 oldNorthWorlds:
 seeds:
-name:Latest Death,x:467,z:104,y:79,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:overworld#
-name:spawn,x:235,z:190,y:62,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:>> SPAWN <<,x:235,z:190,y:62,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:Villa,x:380,z:151,y:79,enabled:true,red:0.07058824,green:0.95686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Greenhouse,x:358,z:146,y:79,enabled:true,red:0.050980393,green:0.99607843,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Skeleton Spawner,x:415,z:201,y:57,enabled:true,red:0.99215686,green:0.019607844,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:Bridge,x:385,z:168,y:73,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#

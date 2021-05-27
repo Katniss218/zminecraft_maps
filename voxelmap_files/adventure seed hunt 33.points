@@ -1,0 +1,31 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-66,z:-232,y:67,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Roof,x:-2,z:-247,y:89,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Cave,x:179,z:-51,y:62,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Plain,x:-138,z:-614,y:73,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Anvil Rock,x:-70,z:-575,y:111,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Cool,x:-109,z:-574,y:111,enabled:true,red:0.5529412,green:0.5529412,blue:0.5529412,suffix:,world:,dimensions:overworld#
+name:Cave,x:-173,z:-592,y:67,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Passage,x:-188,z:-683,y:74,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Spire,x:-69,z:-528,y:95,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Cave system,x:-13,z:-632,y:58,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:>> START <<,x:-381,z:-617,y:89,enabled:true,red:0.011764706,green:0.9372549,blue:0.007843138,suffix:world,world:,dimensions:overworld#
+name:Dark,x:-407,z:-472,y:79,enabled:true,red:0.9019608,green:0.40392157,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cemetery,x:-161,z:-295,y:114,enabled:true,red:0.9490196,green:0.52156866,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Lava forge cave,x:-329,z:-443,y:56,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Bridge,x:-230,z:-617,y:74,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Tower,x:-152,z:-779,y:93,enabled:true,red:0.12941177,green:0.12941177,blue:0.12941177,suffix:,world:,dimensions:overworld#
+name:Cool,x:50,z:-700,y:103,enabled:true,red:0.5647059,green:0.5686275,blue:0.5647059,suffix:,world:,dimensions:overworld#
+name:Witch hut,x:51,z:-926,y:77,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Shed,x:-422,z:-594,y:75,enabled:true,red:0.007843138,green:0.9529412,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Ravine,x:-481,z:-574,y:65,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Abandoned house,x:-486,z:-632,y:75,enabled:true,red:0.9019608,green:0.44705883,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cool,x:-357,z:-653,y:71,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Big spooky place,x:-525,z:-572,y:82,enabled:true,red:0.90588236,green:0.41568628,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Spooky pier,x:-584,z:-569,y:70,enabled:true,red:0.93333334,green:0.40392157,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Abandoned Mine,x:-509,z:-604,y:32,enabled:true,red:0.9411765,green:0.44705883,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Chest,x:-340,z:-646,y:59,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:-362,z:-657,y:66,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Caves,x:-393,z:-457,y:67,enabled:true,red:0.99215686,green:0.41568628,blue:0.003921569,suffix:,world:,dimensions:overworld#

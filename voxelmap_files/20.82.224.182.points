@@ -1,0 +1,15 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:base,x:-2415,z:-2784,y:65,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:mushroom,x:-710,z:-726,y:63,enabled:true,red:0.4306752,green:0.58542037,blue:0.9431029,suffix:,world:,dimensions:overworld#
+name:Katniss,x:154,z:254,y:74,enabled:true,red:0.011764706,green:0.9372549,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:x,x:-168,z:93,y:114,enabled:true,red:0.46262556,green:0.6123343,blue:0.07740235,suffix:,world:,dimensions:overworld#
+name:forsy,x:-2500,z:4800,y:74,enabled:true,red:0.8405649,green:0.33713943,blue:0.5579325,suffix:,world:,dimensions:overworld#
+name:p,x:-136,z:96,y:47,enabled:true,red:0.91385436,green:0.47804892,blue:0.6973769,suffix:,world:,dimensions:the_nether#
+name:entry,x:72,z:-328,y:128,enabled:true,red:0.35622418,green:0.010302603,blue:0.69380385,suffix:,world:,dimensions:the_nether#
+name:annas,x:-63,z:245,y:75,enabled:true,red:0.39572537,green:0.919745,blue:0.44337142,suffix:,world:,dimensions:overworld#
+name:annas,x:-106,z:264,y:73,enabled:true,red:0.74206233,green:0.5732049,blue:0.8163898,suffix:,world:,dimensions:overworld#
+name:vilfarm,x:-121,z:266,y:73,enabled:true,red:0.29318255,green:0.119437695,blue:0.2496947,suffix:,world:,dimensions:overworld#
+name:darius,x:-11,z:316,y:69,enabled:true,red:0.9927631,green:0.48759294,blue:0.16442406,suffix:,world:,dimensions:overworld#
+name:village of alassea,x:-2696,z:-2848,y:73,enabled:true,red:0.96549124,green:0.23893166,blue:0.38283068,suffix:,world:,dimensions:overworld#
