@@ -9,11 +9,11 @@ name:Mordred,x:612,z:1199,y:105,enabled:true,red:0.99607843,green:0.007843138,bl
 name:lumberjacks,x:556,z:1159,y:83,enabled:true,red:0.99607843,green:0.5764706,blue:0.007843138,suffix:axe,world:,dimensions:overworld#
 name:lumberjacks,x:373,z:1439,y:83,enabled:true,red:0.972549,green:0.5411765,blue:0.0,suffix:axe,world:,dimensions:overworld#
 name:Mordred's Scouting Towers,x:758,z:977,y:135,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
-name:Kilnick,x:859,z:942,y:93,enabled:true,red:0.9254902,green:0.8980392,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Kilnick,x:859,z:942,y:93,enabled:true,red:0.03529412,green:0.9607843,blue:0.0,suffix:house,world:,dimensions:overworld#
 name:Tourte,x:845,z:498,y:92,enabled:true,red:0.93333334,green:0.8862745,blue:0.0,suffix:house,world:,dimensions:overworld#
 name:Teleportation Temple,x:1030,z:390,y:63,enabled:true,red:0.0,green:0.98039216,blue:0.87058824,suffix:star,world:,dimensions:overworld#
 name:Port Tourte,x:788,z:375,y:89,enabled:true,red:0.96862745,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#
-name:Fort Tourte,x:951,z:534,y:98,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Fort Tourte,x:951,z:534,y:98,enabled:true,red:0.92941177,green:0.90588236,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Bandits here,x:270,z:332,y:69,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Bark,x:153,z:490,y:106,enabled:true,red:0.16078432,green:0.8901961,blue:0.003921569,suffix:house,world:,dimensions:overworld#
 name:Clayfield,x:243,z:675,y:83,enabled:true,red:0.91764706,green:0.92156863,blue:0.0,suffix:house,world:,dimensions:overworld#
@@ -37,7 +37,7 @@ name:Obsidian Mine,x:441,z:1419,y:78,enabled:true,red:0.99607843,green:0.0078431
 name:Fortress,x:578,z:1496,y:116,enabled:true,red:0.03529412,green:0.9490196,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Ruined houses,x:679,z:1335,y:89,enabled:true,red:0.9490196,green:0.8862745,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Hermit's Hut (ruins),x:601,z:1302,y:87,enabled:true,red:0.09803922,green:0.96862745,blue:0.0,suffix:,world:,dimensions:overworld#
-name:Cloudy Mountains gate,x:911,z:645,y:95,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Cloudy Mountains Gate,x:911,z:645,y:95,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
 name:Teleportation temple,x:173,z:646,y:92,enabled:true,red:0.003921569,green:0.9372549,blue:0.84313726,suffix:star,world:,dimensions:overworld#
 name:Cerberus' Castle,x:327,z:1314,y:129,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
 name:Black Horde garrison,x:435,z:1287,y:89,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
@@ -103,7 +103,6 @@ name:Mosswich,x:161,z:137,y:95,enabled:true,red:0.011764706,green:0.99607843,blu
 name:Fisherman's Hut,x:166,z:186,y:79,enabled:true,red:0.105882354,green:0.9882353,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Ridgewood,x:103,z:168,y:90,enabled:true,red:0.09803922,green:0.96862745,blue:0.0,suffix:house,world:,dimensions:overworld#
 name:Great Library,x:94,z:466,y:120,enabled:true,red:0.9843137,green:0.49411765,blue:0.0,suffix:,world:,dimensions:overworld#
-name:Farms,x:151,z:566,y:79,enabled:true,red:0.007843138,green:0.92941177,blue:0.007843138,suffix:,world:,dimensions:overworld#
 name:farms,x:309,z:671,y:80,enabled:true,red:0.92941177,green:0.90588236,blue:0.003921569,suffix:wheat,world:,dimensions:overworld#
 name:Mages,x:187,z:692,y:84,enabled:true,red:0.09803922,green:0.96862745,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Cave1,x:143,z:122,y:69,enabled:true,red:0.9764706,green:0.52156866,blue:0.0,suffix:,world:,dimensions:overworld#
@@ -119,7 +118,7 @@ name:Quarry 3,x:-38,z:512,y:84,enabled:true,red:0.92941177,green:0.8784314,blue:
 name:Quarry 4,x:-69,z:531,y:90,enabled:true,red:0.93333334,green:0.49803922,blue:0.003921569,suffix:pickaxe,world:,dimensions:overworld#
 name:Chest,x:104,z:508,y:80,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:Marketplace,x:168,z:437,y:91,enabled:true,red:0.003921569,green:0.9529412,blue:0.039215688,suffix:,world:,dimensions:overworld#
-name:Ruined House,x:996,z:390,y:81,enabled:true,red:0.9372549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ruined House,x:996,z:390,y:81,enabled:true,red:0.07058824,green:0.94509804,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Bridge,x:898,z:418,y:76,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
 name:Bridge,x:936,z:397,y:71,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
 name:Something here,x:1176,z:853,y:64,enabled:true,red:0.9529412,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
@@ -132,7 +131,7 @@ name:hideout,x:224,z:632,y:64,enabled:true,red:0.95686275,green:0.93333334,blue:
 name:Pier,x:382,z:676,y:73,enabled:true,red:0.0,green:0.92156863,blue:0.08235294,suffix:,world:,dimensions:overworld#
 name:Dungeon,x:-68,z:543,y:88,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Cave,x:318,z:489,y:75,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
-name:House?,x:324,z:390,y:74,enabled:true,red:0.9529412,green:0.90588236,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Destroyed Shed,x:324,z:390,y:74,enabled:true,red:0.9529412,green:0.90588236,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Building here,x:187,z:-8,y:88,enabled:true,red:0.9490196,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Cave,x:829,z:1152,y:96,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
 name:Bandits,x:850,z:1154,y:94,enabled:true,red:0.9647059,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
@@ -143,9 +142,9 @@ name:Bridge,x:327,z:1351,y:100,enabled:true,red:0.14901961,green:0.14901961,blue
 name:Bridge,x:646,z:1157,y:104,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
 name:Bridge,x:659,z:1126,y:109,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
 name:Demolished Gate,x:861,z:971,y:94,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
-name:House,x:983,z:695,y:98,enabled:true,red:0.8862745,green:0.83137256,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:House,x:983,z:695,y:98,enabled:true,red:0.03529412,green:0.9490196,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Gold Mine,x:775,z:936,y:98,enabled:true,red:0.9529412,green:0.54509807,blue:0.0,suffix:pickaxe,world:,dimensions:overworld#
-name:Destroyed House,x:824,z:824,y:83,enabled:true,red:0.9254902,green:0.8980392,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Destroyed House,x:824,z:824,y:83,enabled:true,red:0.003921569,green:0.9607843,blue:0.03529412,suffix:,world:,dimensions:overworld#
 name:Chest,x:822,z:826,y:77,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:873,z:935,y:57,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:Cave,x:942,z:434,y:82,enabled:true,red:0.91764706,green:0.41960785,blue:0.0,suffix:,world:,dimensions:overworld#
@@ -180,3 +179,11 @@ name:Chest,x:178,z:561,y:64,enabled:false,red:0.99607843,green:0.99607843,blue:0
 name:Chest,x:187,z:589,y:65,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:187,z:589,y:67,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:156,z:589,y:67,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Hermit,x:122,z:286,y:79,enabled:true,red:0.007843138,green:0.95686275,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Bridge,x:97,z:562,y:81,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Bridge,x:178,z:520,y:81,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Farm,x:149,z:587,y:86,enabled:true,red:0.101960786,green:0.9647059,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Residential,x:139,z:514,y:93,enabled:true,red:0.03137255,green:0.91764706,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Town Hall,x:141,z:453,y:121,enabled:true,red:0.003921569,green:0.9372549,blue:0.02745098,suffix:,world:,dimensions:overworld#
+name:Vanaheim,x:4973,z:4,y:106,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
+name:>> TUTORIAL <<,x:4949,z:2,y:100,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#

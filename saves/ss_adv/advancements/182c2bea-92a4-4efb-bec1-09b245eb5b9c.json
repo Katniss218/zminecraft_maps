@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2021-05-29 13:20:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2021-05-22 12:40:30 +0200"
@@ -353,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2021-05-31 15:42:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2021-05-22 12:40:30 +0200"
@@ -380,6 +392,12 @@
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2021-05-26 08:20:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2021-06-01 12:08:31 +0200"
     },
     "done": true
   },
@@ -629,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2021-05-27 12:50:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2021-05-23 13:05:07 +0200"
@@ -773,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2021-05-29 11:18:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2021-05-22 12:40:30 +0200"
@@ -833,9 +863,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2021-05-28 13:13:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2021-05-22 13:52:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2021-05-29 11:18:07 +0200"
     },
     "done": true
   },
@@ -935,9 +977,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-05-31 15:42:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2021-05-22 13:28:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2021-05-28 13:13:32 +0200"
     },
     "done": true
   },
@@ -1097,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2021-06-01 12:08:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2021-05-22 12:40:30 +0200"
@@ -1139,6 +1199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2021-05-27 12:50:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2021-05-22 12:43:58 +0200"
@@ -1160,6 +1226,12 @@
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_warped_planks": "2021-05-26 08:53:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2021-06-01 12:08:31 +0200"
     },
     "done": true
   },
@@ -1404,16 +1476,23 @@
       "minecraft:forest": "2021-05-22 15:33:38 +0200",
       "minecraft:mountains": "2021-05-22 13:48:50 +0200",
       "minecraft:taiga": "2021-05-22 15:40:30 +0200",
+      "minecraft:desert_hills": "2021-06-01 11:38:54 +0200",
       "minecraft:deep_cold_ocean": "2021-05-23 19:48:59 +0200",
+      "minecraft:taiga_hills": "2021-05-28 18:50:21 +0200",
+      "minecraft:desert": "2021-06-01 11:32:58 +0200",
       "minecraft:jungle": "2021-05-24 15:17:15 +0200",
       "minecraft:jungle_hills": "2021-05-24 15:35:53 +0200",
       "minecraft:deep_lukewarm_ocean": "2021-05-23 19:49:23 +0200",
+      "minecraft:savanna_plateau": "2021-06-01 11:41:46 +0200",
       "minecraft:beach": "2021-05-22 16:12:22 +0200",
+      "minecraft:dark_forest": "2021-06-01 11:37:36 +0200",
       "minecraft:river": "2021-05-22 13:48:49 +0200",
       "minecraft:lukewarm_ocean": "2021-05-23 10:21:45 +0200",
       "minecraft:wooded_mountains": "2021-05-22 15:35:55 +0200",
       "minecraft:wooded_hills": "2021-05-23 12:03:13 +0200",
       "minecraft:stone_shore": "2021-05-22 15:40:39 +0200",
+      "minecraft:swamp": "2021-06-01 11:33:48 +0200",
+      "minecraft:savanna": "2021-06-01 11:38:43 +0200",
       "minecraft:plains": "2021-05-22 14:59:36 +0200"
     },
     "done": false
@@ -1472,9 +1551,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2021-05-28 13:13:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2021-05-22 12:40:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2021-05-27 12:50:32 +0200"
     },
     "done": true
   },
@@ -1565,6 +1656,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-05-22 13:28:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2021-05-29 11:18:07 +0200"
     },
     "done": true
   },
@@ -1703,6 +1800,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2021-05-23 16:03:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2021-05-29 13:20:46 +0200"
     },
     "done": true
   },

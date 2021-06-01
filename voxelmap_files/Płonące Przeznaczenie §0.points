@@ -5,9 +5,7 @@ name:Skrytka,x:1016,z:435,y:67,enabled:true,red:0.99215686,green:0.99215686,blue
 name:Obóz bandytów,x:1141,z:434,y:74,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:wieża,x:1195,z:28,y:79,enabled:true,red:0.8666667,green:0.9490196,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Miasto Woodtown,x:1369,z:-183,y:89,enabled:true,red:0.003921569,green:0.95686275,blue:0.0627451,suffix:house,world:,dimensions:overworld#the_nether#
-name:Wyrocznia Pelem,x:404,z:257,y:86,enabled:true,red:0.003921569,green:0.95686275,blue:0.0627451,suffix:,world:,dimensions:overworld#
-name:Most,x:390,z:131,y:88,enabled:false,red:0.039215688,green:1.0,blue:0.101960786,suffix:,world:,dimensions:overworld#
-name:Most,x:442,z:81,y:86,enabled:false,red:0.007843138,green:1.0,blue:0.07450981,suffix:,world:,dimensions:overworld#
+name:Wyrocznia Pelem,x:404,z:257,y:86,enabled:true,red:0.0,green:0.92156863,blue:0.8235294,suffix:,world:,dimensions:overworld#
 name:most,x:507,z:-199,y:73,enabled:false,red:0.011764706,green:0.99607843,blue:0.12156863,suffix:,world:,dimensions:overworld#
 name:startowa wioska (Gheyn?),x:1017,z:385,y:106,enabled:true,red:0.0,green:0.972549,blue:0.023529412,suffix:house,world:,dimensions:overworld#the_nether#
 name:Więzienie w jaskini,x:1234,z:503,y:62,enabled:true,red:0.99607843,green:0.043137256,blue:0.039215688,suffix:,world:,dimensions:overworld#
@@ -49,15 +47,37 @@ name:Jaskinia mutantów,x:1001,z:389,y:61,enabled:true,red:0.9490196,green:0.498
 name:Przejście,x:1149,z:341,y:88,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
 name:Woda,x:1160,z:240,y:64,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
 name:Zamek Starego Króla,x:1350,z:483,y:84,enabled:true,red:0.95686275,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
-name:Świątynia Villagerów,x:1109,z:126,y:73,enabled:true,red:0.9843137,green:0.015686275,blue:0.003921569,suffix:,world:,dimensions:overworld#
-name:Skrytka na klucz,x:1188,z:135,y:68,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:diamond,world:,dimensions:overworld#
+name:Świątynia Villagerów,x:1109,z:126,y:73,enabled:true,red:0.0,green:0.93333334,blue:0.8156863,suffix:,world:,dimensions:overworld#
 name:Dom,x:1009,z:456,y:83,enabled:true,red:0.011764706,green:0.9372549,blue:0.007843138,suffix:,world:,dimensions:overworld#
 name:Crafting Table,x:1057,z:503,y:66,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
 name:Tutorial,x:1122,z:312,y:20,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
 name:Dźwignia,x:1012,z:434,y:45,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
 name:Dźwignia,x:1012,z:429,y:44,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
 name:Źródło zarazy,x:1025,z:422,y:44,enabled:true,red:0.92941177,green:0.019607844,blue:0.0,suffix:,world:,dimensions:overworld#
-name:Chest,x:986,z:404,y:53,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Szlak się kończy,x:1351,z:-344,y:87,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
-name:Lawospad kuźni,x:1331,z:-143,y:74,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Lawospad kuźni,x:1331,z:-143,y:74,enabled:true,red:0.007843138,green:0.92941177,blue:0.007843138,suffix:,world:,dimensions:overworld#
 name:Tree errors,x:889,z:106,y:89,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Światełko,x:1090,z:126,y:86,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
+name:Skrytka na klucz,x:1190,z:135,y:79,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:,world:,dimensions:overworld#
+name:Chest,x:1193,z:136,y:69,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1195,z:241,y:67,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1150,z:425,y:61,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1148,z:432,y:70,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1147,z:430,y:70,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1146,z:441,y:70,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1134,z:448,y:70,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1031,z:439,y:92,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1030,z:444,y:84,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1009,z:459,y:78,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:986,z:402,y:72,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:989,z:415,y:68,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:970,z:392,y:68,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1031,z:376,y:65,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1015,z:358,y:68,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1013,z:351,y:68,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1018,z:356,y:72,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1356,z:480,y:81,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1358,z:487,y:81,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1091,z:117,y:72,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1386,z:-262,y:77,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1369,z:-139,y:76,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#

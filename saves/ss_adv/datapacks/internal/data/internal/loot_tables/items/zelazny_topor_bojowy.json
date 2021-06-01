@@ -1,0 +1,38 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:iron_axe",
+					"functions": [
+						{
+							"function": "set_attributes",
+							"modifiers": [
+								{
+									"amount": 11,
+									"slot": "mainhand",
+									"name": "Attack Damage",
+									"attribute": "generic.attackDamage",
+									"operation": "addition"
+								},
+								{
+									"amount": -3.2,
+									"slot": "mainhand",
+									"name": "Attack Speed",
+									"attribute": "generic.attackSpeed",
+									"operation": "addition"
+								}
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"\\\"§f§lŻelazny topór bojowy\\\"\",Lore:[\"\",\"§6Obrażenia: §e§l11\",\"§6Szybkość: §c§l|§8§l||\"]},Unbreakable:1,HideFlags:63}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

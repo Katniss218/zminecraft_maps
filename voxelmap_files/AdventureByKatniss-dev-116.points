@@ -82,3 +82,6 @@ name:Wieża czasu,x:399,z:1488,y:103,enabled:true,red:0.972549,green:0.007843138
 name:Kryształy,x:492,z:1128,y:68,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Teleporter,x:-1010,z:508,y:93,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
 name:Przystań,x:245,z:213,y:71,enabled:true,red:0.011764706,green:0.94509804,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Stabilizator,x:399,z:374,y:84,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Liczenie kratek,x:521,z:338,y:88,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Water Cube,x:159,z:364,y:83,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
