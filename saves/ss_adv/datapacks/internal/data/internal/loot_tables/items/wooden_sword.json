@@ -38,8 +38,8 @@
 							"function": "set_lore",
 							"lore":
 							[
-								{ "italic": false, "text": "- A trusty wooden sword. Useful for training, when", "color": "white" },
-								{ "italic": false, "text": "  you don't want to kill your opponent.", "color": "white" },
+								{ "italic": false, "text": "- A trusty wooden sword. Useful for training, and", "color": "white" },
+								{ "italic": false, "text": "  when you don't want to outright kill your opponent.", "color": "white" },
 								{ "italic": false, "text": "" },
 								["",{ "italic": false, "text": "Damage", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "4", "color": "yellow", "bold": true },{ "italic": false, "text": " (", "color": "gray" },{ "italic": false, "text": "4", "color": "yellow", "bold": true },{ "italic": false, "text": ")", "color": "gray" }],
 								{ "italic": false, "text": "" }]

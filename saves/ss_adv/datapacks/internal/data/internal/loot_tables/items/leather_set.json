@@ -1,0 +1,41 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/leather_helmet"
+				}
+			]
+		},{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/leather_chestplate"
+				}
+			]
+		},{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/leather_leggings"
+				}
+			]
+		},{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/leather_boots"
+				}
+			]
+		}
+	]
+}

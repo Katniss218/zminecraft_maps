@@ -1,0 +1,40 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "set_name",
+							"name": { "italic": false, "text": "Healing Potion", "color": "dark_aqua", "bold": true }
+						},
+						{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "italic": false, "text": "- Provides healing.", "color": "aqua" },
+								{ "italic": false, "text": "" },
+								["",{ "italic": false, "text": "Healing", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "8", "color": "yellow", "bold": true }],
+								{ "italic": false, "text": "" }]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{HideFlags:2147483647,Unbreakable:1}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{CustomPotionEffects:[{Id:6,Amplifier:1}],CustomPotionColor:14890022}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{ItemId:70,CustomModelData:70}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

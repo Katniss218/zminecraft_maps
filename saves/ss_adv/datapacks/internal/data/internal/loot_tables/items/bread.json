@@ -29,7 +29,7 @@
 						},
 						{
 							"function": "set_nbt",
-							"tag": "{ItemId:3002,CustomModelData:3002}"
+							"tag": "{ItemId:30,CustomModelData:30}"
 						}
 					]
 				}

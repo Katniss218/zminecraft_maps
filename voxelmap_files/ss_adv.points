@@ -186,4 +186,5 @@ name:Farm,x:149,z:587,y:86,enabled:true,red:0.101960786,green:0.9647059,blue:0.0
 name:Residential,x:139,z:514,y:93,enabled:true,red:0.03137255,green:0.91764706,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Town Hall,x:141,z:453,y:121,enabled:true,red:0.003921569,green:0.9372549,blue:0.02745098,suffix:,world:,dimensions:overworld#
 name:Vanaheim,x:4973,z:4,y:106,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
-name:>> TUTORIAL <<,x:4949,z:2,y:100,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
+name:Bridge,x:1417,z:969,y:83,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Bridge,x:1545,z:792,y:70,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#

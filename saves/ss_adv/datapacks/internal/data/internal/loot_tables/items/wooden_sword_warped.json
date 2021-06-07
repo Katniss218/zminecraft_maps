@@ -51,11 +51,12 @@
 							"function": "set_lore",
 							"lore":
 							[
-								{ "italic": false, "text": "- This sword has seen its better days.", "color": "gray" },
+								{ "italic": false, "text": "- A significant twist is present in the blade of this", "color": "gray" },
+								{ "italic": false, "text": "  wooden sword.", "color": "gray" },
 								{ "italic": false, "text": "" },
 								["",{ "italic": false, "text": "Damage", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "4", "color": "yellow", "bold": true },{ "italic": false, "text": " (", "color": "gray" },{ "italic": false, "text": "3", "color": "red", "bold": true },{ "italic": false, "text": ")", "color": "gray" }],
 								{ "italic": false, "text": "" },
-								["",{ "italic": false, "text": " ", "color": "gray" },{ "italic": false, "text": "Warped: ", "color": "gray" },{ "italic": false, "text": "-1 Damage", "color": "red" }]
+								["",{ "italic": false, "text": " ", "color": "gray" },{ "italic": false, "text": "Blunt: ", "color": "gray" },{ "italic": false, "text": "-1 Damage", "color": "red" }]
 							]
 						},
 						{
@@ -64,7 +65,7 @@
 						},
 						{
 							"function": "set_nbt",
-							"tag": "{ItemId:1001,CustomModelData:1001}"
+							"tag": "{ItemId:44,CustomModelData:44}"
 						}
 					]
 				}
