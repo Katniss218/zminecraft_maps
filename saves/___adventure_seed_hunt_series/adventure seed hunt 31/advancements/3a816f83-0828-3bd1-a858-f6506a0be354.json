@@ -1,0 +1,91 @@
+{
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-04-17 11:09:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-04-17 11:09:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2021-04-17 11:11:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2021-04-17 11:11:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2021-04-17 11:11:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-04-17 11:09:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-04-17 11:09:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-04-17 11:11:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-04-17 11:09:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2021-04-17 11:11:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-04-17 11:09:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2021-04-17 11:09:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-04-17 09:41:03 +0200",
+      "minecraft:mountains": "2021-04-17 09:41:14 +0200",
+      "minecraft:birch_forest": "2021-04-17 09:46:47 +0200",
+      "minecraft:beach": "2021-04-17 09:42:32 +0200",
+      "minecraft:dark_forest": "2021-04-17 09:42:11 +0200",
+      "minecraft:river": "2021-04-17 09:41:09 +0200",
+      "minecraft:lukewarm_ocean": "2021-04-22 14:14:01 +0200",
+      "minecraft:wooded_mountains": "2021-04-17 09:46:46 +0200",
+      "minecraft:wooded_hills": "2021-04-17 09:40:11 +0200",
+      "minecraft:swamp": "2021-04-17 09:42:14 +0200",
+      "minecraft:plains": "2021-04-17 09:41:27 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}
