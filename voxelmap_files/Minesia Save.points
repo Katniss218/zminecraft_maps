@@ -1,0 +1,233 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Starting Village,x:107,z:-526,y:61,enabled:true,red:0.003921569,green:0.95686275,blue:0.023529412,suffix:house,world:,dimensions:overworld#
+name:Stormport Village,x:353,z:-535,y:48,enabled:true,red:0.92941177,green:0.90588236,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Shadebark Pass,x:248,z:-311,y:7,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Fake old tutorial,x:272,z:-170,y:6,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:Shadebark Village,x:246,z:-118,y:17,enabled:true,red:0.99607843,green:0.9411765,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Castle Ravenrock,x:215,z:21,y:14,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Obstacle Course,x:123,z:-492,y:31,enabled:true,red:0.03137255,green:0.9098039,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chest,x:106,z:-516,y:23,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Armory,x:83,z:-509,y:29,enabled:true,red:0.03529412,green:0.9490196,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Your House,x:88,z:-549,y:48,enabled:true,red:0.039215688,green:0.93333334,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Windmill,x:121,z:-541,y:38,enabled:true,red:0.003921569,green:0.9647059,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Barn,x:126,z:-524,y:35,enabled:true,red:0.039215688,green:0.93333334,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Archery Range,x:135,z:-549,y:28,enabled:true,red:0.043137256,green:0.9411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chest,x:138,z:-544,y:23,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:131,z:-544,y:23,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:132,z:-518,y:30,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:129,z:-515,y:30,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Well,x:93,z:-532,y:27,enabled:true,red:0.043137256,green:0.9411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chest,x:97,z:-554,y:3,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:146,z:-481,y:23,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:80,z:-506,y:23,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:79,z:-508,y:23,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:80,z:-511,y:23,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:115,z:-547,y:23,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Collector,x:83,z:-552,y:23,enabled:true,red:0.5568628,green:0.5568628,blue:0.5568628,suffix:gear,world:,dimensions:overworld#
+name:Collector,x:123,z:-544,y:23,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:gear,world:,dimensions:overworld#
+name:Valor Gate,x:161,z:-537,y:31,enabled:true,red:0.03529412,green:0.9490196,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Checkpoint,x:280,z:-537,y:24,enabled:true,red:0.0,green:0.99215686,blue:0.02745098,suffix:gear,world:,dimensions:overworld#
+name:Chest (E),x:345,z:-541,y:24,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:346,z:-541,y:23,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:370,z:-541,y:23,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:371,z:-541,y:24,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:389,z:-541,y:23,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:391,z:-541,y:24,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:400,z:-534,y:23,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:400,z:-533,y:24,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:400,z:-532,y:23,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:400,z:-523,y:28,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:347,z:-533,y:23,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Blacksmith,x:345,z:-522,y:27,enabled:true,red:0.99215686,green:0.9607843,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Apple Merchant,x:345,z:-535,y:27,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chest (E),x:339,z:-499,y:23,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:344,z:-512,y:23,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:357,z:-493,y:28,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:316,z:-501,y:27,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:400,z:-570,y:28,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:320,z:-484,y:45,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:185,z:-385,y:24,enabled:true,red:0.003921569,green:0.9647059,blue:0.007843138,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:240,z:-329,y:5,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Detour,x:256,z:-179,y:5,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Chest,x:263,z:-175,y:5,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:238,z:-162,y:6,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Spawnpoint,x:250,z:-147,y:6,enabled:true,red:0.003921569,green:0.9843137,blue:0.02745098,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:276,z:-139,y:17,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:253,z:-120,y:10,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:226,z:-106,y:9,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:216,z:-120,y:5,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:259,z:-109,y:5,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Ox Inn,x:254,z:-106,y:12,enabled:true,red:0.99215686,green:0.9607843,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Chest,x:260,z:-105,y:10,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:235,z:-97,y:6,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:235,z:-115,y:6,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:243,z:-134,y:27,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Cemetery,x:260,z:-64,y:15,enabled:true,red:0.93333334,green:0.5647059,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chest,x:249,z:-65,y:3,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:320,z:-141,y:6,enabled:true,red:0.0,green:0.99215686,blue:0.02745098,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:343,z:-141,y:5,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:354,z:-141,y:15,enabled:true,red:0.003921569,green:0.9372549,blue:0.02745098,suffix:gear,world:,dimensions:overworld#
+name:Reinald's Vault,x:374,z:-139,y:4,enabled:true,red:0.003921569,green:0.9372549,blue:0.84313726,suffix:key,world:,dimensions:overworld#
+name:Chest,x:376,z:-139,y:5,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:381,z:-139,y:5,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:377,z:-163,y:10,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:355,z:-166,y:10,enabled:true,red:0.007843138,green:0.98039216,blue:0.011764706,suffix:gear,world:,dimensions:overworld#
+name:Collector,x:356,z:-143,y:6,enabled:true,red:0.5568628,green:0.5568628,blue:0.5568628,suffix:gear,world:,dimensions:overworld#
+name:Chest (E),x:359,z:-102,y:5,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Trigger,x:354,z:-102,y:5,enabled:true,red:0.007843138,green:0.99607843,blue:0.87058824,suffix:,world:,dimensions:overworld#
+name:Chest,x:416,z:-98,y:6,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:315,z:-77,y:5,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:322,z:-55,y:5,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:334,z:-14,y:6,enabled:true,red:0.003921569,green:0.9843137,blue:0.02745098,suffix:gear,world:,dimensions:overworld#
+name:testfors,x:148,z:123,y:17,enabled:true,red:0.5686275,green:0.5686275,blue:0.5686275,suffix:,world:,dimensions:overworld#
+name:Chest (E),x:259,z:87,y:6,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:261,z:88,y:5,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:262,z:82,y:4,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:258,z:65,y:22,enabled:true,red:0.007843138,green:0.99607843,blue:0.03529412,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:248,z:72,y:21,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:212,z:47,y:21,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:185,z:78,y:20,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Waterpump room,x:174,z:83,y:21,enabled:true,red:0.99215686,green:0.54509807,blue:0.03137255,suffix:,world:,dimensions:overworld#
+name:Workers auditorium,x:176,z:69,y:22,enabled:true,red:0.9764706,green:0.5372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Engager Room,x:176,z:63,y:19,enabled:true,red:0.003921569,green:0.94509804,blue:0.827451,suffix:key,world:,dimensions:overworld#
+name:Control Room,x:183,z:57,y:20,enabled:true,red:0.003921569,green:0.95686275,blue:0.85490197,suffix:key,world:,dimensions:overworld#
+name:Catacombs,x:267,z:-45,y:1,enabled:true,red:0.0,green:0.99215686,blue:0.85882354,suffix:key,world:,dimensions:overworld#
+name:Checkpoint,x:241,z:-20,y:8,enabled:true,red:0.007843138,green:0.9529412,blue:0.011764706,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:242,z:-15,y:7,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:243,z:-18,y:7,enabled:true,red:0.023529412,green:0.99607843,blue:0.02745098,suffix:gear,world:,dimensions:overworld#
+name:Trigger,x:235,z:4,y:7,enabled:true,red:0.011764706,green:0.972549,blue:0.79607844,suffix:,world:,dimensions:overworld#
+name:entrance,x:235,z:20,y:7,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:Servants' Quarters,x:247,z:65,y:14,enabled:true,red:0.9529412,green:0.43529412,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Wine Cellar,x:257,z:13,y:6,enabled:true,red:0.003921569,green:0.9490196,blue:0.827451,suffix:key,world:,dimensions:overworld#
+name:Checkpoint,x:257,z:-1,y:4,enabled:true,red:0.050980393,green:0.99215686,blue:0.015686275,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:265,z:-2,y:3,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:261,z:-13,y:3,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:246,z:9,y:5,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:245,z:7,y:6,enabled:true,red:0.003921569,green:0.98039216,blue:0.09019608,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:209,z:-4,y:5,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Tower Key,x:180,z:22,y:7,enabled:true,red:0.0,green:0.98039216,blue:0.87058824,suffix:key,world:,dimensions:overworld#
+name:Chest,x:171,z:17,y:11,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:172,z:29,y:27,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:177,z:20,y:27,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:171,z:26,y:39,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:176,z:22,y:43,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Ballroom & Guestroom,x:185,z:65,y:16,enabled:true,red:1.0,green:0.47843137,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Checkpoint,x:183,z:76,y:14,enabled:true,red:0.007843138,green:0.98039216,blue:0.011764706,suffix:gear,world:,dimensions:overworld#
+name:Ballroom,x:184,z:83,y:14,enabled:true,red:0.94509804,green:0.49411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Checkpoint,x:200,z:83,y:14,enabled:true,red:0.007843138,green:0.972549,blue:0.007843138,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:230,z:82,y:13,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:259,z:83,y:13,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:260,z:76,y:16,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:253,z:54,y:13,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:233,z:56,y:13,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:233,z:73,y:13,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:216,z:71,y:6,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:191,z:65,y:5,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Enderpearl room,x:206,z:70,y:7,enabled:true,red:0.6117647,green:0.6117647,blue:0.6117647,suffix:,world:,dimensions:overworld#
+name:Checkpoint,x:243,z:73,y:7,enabled:true,red:0.011764706,green:0.99607843,blue:0.12941177,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:239,z:89,y:6,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:The Garden,x:245,z:90,y:5,enabled:true,red:0.011764706,green:0.972549,blue:0.79607844,suffix:key,world:,dimensions:overworld#
+name:Flooded Halls,x:243,z:70,y:5,enabled:true,red:0.0,green:0.99215686,blue:0.85882354,suffix:key,world:,dimensions:overworld#
+name:Chest (E),x:236,z:47,y:6,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:238,z:47,y:6,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:240,z:47,y:6,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:262,z:58,y:6,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:253,z:40,y:5,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:246,z:42,y:5,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Laboratory,x:255,z:45,y:2,enabled:true,red:0.019607844,green:1.0,blue:0.8509804,suffix:key,world:,dimensions:overworld#
+name:Chest,x:269,z:51,y:6,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:279,z:46,y:12,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:279,z:49,y:3,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:273,z:42,y:3,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:273,z:40,y:3,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:279,z:40,y:8,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:175,z:-115,y:15,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:178,z:-105,y:6,enabled:true,red:0.0,green:0.99215686,blue:0.02745098,suffix:gear,world:,dimensions:overworld#
+name:Checkpoint,x:188,z:-152,y:6,enabled:true,red:0.050980393,green:0.99215686,blue:0.015686275,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:194,z:-148,y:5,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Elemental Chamber,x:185,z:-146,y:4,enabled:true,red:0.007843138,green:0.9882353,blue:0.88235295,suffix:key,world:,dimensions:overworld#
+name:Riften Forest,x:199,z:-78,y:9,enabled:true,red:0.95686275,green:0.95686275,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Chest,x:142,z:-111,y:22,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:158,z:-83,y:23,enabled:true,red:0.003921569,green:0.99215686,blue:0.047058824,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:134,z:-104,y:5,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:218,z:8,y:22,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:254,z:42,y:20,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:247,z:32,y:32,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:262,z:42,y:33,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:248,z:53,y:28,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:257,z:62,y:21,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:267,z:65,y:29,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Furnace Room,x:235,z:77,y:28,enabled:true,red:0.0,green:0.98039216,blue:0.87058824,suffix:key,world:,dimensions:overworld#
+name:Chest,x:262,z:83,y:25,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:193,z:58,y:20,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Waterpump Entry,x:176,z:83,y:19,enabled:true,red:0.003921569,green:0.9607843,blue:0.8862745,suffix:key,world:,dimensions:overworld#
+name:Lower Study,x:245,z:90,y:5,enabled:true,red:0.011764706,green:0.972549,blue:0.79607844,suffix:key,world:,dimensions:overworld#
+name:Chest (E),x:255,z:67,y:2,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:258,z:67,y:3,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Scorched Key,x:168,z:85,y:3,enabled:true,red:0.0,green:0.99215686,blue:0.8627451,suffix:key,world:,dimensions:overworld#
+name:Checkpoint,x:176,z:76,y:7,enabled:true,red:0.043137256,green:0.98039216,blue:0.003921569,suffix:gear,world:,dimensions:overworld#
+name:Checkpoint,x:181,z:57,y:6,enabled:true,red:0.011764706,green:0.99607843,blue:0.015686275,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:178,z:66,y:7,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:180,z:76,y:6,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Training Pool,x:173,z:77,y:5,enabled:true,red:0.003921569,green:0.9843137,blue:0.80784315,suffix:key,world:,dimensions:overworld#
+name:Chest,x:174,z:54,y:13,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:196,z:60,y:13,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:253,z:83,y:2,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:258,z:77,y:7,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:199,z:89,y:29,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Puzzlarium,x:193,z:85,y:28,enabled:true,red:0.0,green:0.9529412,blue:0.83137256,suffix:key,world:,dimensions:overworld#
+name:Chest,x:182,z:60,y:28,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Halls of joy,x:198,z:51,y:28,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:Chest,x:184,z:21,y:21,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:184,z:41,y:21,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:The Descent,x:149,z:51,y:23,enabled:true,red:0.99215686,green:0.9607843,blue:0.015686275,suffix:,world:,dimensions:overworld#
+name:Chest (E),x:128,z:43,y:6,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest (E),x:126,z:43,y:5,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:The Descent link,x:365,z:41,y:92,enabled:true,red:0.9647059,green:0.5411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chest,x:372,z:40,y:93,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:359,z:37,y:93,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:365,z:33,y:95,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:362,z:46,y:94,enabled:true,red:0.07450981,green:0.99215686,blue:0.0,suffix:gear,world:,dimensions:overworld#
+name:Experiment chamber,x:392,z:64,y:91,enabled:true,red:0.99607843,green:0.5647059,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Study,x:415,z:62,y:99,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:426,z:66,y:100,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Prison,x:350,z:78,y:89,enabled:true,red:0.99215686,green:0.5372549,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Chest,x:355,z:84,y:88,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:362,z:107,y:89,enabled:true,red:0.019607844,green:0.99607843,blue:0.02745098,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:366,z:110,y:88,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:369,z:156,y:88,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:362,z:165,y:89,enabled:true,red:0.015686275,green:1.0,blue:0.05882353,suffix:gear,world:,dimensions:overworld#
+name:Collector,x:403,z:151,y:87,enabled:true,red:0.5529412,green:0.5529412,blue:0.5529412,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:420,z:158,y:88,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:418,z:153,y:89,enabled:true,red:0.101960786,green:0.9529412,blue:0.0,suffix:gear,world:,dimensions:overworld#
+name:Hall of Dimensions,x:432,z:138,y:91,enabled:true,red:0.9647059,green:0.9019608,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Hall of the Eclipse,x:411,z:192,y:89,enabled:true,red:0.9607843,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chest,x:411,z:243,y:86,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Twisted Elemental arena,x:411,z:234,y:88,enabled:true,red:0.99215686,green:0.015686275,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Court of Judgement,x:481,z:158,y:93,enabled:true,red:0.98039216,green:0.9490196,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Checkpoint,x:489,z:162,y:89,enabled:true,red:0.078431375,green:0.98039216,blue:0.0,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:480,z:126,y:88,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:514,z:158,y:88,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:481,z:191,y:88,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Wither fight,x:493,z:163,y:19,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Chest,x:505,z:163,y:7,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:471,z:155,y:9,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Collector,x:486,z:192,y:6,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:495,z:244,y:7,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Credits,x:495,z:211,y:7,enabled:true,red:0.003921569,green:0.99607843,blue:0.84313726,suffix:,world:,dimensions:overworld#
+name:Fire Dimension,x:523,z:187,y:4,enabled:true,red:0.0,green:0.93333334,blue:0.87058824,suffix:,world:,dimensions:overworld#
+name:Water Dimension,x:437,z:127,y:13,enabled:true,red:0.019607844,green:0.9764706,blue:0.8901961,suffix:,world:,dimensions:overworld#
+name:Chest,x:433,z:107,y:16,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Dimentional lobby 2,x:458,z:137,y:5,enabled:true,red:0.003921569,green:0.9490196,blue:0.84705883,suffix:,world:,dimensions:overworld#
+name:Earth Dimention (lobby),x:518,z:127,y:4,enabled:true,red:0.007843138,green:0.9882353,blue:0.88235295,suffix:,world:,dimensions:overworld#
+name:Checkpoint,x:557,z:149,y:6,enabled:true,red:0.10980392,green:0.99215686,blue:0.0,suffix:gear,world:,dimensions:overworld#
+name:Checkpoint,x:554,z:554,y:11,enabled:true,red:0.0,green:0.9764706,blue:0.043137256,suffix:gear,world:,dimensions:overworld#
+name:Air Dimention (?),x:553,z:539,y:15,enabled:true,red:0.015686275,green:0.99607843,blue:0.8509804,suffix:,world:,dimensions:overworld#
+name:Checkpoint,x:552,z:502,y:21,enabled:true,red:0.003921569,green:0.9607843,blue:0.03529412,suffix:gear,world:,dimensions:overworld#
+name:Chest,x:556,z:502,y:20,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:credits backup,x:446,z:1,y:8,enabled:true,red:0.19215687,green:0.19215687,blue:0.19215687,suffix:,world:,dimensions:overworld#
+name:Chest,x:459,z:51,y:6,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:End Room,x:372,z:-35,y:90,enabled:true,red:0.003921569,green:0.9411765,blue:0.84313726,suffix:world,world:,dimensions:overworld#the_nether#
+name:Chest,x:382,z:-30,y:88,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
