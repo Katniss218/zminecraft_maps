@@ -48,7 +48,6 @@ name:Items,x:225,z:-267,y:53,enabled:true,red:0.99607843,green:0.99607843,blue:0
 name:Items 2,x:139,z:-188,y:57,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
 name:Town Hall,x:172,z:-236,y:86,enabled:true,red:0.019607844,green:0.99607843,blue:0.02745098,suffix:,world:,dimensions:overworld#
 name:START,x:220,z:-226,y:74,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
-name:Secret Entrance,x:340,z:-64,y:72,enabled:true,red:0.9490196,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Chest,x:227,z:-313,y:72,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:234,z:-274,y:78,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:219,z:-224,y:75,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
@@ -103,7 +102,6 @@ name:Mosswich,x:161,z:137,y:95,enabled:true,red:0.011764706,green:0.99607843,blu
 name:Fisherman's Hut,x:166,z:186,y:79,enabled:true,red:0.105882354,green:0.9882353,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Ridgewood,x:103,z:168,y:90,enabled:true,red:0.09803922,green:0.96862745,blue:0.0,suffix:house,world:,dimensions:overworld#
 name:Great Library,x:94,z:466,y:120,enabled:true,red:0.9843137,green:0.49411765,blue:0.0,suffix:,world:,dimensions:overworld#
-name:farms,x:309,z:671,y:80,enabled:true,red:0.92941177,green:0.90588236,blue:0.003921569,suffix:wheat,world:,dimensions:overworld#
 name:Mages,x:187,z:692,y:84,enabled:true,red:0.09803922,green:0.96862745,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Cave1,x:143,z:122,y:69,enabled:true,red:0.9764706,green:0.52156866,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Cave2,x:136,z:129,y:68,enabled:true,red:0.99607843,green:0.49019608,blue:0.03137255,suffix:,world:,dimensions:overworld#
@@ -117,7 +115,6 @@ name:Quarry 2,x:-43,z:547,y:91,enabled:true,red:0.9490196,green:0.92156863,blue:
 name:Quarry 3,x:-38,z:512,y:84,enabled:true,red:0.92941177,green:0.8784314,blue:0.0,suffix:pickaxe,world:,dimensions:overworld#
 name:Quarry 4,x:-69,z:531,y:90,enabled:true,red:0.93333334,green:0.49803922,blue:0.003921569,suffix:pickaxe,world:,dimensions:overworld#
 name:Chest,x:104,z:508,y:80,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
-name:Marketplace,x:168,z:437,y:91,enabled:true,red:0.003921569,green:0.9529412,blue:0.039215688,suffix:,world:,dimensions:overworld#
 name:Ruined House,x:996,z:390,y:81,enabled:true,red:0.07058824,green:0.94509804,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Bridge,x:898,z:418,y:76,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
 name:Bridge,x:936,z:397,y:71,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
@@ -188,3 +185,24 @@ name:Town Hall,x:141,z:453,y:121,enabled:true,red:0.003921569,green:0.9372549,bl
 name:Vanaheim,x:4973,z:4,y:106,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
 name:Bridge,x:1417,z:969,y:83,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
 name:Bridge,x:1545,z:792,y:70,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
+name:Key~colon~ 15001F,x:198,z:-269,y:74,enabled:true,red:0.003921569,green:0.94509804,blue:0.8627451,suffix:key,world:,dimensions:overworld#
+name:Training Area,x:199,z:-274,y:70,enabled:true,red:0.003921569,green:0.95686275,blue:0.85490197,suffix:key,world:,dimensions:overworld#
+name:Kitchen,x:315,z:-173,y:70,enabled:true,red:0.003921569,green:0.9411765,blue:0.84313726,suffix:key,world:,dimensions:overworld#
+name:Supply,x:330,z:-160,y:70,enabled:true,red:0.003921569,green:0.9882353,blue:0.88235295,suffix:key,world:,dimensions:overworld#
+name:Bandit Camp,x:343,z:-63,y:72,enabled:true,red:0.0,green:0.9647059,blue:0.8745098,suffix:key,world:,dimensions:overworld#
+name:Secret Entrance,x:338,z:-66,y:76,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Bandit Cavern,x:353,z:-43,y:64,enabled:true,red:0.0,green:0.98039216,blue:0.87058824,suffix:key,world:,dimensions:overworld#
+name:Supply,x:143,z:456,y:97,enabled:true,red:0.02745098,green:0.972549,blue:0.8901961,suffix:key,world:,dimensions:overworld#
+name:Infested House,x:92,z:540,y:78,enabled:true,red:0.0,green:0.9529412,blue:0.8627451,suffix:key,world:,dimensions:overworld#
+name:Teleportation Temple,x:173,z:635,y:81,enabled:true,red:0.0,green:0.93333334,blue:0.8156863,suffix:key,world:,dimensions:overworld#
+name:Key required,x:223,z:641,y:64,enabled:true,red:0.0,green:0.96862745,blue:0.88235295,suffix:key,world:,dimensions:overworld#
+name:Armory,x:439,z:1275,y:88,enabled:true,red:0.0,green:0.96862745,blue:0.88235295,suffix:key,world:,dimensions:overworld#
+name:Supply,x:423,z:1276,y:90,enabled:true,red:0.0,green:0.96862745,blue:0.88235295,suffix:key,world:,dimensions:overworld#
+name:Chest,x:414,z:1352,y:85,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:400,z:1345,y:85,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:393,z:1344,y:85,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Armory,x:402,z:1348,y:84,enabled:true,red:0.003921569,green:0.95686275,blue:0.85490197,suffix:key,world:,dimensions:overworld#
+name:Barracks,x:408,z:1351,y:83,enabled:true,red:0.0,green:0.9411765,blue:0.8627451,suffix:key,world:,dimensions:overworld#
+name:Chest,x:449,z:1337,y:75,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:435,z:1374,y:78,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Tunnel,x:345,z:1331,y:97,enabled:true,red:0.9529412,green:0.43529412,blue:0.0,suffix:,world:,dimensions:overworld#
