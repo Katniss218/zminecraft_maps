@@ -38,7 +38,7 @@
 							"function": "set_lore",
 							"lore":
 							[
-								{ "italic": false, "text": "This sword has seen its better days.", "color": "blue" },
+								{ "italic": false, "text": ".", "color": "blue" },
 								{ "italic": false, "text": "" },
 								["",{ "italic": false, "text": "Damage", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "6", "color": "yellow", "bold": true },{ "italic": false, "text": " (", "color": "gray" },{ "italic": false, "text": "6", "color": "yellow", "bold": true },{ "italic": false, "text": ")", "color": "gray" }],
 								{ "italic": false, "text": "" }

@@ -12,16 +12,21 @@
 					[
 						{
 							"function": "set_name",
-							"name": { "italic": false, "text": "Golden Apple", "color": "gray", "bold": true }
+							"name": { "italic": false, "text": "Golden Apple", "color": "dark_aqua", "bold": true }
 						},
 						{
 							"function": "set_lore",
 							"lore":
 							[
-								{ "italic": false, "text": "Legends say, whoever eats one, receives.", "color": "white" },
+								{ "italic": false, "text": "- A fresh apple coated in gold. You can feel an", "color": "aqua" },
+								{ "italic": false, "text": "  aura of magical energy surrounding it.", "color": "aqua" },
 								{ "italic": false, "text": "" },
-								["",{ "italic": false, "text": "Food", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "8", "color": "yellow", "bold": true }],
-								{ "italic": false, "text": "" }]
+								["",{ "italic": false, "text": "Food", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "4", "color": "yellow", "bold": true }],
+								{ "italic": false, "text": "" },
+								["",{ "italic": false, "text": "Absorption", "color": "gray", "bold": true },{ "italic": false, "text": " I ", "color": "yellow", "bold": true },{ "italic": false, "text": "(", "color": "gray" },{ "italic": false, "text": "2:00", "color": "yellow", "bold": true },{ "italic": false, "text": ")", "color": "gray" }],
+								["",{ "italic": false, "text": "Regeneration", "color": "gray", "bold": true },{ "italic": false, "text": " II ", "color": "yellow", "bold": true },{ "italic": false, "text": "(", "color": "gray" },{ "italic": false, "text": "0:05", "color": "yellow", "bold": true },{ "italic": false, "text": ")", "color": "gray" }],
+								{ "italic": false, "text": "" }
+							]
 						},
 						{
 							"function": "set_nbt",
@@ -29,7 +34,7 @@
 						},
 						{
 							"function": "set_nbt",
-							"tag": "{ItemId:3000,CustomModelData:3000}"
+							"tag": "{ItemId:39,CustomModelData:39}"
 						}
 					]
 				}

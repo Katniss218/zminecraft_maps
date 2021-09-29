@@ -1,0 +1,39 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:gold_ingot",
+					"functions":
+					[
+						{
+							"function": "set_name",
+							"name": { "italic": false, "text": "Pouch of Coins", "color": "dark_purple", "bold": true, "underlined": true }
+						},
+						{
+							"function": "set_lore",
+							"lore":
+							[
+								["",{ "italic": false, "text": "<> Exactly 81 coins", "color": "dark_purple" }],
+								{ "italic": false, "text": "- Money.", "color": "light_purple" },
+								{ "italic": false, "text": "" }
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{HideFlags:2147483647,Unbreakable:1}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{ItemId:229,CustomModelData:229}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

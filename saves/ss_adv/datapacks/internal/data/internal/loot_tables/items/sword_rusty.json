@@ -45,17 +45,18 @@
 						},
 						{
 							"function": "set_name",
-							"name": { "italic": false, "text": "Sword (rusty)", "color": "gray", "bold": true }
+							"name": { "italic": false, "text": "Rusty Sword", "color": "dark_gray", "bold": true }
 						},
 						{
 							"function": "set_lore",
 							"lore":
 							[
-								{ "italic": false, "text": "This sword has seen its better days.", "color": "white" },
+								{ "italic": false, "text": "- An uneven layer of red rust can be seen covering", "color": "gray" },
+								{ "italic": false, "text": "  the blade of this sword.", "color": "gray" },
 								{ "italic": false, "text": "" },
 								["",{ "italic": false, "text": "Damage", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "6", "color": "yellow", "bold": true },{ "italic": false, "text": " (", "color": "gray" },{ "italic": false, "text": "5", "color": "red", "bold": true },{ "italic": false, "text": ")", "color": "gray" }],
 								{ "italic": false, "text": "" },
-								["",{ "italic": false, "text": "> ", "color": "gray" },{ "italic": false, "text": "Rusty", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "-1 Damage", "color": "red" }]
+								["",{ "italic": false, "text": " ", "color": "gray" },{ "italic": false, "text": "Old: ", "color": "gray" },{ "italic": false, "text": "-1 Damage", "color": "red" }]
 							]
 						},
 						{

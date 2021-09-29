@@ -42,7 +42,8 @@
 								{ "italic": false, "text": "  when you don't want to outright kill your opponent.", "color": "white" },
 								{ "italic": false, "text": "" },
 								["",{ "italic": false, "text": "Damage", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "4", "color": "yellow", "bold": true },{ "italic": false, "text": " (", "color": "gray" },{ "italic": false, "text": "4", "color": "yellow", "bold": true },{ "italic": false, "text": ")", "color": "gray" }],
-								{ "italic": false, "text": "" }]
+								{ "italic": false, "text": "" }
+							]
 						},
 						{
 							"function": "set_nbt",
