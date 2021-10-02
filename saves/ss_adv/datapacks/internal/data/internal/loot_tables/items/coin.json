@@ -28,7 +28,7 @@
 						},
 						{
 							"function": "set_nbt",
-							"tag": "{ItemId:227,CustomModelData:227}"
+							"tag": "{ItemId:227,CustomModelData:227,IsCoin:1b,CoinValue:1}"
 						}
 					]
 				}

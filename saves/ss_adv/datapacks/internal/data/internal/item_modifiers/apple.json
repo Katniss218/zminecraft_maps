@@ -1,0 +1,6 @@
+[
+	{
+		"function": "minecraft:set_name",
+		"name": { "italic": false, "text": "Cooked Chicken", "color": "gray", "bold": true }
+	}
+]
