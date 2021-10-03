@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Maltorn,x:252,z:267,y:77,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Tutorial,x:10032,z:-30,y:81,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:,world:,dimensions:overworld#
+name:Worldspawn,x:10104,z:-57,y:81,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
