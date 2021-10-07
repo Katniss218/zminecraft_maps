@@ -683,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2021-10-05 15:07:13 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-04-06 14:16:45 +0200"
@@ -698,6 +704,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-11-07 12:13:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2021-10-03 15:11:40 +0200"
     },
     "done": true
   },
@@ -1163,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2021-10-03 15:11:40 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-10-31 15:55:14 +0100"
@@ -1283,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:blaze": "2021-10-05 15:07:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2021-09-29 13:20:33 +0200"
@@ -1320,11 +1344,14 @@
       "minecraft:forest": "2020-10-31 09:21:34 +0100",
       "minecraft:mountains": "2020-10-31 09:52:17 +0100",
       "minecraft:taiga": "2020-10-31 10:35:16 +0100",
+      "minecraft:desert_hills": "2021-10-05 20:22:11 +0200",
       "minecraft:taiga_hills": "2020-11-01 21:31:52 +0100",
+      "minecraft:desert": "2021-10-05 20:22:38 +0200",
       "minecraft:jungle": "2020-10-31 11:14:57 +0100",
       "minecraft:birch_forest": "2020-10-31 14:09:38 +0100",
       "minecraft:jungle_hills": "2020-10-31 11:16:21 +0100",
       "minecraft:bamboo_jungle": "2020-11-02 12:37:07 +0100",
+      "minecraft:warm_ocean": "2021-10-05 18:09:15 +0200",
       "minecraft:deep_lukewarm_ocean": "2020-12-01 17:26:48 +0100",
       "minecraft:badlands": "2020-10-31 14:10:07 +0100",
       "minecraft:beach": "2020-10-31 10:33:56 +0100",
@@ -1978,6 +2005,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2020-11-04 16:21:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2021-10-03 15:11:40 +0200"
     },
     "done": true
   },

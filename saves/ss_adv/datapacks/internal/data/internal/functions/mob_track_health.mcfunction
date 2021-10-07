@@ -1,0 +1,1 @@
+execute as @e[tag=mob_track_health] store result score @s npc_health run data get entity @s Health 1

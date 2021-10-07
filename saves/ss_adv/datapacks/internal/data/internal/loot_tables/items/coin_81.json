@@ -18,7 +18,7 @@
 							"function": "set_lore",
 							"lore":
 							[
-								["",{ "italic": false, "text": "<> Exactly 81 coins", "color": "dark_purple" }],
+								["",{ "italic": false, "text": "<> Exactly ₡81", "color": "dark_purple" }],
 								{ "italic": false, "text": "- Money.", "color": "light_purple" },
 								{ "italic": false, "text": "" }
 							]
