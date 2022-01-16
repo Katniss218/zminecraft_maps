@@ -1,0 +1,9 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:121,z:230,y:71,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:Starting Village,x:-226,z:221,y:86,enabled:true,red:0.011764706,green:0.9372549,blue:0.007843138,suffix:house,world:,dimensions:overworld#
+name:Cave,x:-247,z:390,y:75,enabled:true,red:0.9254902,green:0.019607844,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Port and fishing,x:-274,z:186,y:71,enabled:true,red:0.07058824,green:0.95686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Wheat stores,x:-210,z:174,y:82,enabled:true,red:0.0,green:0.96862745,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:x,x:-72,z:-47,y:98,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#

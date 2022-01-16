@@ -1,0 +1,19 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-241,z:246,y:71,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
+name:Round cliff,x:-186,z:172,y:88,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Massive caves,x:-460,z:-94,y:84,enabled:true,red:0.94509804,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Forest edge,x:-306,z:35,y:75,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Big cave system,x:-342,z:88,y:82,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Lake,x:-353,z:20,y:70,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Evil cult,x:-586,z:-271,y:83,enabled:true,red:0.972549,green:0.03137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Something,x:-547,z:124,y:72,enabled:true,red:0.95686275,green:0.90588236,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Tower or something,x:-442,z:-137,y:99,enabled:true,red:0.8862745,green:0.8862745,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ruined houses,x:-485,z:-264,y:93,enabled:true,red:0.9607843,green:0.49803922,blue:0.0,suffix:,world:,dimensions:overworld#
+name:really cool place,x:-469,z:-146,y:102,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Fisherman's hut,x:-612,z:-129,y:80,enabled:true,red:0.043137256,green:0.9843137,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Building,x:-575,z:-145,y:75,enabled:true,red:0.015686275,green:1.0,blue:0.043137256,suffix:,world:,dimensions:overworld#
+name:Large house,x:-511,z:-161,y:94,enabled:true,red:0.043137256,green:0.9843137,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:something here,x:-382,z:-176,y:100,enabled:true,red:0.99215686,green:0.92941177,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:cool spot,x:-355,z:-131,y:100,enabled:true,red:0.8745098,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#

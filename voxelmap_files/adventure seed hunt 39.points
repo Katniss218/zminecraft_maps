@@ -1,0 +1,15 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:149,z:-55,y:71,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
+name:Sphere Cave,x:173,z:377,y:86,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Village,x:-449,z:774,y:91,enabled:true,red:0.003921569,green:0.9372549,blue:0.02745098,suffix:,world:,dimensions:overworld#
+name:House,x:-192,z:416,y:108,enabled:true,red:0.9490196,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Cove,x:-219,z:530,y:107,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Roof,x:-258,z:624,y:92,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Caves,x:-238,z:410,y:93,enabled:true,red:0.9529412,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Lumberjacks,x:-335,z:770,y:79,enabled:true,red:0.95686275,green:0.90588236,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Flat Face,x:-298,z:635,y:124,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Farms,x:-389,z:823,y:81,enabled:true,red:0.039215688,green:0.93333334,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Merchants or something,x:-325,z:524,y:84,enabled:true,red:0.92941177,green:0.8784314,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Flat,x:-174,z:504,y:157,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#

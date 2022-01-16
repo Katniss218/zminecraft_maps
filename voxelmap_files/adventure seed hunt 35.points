@@ -1,0 +1,16 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-95,z:85,y:64,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Hideout,x:-96,z:56,y:74,enabled:true,red:0.9764706,green:0.50980395,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Houses,x:-95,z:41,y:92,enabled:true,red:0.003921569,green:0.99607843,blue:0.050980393,suffix:,world:,dimensions:overworld#
+name:Ruined temple,x:23,z:123,y:76,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Cave system,x:-69,z:101,y:65,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Cave,x:-66,z:73,y:66,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Cave,x:-143,z:105,y:67,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:House,x:-99,z:110,y:79,enabled:true,red:0.07058824,green:0.93333334,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cave,x:-87,z:102,y:66,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:House,x:-60,z:36,y:81,enabled:true,red:0.98039216,green:0.9490196,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Uncharted forest,x:-212,z:53,y:93,enabled:true,red:0.9647059,green:0.47058824,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Settlement,x:-152,z:264,y:107,enabled:true,red:0.0,green:0.8862745,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Fisherman,x:-55,z:190,y:82,enabled:true,red:0.011764706,green:0.9372549,blue:0.007843138,suffix:,world:,dimensions:overworld#

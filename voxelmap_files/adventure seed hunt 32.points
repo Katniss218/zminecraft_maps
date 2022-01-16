@@ -32,7 +32,7 @@ name:Something,x:91,z:708,y:88,enabled:true,red:0.9411765,green:0.43137255,blue:
 name:Semi-Bad area,x:155,z:536,y:87,enabled:true,red:0.9411765,green:0.53333336,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Bad,x:181,z:578,y:86,enabled:true,red:0.9372549,green:0.44313726,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Big Bad's dung,x:139,z:607,y:92,enabled:true,red:0.9490196,green:0.54901963,blue:0.003921569,suffix:,world:,dimensions:overworld#
-name:Something,x:288,z:819,y:83,enabled:true,red:0.8862745,green:0.37254903,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Something,x:288,z:819,y:83,enabled:true,red:0.003921569,green:0.9137255,blue:0.81960785,suffix:,world:,dimensions:overworld#
 name:Something here,x:354,z:865,y:95,enabled:true,red:0.0,green:0.9019608,blue:0.8117647,suffix:,world:,dimensions:overworld#
 name:Cave,x:364,z:775,y:66,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
 name:Something here,x:138,z:889,y:86,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#

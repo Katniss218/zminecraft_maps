@@ -1,0 +1,12 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:10,z:8,y:68,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
+name:Roof mountain,x:187,z:387,y:73,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Spires,x:246,z:397,y:83,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Desert Temple,x:186,z:265,y:80,enabled:true,red:0.92941177,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Village,x:132,z:560,y:87,enabled:true,red:0.003921569,green:0.8980392,blue:0.06666667,suffix:house,world:,dimensions:overworld#
+name:Cave,x:280,z:450,y:81,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Bridge,x:238,z:332,y:68,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Spawner,x:274,z:489,y:87,enabled:true,red:0.9882353,green:0.02745098,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Mage's house,x:206,z:529,y:93,enabled:true,red:0.043137256,green:0.9411765,blue:0.0,suffix:,world:,dimensions:overworld#
