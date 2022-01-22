@@ -243,3 +243,5 @@ name:Chest (H),x:-100,z:565,y:25,enabled:false,red:0.99607843,green:0.99607843,b
 name:Chest,x:-72,z:581,y:10,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:-72,z:562,y:30,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Cave,x:969,z:733,y:75,enabled:true,red:0.99607843,green:0.043137256,blue:0.039215688,suffix:,world:,dimensions:overworld#
+name:Chest,x:476,z:1425,y:68,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:483,z:1419,y:69,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
