@@ -167,7 +167,6 @@ name:Secret Entrance,x:343,z:-63,y:72,enabled:true,red:0.0,green:0.9647059,blue:
 name:Bandit Cavern,x:353,z:-43,y:64,enabled:true,red:0.0,green:0.98039216,blue:0.87058824,suffix:key,world:,dimensions:overworld#
 name:Supply,x:143,z:456,y:97,enabled:true,red:0.02745098,green:0.972549,blue:0.8901961,suffix:key,world:,dimensions:overworld#
 name:Infested House,x:92,z:540,y:78,enabled:true,red:0.0,green:0.9529412,blue:0.8627451,suffix:key,world:,dimensions:overworld#
-name:Teleportation Temple,x:173,z:635,y:81,enabled:true,red:0.0,green:0.93333334,blue:0.8156863,suffix:key,world:,dimensions:overworld#
 name:Key required,x:223,z:641,y:64,enabled:true,red:0.0,green:0.96862745,blue:0.88235295,suffix:key,world:,dimensions:overworld#
 name:Armory,x:439,z:1275,y:88,enabled:true,red:0.0,green:0.96862745,blue:0.88235295,suffix:key,world:,dimensions:overworld#
 name:Supply,x:423,z:1276,y:90,enabled:true,red:0.0,green:0.96862745,blue:0.88235295,suffix:key,world:,dimensions:overworld#
@@ -202,7 +201,6 @@ name:Chest,x:81,z:449,y:106,enabled:false,red:0.99607843,green:0.99607843,blue:0
 name:Chest,x:188,z:589,y:67,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:156,z:589,y:68,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Loot,x:176,z:559,y:65,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
-name:Teleportation Circle,x:173,z:565,y:64,enabled:true,red:0.015686275,green:0.9882353,blue:0.8862745,suffix:gear,world:,dimensions:overworld#
 name:Locked,x:195,z:708,y:84,enabled:true,red:0.0,green:0.99215686,blue:0.8627451,suffix:,world:,dimensions:overworld#
 name:Chest,x:195,z:706,y:83,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:-53,z:527,y:57,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
@@ -245,3 +243,19 @@ name:Chest,x:-72,z:562,y:30,enabled:false,red:0.99607843,green:0.99607843,blue:0
 name:Cave,x:969,z:733,y:75,enabled:true,red:0.99607843,green:0.043137256,blue:0.039215688,suffix:,world:,dimensions:overworld#
 name:Chest,x:476,z:1425,y:68,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:483,z:1419,y:69,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest (H),x:444,z:1267,y:95,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:446,z:1149,y:79,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:580,z:1179,y:84,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Spawner,x:400,z:1137,y:76,enabled:false,red:0.99215686,green:0.03529412,blue:0.03137255,suffix:,world:,dimensions:overworld#
+name:Spawner,x:408,z:1129,y:76,enabled:false,red:0.99215686,green:0.043137256,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Spawner,x:428,z:1128,y:76,enabled:false,red:0.99215686,green:0.011764706,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Spawner,x:429,z:1132,y:75,enabled:false,red:0.9647059,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Spawner,x:425,z:1131,y:74,enabled:false,red:0.99215686,green:0.019607844,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:Spawner,x:440,z:1133,y:73,enabled:false,red:0.99215686,green:0.011764706,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Spawner,x:475,z:1398,y:64,enabled:false,red:0.99215686,green:0.03529412,blue:0.03137255,suffix:,world:,dimensions:overworld#
+name:Spawner,x:467,z:1411,y:65,enabled:false,red:0.99215686,green:0.019607844,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:Chest,x:470,z:1413,y:65,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest (H),x:486,z:1409,y:74,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Coffin,x:332,z:1378,y:83,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Coffin,x:343,z:1383,y:83,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Evelance Forest,x:515,z:1072,y:101,enabled:true,red:0.99607843,green:0.5411765,blue:0.015686275,suffix:,world:,dimensions:overworld#
