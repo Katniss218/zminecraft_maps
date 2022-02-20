@@ -259,3 +259,10 @@ name:Chest (H),x:486,z:1409,y:74,enabled:false,red:0.99607843,green:0.99607843,b
 name:Coffin,x:332,z:1378,y:83,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:Coffin,x:343,z:1383,y:83,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Evelance Forest,x:515,z:1072,y:101,enabled:true,red:0.99607843,green:0.5411765,blue:0.015686275,suffix:,world:,dimensions:overworld#
+name:Spawner,x:456,z:1383,y:12,enabled:false,red:0.99215686,green:0.011764706,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Spawner,x:456,z:1378,y:12,enabled:false,red:0.99215686,green:0.047058824,blue:0.039215688,suffix:,world:,dimensions:overworld#
+name:Spawner,x:462,z:1355,y:12,enabled:false,red:0.99215686,green:0.019607844,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:Spawner,x:438,z:1378,y:22,enabled:false,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Spawner,x:446,z:1383,y:34,enabled:false,red:0.99215686,green:0.015686275,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Chest,x:449,z:1361,y:34,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Key,x:1207,z:919,y:50,enabled:true,red:0.023529412,green:0.99607843,blue:0.8784314,suffix:,world:,dimensions:overworld#

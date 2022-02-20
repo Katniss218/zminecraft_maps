@@ -2,12 +2,17 @@ subworlds:
 oldNorthWorlds:
 seeds:
 name:Willa,x:-260,z:334,y:68,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
-name:Magazyn,x:-261,z:303,y:71,enabled:true,red:0.86503786,green:0.5474796,blue:0.9254632,suffix:,world:,dimensions:overworld#
-name:Szklarnia,x:-237,z:304,y:73,enabled:true,red:0.5005754,green:0.21519864,blue:0.06083256,suffix:,world:,dimensions:overworld#
-name:SPAWN,x:-165,z:256,y:70,enabled:true,red:0.67488,green:0.26389813,blue:0.37010896,suffix:,world:,dimensions:overworld#
-name:Œwi¹tynia,x:-266,z:441,y:86,enabled:true,red:0.89138895,green:0.4124416,blue:0.36660028,suffix:,world:,dimensions:overworld#
-name:Stacja,x:-282,z:408,y:85,enabled:true,red:0.30070555,green:0.19409132,blue:0.22203684,suffix:,world:,dimensions:overworld#
-name:Stacja,x:-369,z:409,y:78,enabled:true,red:0.82625204,green:0.35362196,blue:0.30992544,suffix:,world:,dimensions:overworld#
+name:Magazyn,x:-261,z:303,y:71,enabled:true,red:0.003921569,green:0.9372549,blue:0.06666667,suffix:,world:,dimensions:overworld#
+name:Szklarnia,x:-237,z:304,y:73,enabled:true,red:0.101960786,green:0.9529412,blue:0.0,suffix:,world:,dimensions:overworld#
+name:SPAWN,x:-165,z:256,y:70,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:ÅšwiÄ…tynia,x:-266,z:441,y:86,enabled:true,red:0.003921569,green:0.9529412,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Stacja,x:-282,z:408,y:85,enabled:true,red:0.003921569,green:0.9529412,blue:0.039215688,suffix:,world:,dimensions:overworld#
+name:Stacja,x:-369,z:409,y:78,enabled:true,red:0.0627451,green:0.9098039,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Dom-Spawn,x:-472,z:323,y:72,enabled:true,red:0.040482044,green:0.76751965,blue:0.11813694,suffix:,world:,dimensions:overworld#
-name:Kopalnia,x:-321,z:234,y:68,enabled:true,red:0.8501907,green:0.92560107,blue:0.61000484,suffix:,world:,dimensions:overworld#
-name:Port,x:-297,z:341,y:67,enabled:true,red:0.06809306,green:0.06754255,blue:0.7120196,suffix:,world:,dimensions:overworld#
+name:Kopalnia,x:-321,z:234,y:68,enabled:true,red:0.07058824,green:0.972549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Port,x:-297,z:341,y:67,enabled:true,red:0.03529412,green:0.9607843,blue:0.0,suffix:,world:,dimensions:overworld#
+name:manmade mineshaft,x:-308,z:294,y:36,enabled:true,red:0.0,green:0.96862745,blue:0.85882354,suffix:,world:,dimensions:overworld#
+name:Colorful sheep,x:-311,z:559,y:70,enabled:true,red:0.0,green:0.9254902,blue:0.8509804,suffix:,world:,dimensions:overworld#
+name:nms7(o) sheep farm,x:-115,z:382,y:68,enabled:true,red:0.003921569,green:0.9411765,blue:0.84313726,suffix:,world:,dimensions:overworld#
+name:nms7(o) mushrooms,x:-42,z:379,y:72,enabled:true,red:0.003921569,green:0.95686275,blue:0.85490197,suffix:,world:,dimensions:overworld#
+name:wejscie do mineshafta,x:-305,z:259,y:29,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:,world:,dimensions:overworld#
