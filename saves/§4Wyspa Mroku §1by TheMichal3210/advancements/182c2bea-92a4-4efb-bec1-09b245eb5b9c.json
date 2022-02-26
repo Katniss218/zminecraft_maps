@@ -1,0 +1,37 @@
+{
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2022-02-26 13:36:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2022-02-26 13:36:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2022-02-26 13:36:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_mountains": "2022-02-26 13:25:39 +0100",
+      "minecraft:forest": "2022-02-26 13:18:37 +0100",
+      "minecraft:mountains": "2022-02-26 13:18:18 +0100",
+      "minecraft:taiga_hills": "2022-02-26 13:40:04 +0100",
+      "minecraft:desert": "2022-02-26 13:41:51 +0100",
+      "minecraft:beach": "2022-02-26 13:18:36 +0100",
+      "minecraft:river": "2022-02-26 13:18:30 +0100",
+      "minecraft:wooded_mountains": "2022-02-26 13:18:32 +0100",
+      "minecraft:wooded_hills": "2022-02-26 13:19:17 +0100",
+      "minecraft:stone_shore": "2022-02-26 13:18:26 +0100",
+      "minecraft:plains": "2022-02-26 13:19:13 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}

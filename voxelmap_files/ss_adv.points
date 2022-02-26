@@ -266,3 +266,5 @@ name:Spawner,x:438,z:1378,y:22,enabled:false,red:0.99607843,green:0.007843138,bl
 name:Spawner,x:446,z:1383,y:34,enabled:false,red:0.99215686,green:0.015686275,blue:0.011764706,suffix:,world:,dimensions:overworld#
 name:Chest,x:449,z:1361,y:34,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Key,x:1207,z:919,y:50,enabled:true,red:0.023529412,green:0.99607843,blue:0.8784314,suffix:,world:,dimensions:overworld#
+name:Chest,x:728,z:932,y:77,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:733,z:933,y:59,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
