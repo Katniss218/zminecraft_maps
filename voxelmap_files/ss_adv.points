@@ -103,9 +103,6 @@ name:Chest,x:105,z:514,y:79,enabled:false,red:0.99215686,green:0.99607843,blue:0
 name:Warehouse,x:103,z:509,y:87,enabled:true,red:0.039215688,green:0.972549,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Cave,x:202,z:419,y:78,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
 name:Chest,x:104,z:508,y:80,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
-name:Ruined House,x:996,z:390,y:81,enabled:true,red:0.07058824,green:0.94509804,blue:0.003921569,suffix:,world:,dimensions:overworld#
-name:Bridge,x:898,z:418,y:76,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
-name:Bridge,x:936,z:397,y:71,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
 name:Something here,x:1176,z:853,y:64,enabled:true,red:0.9529412,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Something here,x:1286,z:920,y:88,enabled:true,red:0.98039216,green:0.4509804,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Prison Tower,x:1366,z:942,y:113,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
@@ -268,3 +265,7 @@ name:Chest,x:449,z:1361,y:34,enabled:false,red:0.99607843,green:0.99607843,blue:
 name:Key,x:1207,z:919,y:50,enabled:true,red:0.023529412,green:0.99607843,blue:0.8784314,suffix:,world:,dimensions:overworld#
 name:Chest,x:728,z:932,y:77,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:733,z:933,y:59,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1078,z:379,y:70,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:979,z:467,y:44,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Key,x:954,z:431,y:50,enabled:true,red:0.03529412,green:0.91764706,blue:0.90588236,suffix:key,world:,dimensions:overworld#
+name:Bloody Abomination,x:976,z:408,y:47,enabled:true,red:0.99215686,green:0.03529412,blue:0.015686275,suffix:,world:,dimensions:overworld#
