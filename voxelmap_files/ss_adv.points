@@ -94,7 +94,7 @@ name:Coffin,x:446,z:-171,y:78,enabled:false,red:0.99215686,green:0.99607843,blue
 name:Mosswich,x:161,z:137,y:95,enabled:true,red:0.011764706,green:0.99607843,blue:0.015686275,suffix:house,world:,dimensions:overworld#
 name:Fisherman's Hut,x:166,z:186,y:79,enabled:true,red:0.105882354,green:0.9882353,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Ridgewood,x:103,z:168,y:90,enabled:true,red:0.09803922,green:0.96862745,blue:0.0,suffix:house,world:,dimensions:overworld#
-name:Great Library,x:94,z:466,y:120,enabled:true,red:0.9843137,green:0.49411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Great Library,x:94,z:466,y:120,enabled:true,red:0.99215686,green:0.4862745,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Mages,x:187,z:692,y:84,enabled:true,red:0.09803922,green:0.96862745,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Cave1,x:143,z:122,y:69,enabled:true,red:0.9764706,green:0.52156866,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Cave2,x:136,z:129,y:68,enabled:true,red:0.99607843,green:0.49019608,blue:0.03137255,suffix:,world:,dimensions:overworld#
@@ -269,3 +269,7 @@ name:Chest,x:1078,z:379,y:70,enabled:false,red:0.99607843,green:0.99607843,blue:
 name:Chest,x:979,z:467,y:44,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Key,x:954,z:431,y:50,enabled:true,red:0.03529412,green:0.91764706,blue:0.90588236,suffix:key,world:,dimensions:overworld#
 name:Bloody Abomination,x:976,z:408,y:47,enabled:true,red:0.99215686,green:0.03529412,blue:0.015686275,suffix:,world:,dimensions:overworld#
+name:Chest,x:376,z:-58,y:63,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:373,z:-60,y:65,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Caves,x:62,z:475,y:90,enabled:true,red:0.99607843,green:0.42352942,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:dungeon 2,x:-6,z:628,y:84,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
