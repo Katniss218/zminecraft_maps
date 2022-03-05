@@ -1,0 +1,2 @@
+
+tellraw @a ["",{"text":"Katniss's Puzzle Pack","bold":true,"color":"gold"},{"text":" v1.0","color":"yellow","bold":true},{"text":" > ","color":"dark_gray"},{"text":"Loaded!","color":"green","bold":true}]

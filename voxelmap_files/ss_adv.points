@@ -26,7 +26,6 @@ name:Old King's Castle (ruins),x:1312,z:933,y:127,enabled:true,red:0.9490196,gre
 name:Old King's City (ruins),x:1405,z:895,y:113,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:house,world:,dimensions:overworld#
 name:Lumberjacks and Refugees,x:1482,z:965,y:83,enabled:true,red:0.07058824,green:0.94509804,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Water Mill,x:1556,z:808,y:78,enabled:true,red:0.9490196,green:0.92156863,blue:0.003921569,suffix:wheat,world:,dimensions:overworld#
-name:Temple,x:1225,z:894,y:84,enabled:true,red:0.003921569,green:0.9529412,blue:0.8901961,suffix:,world:,dimensions:overworld#
 name:Dwarven Ruins,x:1097,z:851,y:96,enabled:true,red:0.99607843,green:0.5803922,blue:0.015686275,suffix:,world:,dimensions:overworld#
 name:Bridge,x:911,z:832,y:87,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
 name:Iron Mine,x:387,z:1202,y:90,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:pickaxe,world:,dimensions:overworld#
@@ -277,3 +276,16 @@ name:lever,x:-58,z:550,y:21,enabled:false,red:0.0,green:0.9607843,blue:0.8823529
 name:Lever,x:-12,z:569,y:23,enabled:false,red:0.015686275,green:0.9882353,blue:0.8862745,suffix:,world:,dimensions:overworld#
 name:Lever,x:-97,z:546,y:20,enabled:false,red:0.07450981,green:0.972549,blue:0.8980392,suffix:,world:,dimensions:overworld#
 name:Lever,x:-72,z:553,y:28,enabled:false,red:0.03137255,green:0.99607843,blue:0.8745098,suffix:,world:,dimensions:overworld#
+name:Temple,x:1199,z:896,y:76,enabled:true,red:0.003921569,green:0.972549,blue:0.8862745,suffix:,world:,dimensions:overworld#
+name:Chest,x:1147,z:854,y:54,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1133,z:848,y:54,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1133,z:849,y:56,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:x,x:1168,z:847,y:56,enabled:true,red:0.03137255,green:0.99607843,blue:0.8745098,suffix:,world:,dimensions:overworld#
+name:Divine Forge,x:1057,z:907,y:26,enabled:true,red:0.011764706,green:0.9411765,blue:0.7764706,suffix:,world:,dimensions:overworld#
+name:Spawner,x:1160,z:848,y:54,enabled:false,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Spawner,x:1137,z:854,y:53,enabled:false,red:0.99215686,green:0.03137255,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Spawner,x:1142,z:854,y:53,enabled:false,red:0.99215686,green:0.019607844,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:Chest,x:1051,z:954,y:33,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1060,z:954,y:33,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1038,z:927,y:26,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Spawner,x:1106,z:918,y:41,enabled:false,red:0.99215686,green:0.03529412,blue:0.03137255,suffix:,world:,dimensions:overworld#
