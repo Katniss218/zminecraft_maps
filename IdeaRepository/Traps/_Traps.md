@@ -17,7 +17,7 @@ In a broader meaning, they can be considered to also be "looming" ominous parts 
 ## Ominous traps:
 
 **Spawner**
-- Spawners should be scary and dangerous to be around for periods of time.
+- 
 
 **Fireball barrage**
 - Periodically spawning fireballs that explode on impact.

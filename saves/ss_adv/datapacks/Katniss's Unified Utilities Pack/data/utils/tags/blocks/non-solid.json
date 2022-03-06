@@ -1,0 +1,26 @@
+{
+	"values":[
+		"#utils:air",
+		"#utils:plants",
+		"#utils:pressure_plates",
+		"#utils:torches",
+		"#utils:fluids",
+		
+		"#minecraft:banners",
+		"#minecraft:rails",
+		"#minecraft:saplings",
+		"#minecraft:buttons",
+		"#minecraft:carpets",
+		"#minecraft:candles",
+		
+		"minecraft:snow",
+		"minecraft:daylight_detector",
+		"minecraft:tripwire_hook",
+		"minecraft:lever",
+		"minecraft:repeater",
+		"minecraft:comparator",
+		"minecraft:redstone_wire",
+		"minecraft:cobweb",
+		"minecraft:bamboo_sapling"
+	]
+}

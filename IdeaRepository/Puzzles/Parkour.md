@@ -7,5 +7,7 @@
 -
 
 **Having to figure out where to go (non-obvious paths).**
-- x
+- Walls
+- Maze-like surroundings
+- False paths
 

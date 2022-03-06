@@ -1,0 +1,10 @@
+{
+	"values":[
+		"#utils:non-solid",
+		"#utils:colors/glass",
+		"#minecraft:leaves",
+		"minecraft:glowstone",
+		"minecraft:sea_lantern",
+		"minecraft:piston_head"
+	]
+}

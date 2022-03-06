@@ -21,6 +21,8 @@ Move an enemy towards a pressure plate.
 - Possibly in a maze
 
 
+**decoys**
+
 **Key Locks**
 - You need to figure out how to unlock it.
 - User feedback.
