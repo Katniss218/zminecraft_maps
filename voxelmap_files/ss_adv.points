@@ -38,7 +38,6 @@ name:Hermit's Hut (ruins),x:601,z:1302,y:87,enabled:true,red:0.09803922,green:0.
 name:Cloudy Mountains Gate,x:911,z:645,y:95,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
 name:Cerberus' Castle,x:327,z:1314,y:129,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
 name:Black Horde garrison,x:435,z:1287,y:89,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
-name:housing,x:476,z:1312,y:86,enabled:true,red:0.9529412,green:0.4745098,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Mordred's Scouting Towers,x:654,z:1136,y:131,enabled:true,red:0.9529412,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Black Market,x:89,z:91,y:66,enabled:true,red:0.91764706,green:0.8862745,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Items,x:225,z:-267,y:53,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
@@ -105,8 +104,6 @@ name:Chest,x:104,z:508,y:80,enabled:false,red:0.99215686,green:0.99215686,blue:0
 name:Something here,x:1176,z:853,y:64,enabled:true,red:0.9529412,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Something here,x:1286,z:920,y:88,enabled:true,red:0.98039216,green:0.4509804,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Prison Tower,x:1366,z:942,y:113,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
-name:Bridge,x:548,z:1231,y:77,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
-name:Bridge,x:481,z:1205,y:91,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
 name:Cerberus' Keep,x:328,z:1276,y:125,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:hideout,x:224,z:632,y:64,enabled:true,red:0.95686275,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Pier,x:382,z:676,y:73,enabled:true,red:0.0,green:0.92156863,blue:0.08235294,suffix:,world:,dimensions:overworld#
@@ -116,9 +113,6 @@ name:Building here,x:187,z:-8,y:88,enabled:true,red:0.9490196,green:0.92156863,b
 name:Cave,x:829,z:1152,y:96,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
 name:Bandits,x:850,z:1154,y:94,enabled:true,red:0.9647059,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Something valuable here,x:886,z:1150,y:101,enabled:true,red:0.0,green:0.9254902,blue:0.8,suffix:,world:,dimensions:overworld#
-name:Bridge,x:659,z:1218,y:84,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
-name:Bridge,x:717,z:1179,y:75,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
-name:Bridge,x:327,z:1351,y:100,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
 name:Demolished Gate,x:861,z:971,y:94,enabled:true,red:0.13333334,green:0.13333334,blue:0.13333334,suffix:,world:,dimensions:overworld#
 name:House,x:983,z:695,y:98,enabled:true,red:0.03529412,green:0.9490196,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Gold Mine,x:775,z:936,y:98,enabled:true,red:0.9529412,green:0.54509807,blue:0.0,suffix:pickaxe,world:,dimensions:overworld#
@@ -164,19 +158,19 @@ name:Bandit Cavern,x:353,z:-43,y:64,enabled:true,red:0.0,green:0.98039216,blue:0
 name:Supply,x:143,z:456,y:97,enabled:true,red:0.02745098,green:0.972549,blue:0.8901961,suffix:key,world:,dimensions:overworld#
 name:Infested House,x:92,z:540,y:78,enabled:true,red:0.0,green:0.9529412,blue:0.8627451,suffix:key,world:,dimensions:overworld#
 name:Key required,x:223,z:641,y:64,enabled:true,red:0.0,green:0.96862745,blue:0.88235295,suffix:key,world:,dimensions:overworld#
-name:Armory,x:439,z:1275,y:88,enabled:true,red:0.0,green:0.96862745,blue:0.88235295,suffix:key,world:,dimensions:overworld#
-name:Supply,x:423,z:1276,y:90,enabled:true,red:0.0,green:0.96862745,blue:0.88235295,suffix:key,world:,dimensions:overworld#
+name:Armory,x:439,z:1275,y:88,enabled:false,red:0.0,green:0.96862745,blue:0.88235295,suffix:key,world:,dimensions:overworld#
+name:Supply,x:423,z:1276,y:90,enabled:false,red:0.0,green:0.96862745,blue:0.88235295,suffix:key,world:,dimensions:overworld#
 name:Chest,x:414,z:1352,y:85,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:400,z:1345,y:85,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:393,z:1344,y:85,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
-name:Armory,x:402,z:1348,y:84,enabled:true,red:0.003921569,green:0.95686275,blue:0.85490197,suffix:key,world:,dimensions:overworld#
-name:Barracks,x:408,z:1351,y:83,enabled:true,red:0.0,green:0.9411765,blue:0.8627451,suffix:key,world:,dimensions:overworld#
+name:Armory,x:402,z:1348,y:84,enabled:false,red:0.003921569,green:0.95686275,blue:0.85490197,suffix:key,world:,dimensions:overworld#
+name:Barracks,x:408,z:1351,y:83,enabled:false,red:0.0,green:0.9411765,blue:0.8627451,suffix:key,world:,dimensions:overworld#
 name:Chest,x:449,z:1337,y:75,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:435,z:1374,y:78,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:Tunnel,x:345,z:1331,y:97,enabled:true,red:0.9529412,green:0.43529412,blue:0.0,suffix:,world:,dimensions:overworld#
-name:Locked,x:310,z:1348,y:98,enabled:true,red:0.0,green:0.9843137,blue:0.8745098,suffix:key,world:,dimensions:overworld#
-name:Locked,x:345,z:1339,y:97,enabled:true,red:0.03529412,green:0.9882353,blue:0.8862745,suffix:key,world:,dimensions:overworld#
-name:Supply,x:370,z:1309,y:93,enabled:true,red:0.003921569,green:0.972549,blue:0.8901961,suffix:key,world:,dimensions:overworld#
+name:Locked,x:310,z:1348,y:98,enabled:false,red:0.0,green:0.9843137,blue:0.8745098,suffix:key,world:,dimensions:overworld#
+name:Locked,x:345,z:1339,y:97,enabled:false,red:0.03529412,green:0.9882353,blue:0.8862745,suffix:key,world:,dimensions:overworld#
+name:Supply,x:370,z:1309,y:93,enabled:false,red:0.003921569,green:0.972549,blue:0.8901961,suffix:key,world:,dimensions:overworld#
 name:Chest,x:481,z:1314,y:83,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest (E),x:473,z:-42,y:73,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Hidden Secret,x:473,z:-45,y:71,enabled:true,red:0.0,green:0.9843137,blue:0.8745098,suffix:key,world:,dimensions:overworld#
@@ -187,7 +181,7 @@ name:Chest,x:246,z:-245,y:71,enabled:false,red:0.99607843,green:0.99607843,blue:
 name:A2,x:209,z:-257,y:72,enabled:true,red:0.0,green:0.9529412,blue:0.8627451,suffix:key,world:,dimensions:overworld#
 name:A1,x:215,z:-258,y:72,enabled:true,red:0.003921569,green:0.99607843,blue:0.84313726,suffix:key,world:,dimensions:overworld#
 name:Chest (T),x:176,z:-278,y:72,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:gear,world:,dimensions:overworld#
-name:Locked,x:338,z:1365,y:82,enabled:true,red:0.007843138,green:0.9529412,blue:0.78431374,suffix:key,world:,dimensions:overworld#
+name:Locked,x:338,z:1365,y:82,enabled:false,red:0.007843138,green:0.9529412,blue:0.78431374,suffix:key,world:,dimensions:overworld#
 name:Quarry 3,x:-37,z:514,y:79,enabled:true,red:0.99607843,green:0.9411765,blue:0.003921569,suffix:pickaxe,world:,dimensions:overworld#
 name:Quarry 2,x:-45,z:542,y:83,enabled:true,red:0.9529412,green:0.90588236,blue:0.0,suffix:pickaxe,world:,dimensions:overworld#
 name:Quarry 1,x:2,z:526,y:82,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:pickaxe,world:,dimensions:overworld#
@@ -212,7 +206,7 @@ name:Bandit Outpost,x:281,z:338,y:72,enabled:true,red:0.9843137,green:0.00392156
 name:Chest,x:233,z:705,y:64,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:643,z:1134,y:75,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Mordred's Keep,x:649,z:1186,y:83,enabled:true,red:0.007843138,green:0.9882353,blue:0.88235295,suffix:key,world:,dimensions:overworld#
-name:key required,x:618,z:1180,y:85,enabled:true,red:0.02745098,green:0.99607843,blue:0.8509804,suffix:key,world:,dimensions:overworld#
+name:key required,x:618,z:1180,y:85,enabled:false,red:0.02745098,green:0.99607843,blue:0.8509804,suffix:key,world:,dimensions:overworld#
 name:Chest,x:632,z:1187,y:87,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:655,z:1177,y:81,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Door Lever,x:649,z:1186,y:91,enabled:true,red:0.0,green:0.9529412,blue:0.8627451,suffix:,world:,dimensions:overworld#
@@ -289,3 +283,7 @@ name:Chest,x:1051,z:954,y:33,enabled:false,red:0.99215686,green:0.99215686,blue:
 name:Chest,x:1060,z:954,y:33,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:1038,z:927,y:26,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Spawner,x:1106,z:918,y:41,enabled:false,red:0.99215686,green:0.03529412,blue:0.03137255,suffix:,world:,dimensions:overworld#
+name:Chest,x:1118,z:882,y:44,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Portal room,x:214,z:1280,y:118,enabled:true,red:0.88666475,green:0.035520017,blue:0.34311795,suffix:,world:,dimensions:overworld#
+name:Loot,x:330,z:1281,y:121,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Coffin,x:321,z:1311,y:111,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
