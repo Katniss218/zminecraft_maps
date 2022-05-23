@@ -124,7 +124,6 @@ name:Hideout,x:657,z:480,y:103,enabled:true,red:0.9843137,green:0.003921569,blue
 name:Prison,x:926,z:571,y:90,enabled:true,red:0.9490196,green:0.4392157,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Ruined Tower,x:919,z:555,y:112,enabled:true,red:0.94509804,green:0.91764706,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Iron Mine (ruins),x:826,z:1202,y:101,enabled:true,red:0.95686275,green:0.90588236,blue:0.007843138,suffix:pickaxe,world:,dimensions:overworld#
-name:Chest,x:1312,z:958,y:116,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:1307,z:971,y:116,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:1321,z:929,y:110,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:1318,z:940,y:104,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
@@ -287,3 +286,6 @@ name:Chest,x:1118,z:882,y:44,enabled:false,red:0.99607843,green:0.99607843,blue:
 name:Portal room,x:214,z:1280,y:118,enabled:true,red:0.88666475,green:0.035520017,blue:0.34311795,suffix:,world:,dimensions:overworld#
 name:Loot,x:330,z:1281,y:121,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:Coffin,x:321,z:1311,y:111,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Teleport,x:1356,z:831,y:79,enabled:true,red:0.019607844,green:0.99215686,blue:0.8901961,suffix:,world:,dimensions:overworld#
+name:Chest,x:1300,z:963,y:121,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:4,z:465,y:93,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
