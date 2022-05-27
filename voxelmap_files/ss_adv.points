@@ -221,7 +221,6 @@ name:Chest,x:308,z:324,y:66,enabled:false,red:0.99607843,green:0.99607843,blue:0
 name:Cave,x:29,z:66,y:68,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
 name:Ruins - Skoll,x:500,z:-416,y:87,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Coffin,x:503,z:-336,y:74,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
-name:Altar,x:489,z:-388,y:87,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Chest,x:526,z:-386,y:68,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest (H),x:499,z:-406,y:59,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Dungeon,x:-90,z:525,y:34,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
@@ -289,3 +288,7 @@ name:Coffin,x:321,z:1311,y:111,enabled:false,red:0.99607843,green:0.99607843,blu
 name:Teleport,x:1356,z:831,y:79,enabled:true,red:0.019607844,green:0.99215686,blue:0.8901961,suffix:,world:,dimensions:overworld#
 name:Chest,x:1300,z:963,y:121,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:4,z:465,y:93,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:51,z:479,y:102,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:53,z:478,y:96,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:578,z:-463,y:75,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:471,z:-351,y:90,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
