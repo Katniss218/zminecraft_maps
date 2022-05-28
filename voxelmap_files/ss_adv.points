@@ -264,10 +264,10 @@ name:Chest,x:376,z:-58,y:63,enabled:false,red:0.99607843,green:0.99607843,blue:0
 name:Chest,x:373,z:-60,y:65,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Caves,x:62,z:475,y:90,enabled:true,red:0.99607843,green:0.42352942,blue:0.011764706,suffix:,world:,dimensions:overworld#
 name:dungeon 2,x:-6,z:628,y:84,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
-name:lever,x:-58,z:550,y:21,enabled:false,red:0.0,green:0.9607843,blue:0.88235295,suffix:,world:,dimensions:overworld#
-name:Lever,x:-12,z:569,y:23,enabled:false,red:0.015686275,green:0.9882353,blue:0.8862745,suffix:,world:,dimensions:overworld#
-name:Lever,x:-97,z:546,y:20,enabled:false,red:0.07450981,green:0.972549,blue:0.8980392,suffix:,world:,dimensions:overworld#
-name:Lever,x:-72,z:553,y:28,enabled:false,red:0.03137255,green:0.99607843,blue:0.8745098,suffix:,world:,dimensions:overworld#
+name:17 Lever,x:-58,z:550,y:21,enabled:false,red:0.0,green:0.9607843,blue:0.88235295,suffix:,world:,dimensions:overworld#
+name:17 Lever (boss),x:-12,z:569,y:23,enabled:false,red:0.015686275,green:0.9882353,blue:0.8862745,suffix:,world:,dimensions:overworld#
+name:17 Lever,x:-97,z:546,y:20,enabled:false,red:0.07450981,green:0.972549,blue:0.8980392,suffix:,world:,dimensions:overworld#
+name:17 Lever,x:-72,z:553,y:28,enabled:false,red:0.03137255,green:0.99607843,blue:0.8745098,suffix:,world:,dimensions:overworld#
 name:Temple,x:1199,z:896,y:76,enabled:true,red:0.003921569,green:0.972549,blue:0.8862745,suffix:,world:,dimensions:overworld#
 name:Chest,x:1147,z:854,y:54,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:1133,z:848,y:54,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
@@ -292,3 +292,8 @@ name:Chest,x:51,z:479,y:102,enabled:false,red:0.99215686,green:0.99607843,blue:0
 name:Chest,x:53,z:478,y:96,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:578,z:-463,y:75,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:471,z:-351,y:90,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:-- Lever,x:-89,z:532,y:21,enabled:false,red:0.007843138,green:0.99607843,blue:0.87058824,suffix:,world:,dimensions:overworld#
+name:17 Lever,x:-73,z:583,y:19,enabled:false,red:0.08235294,green:0.9882353,blue:0.8980392,suffix:,world:,dimensions:overworld#
+name:Chest,x:-95,z:562,y:33,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:17 Lever,x:-70,z:541,y:31,enabled:false,red:0.003921569,green:0.9529412,blue:0.8901961,suffix:,world:,dimensions:overworld#
+name:Chest (H),x:161,z:717,y:64,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
