@@ -146,7 +146,6 @@ name:Hermit,x:122,z:286,y:79,enabled:true,red:0.007843138,green:0.95686275,blue:
 name:Farm,x:149,z:587,y:86,enabled:true,red:0.101960786,green:0.9647059,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Residential,x:139,z:514,y:93,enabled:true,red:0.03137255,green:0.91764706,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Vanaheim,x:4973,z:4,y:106,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
-name:Bridge,x:1417,z:969,y:83,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
 name:Bridge,x:1545,z:792,y:70,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
 name:Key~colon~ 15001F,x:198,z:-269,y:74,enabled:true,red:0.003921569,green:0.94509804,blue:0.8627451,suffix:key,world:,dimensions:overworld#
 name:Training Area,x:199,z:-274,y:70,enabled:true,red:0.003921569,green:0.95686275,blue:0.85490197,suffix:key,world:,dimensions:overworld#
@@ -297,3 +296,5 @@ name:17 Lever,x:-73,z:583,y:19,enabled:false,red:0.08235294,green:0.9882353,blue
 name:Chest,x:-95,z:562,y:33,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:17 Lever,x:-70,z:541,y:31,enabled:false,red:0.003921569,green:0.9529412,blue:0.8901961,suffix:,world:,dimensions:overworld#
 name:Chest (H),x:161,z:717,y:64,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1078,z:844,y:100,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1084,z:834,y:100,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
