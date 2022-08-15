@@ -281,7 +281,6 @@ name:Chest,x:1060,z:954,y:33,enabled:false,red:0.99215686,green:0.99607843,blue:
 name:Chest,x:1038,z:927,y:26,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Spawner,x:1106,z:918,y:41,enabled:false,red:0.99215686,green:0.03529412,blue:0.03137255,suffix:,world:,dimensions:overworld#
 name:Chest,x:1118,z:882,y:44,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
-name:Portal room,x:214,z:1280,y:118,enabled:true,red:0.88666475,green:0.035520017,blue:0.34311795,suffix:,world:,dimensions:overworld#
 name:Loot,x:330,z:1281,y:121,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:Coffin,x:321,z:1311,y:111,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Teleport,x:1356,z:831,y:79,enabled:true,red:0.019607844,green:0.99215686,blue:0.8901961,suffix:,world:,dimensions:overworld#
@@ -298,3 +297,9 @@ name:17 Lever,x:-70,z:541,y:31,enabled:false,red:0.003921569,green:0.9529412,blu
 name:Chest (H),x:161,z:717,y:64,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:1078,z:844,y:100,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:1084,z:834,y:100,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1059,z:860,y:97,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:1061,z:870,y:98,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Vanaheim Portal,x:183,z:1290,y:101,enabled:true,red:0.99215686,green:0.019607844,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:Portal Out,x:4871,z:334,y:71,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:puzzle island,x:4976,z:300,y:99,enabled:true,red:0.040159047,green:0.35916257,blue:0.5148567,suffix:,world:,dimensions:overworld#
+name:The great gate,x:5100,z:218,y:90,enabled:true,red:0.972549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
