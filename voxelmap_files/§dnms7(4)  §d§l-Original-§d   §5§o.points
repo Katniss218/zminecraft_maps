@@ -4,3 +4,6 @@ seeds:
 name:>> BAZA <<,x:166,z:719,y:89,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
 name:>> SPAWN <<,x:162,z:-38,y:73,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:world,world:,dimensions:overworld#
 name:>> TWIERDZA <<,x:504,z:2216,y:62,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
+name:Zombie Spawner,x:208,z:735,y:19,enabled:true,red:0.99215686,green:0.015686275,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Skeleton Spawner,x:153,z:714,y:71,enabled:true,red:0.9882353,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Sisters,x:-282,z:410,y:91,enabled:true,red:0.007843138,green:0.98039216,blue:0.011764706,suffix:,world:,dimensions:overworld#
