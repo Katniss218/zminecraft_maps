@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-4,z:1,y:74,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
+name:stone shore,x:279,z:761,y:131,enabled:true,red:0.6313726,green:0.6313726,blue:0.6313726,suffix:,world:,dimensions:overworld#
+name:cool cave,x:62,z:229,y:44,enabled:true,red:0.6392157,green:0.6392157,blue:0.6392157,suffix:,world:,dimensions:overworld#

@@ -1,0 +1,22 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-50,z:-21,y:75,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:cool,x:-150,z:10,y:74,enabled:true,red:0.6156863,green:0.6156863,blue:0.6156863,suffix:,world:,dimensions:overworld#
+name:cool,x:-270,z:-186,y:-17,enabled:true,red:0.7682722,green:0.19403267,blue:0.51934916,suffix:,world:,dimensions:overworld#
+name:interesting,x:-754,z:221,y:152,enabled:true,red:0.6039216,green:0.6039216,blue:0.6039216,suffix:,world:,dimensions:overworld#
+name:cave river,x:612,z:111,y:76,enabled:true,red:0.6117647,green:0.6117647,blue:0.6117647,suffix:,world:,dimensions:overworld#
+name:very cool cave!,x:-113,z:-471,y:55,enabled:true,red:0.6039216,green:0.6039216,blue:0.6039216,suffix:,world:,dimensions:overworld#
+name:cool,x:-61,z:-548,y:18,enabled:true,red:0.6,green:0.6,blue:0.6,suffix:,world:,dimensions:overworld#
+name:cool area,x:-95,z:-442,y:100,enabled:true,red:0.007843138,green:0.9882353,blue:0.88235295,suffix:,world:,dimensions:overworld#
+name:awesome massive cave,x:274,z:-511,y:28,enabled:true,red:0.019607844,green:0.99215686,blue:0.8901961,suffix:,world:,dimensions:overworld#
+name:waterfall,x:32,z:645,y:65,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:stripe jungle,x:753,z:86,y:94,enabled:true,red:0.6313726,green:0.6313726,blue:0.6313726,suffix:,world:,dimensions:overworld#
+name:cool mine,x:199,z:-377,y:44,enabled:true,red:0.6039216,green:0.6039216,blue:0.6039216,suffix:,world:,dimensions:overworld#
+name:Lump,x:-510,z:-4,y:80,enabled:true,red:0.5568628,green:0.5568628,blue:0.5568628,suffix:,world:,dimensions:overworld#
+name:Cliffs,x:-744,z:-62,y:93,enabled:true,red:0.6313726,green:0.6313726,blue:0.6313726,suffix:,world:,dimensions:overworld#
+name:very cool monolith,x:-1497,z:494,y:158,enabled:true,red:0.039215688,green:0.99607843,blue:0.8509804,suffix:,world:,dimensions:overworld#
+name:cool floral,x:-674,z:1083,y:96,enabled:true,red:0.6117647,green:0.6117647,blue:0.6117647,suffix:,world:,dimensions:overworld#
+name:giant floral,x:-218,z:843,y:50,enabled:true,red:0.0,green:0.9843137,blue:0.8509804,suffix:,world:,dimensions:overworld#
+name:overhang,x:112,z:-226,y:53,enabled:true,red:0.18431373,green:0.9882353,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:RavineX,x:184,z:-226,y:73,enabled:true,red:0.003921569,green:0.95686275,blue:0.11372549,suffix:,world:,dimensions:overworld#
