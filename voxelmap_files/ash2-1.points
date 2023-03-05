@@ -36,3 +36,4 @@ name:Keyroom,x:-86,z:-259,y:112,enabled:true,red:0.99215686,green:0.03137255,blu
 name:Trapped Chest,x:-92,z:-303,y:164,enabled:true,red:0.8156863,green:0.81960785,blue:0.8156863,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:-104,z:-278,y:169,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:Library,x:-104,z:-297,y:174,enabled:true,red:0.9607843,green:0.9607843,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Chest,x:-108,z:-294,y:173,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
