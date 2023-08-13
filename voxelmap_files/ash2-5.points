@@ -1,0 +1,14 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:SPAWN,x:16,z:14,y:62,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Starting House,x:35,z:22,y:66,enabled:true,red:0.9372549,green:0.9137255,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Bandit Camp,x:125,z:2,y:81,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Hanging Town,x:-123,z:160,y:44,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:The Dam,x:-28,z:187,y:69,enabled:true,red:0.9529412,green:0.90588236,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Smaller Dam,x:-10,z:221,y:68,enabled:true,red:0.9490196,green:0.9529412,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Overhangs,x:206,z:140,y:65,enabled:true,red:0.60784316,green:0.60784316,blue:0.60784316,suffix:,world:,dimensions:overworld#
+name:Mine,x:-118,z:17,y:57,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Cave,x:65,z:7,y:48,enabled:true,red:0.91764706,green:0.92156863,blue:0.0,suffix:,world:,dimensions:overworld#
+name:House with bandit problem,x:72,z:18,y:74,enabled:true,red:0.9764706,green:0.36862746,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Shed with items,x:40,z:4,y:64,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:,world:,dimensions:overworld#
