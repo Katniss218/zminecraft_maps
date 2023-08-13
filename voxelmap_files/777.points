@@ -1,0 +1,10 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Cool Mountain,x:142,z:76,y:110,enabled:true,red:0.5529412,green:0.5529412,blue:0.5529412,suffix:,world:,dimensions:overworld#
+name:Cool cave,x:-560,z:15,y:44,enabled:true,red:0.29803923,green:0.29803923,blue:0.29803923,suffix:,world:,dimensions:overworld#
+name:Large Beach,x:-38,z:320,y:70,enabled:true,red:0.29803923,green:0.29803923,blue:0.29803923,suffix:,world:,dimensions:overworld#
+name:Islands,x:223,z:58,y:88,enabled:true,red:0.32156864,green:0.32156864,blue:0.32156864,suffix:,world:,dimensions:overworld#
+name:Connector Mountain,x:331,z:99,y:131,enabled:true,red:0.32156864,green:0.32156864,blue:0.32156864,suffix:,world:,dimensions:overworld#
+name:Caveish,x:141,z:95,y:80,enabled:true,red:0.56078434,green:0.56078434,blue:0.56078434,suffix:,world:,dimensions:overworld#
+name:Peaky Top,x:155,z:98,y:142,enabled:true,red:0.5686275,green:0.5686275,blue:0.5686275,suffix:,world:,dimensions:overworld#

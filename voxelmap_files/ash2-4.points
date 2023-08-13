@@ -1,0 +1,12 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:SPAWN,x:-131,z:103,y:74,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Really cool pit,x:137,z:228,y:46,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Pit 2,x:174,z:128,y:53,enabled:true,red:0.6156863,green:0.6156863,blue:0.6156863,suffix:,world:,dimensions:overworld#
+name:Hideout,x:331,z:-239,y:82,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Village,x:357,z:-400,y:122,enabled:true,red:0.015686275,green:0.99607843,blue:0.019607844,suffix:house,world:,dimensions:overworld#
+name:snow,x:388,z:-347,y:99,enabled:true,red:0.003921569,green:0.9490196,blue:0.827451,suffix:,world:,dimensions:overworld#
+name:Hideout,x:646,z:-202,y:71,enabled:true,red:0.9882353,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Hideout,x:417,z:-238,y:71,enabled:true,red:0.972549,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Port,x:193,z:-464,y:86,enabled:true,red:0.003921569,green:0.9647059,blue:0.039215688,suffix:,world:,dimensions:overworld#

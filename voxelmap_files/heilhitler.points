@@ -1,0 +1,5 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:spawn,x:-10,z:38,y:83,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:,world:,dimensions:overworld#
+name:Claustrophobia,x:-45,z:171,y:86,enabled:true,red:0.6117647,green:0.6117647,blue:0.6117647,suffix:,world:,dimensions:overworld#

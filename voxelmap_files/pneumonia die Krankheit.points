@@ -1,0 +1,7 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:spawn,x:-74,z:15,y:92,enabled:true,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:,world:,dimensions:overworld#
+name:Cool,x:116,z:187,y:98,enabled:true,red:0.59607846,green:0.59607846,blue:0.59607846,suffix:,world:,dimensions:overworld#
+name:Cooler,x:-81,z:144,y:98,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Montes,x:59,z:-161,y:181,enabled:true,red:0.9882353,green:0.95686275,blue:0.003921569,suffix:,world:,dimensions:overworld#

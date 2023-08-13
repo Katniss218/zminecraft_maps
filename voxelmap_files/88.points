@@ -1,0 +1,9 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:spawn,x:5,z:37,y:73,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:,world:,dimensions:overworld#
+name:Cool cove thingy,x:116,z:35,y:75,enabled:true,red:0.6156863,green:0.6156863,blue:0.6156863,suffix:,world:,dimensions:overworld#
+name:Edge Forest,x:71,z:-213,y:83,enabled:true,red:0.003921569,green:0.9647059,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Interior Waters,x:-221,z:-114,y:65,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Tunnel,x:56,z:125,y:64,enabled:true,red:0.9529412,green:0.8901961,blue:0.0,suffix:,world:,dimensions:overworld#
+name:POI,x:89,z:-51,y:83,enabled:true,red:0.5764706,green:0.5764706,blue:0.5764706,suffix:,world:,dimensions:overworld#

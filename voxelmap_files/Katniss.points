@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:spawn,x:-7,z:4,y:64,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
+name:Grass,x:-50,z:-512,y:87,enabled:true,red:0.003921569,green:0.96862745,blue:0.0627451,suffix:,world:,dimensions:overworld#
+name:Cave,x:-33,z:22,y:45,enabled:true,red:0.5764706,green:0.5764706,blue:0.5764706,suffix:,world:,dimensions:overworld#

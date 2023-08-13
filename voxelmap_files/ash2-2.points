@@ -1,0 +1,5 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Starting island,x:-15,z:-71,y:70,enabled:true,red:0.007843138,green:0.95686275,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:First POI,x:5,z:-163,y:74,enabled:true,red:0.007843138,green:0.98039216,blue:0.011764706,suffix:,world:,dimensions:overworld#
