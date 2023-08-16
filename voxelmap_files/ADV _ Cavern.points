@@ -5,22 +5,28 @@ name:START,x:10,z:3,y:63,enabled:true,red:0.99215686,green:0.99607843,blue:0.992
 name:Cool,x:-304,z:63,y:97,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
 name:Village 2,x:-403,z:377,y:108,enabled:true,red:0.0,green:0.96862745,blue:0.023529412,suffix:house,world:,dimensions:overworld#
 name:River valley,x:-294,z:232,y:108,enabled:true,red:0.59607846,green:0.59607846,blue:0.59607846,suffix:,world:,dimensions:overworld#
-name:Starting Village,x:95,z:258,y:85,enabled:true,red:0.0,green:0.972549,blue:0.023529412,suffix:house,world:,dimensions:overworld#
+name:V~colon~1 "Sachun",x:95,z:258,y:85,enabled:true,red:0.0,green:0.972549,blue:0.023529412,suffix:house,world:,dimensions:overworld#
 name:Big Chasm,x:113,z:352,y:72,enabled:true,red:0.94509804,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
-name:Something,x:205,z:347,y:116,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Entrance,x:205,z:347,y:116,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Strip mine?,x:123,z:26,y:53,enabled:true,red:0.95686275,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Chasm,x:193,z:28,y:48,enabled:true,red:0.99215686,green:0.043137256,blue:0.023529412,suffix:,world:,dimensions:overworld#
-name:POI quest,x:22,z:213,y:73,enabled:true,red:0.9764706,green:0.92941177,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Mouth waterfall,x:-135,z:253,y:86,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Hideout from WF,x:-139,z:306,y:112,enabled:true,red:0.9882353,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
-name:Shrine,x:410,z:180,y:45,enabled:true,red:0.0,green:0.9411765,blue:0.8627451,suffix:,world:,dimensions:overworld#
+name:Underground Temple of Aeos,x:410,z:180,y:45,enabled:true,red:0.0,green:0.9411765,blue:0.8627451,suffix:,world:,dimensions:overworld#
 name:Cavern,x:331,z:-114,y:71,enabled:true,red:0.99215686,green:0.011764706,blue:0.007843138,suffix:,world:,dimensions:overworld#
 name:Unwanted jungle,x:514,z:-181,y:120,enabled:true,red:0.003921569,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Cool plateau,x:-109,z:-391,y:113,enabled:true,red:0.9764706,green:0.92941177,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Cave,x:-1,z:455,y:79,enabled:true,red:0.94509804,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Cavern,x:162,z:392,y:105,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
-name:Underground complex,x:68,z:334,y:33,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Upper Complex,x:68,z:334,y:33,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:house,world:,dimensions:overworld#
 name:BOSS,x:160,z:438,y:89,enabled:true,red:0.99215686,green:0.03137255,blue:0.023529412,suffix:skull,world:,dimensions:overworld#
-name:Village 3,x:-736,z:319,y:88,enabled:true,red:0.003921569,green:1.0,blue:0.03137255,suffix:house,world:,dimensions:overworld#
+name:V~colon~3 "Nivalus",x:-736,z:319,y:88,enabled:true,red:0.003921569,green:1.0,blue:0.03137255,suffix:house,world:,dimensions:overworld#
 name:Beach,x:-870,z:253,y:87,enabled:true,red:0.60784316,green:0.60784316,blue:0.60784316,suffix:,world:,dimensions:overworld#
 name:Cove,x:-831,z:77,y:66,enabled:true,red:0.9647059,green:0.9019608,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chest E,x:111,z:235,y:68,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest E,x:114,z:227,y:69,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Mage House,x:169,z:336,y:120,enabled:true,red:0.07058824,green:0.9607843,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chest E (Q),x:22,z:213,y:63,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
+name:Chest E,x:170,z:335,y:102,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest E,x:197,z:361,y:120,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Big bad,x:28,z:331,y:-38,enabled:true,red:0.99215686,green:0.019607844,blue:0.019607844,suffix:house,world:,dimensions:overworld#
