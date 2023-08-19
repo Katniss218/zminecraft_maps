@@ -1,0 +1,22 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:SPAWN,x:9,z:-7,y:79,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Boss Cave,x:123,z:16,y:63,enabled:true,red:0.92941177,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Bridge,x:32,z:187,y:97,enabled:true,red:0.31764707,green:0.31764707,blue:0.31764707,suffix:,world:,dimensions:overworld#
+name:Cool Valley,x:-127,z:472,y:123,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Cool caves,x:531,z:-115,y:71,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Beach,x:418,z:-144,y:89,enabled:true,red:0.5686275,green:0.5686275,blue:0.5686275,suffix:,world:,dimensions:overworld#
+name:Circle Island,x:1043,z:-289,y:89,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Shattered Hills,x:1063,z:-629,y:118,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Caves,x:856,z:-598,y:91,enabled:true,red:0.56078434,green:0.56078434,blue:0.56078434,suffix:,world:,dimensions:overworld#
+name:Largest Cave Ever,x:-181,z:-402,y:41,enabled:true,red:0.95686275,green:0.90588236,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Gape,x:-467,z:71,y:71,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:Upper Gape,x:-478,z:81,y:118,enabled:true,red:0.5568628,green:0.5568628,blue:0.5568628,suffix:,world:,dimensions:overworld#
+name:Mine,x:-592,z:18,y:10,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Pit Mine,x:-589,z:-27,y:58,enabled:true,red:0.5764706,green:0.5764706,blue:0.5764706,suffix:,world:,dimensions:overworld#
+name:Huge Cave,x:-595,z:-68,y:38,enabled:true,red:0.5764706,green:0.5764706,blue:0.5764706,suffix:,world:,dimensions:overworld#
+name:Ass Gape,x:-527,z:86,y:86,enabled:true,red:0.6039216,green:0.6039216,blue:0.6039216,suffix:,world:,dimensions:overworld#
+name:Small Village,x:-304,z:200,y:128,enabled:true,red:0.007843138,green:0.98039216,blue:0.011764706,suffix:house,world:,dimensions:overworld#
+name:Starting Village,x:95,z:51,y:139,enabled:true,red:0.07058824,green:0.94509804,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Bridge,x:-221,z:247,y:112,enabled:true,red:0.31764707,green:0.31764707,blue:0.31764707,suffix:,world:,dimensions:overworld#

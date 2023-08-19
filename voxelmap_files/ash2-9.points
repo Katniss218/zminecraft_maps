@@ -1,0 +1,7 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:SPAWN,x:-10,z:-6,y:100,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Fortune Cookie island,x:-132,z:313,y:79,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Green Strip,x:-41,z:528,y:91,enabled:true,red:0.007843138,green:0.90588236,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Village #1 'Rosewatch',x:285,z:361,y:90,enabled:true,red:0.007843138,green:0.95686275,blue:0.007843138,suffix:,world:,dimensions:overworld#

@@ -1,0 +1,14 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:SPAWN,x:-2,z:36,y:65,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Cliffs,x:-480,z:801,y:143,enabled:true,red:0.019607844,green:1.0,blue:0.047058824,suffix:,world:,dimensions:overworld#
+name:Swiss Cheese,x:-511,z:886,y:78,enabled:true,red:0.9529412,green:0.90588236,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cave,x:-204,z:812,y:79,enabled:true,red:0.6039216,green:0.6039216,blue:0.6039216,suffix:,world:,dimensions:overworld#
+name:Wall,x:-299,z:733,y:179,enabled:true,red:0.5647059,green:0.5686275,blue:0.5647059,suffix:,world:,dimensions:overworld#
+name:Shrine,x:-425,z:661,y:85,enabled:true,red:0.003921569,green:0.92941177,blue:0.84705883,suffix:,world:,dimensions:overworld#
+name:Shrine 2,x:-772,z:791,y:79,enabled:true,red:0.003921569,green:0.9607843,blue:0.8392157,suffix:,world:,dimensions:overworld#
+name:Runup,x:-870,z:953,y:119,enabled:true,red:0.5686275,green:0.5686275,blue:0.5686275,suffix:,world:,dimensions:overworld#
+name:Settlement,x:-358,z:841,y:172,enabled:true,red:0.039215688,green:0.972549,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Hole,x:-456,z:839,y:110,enabled:true,red:0.5764706,green:0.5764706,blue:0.5764706,suffix:,world:,dimensions:overworld#
+name:Cool valley,x:-757,z:921,y:85,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#

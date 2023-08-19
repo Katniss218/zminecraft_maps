@@ -1,0 +1,17 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:SPAWN,x:-305,z:-506,y:70,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
+name:Ancient Caverns,x:-461,z:-653,y:10,enabled:true,red:0.99215686,green:0.011764706,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Cave Entry,x:-392,z:-620,y:48,enabled:true,red:0.9882353,green:0.02745098,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Cool Beaches,x:-263,z:-521,y:85,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:Big Island,x:-260,z:-211,y:104,enabled:true,red:0.96862745,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#the_nether#
+name:Peninsula,x:-224,z:-416,y:100,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cool cave,x:-31,z:-732,y:60,enabled:true,red:0.59607846,green:0.59607846,blue:0.59607846,suffix:,world:,dimensions:overworld#
+name:Cool cave 2,x:-168,z:-853,y:66,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:Hidden,x:-232,z:-454,y:62,enabled:true,red:0.5921569,green:0.5921569,blue:0.5921569,suffix:,world:,dimensions:overworld#
+name:Cool,x:-296,z:-422,y:74,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:2x Cave,x:-251,z:-239,y:83,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:Hideout,x:-227,z:-261,y:80,enabled:true,red:0.9372549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Hideout,x:-188,z:-391,y:82,enabled:true,red:0.5764706,green:0.5764706,blue:0.5764706,suffix:,world:,dimensions:overworld#
+name:Cave,x:-211,z:-378,y:82,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
