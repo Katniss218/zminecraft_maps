@@ -2,8 +2,7 @@ subworlds:
 oldNorthWorlds:
 seeds:
 name:SPAWN,x:16,z:14,y:62,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
-name:Starting House,x:35,z:22,y:75,enabled:true,red:0.007843138,green:0.9843137,blue:0.011764706,suffix:house,world:,dimensions:overworld#
-name:Bandit Camp,x:125,z:2,y:81,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Bandit Camp,x:125,z:2,y:81,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:house,world:,dimensions:overworld#
 name:Hanging Town,x:-123,z:160,y:44,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:house,world:,dimensions:overworld#
 name:The Dam,x:-28,z:187,y:69,enabled:true,red:0.9529412,green:0.90588236,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Smaller Dam,x:-10,z:221,y:68,enabled:true,red:0.9490196,green:0.9529412,blue:0.003921569,suffix:,world:,dimensions:overworld#
@@ -22,9 +21,10 @@ name:Chest E,x:31,z:25,y:65,enabled:false,red:0.99607843,green:0.99607843,blue:0
 name:Loot E,x:30,z:31,y:72,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:,world:,dimensions:overworld#
 name:NPC,x:39,z:25,y:62,enabled:false,red:0.03529412,green:0.9607843,blue:0.0,suffix:person,world:,dimensions:overworld#
 name:NPC,x:34,z:20,y:66,enabled:false,red:0.003921569,green:0.9607843,blue:0.03529412,suffix:person,world:,dimensions:overworld#
-name:NPC,x:33,z:32,y:70,enabled:false,red:0.011764706,green:0.99607843,blue:0.015686275,suffix:person,world:,dimensions:overworld#
+name:NPC,x:32,z:32,y:70,enabled:false,red:0.011764706,green:0.99607843,blue:0.015686275,suffix:person,world:,dimensions:overworld#
 name:NPC,x:35,z:20,y:74,enabled:false,red:0.007843138,green:0.972549,blue:0.007843138,suffix:person,world:,dimensions:overworld#
 name:NPC,x:30,z:18,y:70,enabled:false,red:0.09803922,green:0.99607843,blue:0.019607844,suffix:person,world:,dimensions:overworld#
 name:Chest E,x:70,z:6,y:48,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:NPC,x:70,z:16,y:75,enabled:false,red:0.015686275,green:1.0,blue:0.043137256,suffix:person,world:,dimensions:overworld#
 name:NPC,x:75,z:16,y:71,enabled:false,red:0.050980393,green:0.99607843,blue:0.011764706,suffix:person,world:,dimensions:overworld#
+name:START,x:36,z:19,y:68,enabled:true,red:0.0,green:0.972549,blue:0.023529412,suffix:,world:,dimensions:overworld#
