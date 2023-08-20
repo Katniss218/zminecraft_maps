@@ -1,0 +1,37 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:SPAWN,x:16,z:14,y:62,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Bandit Camp,x:125,z:2,y:81,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:house,world:,dimensions:overworld#
+name:Hanging Town,x:-123,z:160,y:44,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:The Dam,x:-28,z:187,y:69,enabled:true,red:0.9529412,green:0.90588236,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Smaller Dam,x:-10,z:221,y:68,enabled:true,red:0.9490196,green:0.9529412,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Overhangs,x:206,z:140,y:65,enabled:true,red:0.60784316,green:0.60784316,blue:0.60784316,suffix:,world:,dimensions:overworld#
+name:Mine,x:-118,z:17,y:57,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:House with bandit problem,x:72,z:18,y:84,enabled:true,red:0.9764706,green:0.36862746,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Storage,x:40,z:4,y:72,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Key #0-1-1,x:46,z:3,y:61,enabled:false,red:0.003921569,green:0.972549,blue:0.8862745,suffix:key,world:,dimensions:overworld#
+name:Hideout,x:141,z:8,y:65,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Cave,x:54,z:23,y:65,enabled:true,red:0.9607843,green:0.8980392,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Chest E,x:74,z:14,y:75,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest E,x:73,z:15,y:70,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Key #0-0-1,x:37,z:27,y:60,enabled:false,red:0.003921569,green:0.9607843,blue:0.8392157,suffix:key,world:,dimensions:overworld#
+name:Chest E,x:40,z:3,y:67,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest E,x:31,z:25,y:65,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Loot E,x:30,z:31,y:72,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:,world:,dimensions:overworld#
+name:NPC~colon~ Magnus Hammar,x:39,z:25,y:62,enabled:false,red:0.03529412,green:0.9607843,blue:0.0,suffix:person,world:,dimensions:overworld#
+name:NPC~colon~ Ashi Burke,x:34,z:20,y:66,enabled:false,red:0.003921569,green:0.9607843,blue:0.03529412,suffix:person,world:,dimensions:overworld#
+name:NPC~colon~ Melle Kent,x:32,z:32,y:70,enabled:false,red:0.011764706,green:0.99607843,blue:0.015686275,suffix:person,world:,dimensions:overworld#
+name:NPC~colon~ Robert Hammar,x:35,z:20,y:74,enabled:false,red:0.007843138,green:0.972549,blue:0.007843138,suffix:person,world:,dimensions:overworld#
+name:NPC~colon~ Alvid Falstad,x:30,z:18,y:70,enabled:false,red:0.09803922,green:0.99607843,blue:0.019607844,suffix:person,world:,dimensions:overworld#
+name:Chest E,x:70,z:6,y:48,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:NPC~colon~ Max Aero,x:70,z:16,y:75,enabled:false,red:0.015686275,green:1.0,blue:0.043137256,suffix:person,world:,dimensions:overworld#
+name:NPC~colon~ Lorin Aero,x:75,z:16,y:71,enabled:false,red:0.050980393,green:0.99607843,blue:0.011764706,suffix:person,world:,dimensions:overworld#
+name:START,x:36,z:19,y:68,enabled:true,red:0.0,green:0.972549,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Chest E,x:142,z:18,y:66,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest E,x:139,z:3,y:66,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest E,x:151,z:7,y:72,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest E,x:34,z:19,y:70,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:ITEMS,x:-15,z:-17,y:44,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Chest,x:32,z:20,y:64,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:40,z:5,y:63,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
