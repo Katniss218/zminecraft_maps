@@ -35,3 +35,7 @@ name:Chest E,x:34,z:19,y:70,enabled:false,red:0.99607843,green:0.99607843,blue:0
 name:ITEMS,x:-15,z:-17,y:44,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
 name:Chest,x:32,z:20,y:64,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:40,z:5,y:63,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Suspended City Center,x:-60,z:238,y:21,enabled:true,red:0.18039216,green:0.98039216,blue:0.007843138,suffix:house,world:,dimensions:overworld#
+name:Barricade 1,x:-79,z:195,y:48,enabled:true,red:0.0,green:0.99215686,blue:0.85882354,suffix:,world:,dimensions:overworld#
+name:Barricade 2,x:-87,z:208,y:36,enabled:true,red:0.0,green:0.95686275,blue:0.8784314,suffix:,world:,dimensions:overworld#
+name:TUTORIAL,x:187,z:-50,y:56,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
