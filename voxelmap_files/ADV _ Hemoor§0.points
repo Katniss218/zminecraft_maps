@@ -3,7 +3,7 @@ oldNorthWorlds:
 seeds:
 name:SPAWN,x:16,z:14,y:62,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
 name:Bandit Camp,x:125,z:2,y:81,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:house,world:,dimensions:overworld#
-name:Hanging Town,x:-123,z:160,y:44,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Suspended City,x:-123,z:160,y:44,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:house,world:,dimensions:overworld#
 name:The Dam,x:-28,z:187,y:69,enabled:true,red:0.9529412,green:0.90588236,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Smaller Dam,x:-10,z:221,y:68,enabled:true,red:0.9490196,green:0.9529412,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Overhangs,x:206,z:140,y:65,enabled:true,red:0.60784316,green:0.60784316,blue:0.60784316,suffix:,world:,dimensions:overworld#
@@ -16,7 +16,6 @@ name:Cave,x:54,z:23,y:65,enabled:true,red:0.9607843,green:0.8980392,blue:0.00392
 name:Chest E,x:74,z:14,y:75,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
 name:Chest E,x:73,z:15,y:70,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Key #0-0-1,x:37,z:27,y:60,enabled:false,red:0.003921569,green:0.9607843,blue:0.8392157,suffix:key,world:,dimensions:overworld#
-name:Chest E,x:40,z:3,y:67,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest E,x:31,z:25,y:65,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Loot E,x:30,z:31,y:72,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:,world:,dimensions:overworld#
 name:NPC~colon~ Magnus Hammar,x:39,z:25,y:62,enabled:false,red:0.03529412,green:0.9607843,blue:0.0,suffix:person,world:,dimensions:overworld#
@@ -34,8 +33,14 @@ name:Chest E,x:151,z:7,y:72,enabled:false,red:0.99607843,green:0.99607843,blue:0
 name:Chest E,x:34,z:19,y:70,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:ITEMS,x:-15,z:-17,y:44,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
 name:Chest,x:32,z:20,y:64,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
-name:Chest,x:40,z:5,y:63,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Suspended City Center,x:-60,z:238,y:21,enabled:true,red:0.18039216,green:0.98039216,blue:0.007843138,suffix:house,world:,dimensions:overworld#
 name:Barricade 1,x:-79,z:195,y:48,enabled:true,red:0.0,green:0.99215686,blue:0.85882354,suffix:,world:,dimensions:overworld#
 name:Barricade 2,x:-87,z:208,y:36,enabled:true,red:0.0,green:0.95686275,blue:0.8784314,suffix:,world:,dimensions:overworld#
 name:TUTORIAL,x:187,z:-50,y:56,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
+name:LOBBY,x:226,z:-168,y:56,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Key #0-0-0,x:140,z:-67,y:45,enabled:false,red:0.011764706,green:0.99607843,blue:0.8509804,suffix:key,world:,dimensions:overworld#
+name:Abandoned house,x:111,z:88,y:73,enabled:true,red:0.95686275,green:0.95686275,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ruined Tower,x:187,z:86,y:69,enabled:true,red:0.98039216,green:0.92941177,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Hidden key,x:94,z:-12,y:64,enabled:true,red:0.99215686,green:0.019607844,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:Key #1-1-1,x:115,z:16,y:72,enabled:false,red:0.003921569,green:0.95686275,blue:0.85490197,suffix:key,world:,dimensions:overworld#
+name:Lever,x:69,z:12,y:67,enabled:true,red:0.007843138,green:0.99607843,blue:0.87058824,suffix:,world:,dimensions:overworld#
