@@ -44,3 +44,5 @@ name:Ruined Tower,x:187,z:86,y:69,enabled:true,red:0.98039216,green:0.92941177,b
 name:Hidden key,x:94,z:-12,y:64,enabled:true,red:0.99215686,green:0.019607844,blue:0.019607844,suffix:,world:,dimensions:overworld#
 name:Key #1-1-1,x:115,z:16,y:72,enabled:false,red:0.003921569,green:0.95686275,blue:0.85490197,suffix:key,world:,dimensions:overworld#
 name:Lever,x:69,z:12,y:67,enabled:true,red:0.007843138,green:0.99607843,blue:0.87058824,suffix:,world:,dimensions:overworld#
+name:Suspended City Mine,x:-182,z:317,y:63,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Caves,x:-393,z:410,y:64,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
