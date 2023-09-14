@@ -1,0 +1,10 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-102,z:-22,y:75,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Dick Cave,x:-74,z:-419,y:76,enabled:true,red:0.5686275,green:0.5686275,blue:0.5686275,suffix:,world:,dimensions:overworld#
+name:Sacred Island,x:-270,z:-234,y:87,enabled:true,red:0.0,green:0.9137255,blue:0.7921569,suffix:,world:,dimensions:overworld#
+name:The Conqueror,x:-553,z:-49,y:112,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:Caves,x:-831,z:276,y:64,enabled:true,red:0.5764706,green:0.5764706,blue:0.5764706,suffix:,world:,dimensions:overworld#
+name:Valley,x:-998,z:337,y:73,enabled:true,red:0.6,green:0.6,blue:0.6,suffix:,world:,dimensions:overworld#
+name:Dual Eye Cave,x:-886,z:665,y:66,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#

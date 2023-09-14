@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:153,z:111,y:75,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:temple,x:338,z:265,y:35,enabled:true,red:0.003921569,green:0.99607843,blue:0.84313726,suffix:,world:,dimensions:overworld#
+name:Shattered coast,x:96,z:165,y:96,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#

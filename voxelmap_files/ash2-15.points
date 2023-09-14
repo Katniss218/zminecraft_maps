@@ -1,0 +1,10 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:56,z:-46,y:70,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
+name:Cool cliff,x:467,z:-359,y:112,enabled:true,red:0.6156863,green:0.6156863,blue:0.6156863,suffix:,world:,dimensions:overworld#
+name:Ground Tower,x:791,z:-571,y:113,enabled:true,red:0.6156863,green:0.61960787,blue:0.6156863,suffix:,world:,dimensions:overworld#
+name:Starting village,x:801,z:-774,y:101,enabled:true,red:0.0,green:0.9764706,blue:0.043137256,suffix:house,world:,dimensions:overworld#
+name:Castle,x:307,z:-571,y:120,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:floating islands,x:866,z:-627,y:107,enabled:true,red:0.6156863,green:0.6156863,blue:0.6156863,suffix:,world:,dimensions:overworld#
+name:Cave,x:878,z:-143,y:59,enabled:true,red:0.59607846,green:0.59607846,blue:0.59607846,suffix:,world:,dimensions:overworld#
