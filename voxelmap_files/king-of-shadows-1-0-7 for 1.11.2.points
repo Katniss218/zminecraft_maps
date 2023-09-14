@@ -1,0 +1,5 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:TUTORIAL,x:-3332,z:-1852,y:148,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:SPAWN,x:3094,z:-1738,y:77,enabled:true,red:0.0,green:0.99607843,blue:0.02745098,suffix:,world:,dimensions:overworld#

@@ -1,0 +1,7 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:4,z:6,y:77,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Lots of caves,x:194,z:-777,y:111,enabled:true,red:0.6039216,green:0.6039216,blue:0.6039216,suffix:,world:,dimensions:overworld#
+name:Something,x:588,z:-771,y:139,enabled:true,red:0.0,green:0.99215686,blue:0.02745098,suffix:,world:,dimensions:overworld#
+name:way to get up,x:535,z:-767,y:104,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#

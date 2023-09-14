@@ -2,3 +2,8 @@ subworlds:
 oldNorthWorlds:
 seeds:
 name:SPAWN,x:-5,z:3,y:94,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Cool cliffs,x:-441,z:283,y:109,enabled:true,red:0.6,green:0.6,blue:0.6,suffix:,world:,dimensions:overworld#
+name:JJay Cave,x:-375,z:332,y:95,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:Chasm,x:-583,z:-50,y:79,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Cool,x:-536,z:-203,y:134,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Cool caves,x:-493,z:-265,y:95,enabled:true,red:0.5921569,green:0.5921569,blue:0.5921569,suffix:,world:,dimensions:overworld#
