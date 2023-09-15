@@ -1,0 +1,23 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:168,z:8,y:69,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Baddie in cave,x:259,z:143,y:61,enabled:true,red:0.9843137,green:0.015686275,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Auxiliary caves,x:253,z:105,y:75,enabled:true,red:0.9529412,green:0.39607844,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Dam,x:161,z:349,y:81,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:cool caveish,x:1246,z:604,y:72,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Cave,x:1394,z:452,y:62,enabled:true,red:0.6039216,green:0.6039216,blue:0.6039216,suffix:,world:,dimensions:overworld#
+name:Cool Plateau,x:1336,z:133,y:128,enabled:true,red:0.5764706,green:0.5764706,blue:0.5764706,suffix:,world:,dimensions:overworld#
+name:towers?,x:1128,z:195,y:134,enabled:true,red:0.93333334,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Drop Cave,x:558,z:-361,y:32,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:Square Dam,x:533,z:-1035,y:63,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:Linear Village,x:581,z:-899,y:86,enabled:true,red:0.003921569,green:0.9372549,blue:0.02745098,suffix:house,world:,dimensions:overworld#
+name:Cool chasm,x:186,z:-1000,y:60,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:More cool caves,x:99,z:-967,y:89,enabled:true,red:0.5921569,green:0.5921569,blue:0.5921569,suffix:,world:,dimensions:overworld#
+name:Passageway,x:-41,z:-926,y:96,enabled:true,red:0.6117647,green:0.6117647,blue:0.6117647,suffix:,world:,dimensions:overworld#
+name:Ground foundation,x:-2,z:-644,y:108,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Linear Cave,x:290,z:-411,y:54,enabled:true,red:0.59607846,green:0.59607846,blue:0.59607846,suffix:,world:,dimensions:overworld#
+name:village,x:358,z:-436,y:110,enabled:true,red:0.0,green:0.92156863,blue:0.05882353,suffix:house,world:,dimensions:overworld#
+name:cave,x:-459,z:-694,y:48,enabled:true,red:0.6,green:0.6,blue:0.6,suffix:,world:,dimensions:overworld#
+name:Peaks,x:-664,z:-636,y:122,enabled:true,red:0.59607846,green:0.59607846,blue:0.59607846,suffix:,world:,dimensions:overworld#
+name:Sandswept Shipwreck,x:-96,z:-66,y:80,enabled:true,red:0.8784314,green:0.88235295,blue:0.0,suffix:,world:,dimensions:overworld#

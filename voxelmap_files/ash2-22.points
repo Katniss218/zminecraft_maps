@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:20,z:-8,y:71,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:very cool peak,x:-334,z:-1412,y:165,enabled:true,red:0.60784316,green:0.60784316,blue:0.60784316,suffix:,world:,dimensions:overworld#
+name:cool peaks after changing biome,x:-598,z:-1506,y:145,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#

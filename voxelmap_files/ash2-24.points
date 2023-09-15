@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:4,z:2,y:94,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Gape,x:425,z:-309,y:100,enabled:true,red:0.6117647,green:0.6117647,blue:0.6117647,suffix:,world:,dimensions:overworld#
+name:Hill with someone,x:227,z:-289,y:163,enabled:true,red:0.007843138,green:0.972549,blue:0.007843138,suffix:,world:,dimensions:overworld#

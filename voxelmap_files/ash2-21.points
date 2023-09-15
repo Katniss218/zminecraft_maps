@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:0,z:4,y:103,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:Elevated Village,x:-246,z:138,y:110,enabled:true,red:0.003921569,green:0.9843137,blue:0.043137256,suffix:house,world:,dimensions:overworld#
+name:walkup,x:-181,z:36,y:100,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#

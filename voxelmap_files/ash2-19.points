@@ -1,0 +1,13 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:10,z:-1,y:89,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
+name:Giant Pit,x:-151,z:122,y:56,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:Hidden World Entrance,x:-27,z:191,y:65,enabled:true,red:0.015686275,green:0.8862745,blue:0.73333335,suffix:,world:,dimensions:overworld#
+name:The Hidden World,x:-145,z:244,y:10,enabled:true,red:0.0,green:0.96862745,blue:0.88235295,suffix:,world:,dimensions:overworld#
+name:Small Hidden World,x:-12,z:116,y:19,enabled:true,red:0.003921569,green:0.5019608,blue:0.9098039,suffix:,world:,dimensions:overworld#
+name:cave,x:105,z:-134,y:47,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Hidden World 2,x:-117,z:-67,y:25,enabled:true,red:0.003921569,green:0.9490196,blue:0.84705883,suffix:,world:,dimensions:overworld#
+name:Hidden World Village,x:-375,z:221,y:104,enabled:true,red:0.003921569,green:0.9529412,blue:0.039215688,suffix:,world:,dimensions:overworld#
+name:Settlement,x:-578,z:460,y:104,enabled:true,red:0.003921569,green:0.9647059,blue:0.039215688,suffix:,world:,dimensions:overworld#
+name:cave with something,x:-541,z:432,y:65,enabled:true,red:0.91764706,green:0.92156863,blue:0.0,suffix:,world:,dimensions:overworld#

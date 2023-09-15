@@ -1,0 +1,7 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:71,z:-113,y:72,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:cave hideout,x:205,z:91,y:56,enabled:true,red:0.94509804,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Hideout,x:-216,z:-589,y:72,enabled:true,red:0.92941177,green:0.8784314,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Initial port village,x:354,z:69,y:92,enabled:true,red:0.9254902,green:0.8980392,blue:0.0,suffix:house,world:,dimensions:overworld#

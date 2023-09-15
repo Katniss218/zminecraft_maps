@@ -1,0 +1,14 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:62,z:-95,y:68,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:Peak 1,x:16,z:-211,y:125,enabled:true,red:0.6,green:0.6,blue:0.6,suffix:,world:,dimensions:overworld#
+name:Peaks 2 and 3,x:-20,z:-229,y:133,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:Mound,x:-86,z:-299,y:127,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Peak,x:130,z:-285,y:137,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Sisters,x:204,z:-218,y:115,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Cratered Cove,x:-108,z:-507,y:73,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Caves,x:-471,z:-775,y:103,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:Cove 2,x:-245,z:-352,y:70,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:Cave,x:-213,z:79,y:64,enabled:true,red:0.5529412,green:0.5529412,blue:0.5529412,suffix:,world:,dimensions:overworld#
+name:Mine,x:39,z:-175,y:41,enabled:true,red:0.6039216,green:0.6039216,blue:0.6039216,suffix:,world:,dimensions:overworld#
