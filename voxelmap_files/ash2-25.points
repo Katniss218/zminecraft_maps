@@ -1,0 +1,18 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:55,z:30,y:75,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Cave,x:-154,z:-455,y:63,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Dungeon,x:403,z:-981,y:56,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Unwanted Jungle,x:-291,z:-1143,y:131,enabled:true,red:0.60784316,green:0.60784316,blue:0.60784316,suffix:,world:,dimensions:overworld#
+name:Cave,x:99,z:452,y:86,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:Settlement,x:566,z:-344,y:84,enabled:true,red:0.03529412,green:0.9607843,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Unwanted Jungle,x:768,z:-705,y:120,enabled:true,red:0.6156863,green:0.6156863,blue:0.6156863,suffix:,world:,dimensions:overworld#
+name:Unwanted Jungle,x:916,z:-893,y:120,enabled:true,red:0.59607846,green:0.59607846,blue:0.59607846,suffix:,world:,dimensions:overworld#
+name:Unwanted Jungle,x:766,z:-1450,y:95,enabled:true,red:0.5921569,green:0.5921569,blue:0.5921569,suffix:,world:,dimensions:overworld#
+name:Ravine,x:711,z:-1246,y:56,enabled:true,red:0.6156863,green:0.61960787,blue:0.6156863,suffix:,world:,dimensions:overworld#
+name:Village,x:750,z:-1016,y:91,enabled:true,red:0.0,green:0.96862745,blue:0.023529412,suffix:house,world:,dimensions:overworld#
+name:Port Village,x:-142,z:200,y:91,enabled:true,red:0.003921569,green:0.9647059,blue:0.039215688,suffix:house,world:,dimensions:overworld#
+name:Spruce Patch,x:-410,z:-2,y:92,enabled:true,red:0.59607846,green:0.59607846,blue:0.59607846,suffix:,world:,dimensions:overworld#
+name:UW Forest -> Taiga,x:-1066,z:-204,y:91,enabled:true,red:0.6,green:0.6,blue:0.6,suffix:,world:,dimensions:overworld#
+name:CITY,x:-1068,z:-7,y:95,enabled:true,red:0.043137256,green:0.9411765,blue:0.0,suffix:house,world:,dimensions:overworld#
