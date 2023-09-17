@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:40,z:384,y:72,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#the_nether#
+name:Cave,x:-270,z:859,y:78,enabled:true,red:0.6117647,green:0.6117647,blue:0.6117647,suffix:,world:,dimensions:overworld#
+name:Horse Peak,x:263,z:995,y:95,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#

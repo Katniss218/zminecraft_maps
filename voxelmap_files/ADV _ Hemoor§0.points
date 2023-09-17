@@ -52,3 +52,14 @@ name:Chest,x:-257,z:197,y:76,enabled:false,red:0.99215686,green:0.99607843,blue:
 name:Chest,x:-297,z:294,y:81,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Key #1-1-1,x:-290,z:295,y:61,enabled:false,red:0.0,green:0.96862745,blue:0.85882354,suffix:key,world:,dimensions:overworld#
 name:Dams,x:-23,z:205,y:70,enabled:true,red:0.96862745,green:0.57254905,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chest,x:-303,z:292,y:55,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:-297,z:285,y:56,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Key #1-1-2,x:-139,z:24,y:47,enabled:false,red:0.0,green:0.98039216,blue:0.87058824,suffix:key,world:,dimensions:overworld#
+name:Chest,x:-160,z:422,y:-1,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Latest Death,x:226,z:-169,y:49,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:overworld#
+name:Checkpoint,x:71,z:18,y:74,enabled:false,red:0.45882353,green:0.07058824,blue:0.49411765,suffix:star,world:,dimensions:overworld#
+name:Checkpoint,x:141,z:-56,y:49,enabled:false,red:0.39215687,green:0.0627451,blue:0.5686275,suffix:star,world:,dimensions:overworld#
+name:Checkpoint,x:-122,z:191,y:50,enabled:false,red:0.44705883,green:0.06666667,blue:0.5019608,suffix:star,world:,dimensions:overworld#
+name:Checkpoint,x:-183,z:94,y:79,enabled:false,red:0.41568628,green:0.06666667,blue:0.5568628,suffix:star,world:,dimensions:overworld#
+name:Boss arena,x:-13,z:320,y:76,enabled:true,red:0.9882353,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Chest,x:-108,z:157,y:44,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
