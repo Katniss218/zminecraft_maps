@@ -1,0 +1,16 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:12,z:-7,y:73,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:world,world:,dimensions:overworld#
+name:Castle,x:12,z:-411,y:134,enabled:true,red:0.019607844,green:0.99607843,blue:0.02745098,suffix:house,world:,dimensions:overworld#
+name:Prison in Wall,x:10,z:-339,y:80,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:House,x:-256,z:-232,y:78,enabled:true,red:0.007843138,green:0.9372549,blue:0.043137256,suffix:house,world:,dimensions:overworld#
+name:Bridge,x:16,z:-83,y:69,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Secret in cave,x:-57,z:39,y:69,enabled:true,red:0.99215686,green:0.54509807,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Bridge,x:110,z:-5,y:70,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Depression,x:-106,z:180,y:69,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:House,x:-43,z:90,y:81,enabled:true,red:0.0,green:0.9764706,blue:0.043137256,suffix:house,world:,dimensions:overworld#
+name:Bridge,x:-16,z:55,y:70,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Start and Tutorial,x:-106,z:215,y:75,enabled:true,red:0.003921569,green:0.9490196,blue:0.043137256,suffix:world,world:,dimensions:overworld#the_nether#
+name:Cave,x:-17,z:-172,y:48,enabled:true,red:0.99215686,green:0.015686275,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Bridge,x:112,z:-442,y:88,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#

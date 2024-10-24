@@ -1,0 +1,14 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:9,z:-5,y:132,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Temple / Ancient?,x:105,z:8,y:87,enabled:true,red:0.99607843,green:0.9411765,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Cave,x:14,z:256,y:68,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Fisherman,x:-131,z:172,y:81,enabled:true,red:0.101960786,green:0.9529412,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Starting village,x:230,z:772,y:98,enabled:true,red:0.007843138,green:0.9529412,blue:0.011764706,suffix:house,world:,dimensions:overworld#
+name:Shattered Cliff Village,x:164,z:1142,y:93,enabled:true,red:0.003921569,green:0.92156863,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Ancient Ruins,x:73,z:1247,y:113,enabled:true,red:0.9254902,green:0.007843138,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Holy,x:89,z:1201,y:195,enabled:true,red:0.0,green:0.9529412,blue:0.83137256,suffix:,world:,dimensions:overworld#
+name:Mines,x:407,z:1014,y:128,enabled:true,red:0.91764706,green:0.43529412,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ruined Towers,x:302,z:786,y:128,enabled:true,red:0.95686275,green:0.46666667,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Snowbank,x:879,z:1007,y:137,enabled:true,red:0.9019608,green:0.85490197,blue:0.0,suffix:,world:,dimensions:overworld#

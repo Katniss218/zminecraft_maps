@@ -1,0 +1,10 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:15,z:-19,y:65,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:bridge,x:-53,z:489,y:86,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:passage,x:19,z:430,y:95,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:starting village,x:43,z:378,y:90,enabled:true,red:0.003921569,green:0.99215686,blue:0.09411765,suffix:house,world:,dimensions:overworld#
+name:mountain,x:148,z:307,y:118,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Shattered Fort,x:378,z:510,y:125,enabled:true,red:0.9137255,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ancient Wisdom 1,x:-87,z:496,y:164,enabled:true,red:0.0,green:0.9137255,blue:0.7921569,suffix:,world:,dimensions:overworld#

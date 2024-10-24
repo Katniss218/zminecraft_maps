@@ -1,0 +1,9 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:284,z:-142,y:88,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Start,x:300,z:-159,y:81,enabled:true,red:0.003921569,green:0.93333334,blue:0.043137256,suffix:,world:,dimensions:overworld#
+name:path,x:299,z:-225,y:82,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:House,x:337,z:-292,y:70,enabled:true,red:0.003921569,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:bridge,x:384,z:-328,y:82,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Temple (main),x:568,z:-197,y:78,enabled:true,red:0.9254902,green:0.007843138,blue:0.0,suffix:,world:,dimensions:overworld#

@@ -1,0 +1,11 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-228,z:142,y:63,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Icicle Towers,x:-467,z:359,y:157,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Overhang,x:-731,z:674,y:131,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Hole,x:803,z:640,y:46,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
+name:Underground complex,x:837,z:607,y:38,enabled:true,red:0.9372549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Peaks,x:161,z:522,y:134,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Lost Ice Mountain,x:-3,z:-60,y:112,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#
+name:Passage,x:-430,z:494,y:70,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#

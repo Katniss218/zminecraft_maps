@@ -1,0 +1,44 @@
+{
+	"pools": 
+	[
+		{
+			"rolls": 1,
+			"entries": 
+			[
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/basalt_breaker"
+				}
+			]
+		},
+		{
+			"rolls":
+			{
+				"min": 2, "max": 5
+			},
+			"entries": 
+			[
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/bread"
+				}
+			]
+		},
+		{
+			"rolls":
+			{
+				"min": 6, "max": 12
+			},
+			"entries": 
+			[
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/basalt"
+				}
+			]
+		}
+	]
+}

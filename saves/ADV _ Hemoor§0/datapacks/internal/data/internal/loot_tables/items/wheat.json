@@ -1,0 +1,41 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:wheat",
+					"functions":
+					[
+						{
+							"function": "set_name",
+							"name": { "italic": false, "text": "Wheat", "color": "gray", "bold": true }
+						},
+						{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "italic": false, "text": "- This staple crop is essential for sustenance in", "color": "white" },
+								{ "italic": false, "text": "  Hemoor, providing the dietary foundation for", "color": "white" },
+								{ "italic": false, "text": "  many people.", "color": "white" },
+								{ "italic": false, "text": "- Can be baked into bread.", "color": "white" },
+								{ "italic": false, "text": "" }
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{HideFlags:2147483647,Unbreakable:1}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{ItemId:17,CustomModelData:17}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

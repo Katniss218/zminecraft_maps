@@ -1,0 +1,10 @@
+{
+	"values": [
+		"internal:ai/_loop_ai",
+		"internal:on_hurt_listener",
+		"internal:_1tick",
+		"internal:_1tick_health",
+		"internal:_1tick_bossbars",
+		"internal:_1tick_players"
+	]
+}

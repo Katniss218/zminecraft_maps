@@ -1,0 +1,2 @@
+execute as @a[tag=Player] positioned as @s if block ~ ~-1 ~ minecraft:farmland run effect give @s minecraft:slow_falling 1 0 true
+execute as @a if score @s right_click matches 1.. at @s run function internal:right_click

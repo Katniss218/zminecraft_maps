@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-33,z:-5,y:69,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Carves,x:-129,z:-50,y:81,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Cool cliff,x:-17,z:52,y:96,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#

@@ -1,0 +1,7 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:41,z:-59,y:63,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:village on ocean,x:174,z:267,y:83,enabled:true,red:0.003921569,green:0.9647059,blue:0.039215688,suffix:house,world:,dimensions:overworld#
+name:Cemetery island,x:174,z:429,y:82,enabled:true,red:0.9607843,green:0.5137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Small port,x:133,z:38,y:83,enabled:true,red:0.96862745,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#

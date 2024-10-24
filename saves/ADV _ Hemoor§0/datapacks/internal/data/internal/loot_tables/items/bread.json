@@ -1,0 +1,40 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:bread",
+					"functions":
+					[
+						{
+							"function": "set_name",
+							"name": { "italic": false, "text": "Bread", "color": "gray", "bold": true }
+						},
+						{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "italic": false, "text": "- A loaf of freshly baked bread.", "color": "white" },
+								{ "italic": false, "text": "" },
+								["",{ "italic": false, "text": "Food", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "5", "color": "yellow", "bold": true }],
+								{ "italic": false, "text": "" }
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{HideFlags:2147483647,Unbreakable:1}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{ItemId:13,CustomModelData:13}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

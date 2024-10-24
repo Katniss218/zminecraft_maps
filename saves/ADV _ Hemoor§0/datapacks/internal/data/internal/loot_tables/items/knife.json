@@ -1,0 +1,64 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:stone_sword",
+					"functions":
+					[
+						{
+							"function": "set_name",
+							"name": { "italic": false, "text": "Knife", "color": "gray", "bold": true }
+						},
+						{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "italic": false, "text": "- Knives can be used as tools for cutting, or to", "color": "white" },
+								{ "italic": false, "text": "  attack or defend oneself.", "color": "white" },
+								{ "italic": false, "text": "- This particular knife is not very sharp and has", "color": "white" },
+								{ "italic": false, "text": "  been resharpened multiple times.", "color": "white" },
+								{ "italic": false, "text": "" },
+								["",{ "italic": false, "text": "Damage", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "3", "color": "yellow", "bold": true },{ "italic": false, "text": " (", "color": "gray" },{ "italic": false, "text": "3", "color": "yellow", "bold": true },{ "italic": false, "text": ")", "color": "gray" }],
+								["",{ "italic": false, "text": "Speed", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "-2", "color": "yellow", "bold": true },{ "italic": false, "text": " (", "color": "gray" },{ "italic": false, "text": "-2", "color": "yellow", "bold": true },{ "italic": false, "text": ")", "color": "gray" }],
+								{ "italic": false, "text": "" }
+							]
+						},
+						{
+							"function": "set_attributes",
+							"modifiers":
+							[
+								{
+									"amount": 3,
+									"slot": "mainhand",
+									"name": "generic.attack_damage",
+									"attribute": "generic.attack_damage",
+									"operation": "addition"
+								},
+								{
+									"amount": -2.0,
+									"slot": "mainhand",
+									"name": "generic.attack_speed",
+									"attribute": "generic.attack_speed",
+									"operation": "addition"
+								}
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{HideFlags:2147483647,Unbreakable:1}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{ItemId:42,CustomModelData:42}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

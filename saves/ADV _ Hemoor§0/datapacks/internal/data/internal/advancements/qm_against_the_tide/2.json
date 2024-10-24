@@ -1,0 +1,26 @@
+{
+	"parent": "internal:qm_against_the_tide/_root",
+    "display": {
+        "title": {
+            "text": "                                                                                "
+        },
+        "description": [
+			"",
+            {"text": "Talk to Patrik Karst, the coordinator.", "color": "yellow"},
+            {"text": "\n\nYou will find Patrik in the central district of the Suspended City.", "color": "gold"}
+        ],
+        "icon": {
+            "item": "minecraft:spyglass"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/qm.png"
+    },
+    "criteria": {
+        "x": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

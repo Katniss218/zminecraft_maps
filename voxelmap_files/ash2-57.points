@@ -1,0 +1,13 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:44,z:170,y:73,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Cool mountains,x:-22,z:-580,y:169,enabled:true,red:0.5921569,green:0.5921569,blue:0.5921569,suffix:,world:,dimensions:overworld#
+name:Tower or something,x:-17,z:-544,y:187,enabled:true,red:0.011764706,green:0.99215686,blue:0.8156863,suffix:,world:,dimensions:overworld#
+name:Poi hill 2,x:115,z:-522,y:149,enabled:true,red:0.003921569,green:0.93333334,blue:0.85490197,suffix:,world:,dimensions:overworld#
+name:Mountains with bridges,x:215,z:-685,y:154,enabled:true,red:0.6039216,green:0.6039216,blue:0.6039216,suffix:,world:,dimensions:overworld#
+name:before-village,x:-47,z:-454,y:91,enabled:true,red:0.9607843,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Entrance,x:-112,z:-531,y:115,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:Hideouts,x:-122,z:-595,y:79,enabled:true,red:0.94509804,green:0.89411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Caves and Cliffs,x:-177,z:-511,y:76,enabled:true,red:0.5529412,green:0.5529412,blue:0.5529412,suffix:,world:,dimensions:overworld#
+name:Start,x:-152,z:-301,y:101,enabled:true,red:0.003921569,green:0.9647059,blue:0.11372549,suffix:,world:,dimensions:overworld#

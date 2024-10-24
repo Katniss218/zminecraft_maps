@@ -1,0 +1,40 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:cooked_chicken",
+					"functions":
+					[
+						{
+							"function": "set_name",
+							"name": { "italic": false, "text": "Cooked Beef", "color": "gray", "bold": true }
+						},
+						{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "italic": false, "text": "- Well cooked and very tasty.", "color": "white" },
+								{ "italic": false, "text": "" },
+								["",{ "italic": false, "text": "Food", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "6", "color": "yellow", "bold": true }],
+								{ "italic": false, "text": "" }
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{HideFlags:2147483647,Unbreakable:1}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{ItemId:54,CustomModelData:54}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

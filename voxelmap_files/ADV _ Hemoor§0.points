@@ -36,7 +36,7 @@ name:Ruined Tower,x:187,z:86,y:69,enabled:false,red:0.98039216,green:0.92941177,
 name:Key #0-2-1,x:115,z:16,y:72,enabled:false,red:0.003921569,green:0.95686275,blue:0.85490197,suffix:key,world:,dimensions:overworld#
 name:Lever,x:69,z:12,y:67,enabled:false,red:0.007843138,green:0.99607843,blue:0.87058824,suffix:,world:,dimensions:overworld#
 name:Basalt Mine,x:-182,z:317,y:63,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
-name:Caves,x:-393,z:410,y:64,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Caves (side quest),x:-393,z:410,y:64,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Key #0-1-2,x:31,z:30,y:64,enabled:false,red:0.007843138,green:0.99607843,blue:0.87058824,suffix:key,world:,dimensions:overworld#
 name:Chest,x:-120,z:8,y:53,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:-108,z:167,y:53,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
@@ -44,7 +44,7 @@ name:Chest,x:-115,z:190,y:50,enabled:false,red:0.99607843,green:0.99607843,blue:
 name:Barricade 3,x:-67,z:210,y:54,enabled:true,red:0.023529412,green:0.99607843,blue:0.8784314,suffix:,world:,dimensions:overworld#
 name:Chest,x:-105,z:161,y:46,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Chest,x:-59,z:217,y:24,enabled:false,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
-name:Hideout,x:-163,z:129,y:68,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Hideout,x:-163,z:129,y:72,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
 name:Chest,x:-185,z:378,y:31,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Suspended City,x:-135,z:177,y:66,enabled:true,red:0.9529412,green:0.90588236,blue:0.0,suffix:house,world:,dimensions:overworld#
 name:Fisherman,x:-292,z:148,y:91,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
@@ -56,10 +56,19 @@ name:Chest,x:-303,z:292,y:55,enabled:false,red:0.99607843,green:0.99607843,blue:
 name:Chest,x:-297,z:285,y:56,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
 name:Key #1-1-2,x:-139,z:24,y:47,enabled:false,red:0.0,green:0.98039216,blue:0.87058824,suffix:key,world:,dimensions:overworld#
 name:Chest,x:-160,z:422,y:-1,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
-name:Latest Death,x:226,z:-169,y:49,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:overworld#
 name:Checkpoint,x:71,z:18,y:74,enabled:false,red:0.45882353,green:0.07058824,blue:0.49411765,suffix:star,world:,dimensions:overworld#
 name:Checkpoint,x:141,z:-56,y:49,enabled:false,red:0.39215687,green:0.0627451,blue:0.5686275,suffix:star,world:,dimensions:overworld#
 name:Checkpoint,x:-122,z:191,y:50,enabled:false,red:0.44705883,green:0.06666667,blue:0.5019608,suffix:star,world:,dimensions:overworld#
 name:Checkpoint,x:-183,z:94,y:79,enabled:false,red:0.41568628,green:0.06666667,blue:0.5568628,suffix:star,world:,dimensions:overworld#
 name:Boss arena,x:-13,z:320,y:76,enabled:true,red:0.9882353,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
 name:Chest,x:-108,z:157,y:44,enabled:false,red:0.99215686,green:0.99215686,blue:0.99215686,suffix:diamond,world:,dimensions:overworld#
+name:Chest,x:-67,z:219,y:24,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Checkpoint,x:-54,z:231,y:44,enabled:false,red:0.43137255,green:0.05882353,blue:0.54901963,suffix:star,world:,dimensions:overworld#
+name:NPC~colon~ Oskar Ipsen,x:-182,z:93,y:73,enabled:false,red:0.003921569,green:0.9372549,blue:0.02745098,suffix:person,world:,dimensions:overworld#
+name:Hermit,x:-184,z:398,y:78,enabled:true,red:0.972549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Chest,x:-303,z:424,y:64,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:House,x:-402,z:221,y:82,enabled:true,red:0.003921569,green:1.0,blue:0.05490196,suffix:,world:,dimensions:overworld#
+name:House (caves),x:-366,z:432,y:84,enabled:true,red:0.003921569,green:0.93333334,blue:0.043137256,suffix:,world:,dimensions:overworld#
+name:Chest,x:112,z:-6,y:70,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#
+name:Secret,x:-203,z:145,y:71,enabled:true,red:0.98039216,green:0.49411765,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Chest,x:-215,z:174,y:69,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:,dimensions:overworld#

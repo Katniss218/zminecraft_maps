@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:6,z:-28,y:139,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Very cool village,x:81,z:-806,y:102,enabled:true,red:0.007843138,green:0.99607843,blue:0.03529412,suffix:,world:,dimensions:overworld#
+name:Very cool Caves,x:264,z:-757,y:112,enabled:true,red:0.9882353,green:0.4392157,blue:0.007843138,suffix:,world:,dimensions:overworld#

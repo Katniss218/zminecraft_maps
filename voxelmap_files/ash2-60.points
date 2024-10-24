@@ -1,0 +1,23 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-98,z:-25,y:64,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Surface Caves wtf,x:-614,z:632,y:145,enabled:true,red:0.5686275,green:0.5686275,blue:0.5686275,suffix:,world:,dimensions:overworld#
+name:Cave,x:-352,z:978,y:67,enabled:true,red:0.5764706,green:0.5764706,blue:0.5764706,suffix:,world:,dimensions:overworld#
+name:2-storey cave,x:642,z:414,y:50,enabled:true,red:0.9607843,green:0.8980392,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Pit,x:576,z:338,y:53,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:Cove,x:15,z:1479,y:94,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:Settlement,x:5,z:1641,y:110,enabled:true,red:0.003921569,green:0.99215686,blue:0.047058824,suffix:house,world:,dimensions:overworld#
+name:Secluded area,x:92,z:1231,y:116,enabled:true,red:0.5686275,green:0.5686275,blue:0.5686275,suffix:,world:,dimensions:overworld#
+name:Cave,x:331,z:1133,y:53,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Roofed Descent,x:496,z:337,y:65,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:Dammed cave,x:1074,z:1067,y:86,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Shattered forest,x:1520,z:1108,y:125,enabled:true,red:0.5764706,green:0.5764706,blue:0.5764706,suffix:,world:,dimensions:overworld#
+name:Pond,x:666,z:309,y:66,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Plateau,x:274,z:317,y:132,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Temple?,x:-644,z:860,y:105,enabled:true,red:0.003921569,green:0.95686275,blue:0.85490197,suffix:,world:,dimensions:overworld#
+name:Secluded area 2,x:372,z:877,y:99,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:Forest cave,x:20,z:1254,y:73,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Plateau/cemetery/janiel,x:-27,z:1245,y:107,enabled:true,red:0.96862745,green:0.42352942,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ruined houses?,x:69,z:1180,y:122,enabled:true,red:0.9607843,green:0.41960785,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cave N,x:562,z:828,y:63,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#

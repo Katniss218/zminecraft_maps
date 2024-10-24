@@ -20,3 +20,19 @@ name:cool floral,x:-674,z:1083,y:96,enabled:true,red:0.6117647,green:0.6117647,b
 name:giant floral,x:-218,z:843,y:50,enabled:true,red:0.0,green:0.9843137,blue:0.8509804,suffix:,world:,dimensions:overworld#
 name:overhang,x:112,z:-226,y:53,enabled:true,red:0.18431373,green:0.9882353,blue:0.007843138,suffix:,world:,dimensions:overworld#
 name:RavineX,x:184,z:-226,y:73,enabled:true,red:0.003921569,green:0.95686275,blue:0.11372549,suffix:,world:,dimensions:overworld#
+name:Cool small cliffs,x:-103,z:-767,y:102,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Cave,x:-237,z:-601,y:51,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Woodland Mansion,x:-581,z:684,y:124,enabled:true,red:0.99215686,green:0.03137255,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Village,x:-325,z:1377,y:108,enabled:true,red:0.003921569,green:0.95686275,blue:0.023529412,suffix:house,world:,dimensions:overworld#
+name:Village 2,x:117,z:1158,y:101,enabled:true,red:0.0,green:0.9764706,blue:0.043137256,suffix:house,world:,dimensions:overworld#
+name:Zombie Village,x:-163,z:1926,y:100,enabled:true,red:0.95686275,green:0.93333334,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Cave,x:-481,z:1245,y:74,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Cliffs,x:-1318,z:1283,y:130,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Cavern,x:-1029,z:1930,y:63,enabled:true,red:0.59607846,green:0.59607846,blue:0.59607846,suffix:,world:,dimensions:overworld#
+name:Pit,x:-367,z:1871,y:78,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Cave,x:-240,z:1834,y:72,enabled:true,red:0.59607846,green:0.59607846,blue:0.59607846,suffix:,world:,dimensions:overworld#
+name:Small Pillars,x:119,z:2155,y:101,enabled:true,red:0.5921569,green:0.5921569,blue:0.5921569,suffix:,world:,dimensions:overworld#
+name:Village 4,x:-1463,z:1764,y:148,enabled:true,red:0.003921569,green:0.99215686,blue:0.047058824,suffix:,world:,dimensions:overworld#
+name:Trek N-S,x:-1453,z:1954,y:145,enabled:true,red:0.5686275,green:0.5686275,blue:0.5686275,suffix:,world:,dimensions:overworld#
+name:Cave,x:-910,z:1795,y:101,enabled:true,red:0.5764706,green:0.5764706,blue:0.5764706,suffix:,world:,dimensions:overworld#
+name:Hideout / Temple,x:-661,z:1469,y:142,enabled:true,red:0.9490196,green:0.49803922,blue:0.0,suffix:,world:,dimensions:overworld#

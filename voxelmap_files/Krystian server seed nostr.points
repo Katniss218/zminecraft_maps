@@ -1,0 +1,16 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-5,z:8,y:70,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Pierwszy wągiel,x:-107,z:176,y:67,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:hałs,x:-367,z:120,y:77,enabled:true,red:0.003921569,green:0.95686275,blue:0.11372549,suffix:house,world:,dimensions:overworld#
+name:das,x:-419,z:462,y:142,enabled:true,red:0.15083688,green:0.0042182207,blue:0.71209705,suffix:,world:,dimensions:overworld#
+name:cool1,x:-730,z:-1460,y:154,enabled:true,red:0.017418861,green:0.75188714,blue:0.5622566,suffix:,world:,dimensions:overworld#
+name:dsad,x:-1177,z:-2133,y:113,enabled:true,red:0.19304329,green:0.8592343,blue:0.27958626,suffix:,world:,dimensions:overworld#
+name:neohaus,x:-1241,z:429,y:141,enabled:true,red:0.003921569,green:0.93333334,blue:0.043137256,suffix:house,world:,dimensions:overworld#
+name:Shed,x:-1157,z:452,y:133,enabled:true,red:0.003921569,green:0.9529412,blue:0.039215688,suffix:,world:,dimensions:overworld#
+name:Mine,x:-1228,z:391,y:46,enabled:true,red:0.9764706,green:0.45882353,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Temple of the Breakthrough,x:-1197,z:474,y:136,enabled:true,red:0.0,green:0.9882353,blue:0.06666667,suffix:,world:,dimensions:overworld#
+name:River Port,x:-1209,z:256,y:70,enabled:true,red:0.011764706,green:0.99607843,blue:0.09803922,suffix:,world:,dimensions:overworld#
+name:Mushroom Tumor,x:-1182,z:701,y:164,enabled:true,red:0.5921569,green:0.5921569,blue:0.5921569,suffix:,world:,dimensions:overworld#
+name:Holy lava pit,x:-1212,z:478,y:127,enabled:true,red:0.85686404,green:0.52008325,blue:0.13461542,suffix:,world:,dimensions:overworld#

@@ -1,0 +1,52 @@
+{
+	"pools": 
+	[
+		{
+			"rolls":
+			{
+				"min": 1, "max": 2
+			},
+			"entries": 
+			[
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/bread"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": 
+			[
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/leather_boots"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": 
+			[
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/leather_hat"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": 
+			[
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/shortsword"
+				}
+			]
+		}
+	]
+}

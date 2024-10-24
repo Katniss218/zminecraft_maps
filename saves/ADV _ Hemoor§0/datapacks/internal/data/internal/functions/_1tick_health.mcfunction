@@ -1,0 +1,1 @@
+execute as @e[tag=hostile] store result score @s ai_health run data get entity @s Health

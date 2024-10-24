@@ -1,0 +1,12 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:0,z:9,y:63,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Plateau,x:-51,z:232,y:137,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Arena,x:-73,z:155,y:69,enabled:true,red:0.9372549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:River,x:297,z:115,y:98,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Hole,x:218,z:449,y:83,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Hole 2,x:219,z:404,y:69,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Starting Settlement,x:29,z:-36,y:87,enabled:true,red:0.007843138,green:0.9529412,blue:0.011764706,suffix:house,world:,dimensions:overworld#
+name:Port,x:48,z:-86,y:72,enabled:true,red:0.003921569,green:0.9647059,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Underground Secrets,x:115,z:-44,y:50,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#

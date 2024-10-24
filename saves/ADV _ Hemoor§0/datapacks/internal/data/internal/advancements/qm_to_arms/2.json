@@ -1,0 +1,26 @@
+{
+	"parent": "internal:qm_to_arms/_root",
+    "display": {
+        "title": {
+            "text": "                                                                                "
+        },
+        "description": [
+			"",
+            {"text": "Go to the storage shed to find equipment.", "color": "yellow"},
+            {"text": "\n\nThe storage shed is located north, you need to exit through the cellar and go through a cave to get to it.", "color": "gold"}
+        ],
+        "icon": {
+            "item": "minecraft:chest"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/qm.png"
+    },
+    "criteria": {
+        "x": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

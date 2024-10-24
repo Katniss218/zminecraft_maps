@@ -1,0 +1,57 @@
+{
+  "internal:qs_undead_problem/_root": {
+    "criteria": {
+      "x": "2023-09-17 08:15:26 +0200"
+    },
+    "done": true
+  },
+  "internal:qs_undead_problem/3": {
+    "criteria": {
+      "x": "2023-09-17 10:48:18 +0200"
+    },
+    "done": true
+  },
+  "internal:qm_against_the_tide/2": {
+    "criteria": {
+      "x": "2023-09-17 08:00:31 +0200"
+    },
+    "done": true
+  },
+  "internal:qm_against_the_tide/_root": {
+    "criteria": {
+      "x": "2023-09-17 08:00:31 +0200"
+    },
+    "done": true
+  },
+  "internal:qm_the_city_of_shadows/_root": {
+    "criteria": {
+      "x": "2023-09-16 17:46:19 +0200"
+    },
+    "done": true
+  },
+  "internal:qm_the_bandits_lair/6": {
+    "criteria": {
+      "x": "2023-09-17 07:54:12 +0200"
+    },
+    "done": true
+  },
+  "internal:qm_a_letter_from_friend/_root": {
+    "criteria": {
+      "x": "2023-09-17 08:22:46 +0200"
+    },
+    "done": true
+  },
+  "internal:qm_the_city_of_shadows/2": {
+    "criteria": {
+      "x": "2023-09-16 17:46:19 +0200"
+    },
+    "done": true
+  },
+  "internal:qm_a_letter_from_friend/2": {
+    "criteria": {
+      "x": "2023-09-17 08:22:46 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

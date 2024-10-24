@@ -1,0 +1,2 @@
+
+execute align xyz positioned ~0.5 ~0.5 ~0.5 unless entity @e[type=armor_stand,tag=basalt_marker,distance=..0.5,limit=1] run summon armor_stand ~ ~ ~ {Invisible:1b,Invulnerable:1b,NoGravity:1b,DisabledSlots:4144959,Marker:1b,NoGravity:1b,Tags:["basalt_marker","basalt_marker.3"]}

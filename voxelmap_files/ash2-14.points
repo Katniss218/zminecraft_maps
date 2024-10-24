@@ -5,3 +5,28 @@ name:>> SPAWN <<,x:4,z:6,y:77,enabled:true,red:0.99607843,green:0.99607843,blue:
 name:Lots of caves,x:194,z:-777,y:111,enabled:true,red:0.6039216,green:0.6039216,blue:0.6039216,suffix:,world:,dimensions:overworld#
 name:Something,x:588,z:-771,y:139,enabled:true,red:0.0,green:0.99215686,blue:0.02745098,suffix:,world:,dimensions:overworld#
 name:way to get up,x:535,z:-767,y:104,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:Ravine Hideout,x:1304,z:-1397,y:62,enabled:true,red:0.92941177,green:0.8784314,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Cool snow,x:2612,z:-1799,y:128,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Shipwreck,x:2148,z:-1287,y:93,enabled:true,red:0.9882353,green:0.95686275,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Bad guys camp,x:2016,z:-1141,y:150,enabled:true,red:0.92156863,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Bridge,x:2001,z:-1343,y:105,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Cliffs and Ravines,x:841,z:-1012,y:90,enabled:true,red:0.972549,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Road (flat area),x:1044,z:-1278,y:107,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Village or something?,x:1118,z:-1421,y:108,enabled:true,red:0.043137256,green:0.9843137,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Coastal road,x:843,z:-1323,y:115,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Magic area,x:766,z:-1044,y:107,enabled:true,red:0.9843137,green:0.49411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:_BOUNDS_,x:1229,z:-2535,y:80,enabled:true,red:0.0,green:0.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:_BOUNDS_,x:1781,z:-2436,y:64,enabled:true,red:0.0,green:0.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Flower cave,x:1525,z:-2131,y:104,enabled:true,red:0.0,green:0.99215686,blue:0.85882354,suffix:,world:,dimensions:overworld#
+name:Burned forest,x:1463,z:-2121,y:93,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Go S-E,x:1790,z:-1858,y:129,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Bridge,x:1878,z:-1253,y:80,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Bridge,x:1733,z:-1174,y:92,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Hermit,x:1455,z:-1588,y:90,enabled:true,red:0.9490196,green:0.8862745,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Tower (ruins),x:1447,z:-1365,y:104,enabled:true,red:0.9372549,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Bridge,x:1478,z:-2075,y:80,enabled:true,red:0.1764706,green:0.1764706,blue:0.1764706,suffix:,world:,dimensions:overworld#
+name:River Crossing,x:1281,z:-2075,y:76,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Start,x:1035,z:-2034,y:96,enabled:true,red:0.007843138,green:0.9843137,blue:0.011764706,suffix:world,world:,dimensions:overworld#
+name:Ravine,x:1283,z:-1941,y:101,enabled:true,red:0.96862745,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Tunnel,x:1732,z:-1884,y:65,enabled:true,red:0.5686275,green:0.5686275,blue:0.5686275,suffix:,world:,dimensions:overworld#
+name:Island,x:1785,z:-1730,y:83,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#

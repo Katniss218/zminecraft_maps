@@ -1,0 +1,22 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-70,z:-109,y:64,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Cave,x:67,z:-307,y:34,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Cave 2,x:-76,z:-267,y:55,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Divet,x:-35,z:-280,y:69,enabled:true,red:0.972549,green:0.40784314,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Caveish,x:20,z:-552,y:58,enabled:true,red:0.9490196,green:0.42745098,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:House (L),x:-209,z:-266,y:94,enabled:true,red:0.9529412,green:0.90588236,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Caves,x:-193,z:-271,y:72,enabled:true,red:0.9882353,green:0.4,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Cave,x:-158,z:-204,y:74,enabled:true,red:0.9607843,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ruined Houses,x:-40,z:-255,y:87,enabled:true,red:0.9137255,green:0.4862745,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Ruined Farm,x:-39,z:-302,y:90,enabled:true,red:0.9529412,green:0.42745098,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Tutorial (indoors),x:51,z:-63,y:79,enabled:true,red:0.14509805,green:0.9843137,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Settlement 2,x:-233,z:-684,y:81,enabled:true,red:0.007843138,green:0.98039216,blue:0.011764706,suffix:house,world:,dimensions:overworld#
+name:Settlement,x:-265,z:-596,y:81,enabled:true,red:0.007843138,green:0.972549,blue:0.007843138,suffix:house,world:,dimensions:overworld#
+name:PoI,x:-161,z:-463,y:92,enabled:true,red:0.011764706,green:0.9764706,blue:0.78039217,suffix:,world:,dimensions:overworld#
+name:Quest,x:-171,z:-431,y:84,enabled:true,red:0.003921569,green:0.972549,blue:0.8862745,suffix:,world:,dimensions:overworld#
+name:Ruined Tower,x:-127,z:-429,y:96,enabled:true,red:0.9372549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:House,x:-176,z:-379,y:96,enabled:true,red:0.07450981,green:0.9843137,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:House,x:-164,z:-228,y:89,enabled:true,red:0.9490196,green:0.4509804,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:House,x:-191,z:-208,y:91,enabled:true,red:0.99215686,green:0.9372549,blue:0.003921569,suffix:,world:,dimensions:overworld#

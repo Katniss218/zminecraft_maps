@@ -1,0 +1,26 @@
+{
+	"parent": "internal:qm_against_the_tide/2",
+    "display": {
+        "title": {
+            "text": "                                                                                "
+        },
+        "description": [
+			"",
+            {"text": "Finish building the basalt barricades before the dam collapses.", "color": "yellow"},
+            {"text": "\n\nYou can get some basalt from the city's warehouse. More can be mined at the nearby basalt mine, but it might not be enough...", "color": "gold"}
+        ],
+        "icon": {
+            "item": "minecraft:basalt"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/qm.png"
+    },
+    "criteria": {
+        "x": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

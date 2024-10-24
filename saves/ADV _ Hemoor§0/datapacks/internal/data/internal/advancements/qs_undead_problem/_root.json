@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Undead Problem", "color": "white", "bold": true
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:air"
+        },
+        "frame": "challenge",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/qs.png"
+    },
+    "criteria": {
+        "x": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

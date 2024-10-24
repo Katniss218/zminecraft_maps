@@ -1,0 +1,12 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:5,z:4,y:79,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Starting Village,x:31,z:217,y:128,enabled:true,red:0.011764706,green:0.99607843,blue:0.015686275,suffix:house,world:,dimensions:overworld#
+name:Village,x:386,z:386,y:123,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Stronghold,x:133,z:575,y:125,enabled:true,red:0.92941177,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Caves,x:89,z:294,y:87,enabled:true,red:0.99215686,green:0.019607844,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:Later Village,x:-494,z:143,y:126,enabled:true,red:0.039215688,green:0.972549,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Mysterious Forest,x:-358,z:239,y:122,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:Start in cave,x:97,z:102,y:66,enabled:true,red:0.9372549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Tutorial integrated,x:82,z:101,y:68,enabled:true,red:0.92941177,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#

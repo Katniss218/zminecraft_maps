@@ -1,0 +1,25 @@
+{
+	"parent": "internal:qs_undead_problem/2",
+    "display": {
+        "title": {
+            "text": "                                                                                "
+        },
+        "description": [
+			"",
+            {"text": "Talk to Oskar Ipsen.", "color": "yellow"}
+        ],
+        "icon": {
+            "item": "minecraft:observer"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/qs.png"
+    },
+    "criteria": {
+        "x": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

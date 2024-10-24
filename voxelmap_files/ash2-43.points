@@ -1,0 +1,15 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-7,z:36,y:78,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Village or something,x:-208,z:532,y:87,enabled:true,red:0.14509805,green:0.9882353,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:lighthouse,x:-176,z:652,y:85,enabled:true,red:0.91764706,green:0.8862745,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Shattered Mountains,x:-178,z:443,y:122,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:More cool terrain,x:-334,z:875,y:94,enabled:true,red:0.5529412,green:0.5529412,blue:0.5529412,suffix:,world:,dimensions:overworld#
+name:More cool terrain,x:-514,z:694,y:103,enabled:true,red:0.5647059,green:0.5686275,blue:0.5647059,suffix:,world:,dimensions:overworld#
+name:Cove,x:-581,z:622,y:81,enabled:true,red:0.0,green:0.92156863,blue:0.8235294,suffix:,world:,dimensions:overworld#
+name:cove entrance,x:-558,z:666,y:97,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:small ruin,x:-609,z:671,y:97,enabled:true,red:0.9137255,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:port,x:-187,z:635,y:71,enabled:true,red:0.003921569,green:0.9647059,blue:0.039215688,suffix:,world:,dimensions:overworld#
+name:START,x:-182,z:627,y:71,enabled:true,red:0.007843138,green:0.9529412,blue:0.15686275,suffix:world,world:,dimensions:overworld#
+name:Mine,x:-398,z:599,y:75,enabled:true,red:0.1764706,green:0.1764706,blue:0.1764706,suffix:,world:,dimensions:overworld#

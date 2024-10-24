@@ -1,0 +1,23 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-72,z:80,y:67,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:house,world:,dimensions:overworld#
+name:>> SPAWN <<,x:0,z:0,y:65,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:swiat#the_end#
+name:First Night,x:-371,z:129,y:71,enabled:true,red:0.003921569,green:0.9490196,blue:0.043137256,suffix:,world:,dimensions:swiat#
+name:Way,x:-91,z:189,y:71,enabled:true,red:0.8926962,green:0.64268017,blue:0.45039213,suffix:,world:,dimensions:swiat#
+name:copper vein,x:-415,z:224,y:8,enabled:true,red:0.5655988,green:0.30112565,blue:0.64393574,suffix:,world:,dimensions:swiat#
+name:spawner spider,x:-393,z:363,y:-11,enabled:true,red:0.73233694,green:0.12428856,blue:0.06419349,suffix:,world:,dimensions:swiat#
+name:glina,x:-400,z:247,y:64,enabled:true,red:0.72644293,green:0.11344272,blue:0.37289178,suffix:,world:,dimensions:swiat#
+name:glina,x:-1092,z:237,y:62,enabled:true,red:0.8141364,green:0.7338497,blue:0.3839059,suffix:,world:,dimensions:swiat#
+name:fajne,x:-1263,z:266,y:75,enabled:true,red:0.7659358,green:0.15368152,blue:0.91094965,suffix:,world:,dimensions:swiat#
+name:jaskinia,x:-1397,z:129,y:70,enabled:true,red:0.88929427,green:0.10707104,blue:0.75153935,suffix:,world:,dimensions:swiat#
+name:koniec ekspedycji,x:-1566,z:-28,y:63,enabled:true,red:0.030100524,green:0.07145131,blue:0.56488657,suffix:,world:,dimensions:swiat#
+name:lawa,x:-1287,z:95,y:74,enabled:true,red:0.38340718,green:0.26318014,blue:0.73807555,suffix:,world:,dimensions:swiat#
+name:statek,x:-1019,z:170,y:66,enabled:true,red:0.13666236,green:0.13956821,blue:0.49931598,suffix:,world:,dimensions:swiat#
+name:glina,x:-807,z:241,y:61,enabled:true,red:0.95368767,green:0.5288333,blue:0.116476,suffix:,world:,dimensions:swiat#
+name:diamenty,x:-371,z:345,y:-25,enabled:true,red:0.5207952,green:0.7962478,blue:0.68170077,suffix:,world:,dimensions:swiat#
+name:diax krystian,x:-391,z:234,y:-46,enabled:true,red:0.5249234,green:0.22171664,blue:0.8369027,suffix:,world:,dimensions:swiat#
+name:dziura,x:-1040,z:188,y:66,enabled:true,red:0.8922379,green:0.39563954,blue:0.84231323,suffix:,world:,dimensions:swiat#
+name:hills,x:-1207,z:445,y:118,enabled:true,red:0.421574,green:0.05257821,blue:0.1805743,suffix:,world:,dimensions:swiat#
+name:chata jjay,x:-1170,z:515,y:110,enabled:true,red:0.043137256,green:0.98039216,blue:0.003921569,suffix:,world:,dimensions:swiat#
+name:świątynia przełomu,x:-1217,z:396,y:113,enabled:true,red:0.23966503,green:0.2084282,blue:0.9931689,suffix:,world:,dimensions:swiat#

@@ -1,0 +1,20 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-1,z:5,y:66,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Cool cave,x:-545,z:1891,y:115,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:Large Cave,x:-310,z:1514,y:148,enabled:true,red:0.5764706,green:0.5764706,blue:0.5764706,suffix:,world:,dimensions:overworld#
+name:Cave,x:-370,z:19,y:60,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Mouth Cave,x:-148,z:578,y:69,enabled:true,red:0.5568628,green:0.5568628,blue:0.5568628,suffix:,world:,dimensions:overworld#
+name:Cool cliff,x:-606,z:972,y:126,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Azaleas,x:-492,z:1326,y:123,enabled:true,red:0.003921569,green:0.9647059,blue:0.039215688,suffix:,world:,dimensions:overworld#
+name:Azaleas,x:-824,z:1484,y:133,enabled:true,red:0.007843138,green:0.98039216,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Village,x:-687,z:2172,y:102,enabled:true,red:0.0,green:0.99215686,blue:0.02745098,suffix:,world:,dimensions:overworld#
+name:Neat area,x:-802,z:2525,y:121,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Cove Island,x:-1055,z:2100,y:84,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Cool Mountains,x:-1572,z:2119,y:190,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:Village/fort,x:-1525,z:2000,y:130,enabled:true,red:0.007843138,green:0.9843137,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Caves,x:-1553,z:2118,y:137,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
+name:Forestish,x:-1390,z:2127,y:94,enabled:true,red:0.99215686,green:0.9607843,blue:0.015686275,suffix:,world:,dimensions:overworld#
+name:Cliff port,x:-1635,z:2121,y:130,enabled:true,red:0.003921569,green:0.9372549,blue:0.02745098,suffix:,world:,dimensions:overworld#
+name:Floating Port,x:-1623,z:2011,y:76,enabled:true,red:0.003921569,green:0.96862745,blue:0.0627451,suffix:,world:,dimensions:overworld#

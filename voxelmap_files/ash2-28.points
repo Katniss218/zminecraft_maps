@@ -1,0 +1,14 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-87,z:335,y:66,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Cool cave,x:-155,z:476,y:79,enabled:true,red:0.6039216,green:0.6039216,blue:0.6039216,suffix:,world:,dimensions:overworld#
+name:The Strip,x:-917,z:378,y:103,enabled:true,red:0.6,green:0.6,blue:0.6,suffix:,world:,dimensions:overworld#
+name:Forest Village,x:-291,z:908,y:97,enabled:true,red:0.007843138,green:0.9490196,blue:0.06666667,suffix:house,world:,dimensions:overworld#
+name:Peaks,x:-62,z:1059,y:141,enabled:true,red:0.5921569,green:0.5921569,blue:0.5921569,suffix:,world:,dimensions:overworld#
+name:Big build or something,x:-1575,z:544,y:116,enabled:true,red:0.60784316,green:0.60784316,blue:0.60784316,suffix:,world:,dimensions:overworld#
+name:Shattered mountains,x:-1718,z:316,y:135,enabled:true,red:0.5882353,green:0.5882353,blue:0.5882353,suffix:,world:,dimensions:overworld#
+name:Castle?,x:-1688,z:51,y:101,enabled:true,red:0.6,green:0.6,blue:0.6,suffix:,world:,dimensions:overworld#
+name:Small village,x:-797,z:84,y:95,enabled:true,red:0.078431375,green:0.98039216,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Mystical something~comma~ temple?,x:-968,z:8,y:136,enabled:true,red:0.0,green:0.9529412,blue:0.8627451,suffix:,world:,dimensions:overworld#
+name:replacebiome,x:-964,z:66,y:147,enabled:true,red:0.6,green:0.6,blue:0.6,suffix:,world:,dimensions:overworld#

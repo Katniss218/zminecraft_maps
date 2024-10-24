@@ -1,0 +1,16 @@
+{
+	"pools": 
+	[
+		{
+			"rolls": 5,
+			"entries": 
+			[
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/bones"
+				}
+			]
+		}
+	]
+}

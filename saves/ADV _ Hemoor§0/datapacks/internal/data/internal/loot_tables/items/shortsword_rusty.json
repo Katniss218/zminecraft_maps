@@ -1,0 +1,76 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:iron_sword",
+					"functions":
+					[
+						{
+							"function": "set_name",
+							"name": { "italic": false, "text": "Rusty Shortsword", "color": "gray", "bold": true }
+						},
+						{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "italic": false, "text": "- The blade is a little crooked, and covered in rust,", "color": "white" },
+								{ "italic": false, "text": "  but parts of the edge are still sharp.", "color": "white" },
+								{ "italic": false, "text": "" },
+								["",{ "italic": false, "text": "Damage", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "6", "color": "yellow", "bold": true },{ "italic": false, "text": " (", "color": "gray" },{ "italic": false, "text": "5", "color": "red", "bold": true },{ "italic": false, "text": ")", "color": "gray" }],
+								["",{ "italic": false, "text": " Damaged: ", "color": "gray" },{ "italic": false, "text": "-1", "color": "red" }],
+								["",{ "italic": false, "text": "Speed", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "-2", "color": "yellow", "bold": true },{ "italic": false, "text": " (", "color": "gray" },{ "italic": false, "text": "-2", "color": "yellow", "bold": true },{ "italic": false, "text": ")", "color": "gray" }],
+								{ "italic": false, "text": "" }
+							]
+						},
+						{
+							"function": "set_attributes",
+							"modifiers":
+							[
+								{
+									"amount": 6,
+									"slot": "mainhand",
+									"name": "generic.attack_damage",
+									"attribute": "generic.attack_damage",
+									"operation": "addition"
+								},
+								{
+									"amount": -2.0,
+									"slot": "mainhand",
+									"name": "generic.attack_speed",
+									"attribute": "generic.attack_speed",
+									"operation": "addition"
+								}
+							]
+						},
+						{
+							"function": "set_attributes",
+							"modifiers":
+							[
+								{
+									"amount": -1,
+									"slot": "mainhand",
+									"name": "generic.attack_damage",
+									"attribute": "generic.attack_damage",
+									"operation": "addition"
+								}
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{HideFlags:2147483647,Unbreakable:1}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{ItemId:28,CustomModelData:28}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

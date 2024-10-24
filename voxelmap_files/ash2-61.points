@@ -1,0 +1,20 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-6,z:-57,y:114,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Village over ravine,x:-342,z:741,y:123,enabled:true,red:0.015686275,green:0.99607843,blue:0.019607844,suffix:house,world:,dimensions:overworld#
+name:Icy Anomaly,x:-96,z:175,y:137,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Start around here,x:259,z:108,y:110,enabled:true,red:0.0,green:0.99215686,blue:0.02745098,suffix:world,world:,dimensions:overworld#
+name:_BOUNDS_,x:1093,z:-398,y:78,enabled:true,red:0.0,green:0.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Hideout,x:251,z:183,y:72,enabled:true,red:0.9372549,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Evil Caves,x:247,z:-128,y:72,enabled:true,red:0.9529412,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Troubled Village,x:302,z:-195,y:96,enabled:true,red:0.9254902,green:0.8980392,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:PoI,x:622,z:-130,y:104,enabled:true,red:0.54509807,green:0.54509807,blue:0.54509807,suffix:,world:,dimensions:overworld#
+name:Approach,x:152,z:-766,y:134,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Island village,x:-811,z:-380,y:96,enabled:true,red:0.9529412,green:0.8901961,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Fort-ish?,x:-1303,z:-159,y:120,enabled:true,red:0.9529412,green:0.90588236,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Troubled Village 2,x:-514,z:50,y:102,enabled:true,red:0.94509804,green:0.89411765,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Troubled Village 3,x:-734,z:179,y:89,enabled:true,red:0.94509804,green:0.91764706,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Bad guy 1,x:156,z:-185,y:50,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ruined houses,x:137,z:-165,y:113,enabled:true,red:0.9607843,green:0.43529412,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Bridge,x:419,z:4,y:75,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#

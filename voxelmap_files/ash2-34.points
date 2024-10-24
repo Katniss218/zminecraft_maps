@@ -1,0 +1,8 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:199,z:33,y:76,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:cool,x:412,z:1436,y:105,enabled:true,red:0.58431375,green:0.58431375,blue:0.58431375,suffix:,world:,dimensions:overworld#
+name:river,x:411,z:1247,y:103,enabled:true,red:0.6039216,green:0.6039216,blue:0.6039216,suffix:,world:,dimensions:overworld#
+name:cave,x:381,z:1339,y:65,enabled:true,red:0.972549,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Village,x:299,z:1942,y:125,enabled:true,red:0.003921569,green:0.95686275,blue:0.05882353,suffix:house,world:,dimensions:overworld#

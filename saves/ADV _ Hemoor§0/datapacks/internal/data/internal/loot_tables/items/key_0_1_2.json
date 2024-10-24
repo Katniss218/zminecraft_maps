@@ -1,0 +1,40 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:emerald",
+					"functions":
+					[
+						{
+							"function": "set_name",
+							"name": { "italic": false, "text": "Key", "color": "dark_purple", "bold": true }
+						},
+						{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "italic": false, "text": "<> #0-1-2", "color": "dark_purple" },
+								{ "italic": false, "text": "- A key to the western exit from your house, given", "color": "light_purple" },
+								{ "italic": false, "text": "  to you by Magnus Hammar.", "color": "light_purple" },
+								{ "italic": false, "text": "" }
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{HideFlags:2147483647,Unbreakable:1}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{ItemId:39,CustomModelData:39}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

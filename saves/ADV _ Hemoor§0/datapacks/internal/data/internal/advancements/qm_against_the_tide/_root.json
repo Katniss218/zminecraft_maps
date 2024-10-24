@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Against the Tide", "color": "yellow", "bold": true
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:air"
+        },
+        "frame": "challenge",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/qm.png"
+    },
+    "criteria": {
+        "x": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

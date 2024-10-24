@@ -1,0 +1,8 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:4,z:3,y:85,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:cave,x:-99,z:206,y:59,enabled:true,red:0.99215686,green:0.03137255,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:swamp,x:-99,z:314,y:100,enabled:true,red:0.1764706,green:0.1764706,blue:0.1764706,suffix:,world:,dimensions:overworld#
+name:settlement,x:41,z:374,y:99,enabled:true,red:0.047058824,green:0.99215686,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:settlement 2,x:-18,z:63,y:108,enabled:true,red:0.0,green:0.99607843,blue:0.02745098,suffix:,world:,dimensions:overworld#

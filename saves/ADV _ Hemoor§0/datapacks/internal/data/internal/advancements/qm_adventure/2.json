@@ -1,0 +1,25 @@
+{
+	"parent": "internal:qm_adventure/_root",
+    "display": {
+        "title": {
+            "text": "                                                                                "
+        },
+        "description": [
+			"",
+            {"text": "Talk to Magnus Hammar.", "color": "yellow"}
+        ],
+        "icon": {
+            "item": "minecraft:observer"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/qm.png"
+    },
+    "criteria": {
+        "x": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

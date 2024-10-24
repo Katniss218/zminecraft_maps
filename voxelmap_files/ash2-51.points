@@ -1,0 +1,9 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:10,z:-23,y:74,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#the_nether#
+name:Cave Entrance,x:-59,z:68,y:74,enabled:true,red:0.96862745,green:0.42352942,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Small Basin,x:41,z:47,y:76,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Large Basin,x:-25,z:10,y:78,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Cool Cave,x:61,z:-9,y:69,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Lake,x:276,z:7,y:88,enabled:true,red:0.9411765,green:0.8784314,blue:0.003921569,suffix:,world:,dimensions:overworld#

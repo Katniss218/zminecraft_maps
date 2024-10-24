@@ -1,0 +1,25 @@
+{
+	"parent": "internal:qm_a_letter_from_friend/_root",
+    "display": {
+        "title": {
+            "text": "                                                                                "
+        },
+        "description": [
+			"",
+            {"text": "Find the letter from Max Aero.", "color": "yellow"}
+        ],
+        "icon": {
+            "item": "minecraft:chest"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/qm.png"
+    },
+    "criteria": {
+        "x": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+particle minecraft:block minecraft:bone_block ~ ~0.85 ~ 0.3 0.5 0.3 1 60 normal @a

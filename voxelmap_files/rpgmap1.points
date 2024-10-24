@@ -1,0 +1,66 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:hamlet,x:-259,z:266,y:92,enabled:true,red:0.0,green:0.9882353,blue:0.09019608,suffix:,world:,dimensions:overworld#
+name:Start Town,x:345,z:428,y:92,enabled:true,red:0.003921569,green:0.9843137,blue:0.02745098,suffix:house,world:,dimensions:overworld#
+name:Hamlet/Temple,x:513,z:341,y:99,enabled:true,red:0.0,green:0.9764706,blue:0.043137256,suffix:,world:,dimensions:overworld#
+name:Cave,x:632,z:308,y:96,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:bridge,x:422,z:89,y:83,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:bridge,x:438,z:208,y:78,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Severely ruined tower,x:275,z:229,y:105,enabled:true,red:0.8784314,green:0.85882354,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ruined tower,x:309,z:189,y:120,enabled:true,red:0.9019608,green:0.85490197,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ruined tower,x:351,z:265,y:123,enabled:true,red:0.9137255,green:0.8627451,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Mine,x:319,z:512,y:78,enabled:true,red:0.94509804,green:0.91764706,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:bridge,x:294,z:602,y:72,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Mine/Cave/hideout,x:160,z:647,y:84,enabled:true,red:0.9843137,green:0.015686275,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Swamp,x:-252,z:466,y:129,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:House,x:614,z:435,y:102,enabled:true,red:0.003921569,green:0.95686275,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Ruined Towers,x:693,z:-31,y:165,enabled:true,red:0.95686275,green:0.93333334,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ruined Houses,x:826,z:-73,y:174,enabled:true,red:0.94509804,green:0.4627451,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Town 2,x:538,z:-86,y:137,enabled:true,red:0.07058824,green:0.972549,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Ruined Towers,x:466,z:-50,y:144,enabled:true,red:0.92941177,green:0.90588236,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Mountain Entrance,x:542,z:-560,y:129,enabled:true,red:0.94509804,green:0.4627451,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cemetery,x:586,z:-534,y:125,enabled:true,red:0.9607843,green:0.003921569,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Teleport #1,x:700,z:-862,y:158,enabled:true,red:0.003921569,green:0.9137255,blue:0.81960785,suffix:science,world:,dimensions:overworld#the_end#
+name:Shrouded City,x:350,z:-664,y:144,enabled:true,red:0.92156863,green:0.87058824,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ruined Lighthouse,x:157,z:-416,y:122,enabled:true,red:0.9490196,green:0.49803922,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ruined Lighthouse,x:-197,z:-334,y:117,enabled:true,red:0.99215686,green:0.5686275,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ruined Towers,x:799,z:-48,y:209,enabled:true,red:0.93333334,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ancient Ruins here,x:422,z:-504,y:121,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:skull,world:,dimensions:overworld#
+name:Dungeon Entrance,x:19,z:-120,y:95,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:skull,world:,dimensions:overworld#
+name:Smaller Dungeonlet,x:-30,z:76,y:104,enabled:true,red:0.99215686,green:0.015686275,blue:0.011764706,suffix:,world:,dimensions:overworld#
+name:Water Cave,x:190,z:17,y:74,enabled:true,red:0.9529412,green:0.4745098,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Severely ruined tower,x:34,z:366,y:101,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Ruined Tower,x:-185,z:161,y:101,enabled:true,red:0.9490196,green:0.92156863,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Small port,x:261,z:326,y:77,enabled:true,red:0.07058824,green:0.93333334,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cave,x:571,z:284,y:99,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Windmill,x:598,z:-21,y:120,enabled:true,red:0.105882354,green:0.98039216,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Barn,x:504,z:525,y:87,enabled:true,red:0.003921569,green:0.9843137,blue:0.02745098,suffix:,world:,dimensions:overworld#
+name:Temple,x:664,z:-64,y:114,enabled:true,red:0.07058824,green:0.972549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Swamp Hut,x:-238,z:388,y:78,enabled:true,red:0.9843137,green:0.5254902,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Flooded Houses,x:-330,z:562,y:83,enabled:true,red:0.9529412,green:0.5254902,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:Collapsed Mine,x:-3,z:696,y:86,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Angry Cave #1,x:-368,z:-243,y:91,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:skull,world:,dimensions:overworld#
+name:Angry Cavelet,x:-322,z:-201,y:87,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Scorched Area,x:-321,z:-295,y:120,enabled:true,red:0.94509804,green:0.4745098,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Besieged Town,x:-623,z:-338,y:118,enabled:true,red:0.95686275,green:0.90588236,blue:0.007843138,suffix:house,world:,dimensions:overworld#
+name:Mine,x:-568,z:-78,y:84,enabled:true,red:0.98039216,green:0.92941177,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Fisherman,x:868,z:152,y:96,enabled:true,red:0.07058824,green:0.95686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:passage,x:338,z:220,y:84,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Port,x:426,z:693,y:79,enabled:true,red:0.0,green:0.93333334,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Port,x:527,z:682,y:82,enabled:true,red:0.007843138,green:0.972549,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Hideout,x:593,z:611,y:82,enabled:true,red:0.94509804,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Hideout exit,x:621,z:541,y:76,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Wizard Tower,x:556,z:-897,y:165,enabled:true,red:0.003921569,green:0.9490196,blue:0.03137255,suffix:,world:,dimensions:overworld#
+name:Tower,x:418,z:-370,y:171,enabled:true,red:0.9607843,green:0.003921569,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Tower,x:534,z:-513,y:198,enabled:true,red:0.99215686,green:0.023529412,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Tower,x:496,z:-572,y:195,enabled:true,red:0.99215686,green:0.019607844,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:bridge,x:-309,z:90,y:80,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:passage,x:-348,z:-206,y:78,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:bridge,x:-90,z:624,y:79,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:destroyed bridge,x:-77,z:424,y:73,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
+name:bridge,x:-668,z:-380,y:101,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:bridge,x:658,z:-623,y:102,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:water mill,x:315,z:571,y:80,enabled:true,red:0.03529412,green:0.9490196,blue:0.0,suffix:,world:,dimensions:overworld#
+name:bridge,x:626,z:219,y:94,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:destroyed bridge,x:19,z:435,y:72,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#

@@ -1,0 +1,25 @@
+{
+	"parent": "internal:qm_the_bandits_lair/4",
+    "display": {
+        "title": {
+            "text": "                                                                                "
+        },
+        "description": [
+			"",
+            {"text": "Tell Max Aero that the bandits have been dealt with.", "color": "yellow"}
+        ],
+        "icon": {
+            "item": "minecraft:observer"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/qm.png"
+    },
+    "criteria": {
+        "x": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,74 @@
+subworlds:map,rpgmap1,
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-144,z:-320,y:71,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:map,dimensions:mv_map#
+name:T~colon~ Kumla,x:29,z:-527,y:84,enabled:true,red:0.0,green:0.96862745,blue:0.023529412,suffix:house,world:map,dimensions:mv_map#
+name:Dungentry lv 15,x:-36,z:-505,y:66,enabled:true,red:0.9882353,green:0.02745098,blue:0.007843138,suffix:skull,world:map,dimensions:mv_map#
+name:Lv.15 area (lower forest),x:-46,z:-617,y:103,enabled:true,red:0.003921569,green:0.92941177,blue:0.84705883,suffix:star,world:map,dimensions:mv_map#
+name:Lv.5 area (small forest),x:-246,z:-310,y:91,enabled:true,red:0.003921569,green:0.9490196,blue:0.84705883,suffix:star,world:map,dimensions:mv_map#
+name:Lv.10 area (cemetery),x:-87,z:-488,y:84,enabled:true,red:0.0,green:0.96862745,blue:0.85882354,suffix:star,world:map,dimensions:mv_map#
+name:Lv.15 area (upper forest),x:160,z:-533,y:98,enabled:true,red:0.0,green:0.9254902,blue:0.8,suffix:star,world:map,dimensions:mv_map#
+name:Lv.5 area (road),x:-85,z:-410,y:89,enabled:true,red:0.003921569,green:0.9607843,blue:0.8392157,suffix:star,world:map,dimensions:mv_map#
+name:Lv.1 area (start),x:-144,z:-275,y:107,enabled:true,red:0.0,green:0.8901961,blue:0.7764706,suffix:star,world:map,dimensions:mv_map#
+name:sada,x:-1981,z:-4485,y:78,enabled:true,red:0.75249106,green:0.72950757,blue:0.36868113,suffix:,world:,dimensions:overworld#
+name:Lv.25 area (giant tree),x:371,z:-560,y:85,enabled:true,red:0.003921569,green:0.9411765,blue:0.84313726,suffix:star,world:map,dimensions:mv_map#
+name:Lv.10 area (forest edge),x:60,z:-646,y:102,enabled:true,red:0.003921569,green:0.9254902,blue:0.84705883,suffix:star,world:map,dimensions:mv_map#
+name:lava elemental,x:61,z:-541,y:59,enabled:true,red:0.9607843,green:0.5294118,blue:0.0,suffix:,world:map,dimensions:mv_map#
+name:T~colon~ Kumla - Lv.5,x:345,z:428,y:92,enabled:true,red:0.003921569,green:0.9843137,blue:0.02745098,suffix:house,world:rpgmap1,dimensions:rpgmap1#
+name:Hamlet/Temple,x:513,z:341,y:99,enabled:true,red:0.0,green:0.9764706,blue:0.043137256,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Severely ruined tower,x:275,z:229,y:105,enabled:false,red:0.8784314,green:0.85882354,blue:0.0,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Ruined tower,x:309,z:189,y:120,enabled:false,red:0.9019608,green:0.85490197,blue:0.0,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Ruined tower,x:351,z:265,y:123,enabled:false,red:0.9137255,green:0.8627451,blue:0.0,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Mine/Cave/hideout,x:160,z:647,y:84,enabled:true,red:0.9843137,green:0.015686275,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Swamp - Lv.15,x:-252,z:466,y:129,enabled:true,red:0.003921569,green:0.95686275,blue:0.80784315,suffix:star,world:rpgmap1,dimensions:rpgmap1#
+name:Ruined Towers,x:693,z:-31,y:135,enabled:false,red:0.95686275,green:0.93333334,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Ruined Houses,x:826,z:-73,y:174,enabled:true,red:0.94509804,green:0.4627451,blue:0.0,suffix:house,world:rpgmap1,dimensions:rpgmap1#
+name:Town 2,x:538,z:-86,y:137,enabled:true,red:0.07058824,green:0.972549,blue:0.0,suffix:house,world:rpgmap1,dimensions:rpgmap1#
+name:Ruined Towers,x:466,z:-50,y:144,enabled:false,red:0.92941177,green:0.90588236,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Cemetery,x:586,z:-534,y:125,enabled:true,red:0.9607843,green:0.003921569,blue:0.0,suffix:house,world:rpgmap1,dimensions:rpgmap1#
+name:Teleport #1,x:700,z:-862,y:158,enabled:true,red:0.003921569,green:0.9137255,blue:0.81960785,suffix:science,world:rpgmap1,dimensions:rpgmap1#the_end#
+name:Shrouded City,x:350,z:-664,y:144,enabled:true,red:0.92156863,green:0.87058824,blue:0.0,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Ruined Lighthouse,x:157,z:-416,y:122,enabled:false,red:0.9490196,green:0.49803922,blue:0.0,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Ruined Lighthouse,x:-197,z:-334,y:117,enabled:false,red:0.99215686,green:0.5686275,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Ruined Towers,x:799,z:-48,y:195,enabled:false,red:0.93333334,green:0.9372549,blue:0.0,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Ancient Ruins here,x:422,z:-504,y:121,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:skull,world:rpgmap1,dimensions:rpgmap1#
+name:Dungeon Entrance,x:19,z:-120,y:95,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:skull,world:rpgmap1,dimensions:rpgmap1#
+name:Smaller Dungeonlet,x:-30,z:76,y:104,enabled:true,red:0.99215686,green:0.015686275,blue:0.011764706,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Severely ruined tower,x:34,z:366,y:101,enabled:false,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Ruined Tower,x:-185,z:161,y:101,enabled:false,red:0.9490196,green:0.92156863,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Swamp Hut,x:-238,z:388,y:78,enabled:true,red:0.9843137,green:0.5254902,blue:0.0,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Flooded Houses,x:-330,z:562,y:83,enabled:true,red:0.9529412,green:0.5254902,blue:0.0,suffix:house,world:rpgmap1,dimensions:rpgmap1#
+name:Collapsed Mine,x:-3,z:696,y:86,enabled:true,red:0.98039216,green:0.9490196,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Angry Cave #1,x:-368,z:-243,y:91,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:skull,world:rpgmap1,dimensions:rpgmap1#
+name:Scorched Area,x:-321,z:-295,y:120,enabled:true,red:0.94509804,green:0.4745098,blue:0.0,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Besieged Town,x:-623,z:-338,y:118,enabled:true,red:0.95686275,green:0.90588236,blue:0.007843138,suffix:house,world:rpgmap1,dimensions:rpgmap1#
+name:Fisherman,x:868,z:152,y:96,enabled:true,red:0.07058824,green:0.95686275,blue:0.0,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Wizard Tower,x:556,z:-897,y:200,enabled:false,red:0.003921569,green:0.9490196,blue:0.03137255,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Tower,x:418,z:-370,y:171,enabled:false,red:0.9607843,green:0.003921569,blue:0.0,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Tower,x:534,z:-513,y:198,enabled:false,red:0.99215686,green:0.023529412,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Tower,x:496,z:-572,y:195,enabled:false,red:0.99215686,green:0.019607844,blue:0.019607844,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Ruined tower,x:-493,z:-516,y:97,enabled:false,red:0.98039216,green:0.9490196,blue:0.011764706,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Ruined Tower,x:-483,z:-368,y:130,enabled:false,red:0.9607843,green:0.8980392,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Plains~colon~ Lv.10,x:19,z:550,y:96,enabled:true,red:0.003921569,green:0.9607843,blue:0.8392157,suffix:star,world:rpgmap1,dimensions:rpgmap1#
+name:Plains Lv.10,x:498,z:304,y:104,enabled:true,red:0.0,green:0.9254902,blue:0.80784315,suffix:star,world:rpgmap1,dimensions:rpgmap1#
+name:Kumla Port,x:480,z:679,y:89,enabled:true,red:0.0,green:0.99215686,blue:0.02745098,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:ruined house,x:494,z:585,y:72,enabled:true,red:0.91764706,green:0.92156863,blue:0.0,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Cave,x:197,z:13,y:67,enabled:false,red:0.9490196,green:0.54901963,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Mines,x:-576,z:-88,y:89,enabled:true,red:0.9607843,green:0.9137255,blue:0.0,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Cave,x:574,z:282,y:88,enabled:false,red:0.99215686,green:0.015686275,blue:0.011764706,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Stone Quarry,x:740,z:-157,y:125,enabled:true,red:0.94509804,green:0.91764706,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Hideout,x:603,z:563,y:76,enabled:true,red:0.99607843,green:0.007843138,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Lv.5 - South Kumla,x:408,z:610,y:100,enabled:true,red:0.023529412,green:0.9882353,blue:0.8862745,suffix:star,world:rpgmap1,dimensions:rpgmap1#
+name:Admin building,x:355,z:412,y:86,enabled:false,red:0.6117647,green:0.6117647,blue:0.6117647,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Community,x:610,z:442,y:105,enabled:true,red:0.043137256,green:0.9843137,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Inn,x:462,z:-293,y:123,enabled:true,red:0.92941177,green:0.93333334,blue:0.003921569,suffix:,world:rpgmap1,dimensions:overworld#rpgmap1#
+name:Chest,x:294,z:489,y:52,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:rpgmap1,dimensions:rpgmap1#
+name:Ruins,x:-27,z:562,y:79,enabled:true,red:0.92941177,green:0.019607844,blue:0.0,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:something here,x:-139,z:582,y:82,enabled:true,red:0.99215686,green:0.003921569,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:passage,x:-355,z:-210,y:81,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Ruined something,x:-471,z:-198,y:96,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Secret Temple - Teleport #2,x:-711,z:-273,y:54,enabled:true,red:0.0,green:0.9098039,blue:0.827451,suffix:science,world:rpgmap1,dimensions:rpgmap1#
+name:Enemies or something,x:622,z:328,y:102,enabled:true,red:0.9490196,green:0.39607844,blue:0.0,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Ruins,x:642,z:172,y:103,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:windmill,x:371,z:326,y:85,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:rpgmap1,dimensions:rpgmap1#
+name:Chest,x:656,z:43,y:94,enabled:false,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:diamond,world:rpgmap1,dimensions:rpgmap1#

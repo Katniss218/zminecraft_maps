@@ -1,0 +1,39 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:emerald",
+					"functions":
+					[
+						{
+							"function": "set_name",
+							"name": { "italic": false, "text": "Bandit Key", "color": "dark_purple", "bold": true }
+						},
+						{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "italic": false, "text": "<> #0-2-1", "color": "dark_purple" },
+								{ "italic": false, "text": "- A key found in a hidden stash behind a tree.", "color": "light_purple" },
+								{ "italic": false, "text": "" }
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{HideFlags:2147483647,Unbreakable:1}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{ItemId:40,CustomModelData:40}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

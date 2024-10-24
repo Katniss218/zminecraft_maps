@@ -1,0 +1,5 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:282,z:114,y:65,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Small play area,x:568,z:-135,y:109,enabled:true,red:0.5921569,green:0.5921569,blue:0.5921569,suffix:,world:,dimensions:overworld#

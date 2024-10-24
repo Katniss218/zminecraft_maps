@@ -1,0 +1,28 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-1,z:1,y:68,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Floating Town,x:-751,z:-538,y:106,enabled:true,red:0.003921569,green:0.9843137,blue:0.043137256,suffix:house,world:,dimensions:overworld#
+name:Cliffside Town,x:-777,z:-763,y:121,enabled:true,red:0.047058824,green:0.99215686,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Great Sea Wall,x:-871,z:-391,y:82,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Hideout,x:-950,z:-531,y:61,enabled:true,red:0.99215686,green:0.011764706,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Forest,x:-1133,z:-412,y:100,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Cliffside Town 2,x:-1416,z:-267,y:113,enabled:true,red:0.003921569,green:0.9843137,blue:0.02745098,suffix:house,world:,dimensions:overworld#
+name:Monte,x:-563,z:-257,y:128,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:Valley,x:-417,z:9,y:112,enabled:true,red:0.16078432,green:0.16078432,blue:0.16078432,suffix:,world:,dimensions:overworld#
+name:Village,x:-373,z:371,y:120,enabled:true,red:0.0,green:0.96862745,blue:0.023529412,suffix:house,world:,dimensions:overworld#
+name:Starting Village,x:-12,z:232,y:120,enabled:true,red:0.003921569,green:0.99215686,blue:0.09411765,suffix:house,world:,dimensions:overworld#
+name:Caves,x:-373,z:-61,y:109,enabled:true,red:0.5803922,green:0.5803922,blue:0.5803922,suffix:,world:,dimensions:overworld#
+name:Black Market,x:-400,z:333,y:72,enabled:true,red:0.92941177,green:0.90588236,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Secret Cave,x:-397,z:292,y:58,enabled:true,red:0.9843137,green:0.44313726,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Caves,x:-514,z:185,y:74,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:Hermit,x:-610,z:478,y:101,enabled:true,red:0.0,green:0.9254902,blue:0.019607844,suffix:,world:,dimensions:overworld#
+name:Hermit's Cave System,x:-555,z:499,y:96,enabled:true,red:0.9411765,green:0.44705883,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Mines and hideouts,x:-430,z:462,y:94,enabled:true,red:0.9490196,green:0.39607844,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Tutorial,x:-288,z:484,y:78,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:,world:,dimensions:overworld#
+name:Game Init Location,x:-370,z:505,y:81,enabled:true,red:0.99215686,green:0.99607843,blue:0.99215686,suffix:,world:,dimensions:overworld#
+name:Start,x:65,z:244,y:94,enabled:true,red:0.03529412,green:0.9490196,blue:0.0,suffix:world,world:,dimensions:overworld#
+name:Primary Trade Port,x:-757,z:105,y:86,enabled:true,red:0.0,green:0.9647059,blue:0.08627451,suffix:,world:,dimensions:overworld#
+name:bridge,x:-688,z:31,y:79,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:bridge,x:-146,z:168,y:80,enabled:true,red:0.14901961,green:0.14901961,blue:0.14901961,suffix:,world:,dimensions:overworld#
+name:zig-zags,x:-136,z:197,y:103,enabled:true,red:0.14117648,green:0.14117648,blue:0.14117648,suffix:,world:,dimensions:overworld#

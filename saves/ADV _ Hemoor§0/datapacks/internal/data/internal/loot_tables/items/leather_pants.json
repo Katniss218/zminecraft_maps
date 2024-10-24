@@ -1,0 +1,53 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:leather_leggings",
+					"functions":
+					[
+						{
+							"function": "set_name",
+							"name": { "italic": false, "text": "Leather Pants", "color": "gray", "bold": true }
+						},
+						{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "italic": false, "text": "- Protective pants sewn from thick leather.", "color": "white" },
+								{ "italic": false, "text": "" },
+								["",{ "italic": false, "text": "Defence", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "1", "color": "yellow", "bold": true },{ "italic": false, "text": " (", "color": "gray" },{ "italic": false, "text": "1", "color": "yellow", "bold": true },{ "italic": false, "text": ")", "color": "gray" }],
+								{ "italic": false, "text": "" }
+							]
+						},
+						{
+							"function": "set_attributes",
+							"modifiers":
+							[
+								{
+									"amount": 1,
+									"slot": "legs",
+									"name": "generic.armor",
+									"attribute": "generic.armor",
+									"operation": "addition"
+								}
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{HideFlags:2147483647,Unbreakable:1}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{ItemId:6,CustomModelData:6}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

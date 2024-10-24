@@ -1,0 +1,25 @@
+{
+	"parent": "internal:qm_the_bandits_lair/3",
+    "display": {
+        "title": {
+            "text": "                                                                                "
+        },
+        "description": [
+			"",
+            {"text": "Infiltrate the bandit camp.", "color": "yellow"}
+        ],
+        "icon": {
+            "item": "minecraft:chest"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/qm.png"
+    },
+    "criteria": {
+        "x": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:55,z:31,y:78,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:mountains,x:1118,z:-338,y:144,enabled:true,red:0.57254905,green:0.57254905,blue:0.57254905,suffix:,world:,dimensions:overworld#
+name:Valley,x:396,z:-14,y:119,enabled:true,red:0.5529412,green:0.5529412,blue:0.5529412,suffix:,world:,dimensions:overworld#
+name:Chasm,x:143,z:197,y:70,enabled:true,red:0.5764706,green:0.5764706,blue:0.5764706,suffix:,world:,dimensions:overworld#
+name:Starting area,x:14,z:64,y:88,enabled:true,red:0.07058824,green:0.972549,blue:0.0,suffix:,world:,dimensions:overworld#
+name:First poi,x:-151,z:284,y:88,enabled:true,red:0.92156863,green:0.87058824,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Second poi,x:-248,z:70,y:86,enabled:true,red:0.9372549,green:0.9137255,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Third - village,x:71,z:-346,y:110,enabled:true,red:0.007843138,green:0.9529412,blue:0.011764706,suffix:house,world:,dimensions:overworld#
+name:Boss cave,x:227,z:-79,y:69,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Ruins,x:304,z:133,y:128,enabled:true,red:0.99607843,green:0.47058824,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Miniboss cave,x:393,z:-75,y:90,enabled:true,red:0.9647059,green:0.015686275,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Caves,x:244,z:108,y:91,enabled:true,red:0.5411765,green:0.5411765,blue:0.5411765,suffix:,world:,dimensions:overworld#
+name:Mage house,x:148,z:-331,y:90,enabled:true,red:0.0,green:0.90588236,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Cave,x:555,z:-136,y:100,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:Settlement,x:582,z:28,y:124,enabled:true,red:0.003921569,green:0.95686275,blue:0.0627451,suffix:house,world:,dimensions:overworld#
+name:semiisland,x:813,z:-21,y:99,enabled:true,red:0.94509804,green:0.89411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Overhangs,x:928,z:68,y:93,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#

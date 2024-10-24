@@ -1,0 +1,14 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:-537,z:102,y:72,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Cool,x:-1435,z:-434,y:65,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:floating islands,x:-1445,z:-515,y:79,enabled:true,red:0.5686275,green:0.5686275,blue:0.5686275,suffix:,world:,dimensions:overworld#
+name:Oracle,x:-1431,z:-765,y:127,enabled:true,red:0.0,green:0.9529412,blue:0.8627451,suffix:star,world:,dimensions:overworld#
+name:Abandoned ruins (S),x:-1492,z:-636,y:69,enabled:true,red:0.92156863,green:0.32941177,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Cemetery or something,x:-1343,z:-187,y:76,enabled:true,red:0.9490196,green:0.015686275,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:bridge,x:-1422,z:-225,y:94,enabled:true,red:0.15686275,green:0.15686275,blue:0.15686275,suffix:,world:,dimensions:overworld#
+name:secret,x:-1416,z:-259,y:104,enabled:true,red:0.16862746,green:0.16862746,blue:0.16862746,suffix:,world:,dimensions:overworld#
+name:entrance,x:-1401,z:-191,y:73,enabled:true,red:0.17254902,green:0.17254902,blue:0.17254902,suffix:,world:,dimensions:overworld#
+name:caves,x:-825,z:-90,y:61,enabled:true,red:0.9490196,green:0.015686275,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Blooming tree,x:-815,z:142,y:75,enabled:true,red:0.003921569,green:0.972549,blue:0.827451,suffix:,world:,dimensions:overworld#

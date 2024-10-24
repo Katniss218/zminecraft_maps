@@ -1,0 +1,19 @@
+{
+	"pools": 
+	[
+		{
+			"rolls":
+			{
+				"min": 5, "max": 10
+			},
+			"entries": 
+			[
+				{
+					"type": "loot_table",
+					"weight": 1,
+					"name": "internal:items/wheat"
+				}
+			]
+		}
+	]
+}

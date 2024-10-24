@@ -1,0 +1,9 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:125,z:-68,y:63,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Cave,x:193,z:-105,y:63,enabled:true,red:0.5647059,green:0.5686275,blue:0.5647059,suffix:,world:,dimensions:overworld#
+name:Village,x:412,z:-249,y:112,enabled:true,red:0.007843138,green:0.972549,blue:0.007843138,suffix:house,world:,dimensions:overworld#
+name:Cave,x:45,z:-148,y:34,enabled:true,red:0.98039216,green:0.92941177,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Roof Hill,x:491,z:-293,y:139,enabled:true,red:0.14509805,green:0.14509805,blue:0.14509805,suffix:,world:,dimensions:overworld#
+name:Village,x:661,z:-423,y:93,enabled:true,red:0.94509804,green:0.91764706,blue:0.003921569,suffix:house,world:,dimensions:overworld#

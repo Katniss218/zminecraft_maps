@@ -1,0 +1,12 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:11,z:-39,y:64,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Temple or ruins,x:150,z:74,y:71,enabled:true,red:0.96862745,green:0.9137255,blue:0.0,suffix:,world:,dimensions:overworld#
+name:caves,x:247,z:91,y:93,enabled:true,red:0.5529412,green:0.5529412,blue:0.5529412,suffix:,world:,dimensions:overworld#
+name:Hideout,x:146,z:-19,y:69,enabled:true,red:0.8980392,green:0.8745098,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Starting Area,x:296,z:-139,y:84,enabled:true,red:0.94509804,green:0.89411765,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Caves,x:373,z:54,y:102,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:Small Caves,x:305,z:-102,y:74,enabled:true,red:0.94509804,green:0.4627451,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Lava Pool,x:274,z:-124,y:64,enabled:true,red:0.59607846,green:0.59607846,blue:0.59607846,suffix:,world:,dimensions:overworld#
+name:House,x:140,z:-194,y:78,enabled:true,red:0.011764706,green:0.9372549,blue:0.007843138,suffix:,world:,dimensions:overworld#

@@ -1,0 +1,9 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:7,z:1,y:107,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:Starting Village,x:-451,z:-359,y:99,enabled:true,red:0.07058824,green:0.972549,blue:0.0,suffix:house,world:,dimensions:overworld#
+name:second village,x:-391,z:-778,y:100,enabled:true,red:0.050980393,green:0.99607843,blue:0.011764706,suffix:house,world:,dimensions:overworld#
+name:castle thingy,x:-492,z:-406,y:117,enabled:true,red:0.0,green:0.99215686,blue:0.02745098,suffix:,world:,dimensions:overworld#
+name:monster cave,x:-577,z:-391,y:85,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#
+name:hideout,x:-314,z:-720,y:40,enabled:true,red:0.9843137,green:0.003921569,blue:0.007843138,suffix:,world:,dimensions:overworld#

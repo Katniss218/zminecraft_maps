@@ -1,0 +1,53 @@
+{
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "item",
+					"name": "minecraft:iron_chestplate",
+					"functions":
+					[
+						{
+							"function": "set_name",
+							"name": { "italic": false, "text": "Ancient Cuirass", "color": "gold", "bold": true }
+						},
+						{
+							"function": "set_lore",
+							"lore":
+							[
+								{ "italic": false, "text": "- Armor.", "color": "yellow" },
+								{ "italic": false, "text": "" },
+								["",{ "italic": false, "text": "Defence", "color": "gray", "bold": true },{ "italic": false, "text": ": ", "color": "gray" },{ "italic": false, "text": "7", "color": "yellow", "bold": true },{ "italic": false, "text": " (", "color": "gray" },{ "italic": false, "text": "7", "color": "yellow", "bold": true },{ "italic": false, "text": ")", "color": "gray" }],
+								{ "italic": false, "text": "" }
+							]
+						},
+						{
+							"function": "set_attributes",
+							"modifiers":
+							[
+								{
+									"amount": 7,
+									"slot": "chest",
+									"name": "generic.armor",
+									"attribute": "generic.armor",
+									"operation": "addition"
+								}
+							]
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{HideFlags:2147483647,Unbreakable:1}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{ItemId:37,CustomModelData:37}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

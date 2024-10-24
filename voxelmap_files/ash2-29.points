@@ -1,0 +1,12 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:>> SPAWN <<,x:2,z:-3,y:67,enabled:true,red:0.99607843,green:0.99607843,blue:0.99607843,suffix:world,world:,dimensions:overworld#
+name:House or something?,x:-5,z:115,y:79,enabled:true,red:0.003921569,green:0.9764706,blue:0.0627451,suffix:,world:,dimensions:overworld#
+name:poi2,x:71,z:131,y:78,enabled:true,red:0.0,green:0.9764706,blue:0.043137256,suffix:,world:,dimensions:overworld#
+name:Green Cave,x:161,z:-195,y:67,enabled:true,red:0.5921569,green:0.5921569,blue:0.5921569,suffix:,world:,dimensions:overworld#
+name:Village,x:172,z:-220,y:106,enabled:true,red:0.039215688,green:0.972549,blue:0.003921569,suffix:house,world:,dimensions:overworld#
+name:Bandits in this direction,x:126,z:-304,y:106,enabled:true,red:0.972549,green:0.007843138,blue:0.003921569,suffix:,world:,dimensions:overworld#
+name:Dungeon,x:193,z:-270,y:76,enabled:true,red:0.99607843,green:0.05882353,blue:0.023529412,suffix:,world:,dimensions:overworld#
+name:Pillar,x:173,z:-256,y:85,enabled:true,red:0.60784316,green:0.60784316,blue:0.60784316,suffix:,world:,dimensions:overworld#
+name:something here,x:320,z:-168,y:109,enabled:true,red:0.9647059,green:0.9372549,blue:0.0,suffix:,world:,dimensions:overworld#
